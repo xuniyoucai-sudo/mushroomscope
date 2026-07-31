@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/lion-s-mane-benefits-evidence.jpg"
+coverAlt: "Lion's mane mushroom beside scientific papers for an evidence review"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "growing/grow-lion-s-mane-home", "health/mushroom-supplements-guide"]
 sources:
   - title: "Menon et al. — Hericium erinaceus systematic review (2025)"

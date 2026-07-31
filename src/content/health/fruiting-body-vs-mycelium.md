@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/fruiting-body-vs-mycelium.jpg"
+coverAlt: "Mushroom fruiting bodies beside a jar of cultivated mycelium"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"

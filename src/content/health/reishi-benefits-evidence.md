@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/reishi-benefits-evidence.jpg"
+coverAlt: "Reishi mushroom and unbranded extract beside scientific review papers"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 relatedEntries: ["mushrooms/reishi-mushroom-guide", "health/mushroom-supplements-guide", "health/mushroom-beta-glucans"]
 sources:
   - title: "Cochrane — Ganoderma lucidum for cancer treatment"

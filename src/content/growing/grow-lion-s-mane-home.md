@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/growing/grow-lion-s-mane-home.jpg"
+coverAlt: "Cultivated lion's mane mushroom fruiting from a home grow block"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original educational illustration; follow authenticated culture and supplier-specific instructions."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
     url: "https://smallfarms.cornell.edu/projects/mushrooms/"

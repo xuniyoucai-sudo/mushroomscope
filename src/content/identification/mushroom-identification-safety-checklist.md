@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/identification/mushroom-identification-safety-checklist.jpg"
+coverAlt: "Complete mushroom specimen beside gloves, field notes, and a safety checklist"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying or eating a wild specimen."
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

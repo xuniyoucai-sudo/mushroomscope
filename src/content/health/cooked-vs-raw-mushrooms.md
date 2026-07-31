@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/cooked-vs-raw-mushrooms.jpg"
+coverAlt: "Cultivated mushrooms presented raw and cooked for a food preparation comparison"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"

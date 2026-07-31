@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/mushroom-allergy-intolerance.jpg"
+coverAlt: "Cultivated mushroom samples on a clinical evaluation tray with gloves and caution symbol"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"

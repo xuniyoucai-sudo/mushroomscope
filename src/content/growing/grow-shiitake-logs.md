@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/growing/grow-shiitake-logs.jpg"
+coverAlt: "Shiitake mushrooms fruiting from inoculated hardwood logs outdoors"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original educational illustration; follow authenticated culture and supplier-specific instructions."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
     url: "https://smallfarms.cornell.edu/projects/mushrooms/"

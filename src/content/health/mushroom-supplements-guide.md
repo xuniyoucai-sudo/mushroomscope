@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/mushroom-supplements-guide.jpg"
+coverAlt: "Unbranded mushroom supplement containers beside testing documents and inspection tools"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 relatedEntries: ["health/mushroom-beta-glucans", "health/reishi-benefits-evidence", "health/lion-s-mane-benefits-evidence"]
 sources:
   - title: "FDA 101 — Dietary Supplements"

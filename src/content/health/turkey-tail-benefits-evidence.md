@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/turkey-tail-benefits-evidence.jpg"
+coverAlt: "Turkey tail mushroom and unbranded extract beside systematic review papers"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "health/mushroom-supplements-guide", "health/mushroom-beta-glucans"]
 sources:
   - title: "Coriolus and Ganoderma adjunct cancer therapy meta-analysis"

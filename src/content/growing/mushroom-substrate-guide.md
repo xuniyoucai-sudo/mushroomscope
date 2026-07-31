@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/growing/mushroom-substrate-guide.jpg"
+coverAlt: "Clean arrangement of straw, hardwood pellets, sawdust, and logs used as mushroom substrates"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original educational illustration; follow authenticated culture and supplier-specific instructions."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
     url: "https://smallfarms.cornell.edu/projects/mushrooms/"

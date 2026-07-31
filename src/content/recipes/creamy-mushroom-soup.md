@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/recipes/creamy-mushroom-soup.jpg"
+coverAlt: "Bowl of creamy mushroom soup garnished with sautéed cultivated mushrooms and thyme"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"

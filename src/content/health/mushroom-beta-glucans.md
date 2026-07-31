@@ -8,6 +8,10 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/health/mushroom-beta-glucans.jpg"
+coverAlt: "Cultivated mushrooms beside a neutral molecular model representing beta-glucans"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
 relatedEntries: ["health/mushroom-supplements-guide", "health/turkey-tail-benefits-evidence", "mushrooms/oyster-mushroom-guide"]
 sources:
   - title: "Systematic review of randomized trials of fungal beta-glucans"
