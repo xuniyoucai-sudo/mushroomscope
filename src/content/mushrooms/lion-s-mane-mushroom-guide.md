@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/lions-mane-mushroom.jpg"
+coverAlt: "Cream-white lion's mane mushroom with cascading spines fruiting from hardwood"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["growing/grow-lion-s-mane-home", "health/lion-s-mane-benefits-evidence", "identification/how-to-identify-mushrooms"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

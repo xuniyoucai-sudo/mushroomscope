@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/shiitake-mushroom.jpg"
+coverAlt: "Brown-capped shiitake mushrooms fruiting from an inoculated hardwood log"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["growing/grow-shiitake-logs", "recipes/shiitake-noodle-stir-fry", "health/mushroom-nutrition-guide"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

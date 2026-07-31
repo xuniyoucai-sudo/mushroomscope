@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/cremini-mushroom.jpg"
+coverAlt: "Cultivated brown Agaricus bisporus mushrooms emerging from a compost casing layer"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["recipes/stuffed-portobello-mushrooms", "recipes/grilled-portobello-burgers", "health/mushroom-nutrition-guide"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

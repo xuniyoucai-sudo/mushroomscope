@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/reishi-mushroom.jpg"
+coverAlt: "Glossy reddish-brown Ganoderma brackets growing on a decaying hardwood stump"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["health/reishi-benefits-evidence", "health/mushroom-supplements-guide", "identification/how-to-identify-mushrooms"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

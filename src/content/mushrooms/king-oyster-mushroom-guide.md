@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/king-oyster-mushroom.jpg"
+coverAlt: "Cultivated king oyster mushrooms with thick ivory stems and tan caps"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "recipes/garlic-butter-oyster-mushrooms"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

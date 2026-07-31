@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/turkey-tail-mushroom.jpg"
+coverAlt: "Thin zoned turkey tail brackets overlapping on fallen hardwood"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/turkey-tail-benefits-evidence", "health/mushroom-supplements-guide"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

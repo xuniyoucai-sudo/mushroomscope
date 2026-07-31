@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/enoki-mushroom.jpg"
+coverAlt: "Cultivated enoki mushrooms with slender white stems and small pale caps"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/shiitake-noodle-stir-fry"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

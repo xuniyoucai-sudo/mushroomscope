@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/maitake-mushroom.jpg"
+coverAlt: "Gray-brown maitake rosette growing at the base of an oak tree"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-beta-glucans", "recipes/mushroom-risotto"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"

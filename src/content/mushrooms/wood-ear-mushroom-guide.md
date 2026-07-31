@@ -8,6 +8,11 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+coverImage: "../../assets/species/wood-ear-mushroom.jpg"
+coverAlt: "Reddish-brown ear-shaped Auricularia mushrooms attached to damp hardwood"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/mushroom-fried-rice"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
