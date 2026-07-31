@@ -4,19 +4,20 @@ A production-ready, static-first mushroom knowledge website built with Astro, Ty
 
 ## Local development
 
-Requirements: Node.js 20.3+ (Node 22 LTS recommended).
+Requirements: Node.js 22.12+ and pnpm 11. The repository pins both versions for reproducible local, GitHub Actions, and Cloudflare builds.
 
 ```bash
-npm install
+corepack enable
+pnpm install --frozen-lockfile
 cp .env.example .env
-npm run dev
+pnpm dev
 ```
 
 Open `http://localhost:4321`.
 
 ## Content
 
-Add `.md` or `.mdx` files below `src/content/<category>/`. Supported categories are `mushrooms`, `identification`, `growing`, `health`, and `recipes`.
+Add `.md` or `.mdx` files below `src/content/<category>/`. The site uses separate `species`, `identification`, `growing`, `recipes`, and `health` collections with domain-specific validation. See [CONTENT_ARCHITECTURE.md](./CONTENT_ARCHITECTURE.md) for the complete field model and publishing rules.
 
 ```yaml
 ---
@@ -37,6 +38,8 @@ faq:
 ---
 ```
 
+Drafts may omit collection-specific database fields. Setting `draft: false` activates the full publication requirements for that collection, preventing incomplete records from building. Recipe times use ISO 8601 durations (for example `PT15M`); the article layout renders the structured recipe fields and emits matching `Recipe` structured data.
+
 The route is derived from the content path. For example, `src/content/mushrooms/lions-mane.md` builds `/mushrooms/lions-mane/`.
 
 ### Draft template library
@@ -46,9 +49,9 @@ The repository includes 100 editorial templates: 20 each for mushrooms, identifi
 ## Build
 
 ```bash
-npm run check
-npm run build
-npm run preview
+pnpm check
+pnpm build
+pnpm preview
 ```
 
 The static production output is written to `dist/`.
@@ -71,13 +74,15 @@ git remote add origin https://github.com/YOUR-ACCOUNT/mushroomscope.git
 git push -u origin main
 ```
 
+The included GitHub Actions workflow installs the locked dependencies, runs Astro's type checker, builds the complete static site, and uploads `dist` as a temporary workflow artifact on every push and pull request targeting `main`.
+
 ## Deploy to Cloudflare Pages
 
 1. In Cloudflare, open **Workers & Pages → Create → Pages → Connect to Git**.
 2. Select the GitHub repository.
-3. Set the framework preset to **Astro**.
+3. Set the production branch to **main** and the framework preset to **Astro**.
 4. Use `npm run build` as the build command and `dist` as the output directory.
-5. Use Node.js 22 (set `NODE_VERSION=22` if needed).
+5. Set `NODE_VERSION=22.12.0` in the Pages build environment. Cloudflare will use the committed pnpm lockfile during dependency installation.
 6. Add the optional public environment variables from `.env.example` in the Pages project settings.
 7. Save and deploy.
 
@@ -88,4 +93,4 @@ No server adapter is required because the site uses static generation.
 1. Open the Pages project and choose **Custom domains → Set up a custom domain**.
 2. Enter `mushroomscope.com` and follow the DNS prompts.
 3. Add `www.mushroomscope.com` as a second custom domain if desired, then configure a redirect so only one hostname is canonical.
-4. Confirm HTTPS is active and submit `https://mushroomscope.com/sitemap-index.xml` in Google Search Console.
+4. Confirm HTTPS is active and submit `https://mushroomscope.com/sitemap.xml` in Google Search Console.

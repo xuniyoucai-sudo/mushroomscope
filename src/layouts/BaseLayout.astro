@@ -3,9 +3,10 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 
-interface Props { title: string; description: string; image?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
-const { title, description, image, type = 'website', noindex = false, schema } = Astro.props;
-const pageTitle = title === 'MushroomScope' ? title : `${title} | MushroomScope`;
+interface Props { title: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
+const { title, description, image, imageAlt, type = 'website', noindex = false, schema } = Astro.props;
+const siteName = 'MushroomScope';
+const pageTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const imageUrl = image ? new URL(image, Astro.site) : undefined;
 const verification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
@@ -19,7 +20,7 @@ const graph = [
   { '@type': 'WebPage', '@id': `${canonical.href}#webpage`, url: canonical.href, name: pageTitle, description, isPartOf: { '@id': websiteId }, about: { '@id': organizationId }, inLanguage: 'en' },
   ...(Array.isArray(schema) ? schema : schema ? [schema] : [])
 ];
-const structuredData = { '@context': 'https://schema.org', '@graph': graph };
+const structuredData = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
 ---
 <!doctype html>
 <html lang="en">
@@ -34,9 +35,9 @@ const structuredData = { '@context': 'https://schema.org', '@graph': graph };
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="alternate" type="application/rss+xml" title="MushroomScope RSS" href="/rss.xml" />
     {verification && <meta name="google-site-verification" content={verification} />}
-    <meta property="og:type" content={type} /><meta property="og:site_name" content="MushroomScope" /><meta property="og:title" content={pageTitle} /><meta property="og:description" content={description} /><meta property="og:url" content={canonical} />{imageUrl && <meta property="og:image" content={imageUrl} />}
-    <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} /><meta name="twitter:title" content={pageTitle} /><meta name="twitter:description" content={description} />{imageUrl && <meta name="twitter:image" content={imageUrl} />}
-    <script is:inline type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    <meta property="og:type" content={type} /><meta property="og:site_name" content={siteName} /><meta property="og:locale" content="en_US" /><meta property="og:title" content={pageTitle} /><meta property="og:description" content={description} /><meta property="og:url" content={canonical} />{imageUrl && <meta property="og:image" content={imageUrl} />}{imageUrl && imageAlt && <meta property="og:image:alt" content={imageAlt} />}
+    <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} /><meta name="twitter:title" content={pageTitle} /><meta name="twitter:description" content={description} />{imageUrl && <meta name="twitter:image" content={imageUrl} />}{imageUrl && imageAlt && <meta name="twitter:image:alt" content={imageAlt} />}
+    <script is:inline type="application/ld+json" set:html={structuredData} />
     {adsenseId && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`} crossorigin="anonymous"></script>}
     {gaId && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>}
     {gaId && <script is:inline define:vars={{ gaId }}>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',gaId);</script>}

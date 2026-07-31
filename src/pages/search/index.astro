@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+---
+<BaseLayout title="Search the Mushroom Knowledge Base" description="Search MushroomScope species profiles, mushroom recipes, and growing guides." noindex={true}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Search' }]} /></div>
+  <header class="shell pb-10 pt-6 sm:pb-14">
+    <p class="eyebrow">Static knowledge search</p>
+    <h1 class="mt-4 max-w-4xl font-serif text-5xl sm:text-6xl">Search MushroomScope</h1>
+    <p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Find published species profiles, recipes, and cultivation guides. Search by common name, scientific name, ingredient, method, or substrate.</p>
+  </header>
+
+  <section class="shell pb-20">
+    <form id="search-form" class="card" role="search">
+      <label for="search-query" class="font-serif text-2xl">What are you looking for?</label>
+      <div class="mt-5 grid gap-4 md:grid-cols-[minmax(0,1fr)_220px_auto]">
+        <input id="search-query" name="q" type="search" autocomplete="off" placeholder="Try oyster, Pleurotus, pasta, or hardwood" class="min-h-12 w-full rounded-xl border border-beige-300 bg-white px-4 text-base" />
+        <label class="sr-only" for="search-category">Content type</label>
+        <select id="search-category" name="type" class="min-h-12 rounded-xl border border-beige-300 bg-white px-4 text-base">
+          <option value="all">All content</option>
+          <option value="mushrooms">Species</option>
+          <option value="recipes">Recipes</option>
+          <option value="growing">Growing guides</option>
+        </select>
+        <button class="button" type="submit">Search</button>
+      </div>
+    </form>
+
+    <div class="mt-10 flex flex-wrap items-baseline justify-between gap-4">
+      <h2 class="font-serif text-3xl">Results</h2>
+      <p id="search-status" class="text-sm text-slate-600" role="status" aria-live="polite">Loading the search index…</p>
+    </div>
+    <div id="search-results" class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3"></div>
+    <noscript><p class="card mt-6">Search requires JavaScript. You can still browse the <a href="/mushrooms/">species encyclopedia</a>, <a href="/recipes/">recipe database</a>, and <a href="/growing/">growing database</a>.</p></noscript>
+  </section>
+
+  <script>
+    type SearchItem = { title: string; description: string; category: 'mushrooms' | 'recipes' | 'growing'; url: string; terms: string[] };
+
+    const form = document.querySelector<HTMLFormElement>('#search-form');
+    const input = document.querySelector<HTMLInputElement>('#search-query');
+    const select = document.querySelector<HTMLSelectElement>('#search-category');
+    const results = document.querySelector<HTMLDivElement>('#search-results');
+    const status = document.querySelector<HTMLParagraphElement>('#search-status');
+    let items: SearchItem[] = [];
+
+    const labels = { mushrooms: 'Species', recipes: 'Recipe', growing: 'Growing guide' };
+    const normalize = (value: string) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+
+    const createResult = (item: SearchItem) => {
+      const article = document.createElement('article');
+      article.className = 'card';
+      const label = document.createElement('p');
+      label.className = 'eyebrow';
+      label.textContent = labels[item.category];
+      const heading = document.createElement('h3');
+      heading.className = 'mt-3 font-serif text-2xl';
+      const link = document.createElement('a');
+      link.href = item.url;
+      link.className = 'no-underline';
+      link.textContent = item.title;
+      heading.append(link);
+      const description = document.createElement('p');
+      description.className = 'mt-3 leading-7 text-slate-600';
+      description.textContent = item.description;
+      article.append(label, heading, description);
+      return article;
+    };
+
+    const search = () => {
+      if (!input || !select || !results || !status) return;
+      const query = normalize(input.value);
+      const tokens = query.split(/\s+/).filter(Boolean);
+      const category = select.value;
+
+      const matches = items
+        .filter((item) => category === 'all' || item.category === category)
+        .map((item) => {
+          const title = normalize(item.title);
+          const terms = normalize(item.terms.join(' '));
+          const description = normalize(item.description);
+          const matchesAll = tokens.every((token) => title.includes(token) || terms.includes(token) || description.includes(token));
+          const score = !query ? 0 : (title === query ? 100 : 0) + (title.startsWith(query) ? 30 : 0) + tokens.filter((token) => title.includes(token)).length * 10 + tokens.filter((token) => terms.includes(token)).length * 4;
+          return { item, matchesAll, score };
+        })
+        .filter(({ matchesAll }) => matchesAll)
+        .sort((a, b) => b.score - a.score || a.item.title.localeCompare(b.item.title))
+        .slice(0, 50);
+
+      results.replaceChildren(...matches.map(({ item }) => createResult(item)));
+      const typeLabel = category === 'all' ? 'items' : labels[category as keyof typeof labels].toLowerCase() + (matches.length === 1 ? '' : 's');
+      status.textContent = query
+        ? `${matches.length} ${typeLabel} found for “${input.value.trim()}”.`
+        : `${matches.length} published ${typeLabel}. Enter a term to narrow the list.`;
+
+      const url = new URL(window.location.href);
+      query ? url.searchParams.set('q', input.value.trim()) : url.searchParams.delete('q');
+      category !== 'all' ? url.searchParams.set('type', category) : url.searchParams.delete('type');
+      history.replaceState(null, '', url);
+    };
+
+    form?.addEventListener('submit', (event) => { event.preventDefault(); search(); });
+    select?.addEventListener('change', search);
+    input?.addEventListener('input', search);
+
+    const params = new URLSearchParams(window.location.search);
+    if (input) input.value = params.get('q') ?? '';
+    if (select && ['all', 'mushrooms', 'recipes', 'growing'].includes(params.get('type') ?? '')) select.value = params.get('type') ?? 'all';
+
+    fetch('/search-index.json')
+      .then((response) => {
+        if (!response.ok) throw new Error('Search index unavailable');
+        return response.json() as Promise<SearchItem[]>;
+      })
+      .then((data) => { items = data; search(); })
+      .catch(() => {
+        if (status) status.textContent = 'Search is temporarily unavailable. Please browse a category below.';
+      });
+  </script>
+</BaseLayout>

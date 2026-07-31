@@ -5,24 +5,57 @@ import AdBanner from '../components/AdBanner.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
-import { getCollection } from 'astro:content';
+import { entryKey, entryPath, getPublishedEntries } from '../lib/content';
 interface FAQItem { question: string; answer: string }
-interface Props { title: string; description: string; category: string; author: string; publishDate: Date; updatedDate?: Date; coverImage?: ImageMetadata; coverAlt?: string; faq?: FAQItem[]; currentId: string }
-const { title, description, category, author, publishDate, updatedDate, coverImage, faq = [], currentId } = Astro.props as Props;
+interface RecipeData { prepTime: string; cookTime: string; totalTime?: string; recipeYield: string; recipeCategory: string; recipeCuisine?: string; ingredients: string[]; instructions: string[]; calories?: string }
+interface Props { title: string; description: string; category: string; author: string; publishDate: Date; updatedDate?: Date; coverImage?: ImageMetadata; coverAlt?: string; faq?: FAQItem[]; recipe?: RecipeData; currentKey: string }
+const { title, description, category, author, publishDate, updatedDate, coverImage, coverAlt, faq: editorialFaq = [], recipe, currentKey } = Astro.props as Props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
-const related = (await getCollection('articles', ({ data, id }) => !data.draft && data.category === category && id !== currentId))
-  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+const automaticFaq: Record<string, FAQItem[]> = {
+  mushrooms: [
+    { question: `What is covered in this ${title} species guide?`, answer: description },
+    { question: 'Can this page confirm whether a wild mushroom is safe to eat?', answer: 'No. Online text and photographs cannot replace examination of the complete specimen by a qualified local expert. Never eat a wild mushroom unless its identity and edibility have been confirmed in person.' },
+    { question: 'Why can this mushroom look different from the description?', answer: 'Age, weather, substrate, geographic variation, strain, and cultivation conditions can change color, size, texture, and growth form. Identification must use multiple characters rather than one photograph or feature.' },
+  ],
+  identification: [
+    { question: `What will I learn from ${title}?`, answer: description },
+    { question: 'Is a photograph enough to identify a mushroom?', answer: 'No. Reliable identification also considers the underside, stem base, substrate, habitat, spore deposit, odor, developmental stage, location, and sometimes microscopic or DNA evidence.' },
+    { question: 'Can an identification guide determine whether a mushroom is edible?', answer: 'A guide can help organize observations, but it cannot confirm edibility remotely. Consumption decisions require in-person confirmation from a qualified local expert.' },
+  ],
+  growing: [
+    { question: `What does this ${title} growing guide cover?`, answer: description },
+    { question: 'Should beginners use commercial mushroom spawn?', answer: 'Yes. Authenticated spawn or a reputable ready-to-fruit block is safer and more predictable than cloning an unidentified wild mushroom.' },
+    { question: 'What should I do if a growing block develops unusual mold or odor?', answer: 'Isolate it from other cultures and do not eat anything from it. Follow the supplier’s disposal guidance; unexplained colors, slime, or foul odors should be treated as contamination.' },
+  ],
+  recipes: [
+    { question: `What does this ${title} recipe include?`, answer: description },
+    { question: 'Can I use a wild mushroom in this recipe?', answer: 'Only use mushrooms sold as food by a reputable supplier. A recipe is not an identification guide, and cooking does not make a poisonous mushroom safe.' },
+    { question: 'How should mushroom recipe leftovers be stored?', answer: 'Cool and refrigerate leftovers promptly in a clean covered container, follow local food-safety guidance, and discard food that shows spoilage or has been held unsafely.' },
+  ],
+  health: [
+    { question: `What evidence does ${title} discuss?`, answer: description },
+    { question: 'Is mushroom research the same as proof of a medical benefit?', answer: 'No. Cell, animal, observational, and small clinical studies have different limitations. A claim requires high-quality human evidence for the same species, preparation, dose, and health outcome.' },
+    { question: 'Can mushroom foods or supplements replace medical treatment?', answer: 'No. Do not delay diagnosis or replace prescribed care with a mushroom product. Discuss supplements with a qualified clinician, especially when taking medication or receiving treatment.' },
+  ],
+};
+const faq = editorialFaq.length > 0 ? editorialFaq : automaticFaq[category] ?? [
+  { question: `What is ${title} about?`, answer: description },
+  { question: 'How should this guide be used?', answer: 'Use it as general educational information and verify decisions involving identification, food safety, cultivation, or health with an appropriate qualified expert.' },
+];
+const related = (await getPublishedEntries())
+  .filter((entry) => entry.data.category === category && entryKey(entry) !== currentKey)
   .slice(0, 3);
 const schema = [
   { '@type': 'Article', '@id': `${canonical}#article`, headline: title, description, author: { '@type': 'Organization', name: author }, publisher: { '@id': 'https://mushroomscope.com/#organization' }, datePublished: publishDate.toISOString(), dateModified: (updatedDate || publishDate).toISOString(), mainEntityOfPage: { '@id': `${canonical}#webpage` }, articleSection: category, inLanguage: 'en', ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}) },
   { '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`, itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' }, { '@type': 'ListItem', position: 2, name: category, item: `https://mushroomscope.com/${category}/` }, { '@type': 'ListItem', position: 3, name: title }] },
+  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions.map((text) => ({ '@type': 'HowToStep', text })), ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
   ...(faq.length ? [{ '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) }] : [])
 ];
 ---
-<BaseLayout title={title} description={description} image={coverImage?.src} type="article" schema={schema}>
+<BaseLayout title={title} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" schema={schema}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: category, href: `/${category}/` }, { label: title }]} /></div>
   <article class="shell grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
-    <div><header class="max-w-4xl"><p class="eyebrow">{category}</p><h1 class="mt-4 font-serif text-4xl leading-tight sm:text-6xl">{title}</h1><p class="mt-6 text-xl leading-8 text-slate-600">{description}</p><p class="mt-5 text-sm text-slate-500">By {author} · <time datetime={publishDate.toISOString()}>{publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time>{updatedDate && <> · Updated <time datetime={updatedDate.toISOString()}>{updatedDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time></>}</p></header>{coverImage && <Image src={coverImage} alt={Astro.props.coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}<div class="prose mt-10"><slot /></div>{faq.length > 0 && <section class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>}{related.length > 0 && <section class="mt-14 border-t border-beige-300 pt-10"><h2 class="font-serif text-3xl">Related guides</h2><div class="mt-6 grid gap-5 md:grid-cols-3">{related.map((entry) => <ArticleCard title={entry.data.title} description={entry.data.description} category={entry.data.category} href={`/${entry.id}/`} />)}</div></section>}<section class="mt-14 border-t border-beige-300 pt-8"><h2 class="font-serif text-3xl">Continue exploring</h2><p class="mt-3 text-slate-600">Browse more practical guides in <a href={`/${category}/`} class="font-semibold text-forest-700">{category}</a> or visit the <a href="/mushrooms/" class="font-semibold text-forest-700">mushroom encyclopedia</a>.</p></section></div>
+    <div><header class="max-w-4xl"><p class="eyebrow">{category}</p><h1 class="mt-4 font-serif text-4xl leading-tight sm:text-6xl">{title}</h1><p class="mt-6 text-xl leading-8 text-slate-600">{description}</p><p class="mt-5 text-sm text-slate-500">By {author} · <time datetime={publishDate.toISOString()}>{publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time>{updatedDate && <> · Updated <time datetime={updatedDate.toISOString()}>{updatedDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time></>}</p></header>{coverImage && <Image src={coverImage} alt={coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}{recipe && <section class="card mt-10" aria-labelledby="recipe-details"><h2 id="recipe-details" class="font-serif text-3xl">Recipe details</h2><dl class="mt-5 grid gap-4 sm:grid-cols-3"><div><dt class="eyebrow">Prep time</dt><dd class="mt-1 font-semibold">{recipe.prepTime}</dd></div><div><dt class="eyebrow">Cook time</dt><dd class="mt-1 font-semibold">{recipe.cookTime}</dd></div><div><dt class="eyebrow">Yield</dt><dd class="mt-1 font-semibold">{recipe.recipeYield}</dd></div></dl><h3 class="mt-8 font-serif text-2xl">Ingredients</h3><ul class="mt-4 list-disc space-y-2 pl-6">{recipe.ingredients.map((ingredient) => <li>{ingredient}</li>)}</ul><h3 class="mt-8 font-serif text-2xl">Instructions</h3><ol class="mt-4 list-decimal space-y-3 pl-6">{recipe.instructions.map((instruction) => <li>{instruction}</li>)}</ol></section>}<div class="prose mt-10"><slot /></div>{faq.length > 0 && <section class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>}{related.length > 0 && <section class="mt-14 border-t border-beige-300 pt-10"><h2 class="font-serif text-3xl">Related guides</h2><div class="mt-6 grid gap-5 md:grid-cols-3">{related.map((entry) => <ArticleCard title={entry.data.title} description={entry.data.description} category={entry.data.category} href={entryPath(entry)} />)}</div></section>}<section class="mt-14 border-t border-beige-300 pt-8"><h2 class="font-serif text-3xl">Continue exploring</h2><p class="mt-3 text-slate-600">Browse more practical guides in <a href={`/${category}/`} class="font-semibold text-forest-700">{category}</a> or visit the <a href="/mushrooms/" class="font-semibold text-forest-700">mushroom encyclopedia</a>.</p></section></div>
     <aside class="space-y-6 lg:sticky lg:top-6 lg:self-start"><AdBanner placement="sidebar" /><div class="card"><p class="font-serif text-xl">Safety first</p><p class="mt-3 text-sm leading-6 text-slate-600">Never consume a wild mushroom unless its identity has been confirmed by a qualified local expert.</p></div></aside>
   </article>
 </BaseLayout>
