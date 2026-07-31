@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mushroomscope.com/sitemap-index.xml

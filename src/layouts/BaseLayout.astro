@@ -1,0 +1,45 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props { title: string; description: string; image?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
+const { title, description, image, type = 'website', noindex = false, schema } = Astro.props;
+const pageTitle = title === 'MushroomScope' ? title : `${title} | MushroomScope`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const imageUrl = image ? new URL(image, Astro.site) : undefined;
+const verification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
+const gaId = import.meta.env.PUBLIC_GA_ID;
+const adsenseId = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID;
+const organizationId = 'https://mushroomscope.com/#organization';
+const websiteId = 'https://mushroomscope.com/#website';
+const graph = [
+  { '@type': 'Organization', '@id': organizationId, name: 'MushroomScope', url: 'https://mushroomscope.com/', logo: { '@type': 'ImageObject', url: 'https://mushroomscope.com/favicon.svg', width: 512, height: 512 }, email: 'hello@mushroomscope.com' },
+  { '@type': 'WebSite', '@id': websiteId, name: 'MushroomScope', url: 'https://mushroomscope.com/', description: 'Explore the fascinating world of mushrooms.', publisher: { '@id': organizationId }, inLanguage: 'en' },
+  { '@type': 'WebPage', '@id': `${canonical.href}#webpage`, url: canonical.href, name: pageTitle, description, isPartOf: { '@id': websiteId }, about: { '@id': organizationId }, inLanguage: 'en' },
+  ...(Array.isArray(schema) ? schema : schema ? [schema] : [])
+];
+const structuredData = { '@context': 'https://schema.org', '@graph': graph };
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex,follow' : 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate" type="application/rss+xml" title="MushroomScope RSS" href="/rss.xml" />
+    {verification && <meta name="google-site-verification" content={verification} />}
+    <meta property="og:type" content={type} /><meta property="og:site_name" content="MushroomScope" /><meta property="og:title" content={pageTitle} /><meta property="og:description" content={description} /><meta property="og:url" content={canonical} />{imageUrl && <meta property="og:image" content={imageUrl} />}
+    <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} /><meta name="twitter:title" content={pageTitle} /><meta name="twitter:description" content={description} />{imageUrl && <meta name="twitter:image" content={imageUrl} />}
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    {adsenseId && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`} crossorigin="anonymous"></script>}
+    {gaId && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>}
+    {gaId && <script is:inline define:vars={{ gaId }}>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',gaId);</script>}
+  </head>
+  <body><a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3">Skip to content</a><Header /><main id="main"><slot /></main><Footer /></body>
+</html>

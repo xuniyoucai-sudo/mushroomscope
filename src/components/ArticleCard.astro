@@ -1,0 +1,10 @@
+---
+interface Props { title: string; description: string; href: string; category: string; date?: Date }
+const { title, description, href, category, date } = Astro.props;
+---
+<article class="card flex h-full flex-col">
+  <p class="eyebrow">{category}</p>
+  <h3 class="mt-3 font-serif text-2xl"><a href={href} class="no-underline hover:text-forest-700">{title}</a></h3>
+  <p class="mt-3 flex-1 leading-7 text-slate-600">{description}</p>
+  {date && <time class="mt-5 text-sm text-slate-500" datetime={date.toISOString()}>{date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>}
+</article>

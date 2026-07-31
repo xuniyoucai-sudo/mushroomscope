@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+const schema = { '@type': 'AboutPage', name: 'Editorial Policy', url: 'https://mushroomscope.com/editorial-policy/', about: { '@id': 'https://mushroomscope.com/#organization' } };
+---
+<BaseLayout title="Editorial Policy" description="How MushroomScope researches, reviews, updates, and corrects mushroom information." schema={schema}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Editorial Policy' }]} /></div>
+  <article class="shell max-w-4xl py-12"><p class="eyebrow">Our standards</p><h1 class="mt-4 font-serif text-5xl">Editorial Policy</h1><div class="prose mt-8"><h2>Research and sourcing</h2><p>We prioritize peer-reviewed research, government and university publications, recognized mycological organizations, and primary sources. Claims are written to reflect the strength and limits of the available evidence.</p><h2>Identification and health content</h2><p>Mushroom identification and health information receives extra scrutiny. We avoid declaring wild mushrooms safe to eat remotely and do not present educational material as medical advice.</p><h2>Review and updates</h2><p>Pages display publication and update dates. Material changes are reviewed for accuracy, clarity, source quality, and internal consistency before publication.</p><h2>Corrections</h2><p>Readers can report a possible error through our <a href="/contact/">contact page</a>. Confirmed errors are corrected promptly and the page update date is revised when the change is substantive.</p><h2>Independence and advertising</h2><p>Advertising does not determine our editorial conclusions. Sponsored or affiliate relationships, if introduced, will be clearly disclosed.</p></div></article>
+</BaseLayout>

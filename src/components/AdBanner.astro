@@ -1,0 +1,6 @@
+---
+interface Props { placement?: 'banner' | 'sidebar' | 'inline'; }
+const { placement = 'banner' } = Astro.props;
+const showPlaceholder = import.meta.env.DEV;
+---
+{showPlaceholder && <aside class:list={["grid place-items-center rounded-2xl border border-dashed border-beige-300 bg-beige-100/40 text-center text-xs uppercase tracking-widest text-slate-500", placement === 'sidebar' ? 'min-h-72' : 'min-h-28']} aria-label="Development advertisement placeholder">Future advertisement area</aside>}

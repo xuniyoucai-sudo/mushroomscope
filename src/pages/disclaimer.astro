@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+---
+<BaseLayout title="Safety & Medical Disclaimer" description="Important limitations of MushroomScope identification, health, growing, and recipe information.">
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Disclaimer' }]} /></div>
+  <article class="shell max-w-4xl py-12"><p class="eyebrow">Read before relying on this site</p><h1 class="mt-4 font-serif text-5xl">Safety & Medical Disclaimer</h1><div class="prose mt-8"><h2>Wild mushroom identification</h2><p>Never eat a wild mushroom based solely on information, photographs, or automated suggestions from this website. Toxic species can resemble edible species. Seek confirmation from a qualified local expert.</p><h2>Medical information</h2><p>Health content is general education, not diagnosis or treatment. Consult a qualified healthcare professional before using supplements or changing care, particularly if you are pregnant, nursing, have a medical condition, or take medication.</p><h2>Emergencies</h2><p>If mushroom poisoning may have occurred, contact your local emergency service or poison control center immediately. Do not wait for an online response.</p><h2>Recipes and allergies</h2><p>Use only mushrooms sold as food or positively identified by a qualified expert. Follow safe storage and cooking practices and consider individual allergies and intolerances.</p></div></article>
+</BaseLayout>

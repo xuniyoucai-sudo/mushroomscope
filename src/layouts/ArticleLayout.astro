@@ -1,0 +1,28 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import AdBanner from '../components/AdBanner.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import { getCollection } from 'astro:content';
+interface FAQItem { question: string; answer: string }
+interface Props { title: string; description: string; category: string; author: string; publishDate: Date; updatedDate?: Date; coverImage?: ImageMetadata; coverAlt?: string; faq?: FAQItem[]; currentId: string }
+const { title, description, category, author, publishDate, updatedDate, coverImage, faq = [], currentId } = Astro.props as Props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const related = (await getCollection('articles', ({ data, id }) => !data.draft && data.category === category && id !== currentId))
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+  .slice(0, 3);
+const schema = [
+  { '@type': 'Article', '@id': `${canonical}#article`, headline: title, description, author: { '@type': 'Organization', name: author }, publisher: { '@id': 'https://mushroomscope.com/#organization' }, datePublished: publishDate.toISOString(), dateModified: (updatedDate || publishDate).toISOString(), mainEntityOfPage: { '@id': `${canonical}#webpage` }, articleSection: category, inLanguage: 'en', ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}) },
+  { '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`, itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' }, { '@type': 'ListItem', position: 2, name: category, item: `https://mushroomscope.com/${category}/` }, { '@type': 'ListItem', position: 3, name: title }] },
+  ...(faq.length ? [{ '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) }] : [])
+];
+---
+<BaseLayout title={title} description={description} image={coverImage?.src} type="article" schema={schema}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: category, href: `/${category}/` }, { label: title }]} /></div>
+  <article class="shell grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
+    <div><header class="max-w-4xl"><p class="eyebrow">{category}</p><h1 class="mt-4 font-serif text-4xl leading-tight sm:text-6xl">{title}</h1><p class="mt-6 text-xl leading-8 text-slate-600">{description}</p><p class="mt-5 text-sm text-slate-500">By {author} · <time datetime={publishDate.toISOString()}>{publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time>{updatedDate && <> · Updated <time datetime={updatedDate.toISOString()}>{updatedDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time></>}</p></header>{coverImage && <Image src={coverImage} alt={Astro.props.coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}<div class="prose mt-10"><slot /></div>{faq.length > 0 && <section class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>}{related.length > 0 && <section class="mt-14 border-t border-beige-300 pt-10"><h2 class="font-serif text-3xl">Related guides</h2><div class="mt-6 grid gap-5 md:grid-cols-3">{related.map((entry) => <ArticleCard title={entry.data.title} description={entry.data.description} category={entry.data.category} href={`/${entry.id}/`} />)}</div></section>}<section class="mt-14 border-t border-beige-300 pt-8"><h2 class="font-serif text-3xl">Continue exploring</h2><p class="mt-3 text-slate-600">Browse more practical guides in <a href={`/${category}/`} class="font-semibold text-forest-700">{category}</a> or visit the <a href="/mushrooms/" class="font-semibold text-forest-700">mushroom encyclopedia</a>.</p></section></div>
+    <aside class="space-y-6 lg:sticky lg:top-6 lg:self-start"><AdBanner placement="sidebar" /><div class="card"><p class="font-serif text-xl">Safety first</p><p class="mt-3 text-sm leading-6 text-slate-600">Never consume a wild mushroom unless its identity has been confirmed by a qualified local expert.</p></div></aside>
+  </article>
+</BaseLayout>
