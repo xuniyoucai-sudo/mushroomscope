@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "node scripts/validate-content.mjs && ASTRO_TELEMETRY_DISABLED=1 astro check && ASTRO_TELEMETRY_DISABLED=1 astro build",
     "preview": "astro preview",
     "check": "astro check"
   },
@@ -23,7 +23,7 @@
     "tailwindcss": "4.3.3"
   },
   "devDependencies": {
-    "@astrojs/check": "latest",
+    "@astrojs/check": "0.9.10",
     "typescript": "^5.9.3"
   }
 }

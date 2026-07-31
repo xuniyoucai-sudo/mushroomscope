@@ -17,6 +17,10 @@ export function getStaticPaths() {
 const { category } = Astro.params;
 const { detail } = Astro.props;
 const articles = (await getPublishedEntries()).filter(({ data }) => data.category === category);
+const speciesArticles = category === 'mushrooms' ? articles.map((article) => ({ article, data: article.data as typeof article.data & { scientificName?: string; taxonomy?: { genus: string; family?: string } } })) : [];
+const alphabet = [...new Set(speciesArticles.map(({ data }) => (data.scientificName ?? data.title).charAt(0).toUpperCase()))].sort();
+const genera = [...new Set(speciesArticles.map(({ data }) => data.taxonomy?.genus).filter((value): value is string => Boolean(value)))].sort();
+const families = [...new Set(speciesArticles.map(({ data }) => data.taxonomy?.family).filter((value): value is string => Boolean(value)))].sort();
 const breadcrumbSchema = [
   { '@type': 'CollectionPage', '@id': `https://mushroomscope.com/${category}/#collection`, name: detail.title, description: detail.description, url: `https://mushroomscope.com/${category}/`, isPartOf: { '@id': 'https://mushroomscope.com/#website' }, mainEntity: { '@type': 'ItemList', numberOfItems: articles.length, itemListElement: articles.map((article, index) => ({ '@type': 'ListItem', position: index + 1, url: new URL(entryPath(article), Astro.site).href, name: article.data.title })) } },
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' }, { '@type': 'ListItem', position: 2, name: detail.title }] }
@@ -26,5 +30,13 @@ const breadcrumbSchema = [
   <div class="shell py-8"><Breadcrumbs items={[{ label: detail.title }]} /></div>
   <header class="shell py-12 sm:py-16"><p class="eyebrow">MushroomScope library</p><h1 class="mt-4 max-w-4xl font-serif text-5xl sm:text-6xl">{detail.title}</h1><p class="mt-6 max-w-3xl text-xl leading-8 text-slate-600">{detail.intro}</p></header>
   <div class="shell"><AdBanner /></div>
+  {speciesArticles.length > 0 && <nav class="shell pt-10" aria-label="Browse species"><div class="card"><h2 class="font-serif text-2xl">Browse the encyclopedia</h2><div class="mt-5 grid gap-6 lg:grid-cols-3"><div><p class="eyebrow">Scientific name A–Z</p><div class="mt-3 flex flex-wrap gap-2">{alphabet.map((letter) => <a class="grid size-9 place-items-center rounded-full border border-beige-300 no-underline hover:bg-sage-100" href={`#letter-${letter.toLowerCase()}`}>{letter}</a>)}</div></div><div><p class="eyebrow">Genera</p><div class="mt-3 flex flex-wrap gap-x-4 gap-y-2">{genera.map((genus) => <a href={`#genus-${genus.toLowerCase()}`}><em>{genus}</em></a>)}</div></div><div><p class="eyebrow">Families</p><div class="mt-3 flex flex-wrap gap-x-4 gap-y-2">{families.map((family) => <a href={`#family-${family.toLowerCase()}`}>{family}</a>)}</div></div></div></div></nav>}
+  {speciesArticles.length > 0 && <section class="shell pt-10" aria-labelledby="taxonomy-index"><h2 id="taxonomy-index" class="font-serif text-3xl">Species index</h2><div class="mt-6 grid gap-4 md:grid-cols-2">{speciesArticles.sort((a, b) => (a.data.scientificName ?? a.data.title).localeCompare(b.data.scientificName ?? b.data.title)).map(({ article, data }, index, sorted) => {
+    const initial = (data.scientificName ?? data.title).charAt(0).toLowerCase();
+    const isFirstInitial = sorted.findIndex(({ data: candidate }) => (candidate.scientificName ?? candidate.title).charAt(0).toLowerCase() === initial) === index;
+    const isFirstGenus = Boolean(data.taxonomy?.genus) && sorted.findIndex(({ data: candidate }) => candidate.taxonomy?.genus === data.taxonomy?.genus) === index;
+    const isFirstFamily = Boolean(data.taxonomy?.family) && sorted.findIndex(({ data: candidate }) => candidate.taxonomy?.family === data.taxonomy?.family) === index;
+    return <article class="rounded-2xl border border-beige-300 bg-white p-5" id={isFirstInitial ? `letter-${initial}` : undefined}><span id={isFirstGenus ? `genus-${data.taxonomy?.genus.toLowerCase()}` : undefined}></span><span id={isFirstFamily ? `family-${data.taxonomy?.family?.toLowerCase()}` : undefined}></span><h3 class="font-serif text-xl"><a href={entryPath(article)} class="no-underline"><em>{data.scientificName}</em></a></h3><p class="mt-2 text-sm text-slate-600">{data.taxonomy?.family} · {article.data.title}</p></article>;
+  })}</div></section>}
   <section class="shell py-16">{articles.length ? <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{articles.map((article) => <ArticleCard title={article.data.title} description={article.data.description} category={article.data.category} date={article.data.publishDate} href={entryPath(article)} />)}</div> : <div class="card py-16 text-center"><p class="font-serif text-3xl">Guides are coming soon</p><p class="mx-auto mt-3 max-w-xl text-slate-600">The publishing structure is ready. Expert-reviewed {category} content will be added next.</p></div>}</section>
 </BaseLayout>

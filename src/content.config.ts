@@ -19,8 +19,8 @@ const commonFields = (image: () => z.ZodType<ImageMetadata>, category: (typeof c
   draft: z.boolean().default(true),
   featured: z.boolean().default(false),
   reviewedBy: z.string().optional(),
-  sources: z.array(z.object({ title: z.string(), url: z.url() })).default([]),
-  faq: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
+  sources: z.array(z.object({ title: z.string().min(4), url: z.url() })).default([]),
+  faq: z.array(z.object({ question: z.string().min(10), answer: z.string().min(40) })).default([]),
 });
 
 const requireForPublication = (data: Record<string, unknown>, ctx: z.RefinementCtx, fields: string[]) => {
@@ -38,6 +38,9 @@ const species = defineCollection({
   schema: ({ image }) => z.object({
     ...commonFields(image, 'mushrooms'),
     scientificName: z.string().optional(),
+    taxonomicAuthority: z.string().optional(),
+    synonyms: z.array(z.string()).default([]),
+    externalIds: z.object({ ncbi: z.string().optional(), gbif: z.string().optional(), indexFungorum: z.string().optional() }).optional(),
     commonNames: z.array(z.string()).optional(),
     taxonomy: z.object({
       kingdom: z.string().default('Fungi'),
@@ -62,7 +65,11 @@ const species = defineCollection({
     nutrition: z.object({ summary: z.string(), servingSize: z.string().optional(), calories: z.number().nonnegative().optional(), proteinGrams: z.number().nonnegative().optional(), fiberGrams: z.number().nonnegative().optional() }).optional(),
     growingDifficulty: z.object({ level: z.enum(['not-cultivated', 'easy', 'moderate', 'difficult', 'expert', 'unknown']), notes: z.string() }).optional(),
     similarSpecies: z.array(z.object({ name: z.string(), slug: z.string().optional(), differences: z.string() })).optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['scientificName', 'commonNames', 'identification', 'appearance', 'habitat', 'season', 'edibility', 'toxicity', 'nutrition', 'growingDifficulty', 'similarSpecies'])),
+  }).superRefine((data, ctx) => {
+    requireForPublication(data, ctx, ['scientificName', 'commonNames', 'identification', 'appearance', 'habitat', 'season', 'edibility', 'toxicity', 'nutrition', 'growingDifficulty', 'similarSpecies', 'sources', 'faq']);
+    if (data.draft === false && data.sources.length < 3) ctx.addIssue({ code: 'custom', path: ['sources'], message: 'At least three sources are required before publication' });
+    if (data.draft === false && data.faq.length < 3) ctx.addIssue({ code: 'custom', path: ['faq'], message: 'At least three FAQs are required before publication' });
+  }),
 });
 
 const identification = defineCollection({

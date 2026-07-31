@@ -23,6 +23,9 @@ interface Props {
   recipe?: RecipeData;
   currentKey: string;
   scientificName?: string;
+  taxonomicAuthority?: string;
+  synonyms?: string[];
+  externalIds?: { ncbi?: string; gbif?: string; indexFungorum?: string };
   commonNames?: string[];
   taxonomy?: Taxonomy;
   habitat?: { summary: string; regions: string[]; substrates: string[] };
@@ -38,6 +41,7 @@ const {
   title, description, category, author, publishDate, updatedDate, coverImage, coverAlt,
   faq: editorialFaq = [], recipe, currentKey, scientificName, commonNames = [], taxonomy,
   habitat, season, edibility, toxicity, growingDifficulty, appearance, reviewedBy,
+  taxonomicAuthority, synonyms = [], externalIds,
 } = Astro.props as Props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
@@ -79,9 +83,22 @@ const faq = editorialFaq.length > 0 ? editorialFaq : automaticFaq[category] ?? [
   { question: 'How should this guide be used?', answer: 'Use it as general educational information and verify decisions involving identification, food safety, cultivation, or health with an appropriate qualified expert.' },
 ];
 
+const normalizeTerms = (values: string[]) => new Set(values.flatMap((value) => value.toLowerCase().split(/[^a-z]+/)).filter((value) => value.length > 3));
+const currentTerms = normalizeTerms([title, scientificName ?? '', ...commonNames]);
 const related = (await getPublishedEntries())
-  .filter((entry) => entry.data.category === category && entryKey(entry) !== currentKey)
-  .slice(0, 3);
+  .filter((entry) => entryKey(entry) !== currentKey)
+  .map((entry) => {
+    const data = entry.data as typeof entry.data & { scientificName?: string; commonNames?: string[]; taxonomy?: Taxonomy };
+    const terms = normalizeTerms([data.title, data.scientificName ?? '', ...(data.commonNames ?? []), ...data.keywords]);
+    const sharedTerms = [...currentTerms].filter((term) => terms.has(term)).length;
+    const sameGenus = Boolean(taxonomy?.genus && data.taxonomy?.genus === taxonomy.genus);
+    const sameFamily = Boolean(taxonomy?.family && data.taxonomy?.family === taxonomy.family);
+    return { entry, score: sharedTerms * 2 + (data.category === category ? 3 : 0) + (sameFamily ? 4 : 0) + (sameGenus ? 8 : 0) };
+  })
+  .filter(({ score }) => score > 0)
+  .sort((a, b) => b.score - a.score || a.entry.data.title.localeCompare(b.entry.data.title))
+  .slice(0, 3)
+  .map(({ entry }) => entry);
 
 const articleSchema: Record<string, unknown> = {
   '@type': 'Article', '@id': `${canonical}#article`, headline: title, description,
@@ -98,8 +115,10 @@ const schema = [
   articleSchema,
   ...(scientificName ? [{
     '@type': 'Taxon', '@id': `${canonical}#taxon`, name: scientificName,
-    alternateName: commonNames, url: canonical,
+    alternateName: [...commonNames, ...synonyms], url: canonical,
     taxonRank: 'species',
+    ...(taxonomicAuthority ? { author: taxonomicAuthority } : {}),
+    ...(externalIds ? { identifier: Object.entries(externalIds).filter(([, value]) => value).map(([propertyID, value]) => ({ '@type': 'PropertyValue', propertyID, value })) } : {}),
     parentTaxon: taxonomy?.genus ? { '@type': 'Taxon', name: taxonomy.genus, taxonRank: 'genus' } : undefined,
   }] : []),
   { '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`, itemListElement: [
@@ -126,7 +145,7 @@ const schema = [
 
       {coverImage && <Image src={coverImage} alt={coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}
 
-      {scientificName && <section class="card mt-10" aria-labelledby="quick-facts"><h2 id="quick-facts" class="font-serif text-3xl">Quick facts</h2><dl class="mt-6 grid gap-x-8 gap-y-5 sm:grid-cols-2 lg:grid-cols-3"><div><dt class="eyebrow">Scientific name</dt><dd class="mt-1 italic">{scientificName}</dd></div><div><dt class="eyebrow">Common names</dt><dd class="mt-1">{commonNames.join(', ')}</dd></div><div><dt class="eyebrow">Family</dt><dd class="mt-1">{taxonomy?.family ?? 'Not documented'}</dd></div><div><dt class="eyebrow">Edibility</dt><dd class="mt-1">{formatValue(edibility?.status)}</dd></div><div><dt class="eyebrow">Toxicity</dt><dd class="mt-1">{formatValue(toxicity?.level)}</dd></div><div><dt class="eyebrow">Spore print</dt><dd class="mt-1">{appearance?.sporePrint ?? 'Not documented'}</dd></div><div><dt class="eyebrow">Season</dt><dd class="mt-1">{season?.months.join(', ') || 'Varies by region'}</dd></div><div><dt class="eyebrow">Growing difficulty</dt><dd class="mt-1">{formatValue(growingDifficulty?.level)}</dd></div><div><dt class="eyebrow">Regions</dt><dd class="mt-1">{habitat?.regions.join(', ') || 'Not documented'}</dd></div></dl></section>}
+      {scientificName && <section class="card mt-10" aria-labelledby="quick-facts"><h2 id="quick-facts" class="font-serif text-3xl">Quick facts</h2><dl class="mt-6 grid gap-x-8 gap-y-5 sm:grid-cols-2 lg:grid-cols-3"><div><dt class="eyebrow">Scientific name</dt><dd class="mt-1 italic">{scientificName}</dd>{taxonomicAuthority && <dd class="mt-1 text-sm text-slate-500">{taxonomicAuthority}</dd>}</div><div><dt class="eyebrow">Common names</dt><dd class="mt-1">{commonNames.join(', ')}</dd></div><div><dt class="eyebrow">Taxonomy</dt><dd class="mt-1">{taxonomy?.genus && <><a href={`/mushrooms/#genus-${taxonomy.genus.toLowerCase()}`}>{taxonomy.genus}</a>{taxonomy.family ? ' · ' : ''}</>}{taxonomy?.family && <a href={`/mushrooms/#family-${taxonomy.family.toLowerCase()}`}>{taxonomy.family}</a>}{!taxonomy?.genus && !taxonomy?.family && 'Not documented'}</dd></div><div class="sm:col-span-2"><dt class="eyebrow">Edibility context</dt><dd class="mt-1"><strong>{formatValue(edibility?.status)}:</strong> {edibility?.notes ?? 'Not documented. Do not infer safety from a category label.'}</dd></div><div><dt class="eyebrow">Spore print</dt><dd class="mt-1">{appearance?.sporePrint ?? 'Not documented'}</dd></div><div class="sm:col-span-2"><dt class="eyebrow">Toxicity context</dt><dd class="mt-1"><strong>{formatValue(toxicity?.level)}:</strong> {toxicity?.notes ?? 'Not documented. Absence of a known toxin does not confirm identity or edibility.'}</dd></div><div><dt class="eyebrow">Season</dt><dd class="mt-1">{season?.months.join(', ') || 'Varies by region'}</dd></div><div><dt class="eyebrow">Growing difficulty</dt><dd class="mt-1">{formatValue(growingDifficulty?.level)}</dd></div><div><dt class="eyebrow">Regions</dt><dd class="mt-1">{habitat?.regions.join(', ') || 'Not documented'}</dd></div>{synonyms.length > 0 && <div class="sm:col-span-2 lg:col-span-3"><dt class="eyebrow">Recorded synonyms</dt><dd class="mt-1 italic">{synonyms.join(', ')}</dd></div>}</dl><p class="mt-6 border-t border-beige-300 pt-4 text-sm leading-6 text-slate-600"><strong>Safety limit:</strong> These labels summarize documented context; they never authenticate a wild specimen. Cooking does not make a poisonous species safe.</p></section>}
 
       {scientificName && <nav class="mt-8 rounded-2xl border border-beige-300 bg-beige-50 p-5" aria-label="On this page"><p class="font-bold">On this page</p><div class="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm"><a href="#introduction">Introduction</a><a href="#identification">Identification</a><a href="#scientific-classification">Classification</a><a href="#habitat">Habitat</a><a href="#growing-guide">Growing</a><a href="#health-benefits">Health evidence</a><a href="#safety">Safety</a><a href="#frequently-asked-questions">FAQ</a><a href="#references">References</a></div></nav>}
 
