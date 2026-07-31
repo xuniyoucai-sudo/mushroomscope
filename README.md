@@ -4,7 +4,7 @@ A production-ready, static-first mushroom knowledge website built with Astro, Ty
 
 ## Local development
 
-Requirements: Node.js 22.12+ and pnpm 11. The repository pins both versions for reproducible local, GitHub Actions, and Cloudflare builds.
+Requirements: Node.js 22.13+ and pnpm 11. The repository pins both versions for reproducible local, GitHub Actions, and Cloudflare builds.
 
 ```bash
 corepack enable
@@ -82,7 +82,7 @@ The included GitHub Actions workflow installs the locked dependencies, runs Astr
 2. Select the GitHub repository.
 3. Set the production branch to **main** and the framework preset to **Astro**.
 4. Use `npm run build` as the build command and `dist` as the output directory.
-5. Set `NODE_VERSION=22.12.0` in the Pages build environment. Cloudflare will use the committed pnpm lockfile during dependency installation.
+5. Set `NODE_VERSION=22.13.0` in the Pages build environment. Cloudflare will use the committed pnpm lockfile during dependency installation.
 6. Add the optional public environment variables from `.env.example` in the Pages project settings.
 7. Save and deploy.
 
