@@ -71,11 +71,9 @@ similarSpecies:
     differences: "Many overlap in cap color and season and require full expert identification."
 ---
 
-# Flammulina filiformis: Cultivated Enoki Mushroom Guide
-
 ## Introduction
 
-*Flammulina filiformis* is the slender white clusters sold as enoki are commonly associated with Flammulina filiformis in East Asian cultivation. Older resources often use F. velutipes, and commercial labels may not reflect modern species boundaries. Cultivation creates an appearance dramatically different from wild-type Flammulina: low light and elevated carbon dioxide produce long white stems and very small caps.
+*Flammulina filiformis* is the species most commonly associated with the slender white clusters sold as enoki in East Asian cultivation. Older resources often use F. velutipes, and commercial labels may not reflect modern species boundaries. Cultivation creates an appearance dramatically different from wild-type Flammulina: low light and elevated carbon dioxide produce long white stems and very small caps.
 
 This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
 
@@ -160,27 +158,6 @@ General food practice still applies: source cultivated mushrooms from reputable 
 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
-## FAQ
-
-### Can this mushroom be identified from a photograph?
-
-No. A photograph can support documentation, but a defensible identification of Flammulina filiformis also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone.
-
-### Is it safe to eat?
-
-enoki is an established food when it comes from a reputable cultivated source and is stored and cooked properly. Individual allergy or intolerance is still possible. A wild specimen needs independent expert confirmation.
-
-### Can beginners grow it?
-
-The database rates cultivation as moderate. Beginners should use authenticated spawn or a reputable ready-to-fruit block, follow the supplier's temperature and hygiene instructions, and discard cultures showing unexplained mold colors or foul odors.
-
-### Does it have proven health benefits?
-
-It has nutritional or research interest, but that wording must not be converted into a treatment claim. Laboratory findings do not prove clinical benefit, and human evidence must match the exact species, preparation, dose, and outcome.
-
-### How should it be stored?
-
-Refrigerate fresh cultivated mushrooms promptly in breathable food-safe packaging and use them while sound. Keep dried material sealed, dry, and away from heat. Follow local recall notices and discard spoiled or contaminated products.
 
 ## References
 

@@ -6,11 +6,47 @@ import ArticleCard from '../components/ArticleCard.astro';
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 import { entryKey, entryPath, getPublishedEntries } from '../lib/content';
+
 interface FAQItem { question: string; answer: string }
 interface RecipeData { prepTime: string; cookTime: string; totalTime?: string; recipeYield: string; recipeCategory: string; recipeCuisine?: string; ingredients: string[]; instructions: string[]; calories?: string }
-interface Props { title: string; description: string; category: string; author: string; publishDate: Date; updatedDate?: Date; coverImage?: ImageMetadata; coverAlt?: string; faq?: FAQItem[]; recipe?: RecipeData; currentKey: string }
-const { title, description, category, author, publishDate, updatedDate, coverImage, coverAlt, faq: editorialFaq = [], recipe, currentKey } = Astro.props as Props;
+interface Taxonomy { kingdom?: string; phylum?: string; class?: string; order?: string; family?: string; genus: string }
+interface Props {
+  title: string;
+  description: string;
+  category: string;
+  author: string;
+  publishDate: Date;
+  updatedDate?: Date;
+  coverImage?: ImageMetadata;
+  coverAlt?: string;
+  faq?: FAQItem[];
+  recipe?: RecipeData;
+  currentKey: string;
+  scientificName?: string;
+  commonNames?: string[];
+  taxonomy?: Taxonomy;
+  habitat?: { summary: string; regions: string[]; substrates: string[] };
+  season?: { summary: string; months: string[] };
+  edibility?: { status: string; notes: string };
+  toxicity?: { level: string; notes: string };
+  growingDifficulty?: { level: string; notes: string };
+  appearance?: { sporePrint: string };
+  reviewedBy?: string;
+}
+
+const {
+  title, description, category, author, publishDate, updatedDate, coverImage, coverAlt,
+  faq: editorialFaq = [], recipe, currentKey, scientificName, commonNames = [], taxonomy,
+  habitat, season, edibility, toxicity, growingDifficulty, appearance, reviewedBy,
+} = Astro.props as Props;
+
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const categoryNames: Record<string, string> = {
+  mushrooms: 'Mushroom Encyclopedia', identification: 'Identification', growing: 'Growing', health: 'Health', recipes: 'Recipes',
+};
+const categoryName = categoryNames[category] ?? category;
+const formatValue = (value?: string) => value ? value.replaceAll('-', ' ').replace(/\b\w/g, (letter) => letter.toUpperCase()) : 'Not documented';
+
 const automaticFaq: Record<string, FAQItem[]> = {
   mushrooms: [
     { question: `What is covered in this ${title} species guide?`, answer: description },
@@ -42,20 +78,67 @@ const faq = editorialFaq.length > 0 ? editorialFaq : automaticFaq[category] ?? [
   { question: `What is ${title} about?`, answer: description },
   { question: 'How should this guide be used?', answer: 'Use it as general educational information and verify decisions involving identification, food safety, cultivation, or health with an appropriate qualified expert.' },
 ];
+
 const related = (await getPublishedEntries())
   .filter((entry) => entry.data.category === category && entryKey(entry) !== currentKey)
   .slice(0, 3);
+
+const articleSchema: Record<string, unknown> = {
+  '@type': 'Article', '@id': `${canonical}#article`, headline: title, description,
+  author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/about/' },
+  publisher: { '@id': 'https://mushroomscope.com/#organization' },
+  datePublished: publishDate.toISOString(), dateModified: (updatedDate || publishDate).toISOString(),
+  mainEntityOfPage: { '@id': `${canonical}#webpage` }, articleSection: categoryName, inLanguage: 'en',
+  ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}),
+  ...(scientificName ? { about: { '@id': `${canonical}#taxon` }, mainEntity: { '@id': `${canonical}#taxon` } } : {}),
+  ...(reviewedBy ? { reviewedBy: { '@type': 'Person', name: reviewedBy } } : {}),
+};
+
 const schema = [
-  { '@type': 'Article', '@id': `${canonical}#article`, headline: title, description, author: { '@type': 'Organization', name: author }, publisher: { '@id': 'https://mushroomscope.com/#organization' }, datePublished: publishDate.toISOString(), dateModified: (updatedDate || publishDate).toISOString(), mainEntityOfPage: { '@id': `${canonical}#webpage` }, articleSection: category, inLanguage: 'en', ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}) },
-  { '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`, itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' }, { '@type': 'ListItem', position: 2, name: category, item: `https://mushroomscope.com/${category}/` }, { '@type': 'ListItem', position: 3, name: title }] },
-  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions.map((text) => ({ '@type': 'HowToStep', text })), ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
-  ...(faq.length ? [{ '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) }] : [])
+  articleSchema,
+  ...(scientificName ? [{
+    '@type': 'Taxon', '@id': `${canonical}#taxon`, name: scientificName,
+    alternateName: commonNames, url: canonical,
+    taxonRank: 'species',
+    parentTaxon: taxonomy?.genus ? { '@type': 'Taxon', name: taxonomy.genus, taxonRank: 'genus' } : undefined,
+  }] : []),
+  { '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`, itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' },
+    { '@type': 'ListItem', position: 2, name: categoryName, item: `https://mushroomscope.com/${category}/` },
+    { '@type': 'ListItem', position: 3, name: title, item: canonical },
+  ] },
+  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/about/' }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions.map((text) => ({ '@type': 'HowToStep', text })), ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
+  { '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) },
 ];
 ---
 <BaseLayout title={title} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" schema={schema}>
-  <div class="shell py-8"><Breadcrumbs items={[{ label: category, href: `/${category}/` }, { label: title }]} /></div>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: categoryName, href: `/${category}/` }, { label: title }]} /></div>
   <article class="shell grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
-    <div><header class="max-w-4xl"><p class="eyebrow">{category}</p><h1 class="mt-4 font-serif text-4xl leading-tight sm:text-6xl">{title}</h1><p class="mt-6 text-xl leading-8 text-slate-600">{description}</p><p class="mt-5 text-sm text-slate-500">By {author} · <time datetime={publishDate.toISOString()}>{publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time>{updatedDate && <> · Updated <time datetime={updatedDate.toISOString()}>{updatedDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time></>}</p></header>{coverImage && <Image src={coverImage} alt={coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}{recipe && <section class="card mt-10" aria-labelledby="recipe-details"><h2 id="recipe-details" class="font-serif text-3xl">Recipe details</h2><dl class="mt-5 grid gap-4 sm:grid-cols-3"><div><dt class="eyebrow">Prep time</dt><dd class="mt-1 font-semibold">{recipe.prepTime}</dd></div><div><dt class="eyebrow">Cook time</dt><dd class="mt-1 font-semibold">{recipe.cookTime}</dd></div><div><dt class="eyebrow">Yield</dt><dd class="mt-1 font-semibold">{recipe.recipeYield}</dd></div></dl><h3 class="mt-8 font-serif text-2xl">Ingredients</h3><ul class="mt-4 list-disc space-y-2 pl-6">{recipe.ingredients.map((ingredient) => <li>{ingredient}</li>)}</ul><h3 class="mt-8 font-serif text-2xl">Instructions</h3><ol class="mt-4 list-decimal space-y-3 pl-6">{recipe.instructions.map((instruction) => <li>{instruction}</li>)}</ol></section>}<div class="prose mt-10"><slot /></div>{faq.length > 0 && <section class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>}{related.length > 0 && <section class="mt-14 border-t border-beige-300 pt-10"><h2 class="font-serif text-3xl">Related guides</h2><div class="mt-6 grid gap-5 md:grid-cols-3">{related.map((entry) => <ArticleCard title={entry.data.title} description={entry.data.description} category={entry.data.category} href={entryPath(entry)} />)}</div></section>}<section class="mt-14 border-t border-beige-300 pt-8"><h2 class="font-serif text-3xl">Continue exploring</h2><p class="mt-3 text-slate-600">Browse more practical guides in <a href={`/${category}/`} class="font-semibold text-forest-700">{category}</a> or visit the <a href="/mushrooms/" class="font-semibold text-forest-700">mushroom encyclopedia</a>.</p></section></div>
-    <aside class="space-y-6 lg:sticky lg:top-6 lg:self-start"><AdBanner placement="sidebar" /><div class="card"><p class="font-serif text-xl">Safety first</p><p class="mt-3 text-sm leading-6 text-slate-600">Never consume a wild mushroom unless its identity has been confirmed by a qualified local expert.</p></div></aside>
+    <div>
+      <header class="max-w-4xl">
+        <p class="eyebrow">{categoryName}</p>
+        <h1 class="mt-4 font-serif text-4xl leading-tight sm:text-6xl">{title}</h1>
+        <p class="mt-6 text-xl leading-8 text-slate-600">{description}</p>
+        <p class="mt-5 text-sm text-slate-500">By <a href="/about/" rel="author">{author}</a> · <time datetime={publishDate.toISOString()}>{publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time>{updatedDate && <> · Updated <time datetime={updatedDate.toISOString()}>{updatedDate.toLocaleDateString('en-US', { dateStyle: 'long' })}</time></>}</p>
+      </header>
+
+      {(category === 'mushrooms' || category === 'identification') && <div class="mt-8 rounded-2xl border border-amber-300 bg-amber-50 p-5 text-sm leading-6 text-amber-950" role="note"><strong>Identification safety:</strong> This guide is educational. Never eat a wild mushroom unless a qualified local expert has examined the complete specimen in person.</div>}
+
+      {coverImage && <Image src={coverImage} alt={coverAlt || title} widths={[640, 960, 1280]} sizes="(min-width: 1024px) 880px, 100vw" loading="eager" fetchpriority="high" class="mt-8 aspect-[16/9] w-full rounded-3xl object-cover" />}
+
+      {scientificName && <section class="card mt-10" aria-labelledby="quick-facts"><h2 id="quick-facts" class="font-serif text-3xl">Quick facts</h2><dl class="mt-6 grid gap-x-8 gap-y-5 sm:grid-cols-2 lg:grid-cols-3"><div><dt class="eyebrow">Scientific name</dt><dd class="mt-1 italic">{scientificName}</dd></div><div><dt class="eyebrow">Common names</dt><dd class="mt-1">{commonNames.join(', ')}</dd></div><div><dt class="eyebrow">Family</dt><dd class="mt-1">{taxonomy?.family ?? 'Not documented'}</dd></div><div><dt class="eyebrow">Edibility</dt><dd class="mt-1">{formatValue(edibility?.status)}</dd></div><div><dt class="eyebrow">Toxicity</dt><dd class="mt-1">{formatValue(toxicity?.level)}</dd></div><div><dt class="eyebrow">Spore print</dt><dd class="mt-1">{appearance?.sporePrint ?? 'Not documented'}</dd></div><div><dt class="eyebrow">Season</dt><dd class="mt-1">{season?.months.join(', ') || 'Varies by region'}</dd></div><div><dt class="eyebrow">Growing difficulty</dt><dd class="mt-1">{formatValue(growingDifficulty?.level)}</dd></div><div><dt class="eyebrow">Regions</dt><dd class="mt-1">{habitat?.regions.join(', ') || 'Not documented'}</dd></div></dl></section>}
+
+      {scientificName && <nav class="mt-8 rounded-2xl border border-beige-300 bg-beige-50 p-5" aria-label="On this page"><p class="font-bold">On this page</p><div class="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm"><a href="#introduction">Introduction</a><a href="#identification">Identification</a><a href="#scientific-classification">Classification</a><a href="#habitat">Habitat</a><a href="#growing-guide">Growing</a><a href="#health-benefits">Health evidence</a><a href="#safety">Safety</a><a href="#frequently-asked-questions">FAQ</a><a href="#references">References</a></div></nav>}
+
+      {recipe && <section class="card mt-10" aria-labelledby="recipe-details"><h2 id="recipe-details" class="font-serif text-3xl">Recipe details</h2><dl class="mt-5 grid gap-4 sm:grid-cols-3"><div><dt class="eyebrow">Prep time</dt><dd class="mt-1 font-semibold">{recipe.prepTime}</dd></div><div><dt class="eyebrow">Cook time</dt><dd class="mt-1 font-semibold">{recipe.cookTime}</dd></div><div><dt class="eyebrow">Yield</dt><dd class="mt-1 font-semibold">{recipe.recipeYield}</dd></div></dl><h3 class="mt-8 font-serif text-2xl">Ingredients</h3><ul class="mt-4 list-disc space-y-2 pl-6">{recipe.ingredients.map((ingredient) => <li>{ingredient}</li>)}</ul><h3 class="mt-8 font-serif text-2xl">Instructions</h3><ol class="mt-4 list-decimal space-y-3 pl-6">{recipe.instructions.map((instruction) => <li>{instruction}</li>)}</ol></section>}
+
+      <div class="prose mt-10"><slot /></div>
+
+      <section id="frequently-asked-questions" class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>
+
+      {related.length > 0 && <section class="mt-14 border-t border-beige-300 pt-10"><h2 class="font-serif text-3xl">Related guides</h2><div class="mt-6 grid gap-5 md:grid-cols-3">{related.map((entry) => <ArticleCard title={entry.data.title} description={entry.data.description} category={entry.data.category} href={entryPath(entry)} />)}</div></section>}
+      <section class="mt-14 border-t border-beige-300 pt-8"><h2 class="font-serif text-3xl">Continue exploring</h2><p class="mt-3 text-slate-600">Browse more practical guides in <a href={`/${category}/`} class="font-semibold text-forest-700">{categoryName}</a> or visit the <a href="/mushrooms/" class="font-semibold text-forest-700">mushroom encyclopedia</a>.</p></section>
+    </div>
+    <aside class="space-y-6 lg:sticky lg:top-6 lg:self-start"><AdBanner placement="sidebar" /><div class="card"><p class="font-serif text-xl">Editorial transparency</p><p class="mt-3 text-sm leading-6 text-slate-600">The organizational byline describes MushroomScope’s editorial work. Named expert review is disclosed only when it has occurred. <a href="/about/">How we work</a>.</p></div></aside>
   </article>
 </BaseLayout>

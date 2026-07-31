@@ -16,7 +16,7 @@ const organizationId = 'https://mushroomscope.com/#organization';
 const websiteId = 'https://mushroomscope.com/#website';
 const graph = [
   { '@type': 'Organization', '@id': organizationId, name: 'MushroomScope', url: 'https://mushroomscope.com/', logo: { '@type': 'ImageObject', url: 'https://mushroomscope.com/favicon.svg', width: 512, height: 512 }, email: 'hello@mushroomscope.com' },
-  { '@type': 'WebSite', '@id': websiteId, name: 'MushroomScope', url: 'https://mushroomscope.com/', description: 'Explore the fascinating world of mushrooms.', publisher: { '@id': organizationId }, inLanguage: 'en' },
+  { '@type': 'WebSite', '@id': websiteId, name: 'MushroomScope', url: 'https://mushroomscope.com/', description: 'Explore the fascinating world of mushrooms.', publisher: { '@id': organizationId }, inLanguage: 'en', potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: 'https://mushroomscope.com/search/?q={search_term_string}' }, 'query-input': 'required name=search_term_string' } },
   { '@type': 'WebPage', '@id': `${canonical.href}#webpage`, url: canonical.href, name: pageTitle, description, isPartOf: { '@id': websiteId }, about: { '@id': organizationId }, inLanguage: 'en' },
   ...(Array.isArray(schema) ? schema : schema ? [schema] : [])
 ];

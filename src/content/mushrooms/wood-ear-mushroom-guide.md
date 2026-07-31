@@ -71,11 +71,9 @@ similarSpecies:
     differences: "Jelly fungi that are usually more irregular or cushion-like rather than distinctly ear-shaped."
 ---
 
-# Auricularia heimuer: Wood Ear Mushroom Species Guide
-
 ## Introduction
 
-*Auricularia heimuer* is wood ear is a culinary name used for several Auricularia fungi. Auricularia heimuer is an important cultivated species in China and international trade, but packaging may simply say black fungus or wood ear. Modern DNA-based studies have shown why the old practice of calling nearly every ear-shaped specimen A. auricula-judae is inaccurate.
+*Auricularia heimuer* is one of several *Auricularia* fungi sold as wood ear. It is an important cultivated species in China and international trade, but packaging may simply say black fungus or wood ear. Modern DNA-based studies have shown why the old practice of calling nearly every ear-shaped specimen *A. auricula-judae* is inaccurate.
 
 This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
 
@@ -160,27 +158,6 @@ General food practice still applies: source cultivated mushrooms from reputable 
 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
-## FAQ
-
-### Can this mushroom be identified from a photograph?
-
-No. A photograph can support documentation, but a defensible identification of Auricularia heimuer also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone.
-
-### Is it safe to eat?
-
-wood ear is an established food when it comes from a reputable cultivated source and is stored and cooked properly. Individual allergy or intolerance is still possible. A wild specimen needs independent expert confirmation.
-
-### Can beginners grow it?
-
-The database rates cultivation as moderate. Beginners should use authenticated spawn or a reputable ready-to-fruit block, follow the supplier's temperature and hygiene instructions, and discard cultures showing unexplained mold colors or foul odors.
-
-### Does it have proven health benefits?
-
-It has nutritional or research interest, but that wording must not be converted into a treatment claim. Laboratory findings do not prove clinical benefit, and human evidence must match the exact species, preparation, dose, and outcome.
-
-### How should it be stored?
-
-Refrigerate fresh cultivated mushrooms promptly in breathable food-safe packaging and use them while sound. Keep dried material sealed, dry, and away from heat. Follow local recall notices and discard spoiled or contaminated products.
 
 ## References
 

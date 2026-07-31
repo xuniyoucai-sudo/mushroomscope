@@ -71,11 +71,9 @@ similarSpecies:
     differences: "Macroscopic overlap is substantial; host, spores, microscopy, geography, and DNA may be necessary."
 ---
 
-# Ganoderma lingzhi: Reishi Mushroom Identification and Evidence Guide
-
 ## Introduction
 
-*Ganoderma lingzhi* is reishi and lingzhi are commercial and cultural names, not guarantees of one biological species. Many East Asian cultivated products are associated with Ganoderma lingzhi, while the name G. lucidum has historically been used broadly in research and trade. This taxonomic ambiguity matters because chemical profiles and study materials may differ. A responsible page states the name used by each source rather than silently treating every varnished Ganoderma as identical.
+*Ganoderma lingzhi* is associated with reishi and lingzhi, which are commercial and cultural names, not guarantees of one biological species. Many East Asian cultivated products are associated with Ganoderma lingzhi, while the name G. lucidum has historically been used broadly in research and trade. This taxonomic ambiguity matters because chemical profiles and study materials may differ. A responsible page states the name used by each source rather than silently treating every varnished Ganoderma as identical.
 
 This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
 
@@ -160,27 +158,6 @@ General food practice still applies: source cultivated mushrooms from reputable 
 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
-## FAQ
-
-### Can this mushroom be identified from a photograph?
-
-No. A photograph can support documentation, but a defensible identification of Ganoderma lingzhi also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone.
-
-### Is it safe to eat?
-
-This species is not treated here as an ordinary edible mushroom. Commercial teas or extracts are processed products with different risks, and their availability does not prove therapeutic benefit or suitability for every person.
-
-### Can beginners grow it?
-
-The database rates cultivation as difficult. Beginners should use authenticated spawn or a reputable ready-to-fruit block, follow the supplier's temperature and hygiene instructions, and discard cultures showing unexplained mold colors or foul odors.
-
-### Does it have proven health benefits?
-
-It has nutritional or research interest, but that wording must not be converted into a treatment claim. Laboratory findings do not prove clinical benefit, and human evidence must match the exact species, preparation, dose, and outcome.
-
-### How should it be stored?
-
-Refrigerate fresh cultivated mushrooms promptly in breathable food-safe packaging and use them while sound. Keep dried material sealed, dry, and away from heat. Follow local recall notices and discard spoiled or contaminated products.
 
 ## References
 
