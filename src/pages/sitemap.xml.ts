@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { entryPath, getPublishedEntries } from '../lib/content';
 
-const staticPaths = ['/', '/about/', '/contact/', '/editorial-policy/', '/disclaimer/', '/privacy-policy/', '/terms/'];
+const staticPaths = ['/', '/about/', '/contact/', '/editorial-policy/', '/disclaimer/', '/privacy-policy/', '/sitemap/', '/terms/'];
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value

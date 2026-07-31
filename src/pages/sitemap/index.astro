@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { entryPath, getPublishedEntries } from '../../lib/content';
+
+const entries = await getPublishedEntries();
+const categories = [
+  { key: 'mushrooms', label: 'Mushroom Encyclopedia' },
+  { key: 'identification', label: 'Identification Guides' },
+  { key: 'growing', label: 'Growing Guides' },
+  { key: 'health', label: 'Health Evidence' },
+  { key: 'recipes', label: 'Recipes' },
+];
+const schema = {
+  '@type': 'CollectionPage',
+  name: 'MushroomScope HTML Sitemap',
+  description: 'Browse every published MushroomScope knowledge page by topic.',
+  url: 'https://mushroomscope.com/sitemap/',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: entries.length,
+    itemListElement: entries.map((entry, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: entry.data.title,
+      url: new URL(entryPath(entry), Astro.site).href,
+    })),
+  },
+};
+---
+<BaseLayout title="HTML Sitemap" description="Browse every published MushroomScope species, identification, growing, health, and recipe guide." schema={schema}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'HTML Sitemap' }]} /></div>
+  <header class="shell pb-10 pt-6 sm:pb-14">
+    <p class="eyebrow">Complete knowledge index</p>
+    <h1 class="mt-4 max-w-4xl font-serif text-5xl sm:text-6xl">HTML Sitemap</h1>
+    <p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Every published MushroomScope guide, grouped by subject for readers and search crawlers.</p>
+  </header>
+  <div class="shell grid gap-8 pb-20 lg:grid-cols-2">
+    {categories.map((category) => {
+      const items = entries.filter((entry) => entry.data.category === category.key).sort((a, b) => a.data.title.localeCompare(b.data.title));
+      return <section class="card" aria-labelledby={`sitemap-${category.key}`}>
+        <h2 id={`sitemap-${category.key}`} class="font-serif text-3xl"><a href={`/${category.key}/`} class="no-underline">{category.label}</a></h2>
+        <p class="mt-2 text-sm text-slate-500">{items.length} published guides</p>
+        <ul class="mt-5 space-y-3">{items.map((entry) => <li><a href={entryPath(entry)}>{entry.data.title}</a></li>)}</ul>
+      </section>;
+    })}
+  </div>
+</BaseLayout>
