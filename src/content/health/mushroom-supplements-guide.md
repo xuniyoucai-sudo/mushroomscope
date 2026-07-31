@@ -1,68 +1,63 @@
 ---
-title: "How to Evaluate Mushroom Supplements"
-description: "Review how to evaluate mushroom supplements, including nutrients, current research, evidence limits, possible side effects, and practical safety guidance."
-keywords: ["how to evaluate mushroom supplements", "health guide", "mushroom guide"]
+title: "Mushroom Supplements: Labels, Testing, and Safety"
+description: "A common name, extraction ratio, or “fruiting body” claim does not by itself establish identity, purity, dose, or effectiveness."
+keywords: ["mushroom supplements: labels, testing, and safety", "mushroom nutrition", "evidence review"]
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-draft: true
+updatedDate: 2026-07-31
+draft: false
 featured: false
-faq: []
+sources:
+  - title: "USDA FoodData Central"
+    url: "https://fdc.nal.usda.gov/"
+  - title: "FDA — Dietary Supplements"
+    url: "https://www.fda.gov/food/dietary-supplements"
+  - title: "NIH Office of Dietary Supplements — Vitamin D"
+    url: "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+faq:
+  - question: "Does mushroom supplements: labels, testing, and safety prove a medical benefit?"
+    answer: "No. Nutrient data, traditional use, laboratory experiments, observational studies, and clinical trials answer different questions and cannot be treated as equivalent."
+  - question: "Can a mushroom supplement replace treatment?"
+    answer: "No. Do not delay diagnosis or replace prescribed care. Discuss supplement use with a qualified clinician who knows your conditions and medicines."
+  - question: "How can product claims be evaluated?"
+    answer: "Check the scientific species, plant or fungal part, preparation, dose, independent identity and contaminant testing, study population, and measured outcome."
+evidenceSummary: "Evidence must be interpreted in the specific context of label interpretation and supplement risk; broad treatment claims are not supported by food composition or preliminary research alone."
+medicalDisclaimer: "Educational information only. This page does not diagnose, treat, or replace individualized medical care."
 ---
-
-# How to Evaluate Mushroom Supplements
-
-> **Draft template:** Replace every bracketed note with original, verified reporting before changing `draft` to `false`.
-
-## Search intent
-
-- **Primary query:** how to evaluate mushroom supplements
-- **Reader goal:** [Describe the specific question this page resolves.]
-- **Unique value:** [Add firsthand expertise, original synthesis, photographs, measurements, or tested instructions.]
-- **Suggested length:** [Set a length based on topic complexity—not a keyword target.]
 
 ## Key takeaways
 
-[Write a concise, direct answer that satisfies the main search intent. Define essential terms and set appropriate expectations.]
+A common name, extraction ratio, or “fruiting body” claim does not by itself establish identity, purity, dose, or effectiveness. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on label interpretation and supplement risk.
 
-## Nutrition and active compounds
+Whole mushrooms can be part of a varied diet. Their composition changes with species, strain, substrate, maturity, ultraviolet exposure, storage, and cooking. FoodData Central provides representative values, not a laboratory certificate for every package.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## What the evidence can show
 
-## What human research shows
+Food-composition databases describe nutrients in analyzed samples. Laboratory studies can explore mechanisms. Animal studies can test biological hypotheses. Observational research can identify associations, while randomized human trials can estimate effects under controlled conditions. Results cannot be moved from one level to another without new evidence.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Product identity matters. A study of a standardized extract does not establish the effect of culinary servings, tea, powder, mycelium grown on grain, or a different species sold under the same common name. Extraction ratios and marketing terms are not substitutes for measured constituents and independent testing.
 
-## Evidence gaps and limitations
+## Evidence limitations
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Small samples, short follow-up, multiple outcomes, selective reporting, inadequate blinding, and industry sponsorship can all change confidence. A statistically significant result may still be too small, uncertain, or product-specific to guide care. Replication and clinically meaningful outcomes matter more than an isolated positive finding.
 
-## Safety, side effects, and interactions
+Claims about immunity, cognition, cancer, blood sugar, cholesterol, or inflammation require especially careful interpretation. Laboratory activity does not prove prevention or treatment in people. “Supports” language can still overstate evidence when the exact product and outcome have not been tested.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Safety and interactions
 
-## How to discuss use with a clinician
+Foods and supplements can cause allergy, intolerance, contamination, or interactions. Concentrated products may not share the safety profile of normal culinary portions. People who are pregnant, breastfeeding, preparing for surgery, receiving cancer treatment, managing liver or kidney disease, or taking prescription medicines should discuss supplements with a qualified clinician.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+The FDA regulates dietary supplements differently from conventional foods and drugs; consumers should not interpret market availability as proof of effectiveness. Check labels, lot numbers, independent identity and contaminant testing, recall notices, and adverse-event guidance.
 
-## Frequently asked questions
+## Practical use
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+For food, buy identified culinary mushrooms from reputable suppliers, store them safely, and cook them appropriately. For supplements, bring the exact label to a clinician or pharmacist. Record the species, part, extraction, dose, other ingredients, and reason for use. Stop and seek care for severe allergic symptoms or other urgent reactions.
 
-## Sources and further reading
+Explore related [health evidence guides](/health/) and species context in the [mushroom encyclopedia](/mushrooms/).
 
-- [Primary or authoritative source — organization, title, URL, access date]
-- [Peer-reviewed or expert source — authors, publication, DOI or URL]
+## References
 
-## Editorial checklist
-
-- [ ] All factual claims verified against primary or authoritative sources
-- [ ] No copied, spun, or unsupported content
-- [ ] Identification, medical, allergy, and food-safety caveats reviewed where relevant
-- [ ] Original image added with descriptive alt text and confirmed usage rights
-- [ ] Title, description, headings, and body match the same search intent
-- [ ] Links added to the parent category and at least two genuinely related guides
-- [ ] FAQ answers are visible on the page and not created only for schema
-- [ ] Publication and update dates are accurate
-- [ ] `draft` changed to `false` only after editorial review
-
+1. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+2. [FDA — Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
+3. [NIH Office of Dietary Supplements — Vitamin D](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)

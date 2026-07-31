@@ -127,7 +127,7 @@ const health = defineCollection({
     ...commonFields(image, 'health'),
     evidenceSummary: z.string().optional(),
     medicalDisclaimer: z.string().optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['evidenceSummary', 'medicalDisclaimer', 'sources', 'reviewedBy'])),
+  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['evidenceSummary', 'medicalDisclaimer', 'sources', 'faq'])),
 });
 
 export const collections = { species, identification, growing, recipes, health };

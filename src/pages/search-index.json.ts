@@ -2,9 +2,7 @@ import type { APIRoute } from 'astro';
 import { entryPath, getPublishedEntries } from '../lib/content';
 
 export const GET: APIRoute = async () => {
-  const entries = (await getPublishedEntries()).filter(({ data }) =>
-    ['mushrooms', 'recipes', 'growing'].includes(data.category),
-  );
+  const entries = await getPublishedEntries();
 
   const index = entries.map((entry) => {
     const data = entry.data;

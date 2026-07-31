@@ -2,12 +2,12 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 ---
-<BaseLayout title="Search the Mushroom Knowledge Base" description="Search MushroomScope species profiles, mushroom recipes, and growing guides." noindex={true}>
+<BaseLayout title="Search the Mushroom Knowledge Base" description="Search MushroomScope species, identification, growing, health, and recipe guides." noindex={true}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: 'Search' }]} /></div>
   <header class="shell pb-10 pt-6 sm:pb-14">
     <p class="eyebrow">Static knowledge search</p>
     <h1 class="mt-4 max-w-4xl font-serif text-5xl sm:text-6xl">Search MushroomScope</h1>
-    <p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Find published species profiles, recipes, and cultivation guides. Search by common name, scientific name, ingredient, method, or substrate.</p>
+    <p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Search all published species, identification, cultivation, health evidence, and recipe guides.</p>
   </header>
 
   <section class="shell pb-20">
@@ -19,8 +19,10 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
         <select id="search-category" name="type" class="min-h-12 rounded-xl border border-beige-300 bg-white px-4 text-base">
           <option value="all">All content</option>
           <option value="mushrooms">Species</option>
+          <option value="identification">Identification guides</option>
           <option value="recipes">Recipes</option>
           <option value="growing">Growing guides</option>
+          <option value="health">Health evidence</option>
         </select>
         <button class="button" type="submit">Search</button>
       </div>
@@ -31,11 +33,11 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
       <p id="search-status" class="text-sm text-slate-600" role="status" aria-live="polite">Loading the search index…</p>
     </div>
     <div id="search-results" class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3"></div>
-    <noscript><p class="card mt-6">Search requires JavaScript. You can still browse the <a href="/mushrooms/">species encyclopedia</a>, <a href="/recipes/">recipe database</a>, and <a href="/growing/">growing database</a>.</p></noscript>
+    <noscript><p class="card mt-6">Search requires JavaScript. Browse the <a href="/mushrooms/">species encyclopedia</a>, <a href="/identification/">identification guides</a>, <a href="/growing/">growing database</a>, <a href="/health/">health evidence</a>, or <a href="/recipes/">recipe database</a>.</p></noscript>
   </section>
 
   <script>
-    type SearchItem = { title: string; description: string; category: 'mushrooms' | 'recipes' | 'growing'; url: string; terms: string[] };
+    type SearchItem = { title: string; description: string; category: 'mushrooms' | 'identification' | 'recipes' | 'growing' | 'health'; url: string; terms: string[] };
 
     const form = document.querySelector<HTMLFormElement>('#search-form');
     const input = document.querySelector<HTMLInputElement>('#search-query');
@@ -44,7 +46,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
     const status = document.querySelector<HTMLParagraphElement>('#search-status');
     let items: SearchItem[] = [];
 
-    const labels = { mushrooms: 'Species', recipes: 'Recipe', growing: 'Growing guide' };
+    const labels = { mushrooms: 'Species', identification: 'Identification guide', recipes: 'Recipe', growing: 'Growing guide', health: 'Health evidence' };
     const normalize = (value: string) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 
     const createResult = (item: SearchItem) => {
@@ -105,7 +107,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 
     const params = new URLSearchParams(window.location.search);
     if (input) input.value = params.get('q') ?? '';
-    if (select && ['all', 'mushrooms', 'recipes', 'growing'].includes(params.get('type') ?? '')) select.value = params.get('type') ?? 'all';
+    if (select && ['all', 'mushrooms', 'identification', 'recipes', 'growing', 'health'].includes(params.get('type') ?? '')) select.value = params.get('type') ?? 'all';
 
     fetch('/search-index.json')
       .then((response) => {
