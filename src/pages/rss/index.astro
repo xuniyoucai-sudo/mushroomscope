@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+const feedUrl = new URL('/rss.xml', Astro.site).href;
+---
+<BaseLayout title="Subscribe to MushroomScope by RSS" description="Follow new and updated MushroomScope guides with any RSS reader using the official RSS feed URL.">
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'RSS feed' }]} /></div>
+  <article class="shell max-w-4xl py-12">
+    <p class="eyebrow">Follow MushroomScope</p>
+    <h1 class="mt-4 font-serif text-5xl sm:text-6xl">Subscribe by RSS</h1>
+    <p class="mt-6 text-xl leading-8 text-slate-600">RSS lets you follow new and updated guides without creating an account or sharing an email address.</p>
+
+    <section class="card mt-10" aria-labelledby="feed-address">
+      <h2 id="feed-address" class="font-serif text-3xl">MushroomScope feed address</h2>
+      <p class="mt-4 leading-7 text-slate-600">Copy this address into Feedly, Inoreader, NewsBlur, NetNewsWire, Thunderbird, or another RSS reader:</p>
+      <p class="mt-5 overflow-x-auto rounded-xl bg-beige-100 p-4 font-mono text-sm"><a href="/rss.xml">{feedUrl}</a></p>
+      <p class="mt-4 text-sm leading-6 text-slate-500">Opening the XML feed directly in Chrome or Safari may show raw XML. That is normal—the browser is displaying the feed, not subscribing to it.</p>
+    </section>
+
+    <section class="prose mt-12">
+      <h2>How to subscribe</h2>
+      <ol>
+        <li>Open your preferred RSS reader.</li>
+        <li>Choose Add feed, Follow website, or New subscription.</li>
+        <li>Paste <code>{feedUrl}</code> and confirm.</li>
+      </ol>
+      <h2>Prefer to browse on the website?</h2>
+      <p>Use the <a href="/sitemap/">complete content index</a> or browse the <a href="/mushrooms/">mushroom encyclopedia</a>, <a href="/identification/">identification guides</a>, <a href="/growing/">growing database</a>, <a href="/health/">health evidence</a>, and <a href="/recipes/">recipes</a>.</p>
+    </section>
+  </article>
+</BaseLayout>
