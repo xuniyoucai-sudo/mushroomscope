@@ -25,6 +25,8 @@
   .button { @apply inline-flex min-h-11 items-center justify-center rounded-full bg-forest-800 px-6 py-3 font-semibold text-white no-underline transition hover:bg-forest-950; }
   .button-secondary { @apply inline-flex min-h-11 items-center justify-center rounded-full border border-forest-800 px-6 py-3 font-semibold text-forest-800 no-underline transition hover:bg-sage-100; }
   .card { @apply rounded-3xl border border-beige-300/70 bg-white p-6 shadow-[0_12px_40px_rgba(19,38,29,0.06)]; }
+  .article-card-link:focus-visible { @apply rounded-3xl outline-2 outline-offset-4 outline-forest-700; }
+  .article-card-link:focus-visible .card { @apply border-forest-700/50; }
   .prose { @apply max-w-none text-lg leading-8 text-slate-700; }
   .prose h2 { @apply mt-12 font-serif text-3xl text-forest-950; }
   .prose h3 { @apply mt-8 font-serif text-2xl text-forest-950; }

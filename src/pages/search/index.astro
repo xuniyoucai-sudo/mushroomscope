@@ -50,23 +50,25 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
     const normalize = (value: string) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 
     const createResult = (item: SearchItem) => {
+      const link = document.createElement('a');
+      link.href = item.url;
+      link.className = 'article-card-link group block h-full no-underline';
+      link.setAttribute('aria-label', `Read ${item.title}`);
       const article = document.createElement('article');
-      article.className = 'card';
+      article.className = 'card h-full transition duration-200 group-hover:-translate-y-1 group-hover:border-forest-700/40 group-hover:shadow-[0_18px_48px_rgba(19,38,29,0.12)]';
       const label = document.createElement('p');
       label.className = 'eyebrow';
       label.textContent = labels[item.category];
       const heading = document.createElement('h3');
       heading.className = 'mt-3 font-serif text-2xl';
-      const link = document.createElement('a');
-      link.href = item.url;
-      link.className = 'no-underline';
-      link.textContent = item.title;
-      heading.append(link);
+      heading.className = 'mt-3 font-serif text-2xl transition group-hover:text-forest-700';
+      heading.textContent = item.title;
       const description = document.createElement('p');
       description.className = 'mt-3 leading-7 text-slate-600';
       description.textContent = item.description;
       article.append(label, heading, description);
-      return article;
+      link.append(article);
+      return link;
     };
 
     const search = () => {
