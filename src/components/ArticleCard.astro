@@ -1,10 +1,10 @@
 ---
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
-interface Props { title: string; description: string; href: string; category: string; date?: Date; image?: ImageMetadata; imageAlt?: string; meta?: string }
-const { title, description, href, category, date, image, imageAlt, meta } = Astro.props;
+interface Props { title: string; description: string; href: string; category: string; date?: Date; image?: ImageMetadata; imageAlt?: string; meta?: string; analyticsEvent?: string }
+const { title, description, href, category, date, image, imageAlt, meta, analyticsEvent } = Astro.props;
 ---
-<a href={href} class="article-card-link group block h-full no-underline" aria-label={`Read ${title}`}>
+<a href={href} class="article-card-link group block h-full no-underline" aria-label={`Read ${title}`} data-analytics-event={analyticsEvent} data-analytics-category={category}>
   <article class="card flex h-full flex-col overflow-hidden p-0 transition duration-200 group-hover:-translate-y-1 group-hover:border-forest-700/40 group-hover:shadow-[0_18px_48px_rgba(19,38,29,0.12)]">
     {image && <Image src={image} alt={imageAlt || ''} widths={[360, 640, 900]} sizes="(min-width: 1024px) 30vw, (min-width: 768px) 50vw, 100vw" format="webp" quality="mid" loading="lazy" decoding="async" class="aspect-[3/2] w-full object-cover transition duration-300 group-hover:scale-[1.02]" />}
     <div class="flex flex-1 flex-col p-6">

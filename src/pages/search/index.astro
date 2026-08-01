@@ -103,7 +103,12 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
       history.replaceState(null, '', url);
     };
 
-    form?.addEventListener('submit', (event) => { event.preventDefault(); search(); });
+    form?.addEventListener('submit', (event) => {
+      event.preventDefault();
+      search();
+      const resultCount = results?.childElementCount ?? 0;
+      (window as any).mushroomscopeTrack?.('site_search', { content_type: select?.value ?? 'all', has_query: Boolean(input?.value.trim()), result_count: resultCount });
+    });
     select?.addEventListener('change', search);
     input?.addEventListener('input', search);
 

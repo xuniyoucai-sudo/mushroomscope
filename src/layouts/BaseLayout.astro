@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import ConsentPreferences from '../components/ConsentPreferences.astro';
 import '../styles/global.css';
 
 interface Props { title: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
@@ -39,8 +40,31 @@ const structuredData = JSON.stringify({ '@context': 'https://schema.org', '@grap
     <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} /><meta name="twitter:title" content={pageTitle} /><meta name="twitter:description" content={description} />{imageUrl && <meta name="twitter:image" content={imageUrl} />}{imageUrl && imageAlt && <meta name="twitter:image:alt" content={imageAlt} />}
     <script is:inline type="application/ld+json" set:html={structuredData} />
     {adsenseId && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`} crossorigin="anonymous"></script>}
-    {gaId && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>}
-    {gaId && <script is:inline define:vars={{ gaId }}>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',gaId);</script>}
+    {gaId && <script is:inline define:vars={{ gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
+      window.gtag('consent', 'default', { analytics_storage: 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
+      window.gtag('set', 'ads_data_redaction', true);
+      window.mushroomscopeLoadAnalytics = window.mushroomscopeLoadAnalytics || function(){
+        if (window.__mushroomscopeAnalyticsLoaded) return;
+        window.__mushroomscopeAnalyticsLoaded = true;
+        const script = document.createElement('script');
+        script.async = true;
+        script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(gaId)}`;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', gaId, { page_location: `${window.location.origin}${window.location.pathname}`, allow_google_signals: false, allow_ad_personalization_signals: false });
+        window.dispatchEvent(new CustomEvent('mushroomscope:analytics-ready'));
+      };
+      window.mushroomscopeTrack = window.mushroomscopeTrack || function(name, parameters){ if (window.__mushroomscopeAnalyticsLoaded) window.gtag('event', name, parameters); };
+      try {
+        const choice = JSON.parse(localStorage.getItem('mushroomscope-consent-v1') || 'null');
+        if (choice?.analytics) {
+          window.gtag('consent', 'update', { analytics_storage: 'granted', ad_storage: choice.advertising ? 'granted' : 'denied', ad_user_data: choice.advertising ? 'granted' : 'denied', ad_personalization: choice.advertising ? 'granted' : 'denied' });
+          window.mushroomscopeLoadAnalytics();
+        }
+      } catch {}
+    </script>}
   </head>
-  <body><a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3">Skip to content</a><Header /><main id="main"><slot /></main><Footer /></body>
+  <body><a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3">Skip to content</a><Header /><main id="main"><slot /></main><Footer />{gaId && <ConsentPreferences gaId={gaId} />}</body>
 </html>
