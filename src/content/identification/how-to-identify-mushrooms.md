@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/mushroom-photo-checklist", "identification/mushroom-spore-colors", "identification/mushroom-stem-features"]
 coverImage: "../../assets/identification/how-to-identify-mushrooms.jpg"
 coverAlt: "Mushroom specimen documented with cap, gills, stem base, habitat notes, and spore print"
 imageCredit: "Original MushroomScope editorial illustration"

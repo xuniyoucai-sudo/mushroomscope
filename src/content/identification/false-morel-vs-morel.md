@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-cap-shapes", "identification/mushroom-identification-safety-checklist"]
 coverImage: "../../assets/identification/false-morel-vs-morel.jpg"
 coverAlt: "Side-by-side editorial comparison of a true morel and a false morel"
 imageCredit: "Original MushroomScope editorial illustration"

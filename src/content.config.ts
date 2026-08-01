@@ -129,8 +129,15 @@ const health = defineCollection({
   schema: ({ image }) => z.object({
     ...commonFields(image, 'health'),
     evidenceSummary: z.string().optional(),
+    evidenceLevel: z.enum(['established', 'moderate', 'preliminary', 'insufficient']).optional(),
+    reviewStatus: z.enum(['editorial', 'expert-reviewed']).default('editorial'),
+    reviewDate: z.coerce.date().optional(),
     medicalDisclaimer: z.string().optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['evidenceSummary', 'medicalDisclaimer', 'sources', 'faq'])),
+  }).superRefine((data, ctx) => {
+    requireForPublication(data, ctx, ['evidenceSummary', 'evidenceLevel', 'reviewStatus', 'medicalDisclaimer', 'sources', 'faq']);
+    if (data.draft === false && data.reviewStatus === 'expert-reviewed' && !data.reviewedBy) ctx.addIssue({ code: 'custom', path: ['reviewedBy'], message: 'reviewedBy is required for expert-reviewed health content' });
+    if (data.draft === false && data.reviewStatus === 'expert-reviewed' && !data.reviewDate) ctx.addIssue({ code: 'custom', path: ['reviewDate'], message: 'reviewDate is required for expert-reviewed health content' });
+  }),
 });
 
 export const collections = { species, identification, growing, recipes, health };

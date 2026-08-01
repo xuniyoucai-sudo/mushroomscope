@@ -30,6 +30,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 coverImage: "../../assets/example.webp"
 coverAlt: "Descriptive alternative text"
+relatedEntries: ["identification/how-to-identify-mushrooms", "growing/mushroom-growing-beginners"]
 draft: false
 featured: false
 faq:
@@ -38,7 +39,7 @@ faq:
 ---
 ```
 
-Drafts may omit collection-specific database fields. Setting `draft: false` activates the full publication requirements for that collection, preventing incomplete records from building. Recipe times use ISO 8601 durations (for example `PT15M`); the article layout renders the structured recipe fields and emits matching `Recipe` structured data.
+Drafts may omit collection-specific database fields. Setting `draft: false` activates the full publication requirements for that collection, including local imagery, useful alternative text, sources, FAQs, and verified internal relationships. Recipe times use ISO 8601 durations (for example `PT15M`); the article layout renders the structured recipe fields and emits matching `Recipe` structured data.
 
 The route is derived from the content path. For example, `src/content/mushrooms/lions-mane.md` builds `/mushrooms/lions-mane/`.
 

@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/mushroom-gill-types", "identification/how-to-identify-mushrooms", "identification/mushroom-stem-features"]
 coverImage: "../../assets/identification/mushroom-spore-colors.jpg"
 coverAlt: "Mushroom caps and a set of spore prints in contrasting colors"
 imageCredit: "Original MushroomScope editorial illustration"

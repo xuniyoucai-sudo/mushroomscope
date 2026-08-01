@@ -8,6 +8,8 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+evidenceLevel: insufficient
+reviewStatus: editorial
 coverImage: "../../assets/health/mushroom-supplements-guide.jpg"
 coverAlt: "Unbranded mushroom supplement containers beside testing documents and inspection tools"
 imageCredit: "Original MushroomScope editorial illustration"

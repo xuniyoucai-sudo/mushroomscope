@@ -8,6 +8,9 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["health/mushroom-nutrition-guide", "health/mushrooms-vitamin-d", "recipes/sauteed-mushrooms-recipe"]
+evidenceLevel: moderate
+reviewStatus: editorial
 coverImage: "../../assets/health/cooked-vs-raw-mushrooms.jpg"
 coverAlt: "Cultivated mushrooms presented raw and cooked for a food preparation comparison"
 imageCredit: "Original MushroomScope editorial illustration"

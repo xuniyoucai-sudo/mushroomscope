@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-photo-checklist", "mushrooms/turkey-tail-mushroom-guide"]
 coverImage: "../../assets/identification/mushroom-habitat-identification.jpg"
 coverAlt: "Forest habitat scene showing mushrooms in different substrate contexts"
 imageCredit: "Original MushroomScope editorial illustration"

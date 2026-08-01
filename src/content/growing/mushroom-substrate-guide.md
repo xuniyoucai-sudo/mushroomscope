@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-growing-beginners", "growing/grow-shiitake-logs", "growing/grow-oyster-mushrooms-home"]
 coverImage: "../../assets/growing/mushroom-substrate-guide.jpg"
 coverAlt: "Clean arrangement of straw, hardwood pellets, sawdust, and logs used as mushroom substrates"
 imageCredit: "Original MushroomScope editorial illustration"

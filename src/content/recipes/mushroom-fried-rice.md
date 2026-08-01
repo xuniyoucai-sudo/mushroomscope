@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/shiitake-mushroom-guide", "recipes/shiitake-noodle-stir-fry", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/mushroom-fried-rice.jpg"
 coverAlt: "Bowl of mushroom fried rice with peas, carrots, egg, and scallions"
 imageCredit: "Original MushroomScope editorial illustration"

@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/mushroom-gill-types", "identification/mushroom-stem-features", "identification/how-to-identify-mushrooms"]
 coverImage: "../../assets/identification/mushroom-cap-shapes.jpg"
 coverAlt: "Educational arrangement showing several common mushroom cap profiles"
 imageCredit: "Original MushroomScope editorial illustration"

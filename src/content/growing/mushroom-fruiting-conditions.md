@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/grow-oyster-mushrooms-home", "growing/mushroom-growing-troubleshooting", "growing/when-to-harvest-mushrooms"]
 coverImage: "../../assets/growing/mushroom-fruiting-conditions.jpg"
 coverAlt: "Indoor oyster mushroom fruiting room with humidity and ventilation equipment"
 imageCredit: "Original MushroomScope editorial illustration"

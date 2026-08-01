@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/shiitake-mushroom-guide", "growing/mushroom-substrate-guide", "growing/when-to-harvest-mushrooms"]
 coverImage: "../../assets/growing/grow-shiitake-logs.jpg"
 coverAlt: "Shiitake mushrooms fruiting from inoculated hardwood logs outdoors"
 imageCredit: "Original MushroomScope editorial illustration"

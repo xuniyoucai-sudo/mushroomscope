@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-photo-checklist", "identification/mushroom-habitat-identification"]
 coverImage: "../../assets/identification/mushroom-identification-safety-checklist.jpg"
 coverAlt: "Complete mushroom specimen beside gloves, field notes, and a safety checklist"
 imageCredit: "Original MushroomScope editorial illustration"

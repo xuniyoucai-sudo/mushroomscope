@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/shiitake-mushroom-guide", "recipes/mushroom-fried-rice", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/shiitake-noodle-stir-fry.jpg"
 coverAlt: "Shiitake noodle stir-fry with bok choy, red pepper, and scallions"
 imageCredit: "Original MushroomScope editorial illustration"

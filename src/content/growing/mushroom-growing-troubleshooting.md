@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-contamination-guide", "growing/mushroom-fruiting-conditions", "growing/when-to-harvest-mushrooms"]
 coverImage: "../../assets/growing/mushroom-growing-troubleshooting.jpg"
 coverAlt: "Cultivated mushroom blocks displaying different fruiting outcomes"
 imageCredit: "Original MushroomScope editorial illustration"

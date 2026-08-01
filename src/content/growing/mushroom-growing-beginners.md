@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-substrate-guide", "growing/mushroom-grow-bag-guide", "growing/mushroom-contamination-guide"]
 coverImage: "../../assets/growing/mushroom-growing-beginners.jpg"
 coverAlt: "Beginner mushroom grow block with spray bottle and humidity meter"
 imageCredit: "Original MushroomScope editorial illustration"

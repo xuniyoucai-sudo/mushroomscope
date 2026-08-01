@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-risotto", "recipes/creamy-mushroom-soup"]
 coverImage: "../../assets/recipes/mushroom-pasta.jpg"
 coverAlt: "Creamy mushroom pasta with cultivated mushrooms, herbs, and grated cheese"
 imageCredit: "Original MushroomScope editorial illustration"

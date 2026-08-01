@@ -8,6 +8,8 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+evidenceLevel: preliminary
+reviewStatus: editorial
 coverImage: "../../assets/health/reishi-benefits-evidence.jpg"
 coverAlt: "Reishi mushroom and unbranded extract beside scientific review papers"
 imageCredit: "Original MushroomScope editorial illustration"

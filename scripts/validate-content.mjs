@@ -15,6 +15,7 @@ await walk(root);
 
 const errors = [];
 const published = [];
+const publishedKeys = new Set();
 const placeholderPattern = /\[(?:describe|cover|add|insert|write|todo)\b|\b(?:todo|tbd|lorem ipsum|draft template)\b/gi;
 for (const file of files) {
   const source = await readFile(file, 'utf8');
@@ -27,6 +28,7 @@ for (const file of files) {
   const body = source.slice(frontmatterEnd + 4);
   if (!/^draft:\s*false\s*$/m.test(frontmatter)) continue;
   published.push(file);
+  publishedKeys.add(relative(root, file).replace(/\\/g, '/').replace(/\.(md|mdx)$/, ''));
   if (placeholderPattern.test(source)) errors.push(`${relative(root, file)}: contains placeholder text`);
   placeholderPattern.lastIndex = 0;
   if (/^#\s+/m.test(body)) errors.push(`${relative(root, file)}: body contains an H1; the layout supplies the only H1`);
@@ -35,6 +37,23 @@ for (const file of files) {
   const faqCount = (frontmatter.match(/^\s+- question:/gm) ?? []).length;
   if (faqCount < 3) errors.push(`${relative(root, file)}: published entries require at least three FAQs`);
   if (!/^## References\s*$/m.test(body)) errors.push(`${relative(root, file)}: published entries require a visible References section`);
+  if (!/^coverImage:\s*.+$/m.test(frontmatter)) errors.push(`${relative(root, file)}: published entries require a local coverImage`);
+  if (!/^coverAlt:\s*"?.{12,}/m.test(frontmatter)) errors.push(`${relative(root, file)}: published entries require descriptive coverAlt text`);
+  const relatedMatch = frontmatter.match(/^relatedEntries:\s*\[(.+)\]\s*$/m);
+  if (!relatedMatch) errors.push(`${relative(root, file)}: published entries require explicit relatedEntries`);
+}
+
+for (const file of published) {
+  const source = await readFile(file, 'utf8');
+  const frontmatterEnd = source.indexOf('\n---', 4);
+  const frontmatter = source.slice(4, frontmatterEnd);
+  const relatedMatch = frontmatter.match(/^relatedEntries:\s*\[(.+)\]\s*$/m);
+  if (!relatedMatch) continue;
+  const related = [...relatedMatch[1].matchAll(/"([^"]+)"/g)].map((match) => match[1]);
+  if (related.length < 2) errors.push(`${relative(root, file)}: published entries require at least two explicit relationships`);
+  for (const key of related) {
+    if (!publishedKeys.has(key)) errors.push(`${relative(root, file)}: related entry is missing or unpublished: ${key}`);
+  }
 }
 
 if (errors.length) {

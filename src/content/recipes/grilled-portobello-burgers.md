@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/stuffed-portobello-mushrooms", "health/cooked-vs-raw-mushrooms"]
 coverImage: "../../assets/recipes/grilled-portobello-burgers.jpg"
 coverAlt: "Two grilled portobello mushroom burgers with lettuce, tomato, and red onion"
 imageCredit: "Original MushroomScope editorial illustration"

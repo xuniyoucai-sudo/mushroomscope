@@ -16,7 +16,7 @@ All schemas are defined in `src/content.config.ts`. Shared querying and canonica
 
 ## Shared publishing fields
 
-Every entry has `title`, `description`, `keywords`, `category`, `author`, `publishDate`, optional `updatedDate`, optional cover image metadata, `draft`, `featured`, `reviewedBy`, `sources`, and `faq`.
+Every entry has `title`, `description`, `keywords`, `category`, `author`, `publishDate`, optional `updatedDate`, cover image metadata, `draft`, `featured`, `reviewedBy`, `sources`, `faq`, and explicit `relatedEntries`. Published content must include a descriptive cover alt and at least two valid relationships to other published entries.
 
 Draft entries may omit database fields while research is in progress. When `draft: false`, collection-specific required fields are enforced by schema validation. This prevents incomplete records from reaching production, RSS, internal listings, or the sitemap.
 
@@ -60,7 +60,7 @@ Published recipes require `mushroomSpecies` and a structured `recipe` object con
 
 ## Health collection
 
-Health remains a separate evidence-aware collection. Publication requires an evidence summary, medical disclaimer, named reviewer, and at least one source. This collection is not part of the four new databases, but remains compatible with the shared publishing pipeline.
+Health remains a separate evidence-aware collection. Publication requires an evidence summary, controlled evidence level, explicit review status, medical disclaimer, sources, and FAQs. Editorial review is disclosed as such. A named reviewer and review date become mandatory only when a page is explicitly marked `expert-reviewed`; the system must never imply expert review without a real person and review record.
 
 ## Relationships and future scale
 

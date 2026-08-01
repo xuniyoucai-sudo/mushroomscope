@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "health/mushroom-nutrition-guide", "recipes/mushroom-pasta"]
 coverImage: "../../assets/recipes/creamy-mushroom-soup.jpg"
 coverAlt: "Bowl of creamy mushroom soup garnished with sautéed cultivated mushrooms and thyme"
 imageCredit: "Original MushroomScope editorial illustration"

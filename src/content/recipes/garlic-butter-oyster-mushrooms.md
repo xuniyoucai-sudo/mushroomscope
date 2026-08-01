@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "recipes/sauteed-mushrooms-recipe"]
 coverImage: "../../assets/recipes/garlic-butter-oyster-mushrooms.jpg"
 coverAlt: "Garlic butter oyster mushrooms browned in a cast-iron skillet"
 imageCredit: "Original MushroomScope editorial illustration"

@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-gill-types", "identification/mushroom-identification-safety-checklist"]
 coverImage: "../../assets/identification/chanterelle-vs-jack-o-lantern.jpg"
 coverAlt: "Side-by-side editorial comparison of golden chanterelles and orange jack-o-lantern mushrooms"
 imageCredit: "Original MushroomScope editorial illustration"

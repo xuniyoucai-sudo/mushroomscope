@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "growing/mushroom-grow-bag-guide", "growing/mushroom-contamination-guide"]
 coverImage: "../../assets/growing/grow-lion-s-mane-home.jpg"
 coverAlt: "Cultivated lion's mane mushroom fruiting from a home grow block"
 imageCredit: "Original MushroomScope editorial illustration"

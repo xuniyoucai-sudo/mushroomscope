@@ -4,6 +4,9 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { entryPath, getPublishedEntries } from '../../lib/content';
 
 const entries = await getPublishedEntries();
+const species = entries.filter((entry) => entry.data.category === 'mushrooms');
+const genera = [...new Set(species.map((entry) => (entry.data as typeof entry.data & { taxonomy?: { genus?: string } }).taxonomy?.genus).filter((value): value is string => Boolean(value)))].sort();
+const families = [...new Set(species.map((entry) => (entry.data as typeof entry.data & { taxonomy?: { family?: string } }).taxonomy?.family).filter((value): value is string => Boolean(value)))].sort();
 const categories = [
   { key: 'mushrooms', label: 'Mushroom Encyclopedia' },
   { key: 'identification', label: 'Identification Guides' },
@@ -36,6 +39,14 @@ const schema = {
     <p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Every published MushroomScope guide, grouped by subject for readers and search crawlers.</p>
   </header>
   <div class="shell grid gap-8 pb-20 lg:grid-cols-2">
+    <section class="card lg:col-span-2" aria-labelledby="sitemap-reference">
+      <h2 id="sitemap-reference" class="font-serif text-3xl">Reference and taxonomy</h2>
+      <div class="mt-5 grid gap-6 md:grid-cols-3">
+        <div><h3 class="font-semibold">Site reference</h3><ul class="mt-3 space-y-2"><li><a href="/glossary/">Mushroom glossary</a></li><li><a href="/authors/mushroomscope-editorial-team/">Editorial team</a></li><li><a href="/about/">About MushroomScope</a></li><li><a href="/editorial-policy/">Editorial policy</a></li></ul></div>
+        <div><h3 class="font-semibold">Browse by genus</h3><ul class="mt-3 space-y-2">{genera.map((genus) => <li><a href={`/mushrooms/genus/${genus.toLowerCase()}/`}><em>{genus}</em></a></li>)}</ul></div>
+        <div><h3 class="font-semibold">Browse by family</h3><ul class="mt-3 space-y-2">{families.map((family) => <li><a href={`/mushrooms/family/${family.toLowerCase()}/`}>{family}</a></li>)}</ul></div>
+      </div>
+    </section>
     {categories.map((category) => {
       const items = entries.filter((entry) => entry.data.category === category.key).sort((a, b) => a.data.title.localeCompare(b.data.title));
       return <section class="card" aria-labelledby={`sitemap-${category.key}`}>

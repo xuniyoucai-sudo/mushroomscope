@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-pasta", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/vegan-mushroom-stroganoff.jpg"
 coverAlt: "Creamy vegan mushroom stroganoff served over wide noodles"
 imageCredit: "Original MushroomScope editorial illustration"

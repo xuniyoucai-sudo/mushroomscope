@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-growing-beginners", "growing/mushroom-contamination-guide", "growing/mushroom-fruiting-conditions"]
 coverImage: "../../assets/growing/mushroom-grow-bag-guide.jpg"
 coverAlt: "Mushroom grow bags shown at colonization, pinning, and fruiting stages"
 imageCredit: "Original MushroomScope editorial illustration"

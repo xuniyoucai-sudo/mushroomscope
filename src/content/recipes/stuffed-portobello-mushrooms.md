@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/grilled-portobello-burgers", "health/cooked-vs-raw-mushrooms"]
 coverImage: "../../assets/recipes/stuffed-portobello-mushrooms.jpg"
 coverAlt: "Baked portobello mushrooms stuffed with spinach and a golden crumb topping"
 imageCredit: "Original MushroomScope editorial illustration"

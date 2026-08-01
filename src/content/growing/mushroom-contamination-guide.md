@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-grow-bag-guide", "growing/mushroom-growing-troubleshooting", "growing/mushroom-fruiting-conditions"]
 coverImage: "../../assets/growing/mushroom-contamination-guide.jpg"
 coverAlt: "Side-by-side grow containers showing healthy white mycelium and green mold contamination"
 imageCredit: "Original MushroomScope editorial illustration"

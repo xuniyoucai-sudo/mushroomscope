@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import { entryPath, getPublishedEntries } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const entries = (await getPublishedEntries()).filter(({ data }) => data.category === 'mushrooms');
+  const families = [...new Set(entries.map(({ data }) => (data as any).taxonomy?.family).filter(Boolean))];
+  return families.map((family) => ({ params: { family: family.toLowerCase() }, props: { family, entries: entries.filter(({ data }) => (data as any).taxonomy?.family === family) } }));
+}
+const { family, entries } = Astro.props;
+const title = `${family} Mushroom Family`;
+const description = `Browse MushroomScope species profiles in the fungal family ${family}, with links to identification, ecology, safety, and cultivation context.`;
+const schema = { '@type': 'CollectionPage', name: title, description, url: Astro.url.href, mainEntity: { '@type': 'ItemList', numberOfItems: entries.length, itemListElement: entries.map((entry: any, index: number) => ({ '@type': 'ListItem', position: index + 1, name: entry.data.scientificName, url: new URL(entryPath(entry), Astro.site).href })) } };
+---
+<BaseLayout title={title} description={description} schema={schema}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Mushroom Encyclopedia', href: '/mushrooms/' }, { label: `Family ${family}` }]} /></div>
+  <header class="shell py-12"><p class="eyebrow">Taxonomic index · family</p><h1 class="mt-4 font-serif text-5xl sm:text-6xl">{family}</h1><p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">{description}</p></header>
+  <section class="shell pb-20"><div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{entries.map((entry: any) => <ArticleCard title={entry.data.title} description={entry.data.description} category="Species" href={entryPath(entry)} image={entry.data.coverImage} imageAlt={entry.data.coverAlt} meta={entry.data.scientificName} />)}</div></section>
+</BaseLayout>

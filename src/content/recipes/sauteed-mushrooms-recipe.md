@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/cremini-mushroom-guide", "health/cooked-vs-raw-mushrooms", "recipes/garlic-butter-oyster-mushrooms"]
 coverImage: "../../assets/recipes/sauteed-mushrooms-recipe.jpg"
 coverAlt: "Browned cultivated mushrooms sautéed with garlic and thyme in a skillet"
 imageCredit: "Original MushroomScope editorial illustration"

@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/maitake-mushroom-guide", "recipes/mushroom-pasta", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/mushroom-risotto.jpg"
 coverAlt: "Creamy mushroom risotto finished with parsley and sautéed mushrooms"
 imageCredit: "Original MushroomScope editorial illustration"

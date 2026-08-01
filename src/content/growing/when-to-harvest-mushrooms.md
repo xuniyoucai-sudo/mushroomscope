@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/grow-shiitake-logs"]
 coverImage: "../../assets/growing/when-to-harvest-mushrooms.jpg"
 coverAlt: "Oyster mushroom clusters shown at three stages of harvest readiness"
 imageCredit: "Original MushroomScope editorial illustration"

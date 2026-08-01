@@ -8,6 +8,8 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+evidenceLevel: preliminary
+reviewStatus: editorial
 coverImage: "../../assets/health/turkey-tail-benefits-evidence.jpg"
 coverAlt: "Turkey tail mushroom and unbranded extract beside systematic review papers"
 imageCredit: "Original MushroomScope editorial illustration"

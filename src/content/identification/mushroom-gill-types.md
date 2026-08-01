@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/oyster-mushroom-guide", "mushrooms/shiitake-mushroom-guide", "identification/mushroom-stem-features"]
 coverImage: "../../assets/identification/mushroom-gill-types.jpg"
 coverAlt: "Underside comparison illustrating several mushroom gill attachment patterns"
 imageCredit: "Original MushroomScope editorial illustration"

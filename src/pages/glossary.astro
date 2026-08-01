@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+const terms = [
+  ['Annulus', 'A ring or ring zone on the stem left by a partial veil.'],
+  ['Basidiocarp', 'The spore-producing fruit body of a basidiomycete fungus.'],
+  ['Decurrent', 'Describes gills, folds, or pores that extend down the stem.'],
+  ['Gill', 'A plate-like fertile surface beneath the cap of many mushrooms.'],
+  ['Hymenium', 'The fertile tissue where spores are produced.'],
+  ['Mycelium', 'The network of fungal hyphae that grows through a substrate.'],
+  ['Pileus', 'The cap of a mushroom fruit body.'],
+  ['Pore surface', 'A fertile surface made of many small tube openings rather than gills.'],
+  ['Saprotroph', 'An organism that obtains nutrients by decomposing dead organic matter.'],
+  ['Spore print', 'A deposit of mature spores collected to observe their mass color.'],
+  ['Stipe', 'The stem or stalk supporting a mushroom cap.'],
+  ['Substrate', 'The material on or in which a fungus grows.'],
+  ['Veil', 'Protective tissue covering all or part of a developing mushroom.'],
+  ['Volva', 'A cup, sac, or patches at the stem base left by a universal veil.'],
+];
+const schema = { '@type': 'DefinedTermSet', name: 'MushroomScope Mycology Glossary', url: Astro.url.href, hasDefinedTerm: terms.map(([name, description]) => ({ '@type': 'DefinedTerm', name, description })) };
+---
+<BaseLayout title="Mushroom Identification Glossary" description="Plain-English definitions for mushroom morphology, ecology, cultivation, and identification terms used throughout MushroomScope." schema={schema}>
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Glossary' }]} /></div>
+  <header class="shell py-12"><p class="eyebrow">Field vocabulary</p><h1 class="mt-4 font-serif text-5xl sm:text-6xl">Mushroom glossary</h1><p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Concise definitions for terms used in species profiles and identification guides. Definitions describe vocabulary; they do not confirm a specimen’s identity or safety.</p></header>
+  <section class="shell pb-20"><dl class="grid gap-5 md:grid-cols-2">{terms.map(([term, definition]) => <div class="card"><dt class="font-serif text-2xl">{term}</dt><dd class="mt-3 leading-7 text-slate-600">{definition}</dd></div>)}</dl></section>
+</BaseLayout>

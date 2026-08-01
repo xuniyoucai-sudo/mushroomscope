@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-habitat-identification", "identification/mushroom-identification-safety-checklist"]
 coverImage: "../../assets/identification/mushroom-photo-checklist.jpg"
 coverAlt: "Mushroom photographed from multiple angles with scale and habitat context"
 imageCredit: "Original MushroomScope editorial illustration"

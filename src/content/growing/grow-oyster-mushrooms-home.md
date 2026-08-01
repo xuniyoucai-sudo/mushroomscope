@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/mushroom-fruiting-conditions", "growing/when-to-harvest-mushrooms"]
 coverImage: "../../assets/growing/grow-oyster-mushrooms-home.jpg"
 coverAlt: "Clusters of cultivated oyster mushrooms growing from a home fruiting block"
 imageCredit: "Original MushroomScope editorial illustration"

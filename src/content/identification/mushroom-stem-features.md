@@ -8,6 +8,7 @@ publishDate: 2026-07-31
 updatedDate: 2026-07-31
 draft: false
 featured: false
+relatedEntries: ["identification/mushroom-cap-shapes", "identification/mushroom-gill-types", "identification/how-to-identify-mushrooms"]
 coverImage: "../../assets/identification/mushroom-stem-features.jpg"
 coverAlt: "Educational mushroom stem comparison showing rings, bases, texture, and shape"
 imageCredit: "Original MushroomScope editorial illustration"
