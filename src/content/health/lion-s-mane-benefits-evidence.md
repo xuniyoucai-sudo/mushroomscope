@@ -10,6 +10,7 @@ draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/lion-s-mane-benefits-evidence.jpg"
 coverAlt: "Lion's mane mushroom beside scientific papers for an evidence review"
 imageCredit: "Original MushroomScope editorial illustration"

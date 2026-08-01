@@ -11,6 +11,7 @@ featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/mushroom-nutrition-guide", "identification/mushroom-identification-safety-checklist"]
 evidenceLevel: moderate
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/mushroom-allergy-intolerance.jpg"
 coverAlt: "Cultivated mushroom samples on a clinical evaluation tray with gloves and caution symbol"
 imageCredit: "Original MushroomScope editorial illustration"

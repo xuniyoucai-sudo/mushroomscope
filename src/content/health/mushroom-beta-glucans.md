@@ -10,6 +10,7 @@ draft: false
 featured: false
 evidenceLevel: moderate
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/mushroom-beta-glucans.jpg"
 coverAlt: "Cultivated mushrooms beside a neutral molecular model representing beta-glucans"
 imageCredit: "Original MushroomScope editorial illustration"

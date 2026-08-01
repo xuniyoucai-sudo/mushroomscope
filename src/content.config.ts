@@ -34,6 +34,23 @@ const requireForPublication = (data: Record<string, unknown>, ctx: z.RefinementC
       ctx.addIssue({ code: 'custom', path: [field], message: `${field} is required before publication` });
     }
   }
+  const coverAlt = typeof data.coverAlt === 'string' ? data.coverAlt.trim() : '';
+  if (coverAlt && coverAlt.length < 20) {
+    ctx.addIssue({ code: 'custom', path: ['coverAlt'], message: 'coverAlt must describe the image rather than repeat a short keyword' });
+  }
+};
+
+const requireEditorialBasics = (data: Record<string, unknown>, ctx: z.RefinementCtx) => {
+  requireForPublication(data, ctx, ['coverImage', 'coverAlt', 'imageCredit', 'imageNote', 'relatedEntries', 'sources', 'faq']);
+  if (data.draft === false && Array.isArray(data.sources) && data.sources.length < 3) {
+    ctx.addIssue({ code: 'custom', path: ['sources'], message: 'At least three sources are required before publication' });
+  }
+  if (data.draft === false && Array.isArray(data.relatedEntries) && data.relatedEntries.length < 2) {
+    ctx.addIssue({ code: 'custom', path: ['relatedEntries'], message: 'At least two intentional internal relationships are required before publication' });
+  }
+  if (data.draft === false && Array.isArray(data.faq) && data.faq.length < 3) {
+    ctx.addIssue({ code: 'custom', path: ['faq'], message: 'At least three topic-specific FAQs are required before publication' });
+  }
 };
 
 const species = defineCollection({
@@ -69,6 +86,7 @@ const species = defineCollection({
     growingDifficulty: z.object({ level: z.enum(['not-cultivated', 'easy', 'moderate', 'difficult', 'expert', 'unknown']), notes: z.string() }).optional(),
     similarSpecies: z.array(z.object({ name: z.string(), slug: z.string().optional(), differences: z.string() })).optional(),
   }).superRefine((data, ctx) => {
+    requireEditorialBasics(data, ctx);
     requireForPublication(data, ctx, ['scientificName', 'commonNames', 'identification', 'appearance', 'habitat', 'season', 'edibility', 'toxicity', 'nutrition', 'growingDifficulty', 'similarSpecies', 'sources', 'faq']);
     if (data.draft === false && data.sources.length < 3) ctx.addIssue({ code: 'custom', path: ['sources'], message: 'At least three sources are required before publication' });
     if (data.draft === false && data.faq.length < 3) ctx.addIssue({ code: 'custom', path: ['faq'], message: 'At least three FAQs are required before publication' });
@@ -85,7 +103,10 @@ const identification = defineCollection({
     spores: z.object({ printColor: z.array(z.string()), shape: z.array(z.string()), size: z.string().optional() }).optional(),
     habitat: z.object({ summary: z.string(), substrates: z.array(z.string()), associatedTrees: z.array(z.string()).default([]), regions: z.array(z.string()) }).optional(),
     safetyNotice: z.string().optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['cap', 'stem', 'gills', 'spores', 'habitat', 'safetyNotice'])),
+  }).superRefine((data, ctx) => {
+    requireEditorialBasics(data, ctx);
+    requireForPublication(data, ctx, ['cap', 'stem', 'gills', 'spores', 'habitat', 'safetyNotice']);
+  }),
 });
 
 const growing = defineCollection({
@@ -101,7 +122,10 @@ const growing = defineCollection({
     equipment: z.array(z.string()).optional(),
     contaminationRisks: z.array(z.object({ name: z.string(), prevention: z.string() })).optional(),
     steps: z.array(z.object({ title: z.string(), instruction: z.string() })).optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['targetSpecies', 'difficulty', 'methods', 'substrates', 'conditions', 'timeline', 'equipment', 'contaminationRisks', 'steps'])),
+  }).superRefine((data, ctx) => {
+    requireEditorialBasics(data, ctx);
+    requireForPublication(data, ctx, ['targetSpecies', 'difficulty', 'methods', 'substrates', 'conditions', 'timeline', 'equipment', 'contaminationRisks', 'steps']);
+  }),
 });
 
 const recipes = defineCollection({
@@ -121,7 +145,10 @@ const recipes = defineCollection({
       instructions: z.array(z.string()).min(1),
       calories: z.string().optional(),
     }).optional(),
-  }).superRefine((data, ctx) => requireForPublication(data, ctx, ['mushroomSpecies', 'recipe'])),
+  }).superRefine((data, ctx) => {
+    requireEditorialBasics(data, ctx);
+    requireForPublication(data, ctx, ['mushroomSpecies', 'recipe']);
+  }),
 });
 
 const health = defineCollection({
@@ -134,7 +161,8 @@ const health = defineCollection({
     reviewDate: z.coerce.date().optional(),
     medicalDisclaimer: z.string().optional(),
   }).superRefine((data, ctx) => {
-    requireForPublication(data, ctx, ['evidenceSummary', 'evidenceLevel', 'reviewStatus', 'medicalDisclaimer', 'sources', 'faq']);
+    requireEditorialBasics(data, ctx);
+    requireForPublication(data, ctx, ['evidenceSummary', 'evidenceLevel', 'reviewStatus', 'reviewDate', 'medicalDisclaimer', 'sources', 'faq']);
     if (data.draft === false && data.reviewStatus === 'expert-reviewed' && !data.reviewedBy) ctx.addIssue({ code: 'custom', path: ['reviewedBy'], message: 'reviewedBy is required for expert-reviewed health content' });
     if (data.draft === false && data.reviewStatus === 'expert-reviewed' && !data.reviewDate) ctx.addIssue({ code: 'custom', path: ['reviewDate'], message: 'reviewDate is required for expert-reviewed health content' });
   }),

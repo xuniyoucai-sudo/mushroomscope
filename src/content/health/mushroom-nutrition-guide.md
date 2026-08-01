@@ -11,6 +11,7 @@ featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "recipes/mushroom-risotto"]
 evidenceLevel: established
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/mushroom-nutrition-guide.jpg"
 coverAlt: "Assorted cultivated mushrooms arranged for a nutrition overview"
 imageCredit: "Original MushroomScope editorial illustration"

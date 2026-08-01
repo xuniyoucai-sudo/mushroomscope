@@ -11,6 +11,7 @@ featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/mushroom-beta-glucans", "health/lion-s-mane-benefits-evidence"]
 evidenceLevel: moderate
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/fruiting-body-vs-mycelium.jpg"
 coverAlt: "Mushroom fruiting bodies beside a jar of cultivated mycelium"
 imageCredit: "Original MushroomScope editorial illustration"

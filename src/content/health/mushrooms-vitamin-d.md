@@ -11,6 +11,7 @@ featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/cooked-vs-raw-mushrooms", "mushrooms/cremini-mushroom-guide"]
 evidenceLevel: established
 reviewStatus: editorial
+reviewDate: 2026-08-01
 coverImage: "../../assets/health/mushrooms-vitamin-d.jpg"
 coverAlt: "Cultivated button mushrooms shown before and during controlled ultraviolet exposure"
 imageCredit: "Original MushroomScope editorial illustration"
