@@ -10,7 +10,9 @@ const normalizeUrl = (value) => {
   return url.href;
 };
 
-const requested = process.argv.slice(2);
+// Package managers can retain `--` when forwarding script arguments. It is a
+// delimiter, not a URL, and treating it as one would normalize to the homepage.
+const requested = process.argv.slice(2).filter((value) => value !== '--');
 let urlList;
 if (requested.length) {
   urlList = requested.map(normalizeUrl);
