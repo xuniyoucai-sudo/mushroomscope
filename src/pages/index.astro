@@ -12,12 +12,46 @@ const categories = [
   { name: 'Health', href: '/health/', symbol: '✦', text: 'Evidence-aware guides to medicinal mushroom research.' },
   { name: 'Recipes', href: '/recipes/', symbol: '♨', text: 'Make mushrooms the center of deeply flavorful dishes.' }
 ];
+const homeSchema = {
+  '@type': 'CollectionPage',
+  '@id': 'https://mushroomscope.com/#collection',
+  name: 'MushroomScope Mushroom Knowledge Base',
+  description: 'An English-language mushroom encyclopedia covering species, identification, cultivation, health evidence, and recipes.',
+  url: 'https://mushroomscope.com/',
+  isPartOf: { '@id': 'https://mushroomscope.com/#website' },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: categories.length,
+    itemListElement: categories.map((category, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: category.name,
+      url: new URL(category.href, Astro.site).href,
+    })),
+  },
+};
 ---
-<BaseLayout title="Mushroom Encyclopedia & Identification Guides" description="Explore mushroom species, identification guides, growing tutorials, evidence-aware health information, and mushroom recipes at MushroomScope.">
+<BaseLayout title="Mushroom Encyclopedia & Identification Guides" description="Explore mushroom species, identification guides, growing tutorials, evidence-aware health information, and mushroom recipes at MushroomScope." schema={homeSchema}>
   <section class="overflow-hidden bg-[radial-gradient(circle_at_80%_25%,#d9c9aa_0,transparent_32%),linear-gradient(135deg,#faf8f1,#e8eee8)] py-20 sm:py-28">
     <div class="shell grid items-center gap-12 lg:grid-cols-[1.15fr_.85fr]">
       <div><p class="eyebrow">Explore. Identify. Understand.</p><h1 class="mt-5 max-w-4xl font-serif text-5xl leading-[1.04] sm:text-7xl">Explore the World of Mushrooms</h1><p class="mt-6 max-w-2xl text-lg leading-8 text-slate-600 sm:text-xl">Discover mushroom species, identification guides, growing tips, health benefits, and recipes.</p><div class="mt-8 flex flex-wrap gap-3"><a class="button" href="/mushrooms/">Browse the encyclopedia</a><a class="button-secondary" href="/identification/">Learn identification</a></div></div>
       <div class="relative mx-auto aspect-square w-full max-w-md" aria-hidden="true"><div class="absolute inset-[12%] rounded-full bg-forest-800"></div><div class="absolute left-[15%] top-[20%] h-[32%] w-[70%] rounded-[50%_50%_35%_35%] bg-beige-100 shadow-xl"></div><div class="absolute left-[42%] top-[45%] h-[38%] w-[16%] rounded-b-[45%] bg-beige-100"></div><div class="absolute bottom-[8%] left-[18%] right-[18%] h-[14%] rounded-[50%] bg-forest-950/30 blur-xl"></div></div>
+    </div>
+  </section>
+  <section class="shell py-16" aria-labelledby="about-mushroomscope">
+    <div class="grid gap-8 lg:grid-cols-2">
+      <article class="card">
+        <p class="eyebrow">Direct answer</p>
+        <h2 id="about-mushroomscope" class="mt-3 font-serif text-3xl">What is MushroomScope?</h2>
+        <p class="mt-4 text-lg leading-8 text-slate-700"><strong>MushroomScope is an English-language mushroom knowledge base</strong> that connects structured species profiles with identification skills, cultivation guides, evidence-aware health reviews, and recipes for cultivated edible mushrooms.</p>
+        <p class="mt-4 leading-7 text-slate-600">Every published guide identifies its sources, image provenance, editorial date, safety limits, and deliberately related pages. Read how claims are selected and corrected in the <a href="/editorial-policy/">editorial policy</a>.</p>
+      </article>
+      <article class="card">
+        <p class="eyebrow">Evidence and limits</p>
+        <h2 class="mt-3 font-serif text-3xl">Can this site identify a wild mushroom?</h2>
+        <p class="mt-4 text-lg leading-8 text-slate-700"><strong>No website or photograph can confirm that a wild mushroom is safe to eat.</strong> MushroomScope helps readers document multiple characters and understand possible lookalikes; consumption decisions require examination by a qualified local identifier.</p>
+        <p class="mt-4 leading-7 text-slate-600">Taxonomy and food claims are checked against sources appropriate to the question, including <a href="https://www.gbif.org/" rel="external">GBIF</a>, <a href="https://www.ncbi.nlm.nih.gov/taxonomy" rel="external">NCBI Taxonomy</a>, <a href="https://fdc.nal.usda.gov/" rel="external">USDA FoodData Central</a>, and specialist mycological references. See the <a href="/disclaimer/">safety disclaimer</a>.</p>
+      </article>
     </div>
   </section>
   <div class="shell mt-10"><AdBanner /></div>
