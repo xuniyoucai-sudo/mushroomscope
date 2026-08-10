@@ -1,5 +1,6 @@
 ---
 title: "Ganoderma lingzhi: Reishi Mushroom Identification and Evidence Guide"
+seoTitle: "Ganoderma lingzhi: Reishi Identification Guide"
 description: "Understand Ganoderma lingzhi taxonomy, varnished-conk identification, cultivation, supplement evidence, interactions, safety, and responsible FAQs."
 keywords: ["Ganoderma lingzhi","reishi","mushroom identification","mushroom growing guide"]
 category: mushrooms

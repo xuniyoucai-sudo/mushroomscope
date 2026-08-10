@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Growing Troubleshooting: A One-Variable Logbook Method"
+seoTitle: "Mushroom Growing Troubleshooting Guide"
 description: "Troubleshoot a home mushroom grow by separating contamination, moisture, fresh-air, temperature, and harvest-handling observations."
 keywords: ["mushroom growing troubleshooting", "mushroom grow logbook", "oyster mushroom fruiting problems"]
 category: growing

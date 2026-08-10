@@ -1,5 +1,6 @@
 ---
 title: "Pasteurize vs Sterilize Mushroom Substrate: A Home Grower’s Guide"
+seoTitle: "Pasteurize vs Sterilize Mushroom Substrate"
 description: "Choose pasteurization or sterilization by substrate and workflow, then reduce contamination risk with a conservative, documented home-growing process."
 keywords: ["pasteurize vs sterilize mushroom substrate", "mushroom substrate pasteurization", "mushroom substrate sterilization", "home mushroom growing"]
 category: growing

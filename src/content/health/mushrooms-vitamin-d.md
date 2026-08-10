@@ -1,11 +1,13 @@
 ---
 title: "Vitamin D in Mushrooms: UV-Treated Products, Labels, and Evidence"
+seoTitle: "Vitamin D in Mushrooms: Evidence and Labels"
 description: "Vitamin D in mushrooms is usually vitamin D2 from ultraviolet treatment. Learn to read labels and keep food choices separate from medical care."
 keywords: ["vitamin D in mushrooms", "UV treated mushrooms vitamin D2", "mushroom vitamin D label", "vitamin D2 mushrooms evidence"]
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
 updatedDate: 2026-08-04
+revisionSummary: "Clarified UV-treated product evidence, separated label interpretation from health outcomes, tightened safety language, and aligned key claims with primary sources."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/mushroom-supplements-guide", "mushrooms/cremini-mushroom-guide"]

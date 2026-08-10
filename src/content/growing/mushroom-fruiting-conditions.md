@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Fruiting Conditions: Humidity, Air, Light, and Temperature"
+seoTitle: "Mushroom Fruiting Conditions: A Practical Guide"
 description: "Treat temperature, humidity, light, and carbon dioxide as interacting controls and follow the culture supplier’s strain-specific range."
 keywords: ["mushroom fruiting conditions: humidity, air, light, and temperature", "mushroom cultivation", "home growing"]
 category: growing

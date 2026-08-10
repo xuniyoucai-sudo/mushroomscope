@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Seasons: A Field Guide to Timing and Safer Observation"
+seoTitle: "Mushroom Seasons: Timing and Safer Observation"
 description: "Use season, weather, habitat, and repeat field notes to plan mushroom observations without treating a seasonal window as an identification or edibility test."
 keywords: ["mushroom season guide", "when do mushrooms grow", "mushroom fruiting weather", "mushroom field notes"]
 category: identification

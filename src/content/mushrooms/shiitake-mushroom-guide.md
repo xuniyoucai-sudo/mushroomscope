@@ -1,5 +1,6 @@
 ---
 title: "Lentinula edodes: Shiitake Mushroom Identification and Cultivation"
+seoTitle: "Lentinula edodes: Shiitake Species Guide"
 description: "An evidence-aware guide to shiitake identification, hardwood cultivation, nutrition, dermatitis risk, safe cooking, classification, and FAQs."
 keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom growing guide"]
 category: mushrooms

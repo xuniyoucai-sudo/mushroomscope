@@ -1,5 +1,7 @@
 import { getCollection } from 'astro:content';
 
+export const MIN_TAXON_INDEX_ENTRIES = 3;
+
 export async function getAllKnowledgeEntries() {
   const [species, identification, growing, recipes, health] = await Promise.all([
     getCollection('species'),

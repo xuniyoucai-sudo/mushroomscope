@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Fried Rice"
+seoTitle: "Easy Mushroom Fried Rice Recipe"
 description: "Make mushroom fried rice with cultivated shiitake mushrooms, clear steps, practical substitutions, and conservative food-safety guidance."
 keywords: ["mushroom fried rice", "mushroom recipe", "shiitake mushrooms"]
 category: recipes

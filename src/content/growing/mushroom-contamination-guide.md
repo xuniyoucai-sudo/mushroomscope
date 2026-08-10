@@ -1,11 +1,13 @@
 ---
 title: "Mushroom Contamination: Isolate, Record, and Prevent Repeat Problems"
+seoTitle: "Mushroom Contamination: Recognition and Prevention"
 description: "Use a conservative contamination response: isolate unusual batches, avoid food salvage, record the workflow, and reduce repeat risk without guessing from color alone."
 keywords: ["mushroom contamination", "mushroom contamination prevention", "mushroom growing contamination", "contaminated mushroom substrate"]
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
 updatedDate: 2026-08-05
+revisionSummary: "Reframed the page around isolation and prevention, strengthened food-safety limits, aligned claims with extension guidance, and improved intentional internal links."
 draft: false
 featured: false
 relatedEntries: ["growing/sterilize-mushroom-substrate", "growing/mushroom-growing-troubleshooting", "growing/mushroom-grow-bag-guide"]

@@ -8,21 +8,25 @@ import type { ImageMetadata } from 'astro';
 import { entryKey, entryPath, getPublishedEntries } from '../lib/content';
 
 interface FAQItem { question: string; answer: string }
+interface SourceItem { title: string; url: string }
 interface RecipeData { prepTime: string; cookTime: string; totalTime?: string; recipeYield: string; recipeCategory: string; recipeCuisine?: string; ingredients: string[]; instructions: string[]; calories?: string }
 interface Taxonomy { kingdom?: string; phylum?: string; class?: string; order?: string; family?: string; genus: string }
 interface Props {
   title: string;
+  seoTitle?: string;
   description: string;
   category: string;
   author: string;
   publishDate: Date;
   updatedDate?: Date;
+  revisionSummary?: string;
   coverImage?: ImageMetadata;
   coverAlt?: string;
   imageCredit?: string;
   imageNote?: string;
   relatedEntries?: string[];
   faq?: FAQItem[];
+  sources?: SourceItem[];
   recipe?: RecipeData;
   currentKey: string;
   scientificName?: string;
@@ -45,8 +49,8 @@ interface Props {
 }
 
 const {
-  title, description, category, author, publishDate, updatedDate, coverImage, coverAlt, imageCredit, imageNote,
-  faq: editorialFaq = [], recipe, currentKey, scientificName, commonNames = [], taxonomy,
+  title, seoTitle, description, category, author, publishDate, updatedDate, revisionSummary, coverImage, coverAlt, imageCredit, imageNote,
+  faq: editorialFaq = [], sources = [], recipe, currentKey, scientificName, commonNames = [], taxonomy,
   habitat, season, edibility, toxicity, growingDifficulty, appearance, reviewedBy,
   taxonomicAuthority, synonyms = [], externalIds, relatedEntries = [], headings = [], evidenceLevel, reviewStatus, reviewDate,
 } = Astro.props as Props;
@@ -122,6 +126,7 @@ const articleSchema: Record<string, unknown> = {
   ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}),
   ...(scientificName ? { about: { '@id': `${canonical}#taxon` }, mainEntity: { '@id': `${canonical}#taxon` } } : {}),
   ...(reviewedBy ? { reviewedBy: { '@type': 'Person', name: reviewedBy } } : {}),
+  ...(sources.length ? { citation: sources.map((source) => ({ '@type': 'CreativeWork', name: source.title, url: source.url })) } : {}),
 };
 
 const schema = [
@@ -143,7 +148,7 @@ const schema = [
   { '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) },
 ];
 ---
-<BaseLayout title={title} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" schema={schema}>
+<BaseLayout title={title} seoTitle={seoTitle} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" schema={schema}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: categoryName, href: `/${category}/` }, { label: title }]} /></div>
   <article class="shell grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
     <div>
@@ -156,6 +161,7 @@ const schema = [
 
       {(category === 'mushrooms' || category === 'identification') && <div class="mt-8 rounded-2xl border border-amber-300 bg-amber-50 p-5 text-sm leading-6 text-amber-950" role="note"><strong>Identification safety:</strong> This guide is educational. Never eat a wild mushroom unless a qualified local expert has examined the complete specimen in person.</div>}
       {category === 'health' && evidenceLevel && <section class="mt-8 rounded-2xl border border-sage-100 bg-white p-5" aria-label="Evidence and review status"><div class="flex flex-wrap items-center gap-3"><span class="rounded-full bg-sage-100 px-3 py-1 text-xs font-bold uppercase tracking-wider text-forest-800">{formatValue(evidenceLevel)} evidence</span><span class="text-sm text-slate-600">{reviewStatus === 'expert-reviewed' ? `Expert reviewed by ${reviewedBy}` : 'Editorial review only; no named clinical expert review is claimed.'}</span></div></section>}
+      {updatedDate && revisionSummary && <aside class="mt-8 rounded-2xl border border-beige-300 bg-beige-50 p-5 text-sm leading-6 text-slate-700" aria-label="Revision note"><strong>What changed:</strong> {revisionSummary}</aside>}
 
       {coverImage && <figure class="mt-8"><Image src={coverImage} alt={coverAlt || title} widths={[480, 768, 1200, 1600]} sizes="(min-width: 1280px) 880px, (min-width: 1024px) calc(100vw - 380px), 100vw" format="webp" quality="high" loading="eager" fetchpriority="high" decoding="async" class="aspect-[3/2] w-full rounded-3xl object-cover" />{(imageCredit || imageNote) && <figcaption class="mt-3 text-sm leading-6 text-slate-500">{imageCredit && <span>{imageCredit}</span>}{imageCredit && imageNote && <span> · </span>}{imageNote && <span>{imageNote}</span>}</figcaption>}</figure>}
 

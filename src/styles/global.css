@@ -31,8 +31,16 @@
   .prose h2 { @apply mt-12 font-serif text-3xl text-forest-950; }
   .prose h3 { @apply mt-8 font-serif text-2xl text-forest-950; }
   .prose a { @apply font-medium text-forest-700 underline; }
+  .prose table { @apply block w-full overflow-x-auto whitespace-nowrap; }
+  .prose th { @apply bg-sage-100 font-bold; }
+  .prose th, .prose td { @apply border border-beige-300 px-4 py-3 text-left align-top; }
 }
 
 @media (min-width: 768px) {
   article.card { content-visibility: auto; contain-intrinsic-size: 320px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
 }

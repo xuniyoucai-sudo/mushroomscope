@@ -16,6 +16,16 @@ export const GET: APIRoute = async () => {
     if (entry.collection === 'species') {
       if (typeof searchable.scientificName === 'string') terms.push(searchable.scientificName);
       addList('commonNames');
+      const taxonomy = searchable.taxonomy as { genus?: string; family?: string } | undefined;
+      if (taxonomy?.genus) terms.push(taxonomy.genus);
+      if (taxonomy?.family) terms.push(taxonomy.family);
+      const habitat = searchable.habitat as { regions?: string[]; substrates?: string[] } | undefined;
+      terms.push(...(habitat?.regions ?? []), ...(habitat?.substrates ?? []));
+      const similarSpecies = searchable.similarSpecies as { name?: string }[] | undefined;
+      terms.push(...(similarSpecies ?? []).map(({ name }) => name).filter((name): name is string => Boolean(name)));
+    } else if (entry.collection === 'identification') {
+      const habitat = searchable.habitat as { regions?: string[]; substrates?: string[]; associatedTrees?: string[] } | undefined;
+      terms.push(...(habitat?.regions ?? []), ...(habitat?.substrates ?? []), ...(habitat?.associatedTrees ?? []));
     } else if (entry.collection === 'recipes') {
       addList('mushroomSpecies');
       addList('dietaryTags');
@@ -30,7 +40,7 @@ export const GET: APIRoute = async () => {
       description: data.description,
       category: data.category,
       url: entryPath(entry),
-      terms: terms.filter(Boolean),
+      terms: [...new Set(terms.filter(Boolean))],
     };
   });
 

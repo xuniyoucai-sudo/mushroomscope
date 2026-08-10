@@ -1,5 +1,6 @@
 ---
 title: "Pleurotus ostreatus: Oyster Mushroom Identification and Growing Guide"
+seoTitle: "Pleurotus ostreatus: Oyster Mushroom Guide"
 description: "A careful guide to Pleurotus ostreatus identification, habitat, home cultivation, nutrition, lookalikes, food safety, and research limitations."
 keywords: ["Pleurotus ostreatus","oyster mushroom","mushroom identification","mushroom growing guide"]
 category: mushrooms

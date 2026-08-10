@@ -1,5 +1,6 @@
 ---
 title: "Lion's Mane Benefits: What Human Research Can and Cannot Show"
+seoTitle: "Lion's Mane Benefits: Human Evidence Review"
 description: "Small human trials of lion’s mane examine specific products and outcomes; they do not establish prevention or treatment of neurological disease."
 keywords: ["lion's mane human trials", "Hericium erinaceus cognition", "lion's mane safety"]
 category: health

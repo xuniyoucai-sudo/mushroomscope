@@ -3,6 +3,8 @@ const links = [
   ['Mushrooms', '/mushrooms/'], ['Identify', '/identification/'], ['Growing', '/growing/'],
   ['Health', '/health/'], ['Recipes', '/recipes/'], ['Glossary', '/glossary/'], ['Search', '/search/']
 ];
+const currentPath = Astro.url.pathname;
+const isCurrent = (href: string) => href === '/' ? currentPath === '/' : currentPath.startsWith(href);
 ---
 <header class="border-b border-beige-300/70 bg-beige-50/95">
   <div class="shell flex min-h-18 items-center justify-between gap-6">
@@ -11,12 +13,12 @@ const links = [
       MushroomScope
     </a>
     <nav aria-label="Main navigation" class="hidden items-center gap-6 lg:flex">
-      {links.map(([label, href]) => <a href={href} class="text-sm font-semibold no-underline hover:text-forest-700">{label}</a>)}
+      {links.map(([label, href]) => <a href={href} aria-current={isCurrent(href) ? 'page' : undefined} class:list={["text-sm font-semibold no-underline hover:text-forest-700", isCurrent(href) && "text-forest-700 underline decoration-2 underline-offset-8"]}>{label}</a>)}
     </nav>
     <details class="relative lg:hidden">
       <summary class="cursor-pointer rounded-full border border-beige-300 px-4 py-2 font-semibold">Menu</summary>
       <nav aria-label="Mobile navigation" class="absolute right-0 z-20 mt-2 grid min-w-48 gap-1 rounded-2xl border border-beige-300 bg-white p-3 shadow-xl">
-        {links.map(([label, href]) => <a href={href} class="rounded-lg px-3 py-2 font-semibold no-underline hover:bg-sage-100">{label}</a>)}
+        {links.map(([label, href]) => <a href={href} aria-current={isCurrent(href) ? 'page' : undefined} class:list={["rounded-lg px-3 py-2 font-semibold no-underline hover:bg-sage-100", isCurrent(href) && "bg-sage-100 text-forest-800"]}>{label}</a>)}
       </nav>
     </details>
   </div>

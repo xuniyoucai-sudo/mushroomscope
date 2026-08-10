@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
-import { entryPath, getPublishedEntries } from '../lib/content';
+import { entryPath, getPublishedEntries, MIN_TAXON_INDEX_ENTRIES } from '../lib/content';
 
-const staticPaths = ['/', '/about/', '/authors/mushroomscope-editorial-team/', '/contact/', '/editorial-policy/', '/disclaimer/', '/glossary/', '/privacy-policy/', '/sitemap/', '/terms/'];
+const staticPaths = ['/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/contact/', '/editorial-policy/', '/disclaimer/', '/glossary/', '/privacy-policy/', '/rss/', '/sitemap/', '/terms/'];
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value
@@ -15,11 +15,15 @@ export const GET: APIRoute = async ({ site }) => {
   const articles = await getPublishedEntries();
   const populatedCategories = [...new Set(articles.map(({ data }) => data.category))];
   const species = articles.filter(({ data }) => data.category === 'mushrooms');
-  const genera = [...new Set(species.map(({ data }) => (data as any).taxonomy?.genus).filter(Boolean))];
-  const families = [...new Set(species.map(({ data }) => (data as any).taxonomy?.family).filter(Boolean))];
+  const countTaxa = (rank: 'genus' | 'family') => species.reduce((counts, { data }) => {
+    const value = (data as any).taxonomy?.[rank];
+    if (value) counts.set(value, (counts.get(value) ?? 0) + 1);
+    return counts;
+  }, new Map<string, number>());
+  const genera = [...countTaxa('genus')].filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES).map(([name]) => name);
+  const families = [...countTaxa('family')].filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES).map(([name]) => name);
   const paths: SitemapEntry[] = [
     ...staticPaths.map((path) => ({ path })),
-    ...(articles.length ? [{ path: '/blog/' }] : []),
     ...populatedCategories.map((category) => ({ path: `/${category}/` })),
     ...genera.map((genus) => ({ path: `/mushrooms/genus/${String(genus).toLowerCase()}/` })),
     ...families.map((family) => ({ path: `/mushrooms/family/${String(family).toLowerCase()}/` })),

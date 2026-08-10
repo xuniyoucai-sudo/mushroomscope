@@ -1,5 +1,6 @@
 ---
 title: "Agaricus bisporus: Button, Cremini, and Portobello Mushroom Guide"
+seoTitle: "Agaricus bisporus: Cremini and Portobello Guide"
 description: "Learn how Agaricus bisporus becomes button, cremini, or portobello, with identification, cultivation, nutrition, safety, and evidence-based FAQs."
 keywords: ["Agaricus bisporus","white button mushroom","mushroom identification","mushroom growing guide"]
 category: mushrooms

@@ -1,5 +1,6 @@
 ---
 title: "Creamy Mushroom Pasta"
+seoTitle: "Creamy Mushroom Pasta Recipe and Cooking Guide"
 description: "Make creamy mushroom pasta with cultivated cremini mushrooms, clear steps, practical substitutions, and conservative food-safety guidance."
 keywords: ["creamy mushroom pasta", "mushroom recipe", "cremini mushrooms"]
 category: recipes

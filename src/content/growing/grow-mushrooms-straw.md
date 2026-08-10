@@ -6,6 +6,7 @@ category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-06
 updatedDate: 2026-08-06
+revisionSummary: "Expanded the oyster-on-straw workflow, added an original home-batch illustration, strengthened contamination limits, and aligned claims with cultivation sources."
 draft: false
 featured: false
 relatedEntries: ["growing/sterilize-mushroom-substrate", "growing/mushroom-fruiting-conditions", "growing/mushroom-contamination-guide"]

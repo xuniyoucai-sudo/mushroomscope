@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Growing Temperatures: Use a Batch Log, Not a Generic Chart"
+seoTitle: "Mushroom Growing Temperatures and Batch Logs"
 description: "Set and troubleshoot mushroom growing temperatures with a species- and batch-specific log instead of copying universal incubation or fruiting numbers."
 keywords: ["mushroom growing temperatures", "mushroom incubation temperature", "mushroom fruiting temperature", "mushroom temperature log"]
 category: growing

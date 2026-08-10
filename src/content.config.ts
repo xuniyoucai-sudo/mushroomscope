@@ -8,12 +8,14 @@ const difficulty = z.enum(['easy', 'moderate', 'difficult', 'expert', 'unknown']
 
 const commonFields = (image: () => z.ZodType<ImageMetadata>, category: (typeof categories)[number]) => ({
   title: z.string().min(10),
+  seoTitle: z.string().min(30).max(60).optional(),
   description: z.string().min(50).max(170),
   keywords: z.array(z.string()).default([]),
   category: z.literal(category),
   author: z.string().default('MushroomScope Editorial Team'),
   publishDate: z.coerce.date(),
   updatedDate: z.coerce.date().optional(),
+  revisionSummary: z.string().min(20).max(240).optional(),
   coverImage: image().optional(),
   coverAlt: z.string().optional(),
   imageCredit: z.string().optional(),

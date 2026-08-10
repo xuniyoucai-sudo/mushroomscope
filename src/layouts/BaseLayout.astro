@@ -4,11 +4,27 @@ import Footer from '../components/Footer.astro';
 import ConsentPreferences from '../components/ConsentPreferences.astro';
 import '../styles/global.css';
 
-interface Props { title: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
-const { title, description, image, imageAlt, type = 'website', noindex = false, schema } = Astro.props;
+interface Props { title: string; seoTitle?: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
+const { title, seoTitle, description, image, imageAlt, type = 'website', noindex = false, schema } = Astro.props;
 const siteName = 'MushroomScope';
-const pageTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const pathTitleOverrides: Record<string, string> = {
+  '/about/': 'About MushroomScope: Mission & Editorial Standards',
+  '/blog/': 'Mushroom Guides, Research & Recipes | MushroomScope',
+  '/contact/': 'Contact MushroomScope: Corrections & Editorial Queries',
+  '/editorial-policy/': 'MushroomScope Editorial and Fact-Checking Policy',
+  '/growing/': 'Mushroom Growing Guides & Cultivation Database',
+  '/health/': 'Mushroom Health Evidence & Nutrition Guides',
+  '/mushrooms/': 'Mushroom Species Encyclopedia & Taxonomy Database',
+  '/privacy-policy/': 'MushroomScope Privacy, Analytics & Consent Policy',
+  '/recipes/': 'Mushroom Recipes, Cooking Guides & Techniques',
+  '/rss/': 'MushroomScope RSS Feed: New and Updated Guides',
+  '/sitemap/': 'MushroomScope HTML Sitemap & Knowledge Index',
+  '/terms/': 'MushroomScope Terms of Use & Content Conditions',
+};
+const titleCandidate = seoTitle?.trim() || pathTitleOverrides[Astro.url.pathname] || title;
+const brandedTitle = titleCandidate.includes(siteName) ? titleCandidate : `${titleCandidate} | ${siteName}`;
+const pageTitle = brandedTitle.length <= 60 ? brandedTitle : titleCandidate;
 const imageUrl = image ? new URL(image, Astro.site) : undefined;
 const verification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 const gaId = import.meta.env.PUBLIC_GA_ID;
@@ -16,7 +32,7 @@ const adsenseId = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID;
 const organizationId = 'https://mushroomscope.com/#organization';
 const websiteId = 'https://mushroomscope.com/#website';
 const graph = [
-  { '@type': 'Organization', '@id': organizationId, name: 'MushroomScope', url: 'https://mushroomscope.com/', logo: { '@type': 'ImageObject', url: 'https://mushroomscope.com/favicon.svg', width: 512, height: 512 }, email: 'hello@mushroomscope.com' },
+  { '@type': 'Organization', '@id': organizationId, name: 'MushroomScope', url: 'https://mushroomscope.com/', logo: { '@type': 'ImageObject', url: 'https://mushroomscope.com/favicon.svg', width: 512, height: 512 }, email: 'hello@mushroomscope.com', sameAs: ['https://github.com/xuniyoucai-sudo/mushroomscope'] },
   { '@type': 'WebSite', '@id': websiteId, name: 'MushroomScope', url: 'https://mushroomscope.com/', description: 'Explore the fascinating world of mushrooms.', publisher: { '@id': organizationId }, inLanguage: 'en', potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: 'https://mushroomscope.com/search/?q={search_term_string}' }, 'query-input': 'required name=search_term_string' } },
   { '@type': 'WebPage', '@id': `${canonical.href}#webpage`, url: canonical.href, name: pageTitle, description, isPartOf: { '@id': websiteId }, about: { '@id': organizationId }, inLanguage: 'en' },
   ...(Array.isArray(schema) ? schema : schema ? [schema] : [])
