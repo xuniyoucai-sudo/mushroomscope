@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { entryPath, getPublishedEntries, MIN_TAXON_INDEX_ENTRIES } from '../lib/content';
 
-const staticPaths = ['/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/contact/', '/editorial-policy/', '/disclaimer/', '/glossary/', '/privacy-policy/', '/rss/', '/sitemap/', '/terms/'];
+const staticPaths = ['/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/editorial-policy/', '/glossary/'];
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value
