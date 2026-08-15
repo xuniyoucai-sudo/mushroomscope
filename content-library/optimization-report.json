@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-08-15T08:18:54.917Z",
+  "total": 500,
+  "categoryCounts": {
+    "growing": 100,
+    "health": 100,
+    "identification": 100,
+    "mushrooms": 100,
+    "recipes": 100
+  },
+  "optimizationPasses": [
+    {
+      "pass": 1,
+      "focus": "structure-and-schema",
+      "result": "passed"
+    },
+    {
+      "pass": 2,
+      "focus": "search-intent-and-deduplication",
+      "result": "passed"
+    },
+    {
+      "pass": 3,
+      "focus": "publication-safety-and-editorial-gates",
+      "result": "passed"
+    }
+  ],
+  "issues": []
+}

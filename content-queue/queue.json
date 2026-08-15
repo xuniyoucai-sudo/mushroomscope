@@ -1,5 +1,5 @@
 {
-  "dailyLimit": 10,
+  "dailyLimit": 2,
   "updatedAt": "2026-08-15",
   "items": [
     {
@@ -92,5 +92,10 @@
       "notes": "Weekend publishing batch item; review final page after build.",
       "publishedDate": "2026-08-15"
     }
-  ]
+  ],
+  "library": {
+    "manifest": "content-library/manifest.json",
+    "count": 500,
+    "policy": "Only reviewed items may be copied into this queue with status ready."
+  }
 }

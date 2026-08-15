@@ -1,0 +1,579 @@
+{
+  "generatedAt": "2026-08-15T08:18:55.262Z",
+  "count": 30,
+  "publicationReady": 0,
+  "issues": [
+    "src/content/mushrooms/black-trumpet-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/black-trumpet-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/wine-cap-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/wine-cap-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/pioppino-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/pioppino-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/nameko-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/nameko-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/paddy-straw-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/paddy-straw-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/beech-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/beech-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/cauliflower-fungus-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/cauliflower-fungus-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/matsutake-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/matsutake-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/tinder-fungus-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/tinder-fungus-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/artists-conk-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/artists-conk-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/chaga-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/chaga-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/birch-polypore-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/birch-polypore-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/dryads-saddle-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/dryads-saddle-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/honey-fungus-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/honey-fungus-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/velvet-shank-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/velvet-shank-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/parasol-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/parasol-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/field-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/field-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/horse-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/horse-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/saffron-milk-cap-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/saffron-milk-cap-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/indigo-milk-cap-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/indigo-milk-cap-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/yellowfoot-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/yellowfoot-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/coral-tooth-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/coral-tooth-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/pink-oyster-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/pink-oyster-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/golden-oyster-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/golden-oyster-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/phoenix-oyster-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/phoenix-oyster-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/cloud-ear-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/cloud-ear-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/inky-cap-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/inky-cap-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/slippery-jack-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/slippery-jack-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/pine-bolete-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/pine-bolete-mushroom-guide.md: localCoverImage",
+    "src/content/mushrooms/jelly-tooth-mushroom-guide.md: sufficientBody",
+    "src/content/mushrooms/jelly-tooth-mushroom-guide.md: localCoverImage"
+  ],
+  "entries": [
+    {
+      "file": "src/content/mushrooms/black-trumpet-mushroom-guide.md",
+      "slug": "black-trumpet-mushroom-guide",
+      "wordCount": 565,
+      "exactGbif": "https://www.gbif.org/species/2554662",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/wine-cap-mushroom-guide.md",
+      "slug": "wine-cap-mushroom-guide",
+      "wordCount": 569,
+      "exactGbif": "https://www.gbif.org/species/2533347",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/pioppino-mushroom-guide.md",
+      "slug": "pioppino-mushroom-guide",
+      "wordCount": 561,
+      "exactGbif": "https://www.gbif.org/species/7941167",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/nameko-mushroom-guide.md",
+      "slug": "nameko-mushroom-guide",
+      "wordCount": 552,
+      "exactGbif": "https://www.gbif.org/species/9751347",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/paddy-straw-mushroom-guide.md",
+      "slug": "paddy-straw-mushroom-guide",
+      "wordCount": 572,
+      "exactGbif": "https://www.gbif.org/species/5241445",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/beech-mushroom-guide.md",
+      "slug": "beech-mushroom-guide",
+      "wordCount": 550,
+      "exactGbif": "https://www.gbif.org/species/2530653",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/cauliflower-fungus-mushroom-guide.md",
+      "slug": "cauliflower-fungus-mushroom-guide",
+      "wordCount": 566,
+      "exactGbif": "https://www.gbif.org/species/2550247",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/matsutake-mushroom-guide.md",
+      "slug": "matsutake-mushroom-guide",
+      "wordCount": 556,
+      "exactGbif": "https://www.gbif.org/species/5241820",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/tinder-fungus-mushroom-guide.md",
+      "slug": "tinder-fungus-mushroom-guide",
+      "wordCount": 557,
+      "exactGbif": "https://www.gbif.org/species/8068867",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/artists-conk-mushroom-guide.md",
+      "slug": "artists-conk-mushroom-guide",
+      "wordCount": 555,
+      "exactGbif": "https://www.gbif.org/species/2549834",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/chaga-mushroom-guide.md",
+      "slug": "chaga-mushroom-guide",
+      "wordCount": 578,
+      "exactGbif": "https://www.gbif.org/species/2521089",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/birch-polypore-mushroom-guide.md",
+      "slug": "birch-polypore-mushroom-guide",
+      "wordCount": 542,
+      "exactGbif": "https://www.gbif.org/species/9819973",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/dryads-saddle-mushroom-guide.md",
+      "slug": "dryads-saddle-mushroom-guide",
+      "wordCount": 548,
+      "exactGbif": "https://www.gbif.org/species/2547092",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/honey-fungus-mushroom-guide.md",
+      "slug": "honey-fungus-mushroom-guide",
+      "wordCount": 549,
+      "exactGbif": "https://www.gbif.org/species/2536891",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/velvet-shank-mushroom-guide.md",
+      "slug": "velvet-shank-mushroom-guide",
+      "wordCount": 554,
+      "exactGbif": "https://www.gbif.org/species/3341441",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/parasol-mushroom-guide.md",
+      "slug": "parasol-mushroom-guide",
+      "wordCount": 559,
+      "exactGbif": "https://www.gbif.org/species/8914748",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/field-mushroom-guide.md",
+      "slug": "field-mushroom-guide",
+      "wordCount": 569,
+      "exactGbif": "https://www.gbif.org/species/5243458",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/horse-mushroom-guide.md",
+      "slug": "horse-mushroom-guide",
+      "wordCount": 567,
+      "exactGbif": "https://www.gbif.org/species/5243403",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/saffron-milk-cap-mushroom-guide.md",
+      "slug": "saffron-milk-cap-mushroom-guide",
+      "wordCount": 553,
+      "exactGbif": "https://www.gbif.org/species/5248629",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/indigo-milk-cap-mushroom-guide.md",
+      "slug": "indigo-milk-cap-mushroom-guide",
+      "wordCount": 555,
+      "exactGbif": "https://www.gbif.org/species/7240044",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/yellowfoot-mushroom-guide.md",
+      "slug": "yellowfoot-mushroom-guide",
+      "wordCount": 558,
+      "exactGbif": "https://www.gbif.org/species/2554536",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/coral-tooth-mushroom-guide.md",
+      "slug": "coral-tooth-mushroom-guide",
+      "wordCount": 562,
+      "exactGbif": "https://www.gbif.org/species/5248532",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/pink-oyster-mushroom-guide.md",
+      "slug": "pink-oyster-mushroom-guide",
+      "wordCount": 564,
+      "exactGbif": "https://www.gbif.org/species/2526599",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/golden-oyster-mushroom-guide.md",
+      "slug": "golden-oyster-mushroom-guide",
+      "wordCount": 558,
+      "exactGbif": "https://www.gbif.org/species/2526504",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/phoenix-oyster-mushroom-guide.md",
+      "slug": "phoenix-oyster-mushroom-guide",
+      "wordCount": 559,
+      "exactGbif": "https://www.gbif.org/species/2526548",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/cloud-ear-mushroom-guide.md",
+      "slug": "cloud-ear-mushroom-guide",
+      "wordCount": 561,
+      "exactGbif": "https://www.gbif.org/species/5249287",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/inky-cap-mushroom-guide.md",
+      "slug": "inky-cap-mushroom-guide",
+      "wordCount": 552,
+      "exactGbif": "https://www.gbif.org/species/5242740",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/slippery-jack-mushroom-guide.md",
+      "slug": "slippery-jack-mushroom-guide",
+      "wordCount": 552,
+      "exactGbif": "https://www.gbif.org/species/7777157",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/pine-bolete-mushroom-guide.md",
+      "slug": "pine-bolete-mushroom-guide",
+      "wordCount": 559,
+      "exactGbif": "https://www.gbif.org/species/5954949",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    },
+    {
+      "file": "src/content/mushrooms/jelly-tooth-mushroom-guide.md",
+      "slug": "jelly-tooth-mushroom-guide",
+      "wordCount": 551,
+      "exactGbif": "https://www.gbif.org/species/5249353",
+      "checks": {
+        "draftIsolated": true,
+        "completeSchema": true,
+        "exactTaxonSource": true,
+        "sourceCount": true,
+        "faqCount": true,
+        "internalLinks": true,
+        "sufficientBody": false,
+        "localCoverImage": false
+      },
+      "publicationReady": false
+    }
+  ]
+}

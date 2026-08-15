@@ -1,0 +1,4509 @@
+{
+  "version": 1,
+  "createdAt": "2026-08-15",
+  "count": 500,
+  "status": "research-draft",
+  "publicationPolicy": "Move into src/content only after human fact-checking, topic-specific citations, original imagery, internal-link review, and schema completion.",
+  "items": [
+    {
+      "id": "MS-0001",
+      "key": "mushrooms/oyster-mushroom-field-profile",
+      "title": "Oyster Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/oyster-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 1
+    },
+    {
+      "id": "MS-0002",
+      "key": "mushrooms/oyster-mushroom-taxonomy-explained",
+      "title": "Oyster Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/oyster-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 2
+    },
+    {
+      "id": "MS-0003",
+      "key": "mushrooms/oyster-mushroom-habitat-and-ecology",
+      "title": "Oyster Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/oyster-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 3
+    },
+    {
+      "id": "MS-0004",
+      "key": "mushrooms/oyster-mushroom-lookalike-framework",
+      "title": "Oyster Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/oyster-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 4
+    },
+    {
+      "id": "MS-0005",
+      "key": "mushrooms/oyster-mushroom-culinary-sourcing-guide",
+      "title": "Oyster Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/oyster-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 5
+    },
+    {
+      "id": "MS-0006",
+      "key": "mushrooms/shiitake-field-profile",
+      "title": "Shiitake Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shiitake-field-profile.md",
+      "status": "research-draft",
+      "priority": 6
+    },
+    {
+      "id": "MS-0007",
+      "key": "mushrooms/shiitake-taxonomy-explained",
+      "title": "Shiitake Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shiitake-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 7
+    },
+    {
+      "id": "MS-0008",
+      "key": "mushrooms/shiitake-habitat-and-ecology",
+      "title": "Shiitake Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shiitake-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 8
+    },
+    {
+      "id": "MS-0009",
+      "key": "mushrooms/shiitake-lookalike-framework",
+      "title": "Shiitake Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shiitake-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 9
+    },
+    {
+      "id": "MS-0010",
+      "key": "mushrooms/shiitake-culinary-sourcing-guide",
+      "title": "Shiitake Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shiitake-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 10
+    },
+    {
+      "id": "MS-0011",
+      "key": "mushrooms/lions-mane-field-profile",
+      "title": "Lion’S Mane Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lions-mane-field-profile.md",
+      "status": "research-draft",
+      "priority": 11
+    },
+    {
+      "id": "MS-0012",
+      "key": "mushrooms/lions-mane-taxonomy-explained",
+      "title": "Lion’S Mane Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lions-mane-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 12
+    },
+    {
+      "id": "MS-0013",
+      "key": "mushrooms/lions-mane-habitat-and-ecology",
+      "title": "Lion’S Mane Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lions-mane-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 13
+    },
+    {
+      "id": "MS-0014",
+      "key": "mushrooms/lions-mane-lookalike-framework",
+      "title": "Lion’S Mane Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lions-mane-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 14
+    },
+    {
+      "id": "MS-0015",
+      "key": "mushrooms/lions-mane-culinary-sourcing-guide",
+      "title": "Lion’S Mane Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lions-mane-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 15
+    },
+    {
+      "id": "MS-0016",
+      "key": "mushrooms/maitake-field-profile",
+      "title": "Maitake Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/maitake-field-profile.md",
+      "status": "research-draft",
+      "priority": 16
+    },
+    {
+      "id": "MS-0017",
+      "key": "mushrooms/maitake-taxonomy-explained",
+      "title": "Maitake Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/maitake-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 17
+    },
+    {
+      "id": "MS-0018",
+      "key": "mushrooms/maitake-habitat-and-ecology",
+      "title": "Maitake Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/maitake-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 18
+    },
+    {
+      "id": "MS-0019",
+      "key": "mushrooms/maitake-lookalike-framework",
+      "title": "Maitake Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/maitake-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 19
+    },
+    {
+      "id": "MS-0020",
+      "key": "mushrooms/maitake-culinary-sourcing-guide",
+      "title": "Maitake Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/maitake-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 20
+    },
+    {
+      "id": "MS-0021",
+      "key": "mushrooms/king-oyster-mushroom-field-profile",
+      "title": "King Oyster Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/king-oyster-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 21
+    },
+    {
+      "id": "MS-0022",
+      "key": "mushrooms/king-oyster-mushroom-taxonomy-explained",
+      "title": "King Oyster Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/king-oyster-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 22
+    },
+    {
+      "id": "MS-0023",
+      "key": "mushrooms/king-oyster-mushroom-habitat-and-ecology",
+      "title": "King Oyster Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/king-oyster-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 23
+    },
+    {
+      "id": "MS-0024",
+      "key": "mushrooms/king-oyster-mushroom-lookalike-framework",
+      "title": "King Oyster Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/king-oyster-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 24
+    },
+    {
+      "id": "MS-0025",
+      "key": "mushrooms/king-oyster-mushroom-culinary-sourcing-guide",
+      "title": "King Oyster Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/king-oyster-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 25
+    },
+    {
+      "id": "MS-0026",
+      "key": "mushrooms/enoki-field-profile",
+      "title": "Enoki Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/enoki-field-profile.md",
+      "status": "research-draft",
+      "priority": 26
+    },
+    {
+      "id": "MS-0027",
+      "key": "mushrooms/enoki-taxonomy-explained",
+      "title": "Enoki Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/enoki-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 27
+    },
+    {
+      "id": "MS-0028",
+      "key": "mushrooms/enoki-habitat-and-ecology",
+      "title": "Enoki Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/enoki-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 28
+    },
+    {
+      "id": "MS-0029",
+      "key": "mushrooms/enoki-lookalike-framework",
+      "title": "Enoki Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/enoki-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 29
+    },
+    {
+      "id": "MS-0030",
+      "key": "mushrooms/enoki-culinary-sourcing-guide",
+      "title": "Enoki Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/enoki-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 30
+    },
+    {
+      "id": "MS-0031",
+      "key": "mushrooms/wood-ear-mushroom-field-profile",
+      "title": "Wood Ear Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/wood-ear-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 31
+    },
+    {
+      "id": "MS-0032",
+      "key": "mushrooms/wood-ear-mushroom-taxonomy-explained",
+      "title": "Wood Ear Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/wood-ear-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 32
+    },
+    {
+      "id": "MS-0033",
+      "key": "mushrooms/wood-ear-mushroom-habitat-and-ecology",
+      "title": "Wood Ear Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/wood-ear-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 33
+    },
+    {
+      "id": "MS-0034",
+      "key": "mushrooms/wood-ear-mushroom-lookalike-framework",
+      "title": "Wood Ear Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/wood-ear-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 34
+    },
+    {
+      "id": "MS-0035",
+      "key": "mushrooms/wood-ear-mushroom-culinary-sourcing-guide",
+      "title": "Wood Ear Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/wood-ear-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 35
+    },
+    {
+      "id": "MS-0036",
+      "key": "mushrooms/reishi-field-profile",
+      "title": "Reishi Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/reishi-field-profile.md",
+      "status": "research-draft",
+      "priority": 36
+    },
+    {
+      "id": "MS-0037",
+      "key": "mushrooms/reishi-taxonomy-explained",
+      "title": "Reishi Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/reishi-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 37
+    },
+    {
+      "id": "MS-0038",
+      "key": "mushrooms/reishi-habitat-and-ecology",
+      "title": "Reishi Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/reishi-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 38
+    },
+    {
+      "id": "MS-0039",
+      "key": "mushrooms/reishi-lookalike-framework",
+      "title": "Reishi Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/reishi-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 39
+    },
+    {
+      "id": "MS-0040",
+      "key": "mushrooms/reishi-culinary-sourcing-guide",
+      "title": "Reishi Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/reishi-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 40
+    },
+    {
+      "id": "MS-0041",
+      "key": "mushrooms/turkey-tail-field-profile",
+      "title": "Turkey Tail Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/turkey-tail-field-profile.md",
+      "status": "research-draft",
+      "priority": 41
+    },
+    {
+      "id": "MS-0042",
+      "key": "mushrooms/turkey-tail-taxonomy-explained",
+      "title": "Turkey Tail Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/turkey-tail-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 42
+    },
+    {
+      "id": "MS-0043",
+      "key": "mushrooms/turkey-tail-habitat-and-ecology",
+      "title": "Turkey Tail Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/turkey-tail-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 43
+    },
+    {
+      "id": "MS-0044",
+      "key": "mushrooms/turkey-tail-lookalike-framework",
+      "title": "Turkey Tail Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/turkey-tail-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 44
+    },
+    {
+      "id": "MS-0045",
+      "key": "mushrooms/turkey-tail-culinary-sourcing-guide",
+      "title": "Turkey Tail Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/turkey-tail-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 45
+    },
+    {
+      "id": "MS-0046",
+      "key": "mushrooms/cremini-mushroom-field-profile",
+      "title": "Cremini Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/cremini-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 46
+    },
+    {
+      "id": "MS-0047",
+      "key": "mushrooms/cremini-mushroom-taxonomy-explained",
+      "title": "Cremini Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/cremini-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 47
+    },
+    {
+      "id": "MS-0048",
+      "key": "mushrooms/cremini-mushroom-habitat-and-ecology",
+      "title": "Cremini Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/cremini-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 48
+    },
+    {
+      "id": "MS-0049",
+      "key": "mushrooms/cremini-mushroom-lookalike-framework",
+      "title": "Cremini Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/cremini-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 49
+    },
+    {
+      "id": "MS-0050",
+      "key": "mushrooms/cremini-mushroom-culinary-sourcing-guide",
+      "title": "Cremini Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/cremini-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 50
+    },
+    {
+      "id": "MS-0051",
+      "key": "mushrooms/portobello-mushroom-field-profile",
+      "title": "Portobello Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/portobello-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 51
+    },
+    {
+      "id": "MS-0052",
+      "key": "mushrooms/portobello-mushroom-taxonomy-explained",
+      "title": "Portobello Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/portobello-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 52
+    },
+    {
+      "id": "MS-0053",
+      "key": "mushrooms/portobello-mushroom-habitat-and-ecology",
+      "title": "Portobello Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/portobello-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 53
+    },
+    {
+      "id": "MS-0054",
+      "key": "mushrooms/portobello-mushroom-lookalike-framework",
+      "title": "Portobello Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/portobello-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 54
+    },
+    {
+      "id": "MS-0055",
+      "key": "mushrooms/portobello-mushroom-culinary-sourcing-guide",
+      "title": "Portobello Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/portobello-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 55
+    },
+    {
+      "id": "MS-0056",
+      "key": "mushrooms/chanterelle-field-profile",
+      "title": "Chanterelle Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chanterelle-field-profile.md",
+      "status": "research-draft",
+      "priority": 56
+    },
+    {
+      "id": "MS-0057",
+      "key": "mushrooms/chanterelle-taxonomy-explained",
+      "title": "Chanterelle Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chanterelle-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 57
+    },
+    {
+      "id": "MS-0058",
+      "key": "mushrooms/chanterelle-habitat-and-ecology",
+      "title": "Chanterelle Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chanterelle-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 58
+    },
+    {
+      "id": "MS-0059",
+      "key": "mushrooms/chanterelle-lookalike-framework",
+      "title": "Chanterelle Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chanterelle-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 59
+    },
+    {
+      "id": "MS-0060",
+      "key": "mushrooms/chanterelle-culinary-sourcing-guide",
+      "title": "Chanterelle Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chanterelle-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 60
+    },
+    {
+      "id": "MS-0061",
+      "key": "mushrooms/morel-field-profile",
+      "title": "Morel Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/morel-field-profile.md",
+      "status": "research-draft",
+      "priority": 61
+    },
+    {
+      "id": "MS-0062",
+      "key": "mushrooms/morel-taxonomy-explained",
+      "title": "Morel Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/morel-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 62
+    },
+    {
+      "id": "MS-0063",
+      "key": "mushrooms/morel-habitat-and-ecology",
+      "title": "Morel Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/morel-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 63
+    },
+    {
+      "id": "MS-0064",
+      "key": "mushrooms/morel-lookalike-framework",
+      "title": "Morel Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/morel-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 64
+    },
+    {
+      "id": "MS-0065",
+      "key": "mushrooms/morel-culinary-sourcing-guide",
+      "title": "Morel Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/morel-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 65
+    },
+    {
+      "id": "MS-0066",
+      "key": "mushrooms/porcini-field-profile",
+      "title": "Porcini Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/porcini-field-profile.md",
+      "status": "research-draft",
+      "priority": 66
+    },
+    {
+      "id": "MS-0067",
+      "key": "mushrooms/porcini-taxonomy-explained",
+      "title": "Porcini Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/porcini-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 67
+    },
+    {
+      "id": "MS-0068",
+      "key": "mushrooms/porcini-habitat-and-ecology",
+      "title": "Porcini Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/porcini-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 68
+    },
+    {
+      "id": "MS-0069",
+      "key": "mushrooms/porcini-lookalike-framework",
+      "title": "Porcini Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/porcini-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 69
+    },
+    {
+      "id": "MS-0070",
+      "key": "mushrooms/porcini-culinary-sourcing-guide",
+      "title": "Porcini Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/porcini-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 70
+    },
+    {
+      "id": "MS-0071",
+      "key": "mushrooms/shaggy-mane-field-profile",
+      "title": "Shaggy Mane Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shaggy-mane-field-profile.md",
+      "status": "research-draft",
+      "priority": 71
+    },
+    {
+      "id": "MS-0072",
+      "key": "mushrooms/shaggy-mane-taxonomy-explained",
+      "title": "Shaggy Mane Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shaggy-mane-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 72
+    },
+    {
+      "id": "MS-0073",
+      "key": "mushrooms/shaggy-mane-habitat-and-ecology",
+      "title": "Shaggy Mane Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shaggy-mane-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 73
+    },
+    {
+      "id": "MS-0074",
+      "key": "mushrooms/shaggy-mane-lookalike-framework",
+      "title": "Shaggy Mane Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shaggy-mane-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 74
+    },
+    {
+      "id": "MS-0075",
+      "key": "mushrooms/shaggy-mane-culinary-sourcing-guide",
+      "title": "Shaggy Mane Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/shaggy-mane-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 75
+    },
+    {
+      "id": "MS-0076",
+      "key": "mushrooms/blewit-field-profile",
+      "title": "Blewit Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/blewit-field-profile.md",
+      "status": "research-draft",
+      "priority": 76
+    },
+    {
+      "id": "MS-0077",
+      "key": "mushrooms/blewit-taxonomy-explained",
+      "title": "Blewit Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/blewit-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 77
+    },
+    {
+      "id": "MS-0078",
+      "key": "mushrooms/blewit-habitat-and-ecology",
+      "title": "Blewit Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/blewit-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 78
+    },
+    {
+      "id": "MS-0079",
+      "key": "mushrooms/blewit-lookalike-framework",
+      "title": "Blewit Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/blewit-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 79
+    },
+    {
+      "id": "MS-0080",
+      "key": "mushrooms/blewit-culinary-sourcing-guide",
+      "title": "Blewit Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/blewit-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 80
+    },
+    {
+      "id": "MS-0081",
+      "key": "mushrooms/puffball-field-profile",
+      "title": "Puffball Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/puffball-field-profile.md",
+      "status": "research-draft",
+      "priority": 81
+    },
+    {
+      "id": "MS-0082",
+      "key": "mushrooms/puffball-taxonomy-explained",
+      "title": "Puffball Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/puffball-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 82
+    },
+    {
+      "id": "MS-0083",
+      "key": "mushrooms/puffball-habitat-and-ecology",
+      "title": "Puffball Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/puffball-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 83
+    },
+    {
+      "id": "MS-0084",
+      "key": "mushrooms/puffball-lookalike-framework",
+      "title": "Puffball Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/puffball-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 84
+    },
+    {
+      "id": "MS-0085",
+      "key": "mushrooms/puffball-culinary-sourcing-guide",
+      "title": "Puffball Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/puffball-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 85
+    },
+    {
+      "id": "MS-0086",
+      "key": "mushrooms/hedgehog-mushroom-field-profile",
+      "title": "Hedgehog Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/hedgehog-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 86
+    },
+    {
+      "id": "MS-0087",
+      "key": "mushrooms/hedgehog-mushroom-taxonomy-explained",
+      "title": "Hedgehog Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/hedgehog-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 87
+    },
+    {
+      "id": "MS-0088",
+      "key": "mushrooms/hedgehog-mushroom-habitat-and-ecology",
+      "title": "Hedgehog Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/hedgehog-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 88
+    },
+    {
+      "id": "MS-0089",
+      "key": "mushrooms/hedgehog-mushroom-lookalike-framework",
+      "title": "Hedgehog Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/hedgehog-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 89
+    },
+    {
+      "id": "MS-0090",
+      "key": "mushrooms/hedgehog-mushroom-culinary-sourcing-guide",
+      "title": "Hedgehog Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/hedgehog-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 90
+    },
+    {
+      "id": "MS-0091",
+      "key": "mushrooms/chicken-of-the-woods-field-profile",
+      "title": "Chicken Of The Woods Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chicken-of-the-woods-field-profile.md",
+      "status": "research-draft",
+      "priority": 91
+    },
+    {
+      "id": "MS-0092",
+      "key": "mushrooms/chicken-of-the-woods-taxonomy-explained",
+      "title": "Chicken Of The Woods Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chicken-of-the-woods-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 92
+    },
+    {
+      "id": "MS-0093",
+      "key": "mushrooms/chicken-of-the-woods-habitat-and-ecology",
+      "title": "Chicken Of The Woods Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chicken-of-the-woods-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 93
+    },
+    {
+      "id": "MS-0094",
+      "key": "mushrooms/chicken-of-the-woods-lookalike-framework",
+      "title": "Chicken Of The Woods Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chicken-of-the-woods-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 94
+    },
+    {
+      "id": "MS-0095",
+      "key": "mushrooms/chicken-of-the-woods-culinary-sourcing-guide",
+      "title": "Chicken Of The Woods Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/chicken-of-the-woods-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 95
+    },
+    {
+      "id": "MS-0096",
+      "key": "mushrooms/lobster-mushroom-field-profile",
+      "title": "Lobster Mushroom Field Profile",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lobster-mushroom-field-profile.md",
+      "status": "research-draft",
+      "priority": 96
+    },
+    {
+      "id": "MS-0097",
+      "key": "mushrooms/lobster-mushroom-taxonomy-explained",
+      "title": "Lobster Mushroom Taxonomy Explained",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lobster-mushroom-taxonomy-explained.md",
+      "status": "research-draft",
+      "priority": 97
+    },
+    {
+      "id": "MS-0098",
+      "key": "mushrooms/lobster-mushroom-habitat-and-ecology",
+      "title": "Lobster Mushroom Habitat And Ecology",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lobster-mushroom-habitat-and-ecology.md",
+      "status": "research-draft",
+      "priority": 98
+    },
+    {
+      "id": "MS-0099",
+      "key": "mushrooms/lobster-mushroom-lookalike-framework",
+      "title": "Lobster Mushroom Lookalike Framework",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lobster-mushroom-lookalike-framework.md",
+      "status": "research-draft",
+      "priority": 99
+    },
+    {
+      "id": "MS-0100",
+      "key": "mushrooms/lobster-mushroom-culinary-sourcing-guide",
+      "title": "Lobster Mushroom Culinary Sourcing Guide",
+      "category": "mushrooms",
+      "file": "content-library/drafts/mushrooms/lobster-mushroom-culinary-sourcing-guide.md",
+      "status": "research-draft",
+      "priority": 100
+    },
+    {
+      "id": "MS-0101",
+      "key": "identification/oyster-mushroom-cap-and-surface-features",
+      "title": "Oyster Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/oyster-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 101
+    },
+    {
+      "id": "MS-0102",
+      "key": "identification/oyster-mushroom-gills-pores-or-teeth",
+      "title": "Oyster Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/oyster-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 102
+    },
+    {
+      "id": "MS-0103",
+      "key": "identification/oyster-mushroom-stem-and-attachment-clues",
+      "title": "Oyster Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/oyster-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 103
+    },
+    {
+      "id": "MS-0104",
+      "key": "identification/oyster-mushroom-spore-print-workflow",
+      "title": "Oyster Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/oyster-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 104
+    },
+    {
+      "id": "MS-0105",
+      "key": "identification/oyster-mushroom-habitat-first-comparison",
+      "title": "Oyster Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/oyster-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 105
+    },
+    {
+      "id": "MS-0106",
+      "key": "identification/shiitake-cap-and-surface-features",
+      "title": "Shiitake Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shiitake-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 106
+    },
+    {
+      "id": "MS-0107",
+      "key": "identification/shiitake-gills-pores-or-teeth",
+      "title": "Shiitake Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shiitake-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 107
+    },
+    {
+      "id": "MS-0108",
+      "key": "identification/shiitake-stem-and-attachment-clues",
+      "title": "Shiitake Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shiitake-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 108
+    },
+    {
+      "id": "MS-0109",
+      "key": "identification/shiitake-spore-print-workflow",
+      "title": "Shiitake Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shiitake-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 109
+    },
+    {
+      "id": "MS-0110",
+      "key": "identification/shiitake-habitat-first-comparison",
+      "title": "Shiitake Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shiitake-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 110
+    },
+    {
+      "id": "MS-0111",
+      "key": "identification/lions-mane-cap-and-surface-features",
+      "title": "Lion’S Mane Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lions-mane-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 111
+    },
+    {
+      "id": "MS-0112",
+      "key": "identification/lions-mane-gills-pores-or-teeth",
+      "title": "Lion’S Mane Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lions-mane-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 112
+    },
+    {
+      "id": "MS-0113",
+      "key": "identification/lions-mane-stem-and-attachment-clues",
+      "title": "Lion’S Mane Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lions-mane-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 113
+    },
+    {
+      "id": "MS-0114",
+      "key": "identification/lions-mane-spore-print-workflow",
+      "title": "Lion’S Mane Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lions-mane-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 114
+    },
+    {
+      "id": "MS-0115",
+      "key": "identification/lions-mane-habitat-first-comparison",
+      "title": "Lion’S Mane Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lions-mane-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 115
+    },
+    {
+      "id": "MS-0116",
+      "key": "identification/maitake-cap-and-surface-features",
+      "title": "Maitake Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/maitake-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 116
+    },
+    {
+      "id": "MS-0117",
+      "key": "identification/maitake-gills-pores-or-teeth",
+      "title": "Maitake Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/maitake-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 117
+    },
+    {
+      "id": "MS-0118",
+      "key": "identification/maitake-stem-and-attachment-clues",
+      "title": "Maitake Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/maitake-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 118
+    },
+    {
+      "id": "MS-0119",
+      "key": "identification/maitake-spore-print-workflow",
+      "title": "Maitake Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/maitake-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 119
+    },
+    {
+      "id": "MS-0120",
+      "key": "identification/maitake-habitat-first-comparison",
+      "title": "Maitake Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/maitake-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 120
+    },
+    {
+      "id": "MS-0121",
+      "key": "identification/king-oyster-mushroom-cap-and-surface-features",
+      "title": "King Oyster Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/king-oyster-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 121
+    },
+    {
+      "id": "MS-0122",
+      "key": "identification/king-oyster-mushroom-gills-pores-or-teeth",
+      "title": "King Oyster Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/king-oyster-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 122
+    },
+    {
+      "id": "MS-0123",
+      "key": "identification/king-oyster-mushroom-stem-and-attachment-clues",
+      "title": "King Oyster Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/king-oyster-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 123
+    },
+    {
+      "id": "MS-0124",
+      "key": "identification/king-oyster-mushroom-spore-print-workflow",
+      "title": "King Oyster Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/king-oyster-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 124
+    },
+    {
+      "id": "MS-0125",
+      "key": "identification/king-oyster-mushroom-habitat-first-comparison",
+      "title": "King Oyster Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/king-oyster-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 125
+    },
+    {
+      "id": "MS-0126",
+      "key": "identification/enoki-cap-and-surface-features",
+      "title": "Enoki Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/enoki-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 126
+    },
+    {
+      "id": "MS-0127",
+      "key": "identification/enoki-gills-pores-or-teeth",
+      "title": "Enoki Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/enoki-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 127
+    },
+    {
+      "id": "MS-0128",
+      "key": "identification/enoki-stem-and-attachment-clues",
+      "title": "Enoki Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/enoki-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 128
+    },
+    {
+      "id": "MS-0129",
+      "key": "identification/enoki-spore-print-workflow",
+      "title": "Enoki Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/enoki-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 129
+    },
+    {
+      "id": "MS-0130",
+      "key": "identification/enoki-habitat-first-comparison",
+      "title": "Enoki Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/enoki-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 130
+    },
+    {
+      "id": "MS-0131",
+      "key": "identification/wood-ear-mushroom-cap-and-surface-features",
+      "title": "Wood Ear Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/wood-ear-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 131
+    },
+    {
+      "id": "MS-0132",
+      "key": "identification/wood-ear-mushroom-gills-pores-or-teeth",
+      "title": "Wood Ear Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/wood-ear-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 132
+    },
+    {
+      "id": "MS-0133",
+      "key": "identification/wood-ear-mushroom-stem-and-attachment-clues",
+      "title": "Wood Ear Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/wood-ear-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 133
+    },
+    {
+      "id": "MS-0134",
+      "key": "identification/wood-ear-mushroom-spore-print-workflow",
+      "title": "Wood Ear Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/wood-ear-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 134
+    },
+    {
+      "id": "MS-0135",
+      "key": "identification/wood-ear-mushroom-habitat-first-comparison",
+      "title": "Wood Ear Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/wood-ear-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 135
+    },
+    {
+      "id": "MS-0136",
+      "key": "identification/reishi-cap-and-surface-features",
+      "title": "Reishi Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/reishi-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 136
+    },
+    {
+      "id": "MS-0137",
+      "key": "identification/reishi-gills-pores-or-teeth",
+      "title": "Reishi Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/reishi-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 137
+    },
+    {
+      "id": "MS-0138",
+      "key": "identification/reishi-stem-and-attachment-clues",
+      "title": "Reishi Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/reishi-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 138
+    },
+    {
+      "id": "MS-0139",
+      "key": "identification/reishi-spore-print-workflow",
+      "title": "Reishi Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/reishi-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 139
+    },
+    {
+      "id": "MS-0140",
+      "key": "identification/reishi-habitat-first-comparison",
+      "title": "Reishi Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/reishi-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 140
+    },
+    {
+      "id": "MS-0141",
+      "key": "identification/turkey-tail-cap-and-surface-features",
+      "title": "Turkey Tail Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/turkey-tail-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 141
+    },
+    {
+      "id": "MS-0142",
+      "key": "identification/turkey-tail-gills-pores-or-teeth",
+      "title": "Turkey Tail Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/turkey-tail-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 142
+    },
+    {
+      "id": "MS-0143",
+      "key": "identification/turkey-tail-stem-and-attachment-clues",
+      "title": "Turkey Tail Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/turkey-tail-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 143
+    },
+    {
+      "id": "MS-0144",
+      "key": "identification/turkey-tail-spore-print-workflow",
+      "title": "Turkey Tail Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/turkey-tail-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 144
+    },
+    {
+      "id": "MS-0145",
+      "key": "identification/turkey-tail-habitat-first-comparison",
+      "title": "Turkey Tail Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/turkey-tail-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 145
+    },
+    {
+      "id": "MS-0146",
+      "key": "identification/cremini-mushroom-cap-and-surface-features",
+      "title": "Cremini Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/cremini-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 146
+    },
+    {
+      "id": "MS-0147",
+      "key": "identification/cremini-mushroom-gills-pores-or-teeth",
+      "title": "Cremini Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/cremini-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 147
+    },
+    {
+      "id": "MS-0148",
+      "key": "identification/cremini-mushroom-stem-and-attachment-clues",
+      "title": "Cremini Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/cremini-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 148
+    },
+    {
+      "id": "MS-0149",
+      "key": "identification/cremini-mushroom-spore-print-workflow",
+      "title": "Cremini Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/cremini-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 149
+    },
+    {
+      "id": "MS-0150",
+      "key": "identification/cremini-mushroom-habitat-first-comparison",
+      "title": "Cremini Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/cremini-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 150
+    },
+    {
+      "id": "MS-0151",
+      "key": "identification/portobello-mushroom-cap-and-surface-features",
+      "title": "Portobello Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/portobello-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 151
+    },
+    {
+      "id": "MS-0152",
+      "key": "identification/portobello-mushroom-gills-pores-or-teeth",
+      "title": "Portobello Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/portobello-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 152
+    },
+    {
+      "id": "MS-0153",
+      "key": "identification/portobello-mushroom-stem-and-attachment-clues",
+      "title": "Portobello Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/portobello-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 153
+    },
+    {
+      "id": "MS-0154",
+      "key": "identification/portobello-mushroom-spore-print-workflow",
+      "title": "Portobello Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/portobello-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 154
+    },
+    {
+      "id": "MS-0155",
+      "key": "identification/portobello-mushroom-habitat-first-comparison",
+      "title": "Portobello Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/portobello-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 155
+    },
+    {
+      "id": "MS-0156",
+      "key": "identification/chanterelle-cap-and-surface-features",
+      "title": "Chanterelle Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chanterelle-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 156
+    },
+    {
+      "id": "MS-0157",
+      "key": "identification/chanterelle-gills-pores-or-teeth",
+      "title": "Chanterelle Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chanterelle-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 157
+    },
+    {
+      "id": "MS-0158",
+      "key": "identification/chanterelle-stem-and-attachment-clues",
+      "title": "Chanterelle Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chanterelle-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 158
+    },
+    {
+      "id": "MS-0159",
+      "key": "identification/chanterelle-spore-print-workflow",
+      "title": "Chanterelle Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chanterelle-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 159
+    },
+    {
+      "id": "MS-0160",
+      "key": "identification/chanterelle-habitat-first-comparison",
+      "title": "Chanterelle Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chanterelle-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 160
+    },
+    {
+      "id": "MS-0161",
+      "key": "identification/morel-cap-and-surface-features",
+      "title": "Morel Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/morel-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 161
+    },
+    {
+      "id": "MS-0162",
+      "key": "identification/morel-gills-pores-or-teeth",
+      "title": "Morel Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/morel-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 162
+    },
+    {
+      "id": "MS-0163",
+      "key": "identification/morel-stem-and-attachment-clues",
+      "title": "Morel Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/morel-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 163
+    },
+    {
+      "id": "MS-0164",
+      "key": "identification/morel-spore-print-workflow",
+      "title": "Morel Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/morel-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 164
+    },
+    {
+      "id": "MS-0165",
+      "key": "identification/morel-habitat-first-comparison",
+      "title": "Morel Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/morel-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 165
+    },
+    {
+      "id": "MS-0166",
+      "key": "identification/porcini-cap-and-surface-features",
+      "title": "Porcini Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/porcini-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 166
+    },
+    {
+      "id": "MS-0167",
+      "key": "identification/porcini-gills-pores-or-teeth",
+      "title": "Porcini Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/porcini-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 167
+    },
+    {
+      "id": "MS-0168",
+      "key": "identification/porcini-stem-and-attachment-clues",
+      "title": "Porcini Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/porcini-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 168
+    },
+    {
+      "id": "MS-0169",
+      "key": "identification/porcini-spore-print-workflow",
+      "title": "Porcini Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/porcini-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 169
+    },
+    {
+      "id": "MS-0170",
+      "key": "identification/porcini-habitat-first-comparison",
+      "title": "Porcini Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/porcini-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 170
+    },
+    {
+      "id": "MS-0171",
+      "key": "identification/shaggy-mane-cap-and-surface-features",
+      "title": "Shaggy Mane Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shaggy-mane-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 171
+    },
+    {
+      "id": "MS-0172",
+      "key": "identification/shaggy-mane-gills-pores-or-teeth",
+      "title": "Shaggy Mane Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shaggy-mane-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 172
+    },
+    {
+      "id": "MS-0173",
+      "key": "identification/shaggy-mane-stem-and-attachment-clues",
+      "title": "Shaggy Mane Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shaggy-mane-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 173
+    },
+    {
+      "id": "MS-0174",
+      "key": "identification/shaggy-mane-spore-print-workflow",
+      "title": "Shaggy Mane Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shaggy-mane-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 174
+    },
+    {
+      "id": "MS-0175",
+      "key": "identification/shaggy-mane-habitat-first-comparison",
+      "title": "Shaggy Mane Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/shaggy-mane-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 175
+    },
+    {
+      "id": "MS-0176",
+      "key": "identification/blewit-cap-and-surface-features",
+      "title": "Blewit Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/blewit-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 176
+    },
+    {
+      "id": "MS-0177",
+      "key": "identification/blewit-gills-pores-or-teeth",
+      "title": "Blewit Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/blewit-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 177
+    },
+    {
+      "id": "MS-0178",
+      "key": "identification/blewit-stem-and-attachment-clues",
+      "title": "Blewit Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/blewit-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 178
+    },
+    {
+      "id": "MS-0179",
+      "key": "identification/blewit-spore-print-workflow",
+      "title": "Blewit Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/blewit-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 179
+    },
+    {
+      "id": "MS-0180",
+      "key": "identification/blewit-habitat-first-comparison",
+      "title": "Blewit Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/blewit-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 180
+    },
+    {
+      "id": "MS-0181",
+      "key": "identification/puffball-cap-and-surface-features",
+      "title": "Puffball Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/puffball-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 181
+    },
+    {
+      "id": "MS-0182",
+      "key": "identification/puffball-gills-pores-or-teeth",
+      "title": "Puffball Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/puffball-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 182
+    },
+    {
+      "id": "MS-0183",
+      "key": "identification/puffball-stem-and-attachment-clues",
+      "title": "Puffball Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/puffball-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 183
+    },
+    {
+      "id": "MS-0184",
+      "key": "identification/puffball-spore-print-workflow",
+      "title": "Puffball Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/puffball-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 184
+    },
+    {
+      "id": "MS-0185",
+      "key": "identification/puffball-habitat-first-comparison",
+      "title": "Puffball Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/puffball-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 185
+    },
+    {
+      "id": "MS-0186",
+      "key": "identification/hedgehog-mushroom-cap-and-surface-features",
+      "title": "Hedgehog Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/hedgehog-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 186
+    },
+    {
+      "id": "MS-0187",
+      "key": "identification/hedgehog-mushroom-gills-pores-or-teeth",
+      "title": "Hedgehog Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/hedgehog-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 187
+    },
+    {
+      "id": "MS-0188",
+      "key": "identification/hedgehog-mushroom-stem-and-attachment-clues",
+      "title": "Hedgehog Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/hedgehog-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 188
+    },
+    {
+      "id": "MS-0189",
+      "key": "identification/hedgehog-mushroom-spore-print-workflow",
+      "title": "Hedgehog Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/hedgehog-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 189
+    },
+    {
+      "id": "MS-0190",
+      "key": "identification/hedgehog-mushroom-habitat-first-comparison",
+      "title": "Hedgehog Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/hedgehog-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 190
+    },
+    {
+      "id": "MS-0191",
+      "key": "identification/chicken-of-the-woods-cap-and-surface-features",
+      "title": "Chicken Of The Woods Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chicken-of-the-woods-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 191
+    },
+    {
+      "id": "MS-0192",
+      "key": "identification/chicken-of-the-woods-gills-pores-or-teeth",
+      "title": "Chicken Of The Woods Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chicken-of-the-woods-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 192
+    },
+    {
+      "id": "MS-0193",
+      "key": "identification/chicken-of-the-woods-stem-and-attachment-clues",
+      "title": "Chicken Of The Woods Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chicken-of-the-woods-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 193
+    },
+    {
+      "id": "MS-0194",
+      "key": "identification/chicken-of-the-woods-spore-print-workflow",
+      "title": "Chicken Of The Woods Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chicken-of-the-woods-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 194
+    },
+    {
+      "id": "MS-0195",
+      "key": "identification/chicken-of-the-woods-habitat-first-comparison",
+      "title": "Chicken Of The Woods Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/chicken-of-the-woods-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 195
+    },
+    {
+      "id": "MS-0196",
+      "key": "identification/lobster-mushroom-cap-and-surface-features",
+      "title": "Lobster Mushroom Cap And Surface Features",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lobster-mushroom-cap-and-surface-features.md",
+      "status": "research-draft",
+      "priority": 196
+    },
+    {
+      "id": "MS-0197",
+      "key": "identification/lobster-mushroom-gills-pores-or-teeth",
+      "title": "Lobster Mushroom Gills, Pores, Or Teeth",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lobster-mushroom-gills-pores-or-teeth.md",
+      "status": "research-draft",
+      "priority": 197
+    },
+    {
+      "id": "MS-0198",
+      "key": "identification/lobster-mushroom-stem-and-attachment-clues",
+      "title": "Lobster Mushroom Stem And Attachment Clues",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lobster-mushroom-stem-and-attachment-clues.md",
+      "status": "research-draft",
+      "priority": 198
+    },
+    {
+      "id": "MS-0199",
+      "key": "identification/lobster-mushroom-spore-print-workflow",
+      "title": "Lobster Mushroom Spore Print Workflow",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lobster-mushroom-spore-print-workflow.md",
+      "status": "research-draft",
+      "priority": 199
+    },
+    {
+      "id": "MS-0200",
+      "key": "identification/lobster-mushroom-habitat-first-comparison",
+      "title": "Lobster Mushroom Habitat-First Comparison",
+      "category": "identification",
+      "file": "content-library/drafts/identification/lobster-mushroom-habitat-first-comparison.md",
+      "status": "research-draft",
+      "priority": 200
+    },
+    {
+      "id": "MS-0201",
+      "key": "growing/oyster-mushroom-beginner-cultivation-plan",
+      "title": "Oyster Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/oyster-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 201
+    },
+    {
+      "id": "MS-0202",
+      "key": "growing/oyster-mushroom-substrate-selection",
+      "title": "Oyster Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/oyster-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 202
+    },
+    {
+      "id": "MS-0203",
+      "key": "growing/oyster-mushroom-fruiting-conditions",
+      "title": "Oyster Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/oyster-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 203
+    },
+    {
+      "id": "MS-0204",
+      "key": "growing/oyster-mushroom-contamination-prevention",
+      "title": "Oyster Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/oyster-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 204
+    },
+    {
+      "id": "MS-0205",
+      "key": "growing/oyster-mushroom-harvest-and-storage",
+      "title": "Oyster Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/oyster-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 205
+    },
+    {
+      "id": "MS-0206",
+      "key": "growing/shiitake-beginner-cultivation-plan",
+      "title": "Shiitake Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shiitake-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 206
+    },
+    {
+      "id": "MS-0207",
+      "key": "growing/shiitake-substrate-selection",
+      "title": "Shiitake Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shiitake-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 207
+    },
+    {
+      "id": "MS-0208",
+      "key": "growing/shiitake-fruiting-conditions",
+      "title": "Shiitake Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shiitake-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 208
+    },
+    {
+      "id": "MS-0209",
+      "key": "growing/shiitake-contamination-prevention",
+      "title": "Shiitake Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shiitake-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 209
+    },
+    {
+      "id": "MS-0210",
+      "key": "growing/shiitake-harvest-and-storage",
+      "title": "Shiitake Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shiitake-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 210
+    },
+    {
+      "id": "MS-0211",
+      "key": "growing/lions-mane-beginner-cultivation-plan",
+      "title": "Lion’S Mane Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lions-mane-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 211
+    },
+    {
+      "id": "MS-0212",
+      "key": "growing/lions-mane-substrate-selection",
+      "title": "Lion’S Mane Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lions-mane-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 212
+    },
+    {
+      "id": "MS-0213",
+      "key": "growing/lions-mane-fruiting-conditions",
+      "title": "Lion’S Mane Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lions-mane-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 213
+    },
+    {
+      "id": "MS-0214",
+      "key": "growing/lions-mane-contamination-prevention",
+      "title": "Lion’S Mane Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lions-mane-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 214
+    },
+    {
+      "id": "MS-0215",
+      "key": "growing/lions-mane-harvest-and-storage",
+      "title": "Lion’S Mane Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lions-mane-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 215
+    },
+    {
+      "id": "MS-0216",
+      "key": "growing/maitake-beginner-cultivation-plan",
+      "title": "Maitake Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/maitake-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 216
+    },
+    {
+      "id": "MS-0217",
+      "key": "growing/maitake-substrate-selection",
+      "title": "Maitake Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/maitake-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 217
+    },
+    {
+      "id": "MS-0218",
+      "key": "growing/maitake-fruiting-conditions",
+      "title": "Maitake Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/maitake-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 218
+    },
+    {
+      "id": "MS-0219",
+      "key": "growing/maitake-contamination-prevention",
+      "title": "Maitake Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/maitake-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 219
+    },
+    {
+      "id": "MS-0220",
+      "key": "growing/maitake-harvest-and-storage",
+      "title": "Maitake Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/maitake-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 220
+    },
+    {
+      "id": "MS-0221",
+      "key": "growing/king-oyster-mushroom-beginner-cultivation-plan",
+      "title": "King Oyster Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/king-oyster-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 221
+    },
+    {
+      "id": "MS-0222",
+      "key": "growing/king-oyster-mushroom-substrate-selection",
+      "title": "King Oyster Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/king-oyster-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 222
+    },
+    {
+      "id": "MS-0223",
+      "key": "growing/king-oyster-mushroom-fruiting-conditions",
+      "title": "King Oyster Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/king-oyster-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 223
+    },
+    {
+      "id": "MS-0224",
+      "key": "growing/king-oyster-mushroom-contamination-prevention",
+      "title": "King Oyster Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/king-oyster-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 224
+    },
+    {
+      "id": "MS-0225",
+      "key": "growing/king-oyster-mushroom-harvest-and-storage",
+      "title": "King Oyster Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/king-oyster-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 225
+    },
+    {
+      "id": "MS-0226",
+      "key": "growing/enoki-beginner-cultivation-plan",
+      "title": "Enoki Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/enoki-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 226
+    },
+    {
+      "id": "MS-0227",
+      "key": "growing/enoki-substrate-selection",
+      "title": "Enoki Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/enoki-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 227
+    },
+    {
+      "id": "MS-0228",
+      "key": "growing/enoki-fruiting-conditions",
+      "title": "Enoki Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/enoki-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 228
+    },
+    {
+      "id": "MS-0229",
+      "key": "growing/enoki-contamination-prevention",
+      "title": "Enoki Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/enoki-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 229
+    },
+    {
+      "id": "MS-0230",
+      "key": "growing/enoki-harvest-and-storage",
+      "title": "Enoki Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/enoki-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 230
+    },
+    {
+      "id": "MS-0231",
+      "key": "growing/wood-ear-mushroom-beginner-cultivation-plan",
+      "title": "Wood Ear Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/wood-ear-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 231
+    },
+    {
+      "id": "MS-0232",
+      "key": "growing/wood-ear-mushroom-substrate-selection",
+      "title": "Wood Ear Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/wood-ear-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 232
+    },
+    {
+      "id": "MS-0233",
+      "key": "growing/wood-ear-mushroom-fruiting-conditions",
+      "title": "Wood Ear Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/wood-ear-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 233
+    },
+    {
+      "id": "MS-0234",
+      "key": "growing/wood-ear-mushroom-contamination-prevention",
+      "title": "Wood Ear Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/wood-ear-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 234
+    },
+    {
+      "id": "MS-0235",
+      "key": "growing/wood-ear-mushroom-harvest-and-storage",
+      "title": "Wood Ear Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/wood-ear-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 235
+    },
+    {
+      "id": "MS-0236",
+      "key": "growing/reishi-beginner-cultivation-plan",
+      "title": "Reishi Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/reishi-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 236
+    },
+    {
+      "id": "MS-0237",
+      "key": "growing/reishi-substrate-selection",
+      "title": "Reishi Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/reishi-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 237
+    },
+    {
+      "id": "MS-0238",
+      "key": "growing/reishi-fruiting-conditions",
+      "title": "Reishi Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/reishi-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 238
+    },
+    {
+      "id": "MS-0239",
+      "key": "growing/reishi-contamination-prevention",
+      "title": "Reishi Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/reishi-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 239
+    },
+    {
+      "id": "MS-0240",
+      "key": "growing/reishi-harvest-and-storage",
+      "title": "Reishi Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/reishi-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 240
+    },
+    {
+      "id": "MS-0241",
+      "key": "growing/turkey-tail-beginner-cultivation-plan",
+      "title": "Turkey Tail Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/turkey-tail-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 241
+    },
+    {
+      "id": "MS-0242",
+      "key": "growing/turkey-tail-substrate-selection",
+      "title": "Turkey Tail Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/turkey-tail-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 242
+    },
+    {
+      "id": "MS-0243",
+      "key": "growing/turkey-tail-fruiting-conditions",
+      "title": "Turkey Tail Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/turkey-tail-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 243
+    },
+    {
+      "id": "MS-0244",
+      "key": "growing/turkey-tail-contamination-prevention",
+      "title": "Turkey Tail Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/turkey-tail-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 244
+    },
+    {
+      "id": "MS-0245",
+      "key": "growing/turkey-tail-harvest-and-storage",
+      "title": "Turkey Tail Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/turkey-tail-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 245
+    },
+    {
+      "id": "MS-0246",
+      "key": "growing/cremini-mushroom-beginner-cultivation-plan",
+      "title": "Cremini Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/cremini-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 246
+    },
+    {
+      "id": "MS-0247",
+      "key": "growing/cremini-mushroom-substrate-selection",
+      "title": "Cremini Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/cremini-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 247
+    },
+    {
+      "id": "MS-0248",
+      "key": "growing/cremini-mushroom-fruiting-conditions",
+      "title": "Cremini Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/cremini-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 248
+    },
+    {
+      "id": "MS-0249",
+      "key": "growing/cremini-mushroom-contamination-prevention",
+      "title": "Cremini Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/cremini-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 249
+    },
+    {
+      "id": "MS-0250",
+      "key": "growing/cremini-mushroom-harvest-and-storage",
+      "title": "Cremini Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/cremini-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 250
+    },
+    {
+      "id": "MS-0251",
+      "key": "growing/portobello-mushroom-beginner-cultivation-plan",
+      "title": "Portobello Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/portobello-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 251
+    },
+    {
+      "id": "MS-0252",
+      "key": "growing/portobello-mushroom-substrate-selection",
+      "title": "Portobello Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/portobello-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 252
+    },
+    {
+      "id": "MS-0253",
+      "key": "growing/portobello-mushroom-fruiting-conditions",
+      "title": "Portobello Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/portobello-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 253
+    },
+    {
+      "id": "MS-0254",
+      "key": "growing/portobello-mushroom-contamination-prevention",
+      "title": "Portobello Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/portobello-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 254
+    },
+    {
+      "id": "MS-0255",
+      "key": "growing/portobello-mushroom-harvest-and-storage",
+      "title": "Portobello Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/portobello-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 255
+    },
+    {
+      "id": "MS-0256",
+      "key": "growing/chanterelle-beginner-cultivation-plan",
+      "title": "Chanterelle Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chanterelle-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 256
+    },
+    {
+      "id": "MS-0257",
+      "key": "growing/chanterelle-substrate-selection",
+      "title": "Chanterelle Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chanterelle-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 257
+    },
+    {
+      "id": "MS-0258",
+      "key": "growing/chanterelle-fruiting-conditions",
+      "title": "Chanterelle Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chanterelle-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 258
+    },
+    {
+      "id": "MS-0259",
+      "key": "growing/chanterelle-contamination-prevention",
+      "title": "Chanterelle Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chanterelle-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 259
+    },
+    {
+      "id": "MS-0260",
+      "key": "growing/chanterelle-harvest-and-storage",
+      "title": "Chanterelle Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chanterelle-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 260
+    },
+    {
+      "id": "MS-0261",
+      "key": "growing/morel-beginner-cultivation-plan",
+      "title": "Morel Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/morel-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 261
+    },
+    {
+      "id": "MS-0262",
+      "key": "growing/morel-substrate-selection",
+      "title": "Morel Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/morel-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 262
+    },
+    {
+      "id": "MS-0263",
+      "key": "growing/morel-fruiting-conditions",
+      "title": "Morel Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/morel-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 263
+    },
+    {
+      "id": "MS-0264",
+      "key": "growing/morel-contamination-prevention",
+      "title": "Morel Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/morel-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 264
+    },
+    {
+      "id": "MS-0265",
+      "key": "growing/morel-harvest-and-storage",
+      "title": "Morel Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/morel-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 265
+    },
+    {
+      "id": "MS-0266",
+      "key": "growing/porcini-beginner-cultivation-plan",
+      "title": "Porcini Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/porcini-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 266
+    },
+    {
+      "id": "MS-0267",
+      "key": "growing/porcini-substrate-selection",
+      "title": "Porcini Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/porcini-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 267
+    },
+    {
+      "id": "MS-0268",
+      "key": "growing/porcini-fruiting-conditions",
+      "title": "Porcini Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/porcini-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 268
+    },
+    {
+      "id": "MS-0269",
+      "key": "growing/porcini-contamination-prevention",
+      "title": "Porcini Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/porcini-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 269
+    },
+    {
+      "id": "MS-0270",
+      "key": "growing/porcini-harvest-and-storage",
+      "title": "Porcini Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/porcini-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 270
+    },
+    {
+      "id": "MS-0271",
+      "key": "growing/shaggy-mane-beginner-cultivation-plan",
+      "title": "Shaggy Mane Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shaggy-mane-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 271
+    },
+    {
+      "id": "MS-0272",
+      "key": "growing/shaggy-mane-substrate-selection",
+      "title": "Shaggy Mane Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shaggy-mane-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 272
+    },
+    {
+      "id": "MS-0273",
+      "key": "growing/shaggy-mane-fruiting-conditions",
+      "title": "Shaggy Mane Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shaggy-mane-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 273
+    },
+    {
+      "id": "MS-0274",
+      "key": "growing/shaggy-mane-contamination-prevention",
+      "title": "Shaggy Mane Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shaggy-mane-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 274
+    },
+    {
+      "id": "MS-0275",
+      "key": "growing/shaggy-mane-harvest-and-storage",
+      "title": "Shaggy Mane Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/shaggy-mane-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 275
+    },
+    {
+      "id": "MS-0276",
+      "key": "growing/blewit-beginner-cultivation-plan",
+      "title": "Blewit Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/blewit-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 276
+    },
+    {
+      "id": "MS-0277",
+      "key": "growing/blewit-substrate-selection",
+      "title": "Blewit Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/blewit-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 277
+    },
+    {
+      "id": "MS-0278",
+      "key": "growing/blewit-fruiting-conditions",
+      "title": "Blewit Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/blewit-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 278
+    },
+    {
+      "id": "MS-0279",
+      "key": "growing/blewit-contamination-prevention",
+      "title": "Blewit Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/blewit-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 279
+    },
+    {
+      "id": "MS-0280",
+      "key": "growing/blewit-harvest-and-storage",
+      "title": "Blewit Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/blewit-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 280
+    },
+    {
+      "id": "MS-0281",
+      "key": "growing/puffball-beginner-cultivation-plan",
+      "title": "Puffball Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/puffball-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 281
+    },
+    {
+      "id": "MS-0282",
+      "key": "growing/puffball-substrate-selection",
+      "title": "Puffball Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/puffball-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 282
+    },
+    {
+      "id": "MS-0283",
+      "key": "growing/puffball-fruiting-conditions",
+      "title": "Puffball Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/puffball-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 283
+    },
+    {
+      "id": "MS-0284",
+      "key": "growing/puffball-contamination-prevention",
+      "title": "Puffball Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/puffball-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 284
+    },
+    {
+      "id": "MS-0285",
+      "key": "growing/puffball-harvest-and-storage",
+      "title": "Puffball Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/puffball-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 285
+    },
+    {
+      "id": "MS-0286",
+      "key": "growing/hedgehog-mushroom-beginner-cultivation-plan",
+      "title": "Hedgehog Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/hedgehog-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 286
+    },
+    {
+      "id": "MS-0287",
+      "key": "growing/hedgehog-mushroom-substrate-selection",
+      "title": "Hedgehog Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/hedgehog-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 287
+    },
+    {
+      "id": "MS-0288",
+      "key": "growing/hedgehog-mushroom-fruiting-conditions",
+      "title": "Hedgehog Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/hedgehog-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 288
+    },
+    {
+      "id": "MS-0289",
+      "key": "growing/hedgehog-mushroom-contamination-prevention",
+      "title": "Hedgehog Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/hedgehog-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 289
+    },
+    {
+      "id": "MS-0290",
+      "key": "growing/hedgehog-mushroom-harvest-and-storage",
+      "title": "Hedgehog Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/hedgehog-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 290
+    },
+    {
+      "id": "MS-0291",
+      "key": "growing/chicken-of-the-woods-beginner-cultivation-plan",
+      "title": "Chicken Of The Woods Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chicken-of-the-woods-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 291
+    },
+    {
+      "id": "MS-0292",
+      "key": "growing/chicken-of-the-woods-substrate-selection",
+      "title": "Chicken Of The Woods Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chicken-of-the-woods-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 292
+    },
+    {
+      "id": "MS-0293",
+      "key": "growing/chicken-of-the-woods-fruiting-conditions",
+      "title": "Chicken Of The Woods Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chicken-of-the-woods-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 293
+    },
+    {
+      "id": "MS-0294",
+      "key": "growing/chicken-of-the-woods-contamination-prevention",
+      "title": "Chicken Of The Woods Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chicken-of-the-woods-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 294
+    },
+    {
+      "id": "MS-0295",
+      "key": "growing/chicken-of-the-woods-harvest-and-storage",
+      "title": "Chicken Of The Woods Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/chicken-of-the-woods-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 295
+    },
+    {
+      "id": "MS-0296",
+      "key": "growing/lobster-mushroom-beginner-cultivation-plan",
+      "title": "Lobster Mushroom Beginner Cultivation Plan",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lobster-mushroom-beginner-cultivation-plan.md",
+      "status": "research-draft",
+      "priority": 296
+    },
+    {
+      "id": "MS-0297",
+      "key": "growing/lobster-mushroom-substrate-selection",
+      "title": "Lobster Mushroom Substrate Selection",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lobster-mushroom-substrate-selection.md",
+      "status": "research-draft",
+      "priority": 297
+    },
+    {
+      "id": "MS-0298",
+      "key": "growing/lobster-mushroom-fruiting-conditions",
+      "title": "Lobster Mushroom Fruiting Conditions",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lobster-mushroom-fruiting-conditions.md",
+      "status": "research-draft",
+      "priority": 298
+    },
+    {
+      "id": "MS-0299",
+      "key": "growing/lobster-mushroom-contamination-prevention",
+      "title": "Lobster Mushroom Contamination Prevention",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lobster-mushroom-contamination-prevention.md",
+      "status": "research-draft",
+      "priority": 299
+    },
+    {
+      "id": "MS-0300",
+      "key": "growing/lobster-mushroom-harvest-and-storage",
+      "title": "Lobster Mushroom Harvest And Storage",
+      "category": "growing",
+      "file": "content-library/drafts/growing/lobster-mushroom-harvest-and-storage.md",
+      "status": "research-draft",
+      "priority": 300
+    },
+    {
+      "id": "MS-0301",
+      "key": "recipes/oyster-mushroom-skillet-method",
+      "title": "Oyster Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/oyster-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 301
+    },
+    {
+      "id": "MS-0302",
+      "key": "recipes/oyster-mushroom-oven-roasted-method",
+      "title": "Oyster Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/oyster-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 302
+    },
+    {
+      "id": "MS-0303",
+      "key": "recipes/oyster-mushroom-soup-technique",
+      "title": "Oyster Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/oyster-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 303
+    },
+    {
+      "id": "MS-0304",
+      "key": "recipes/oyster-mushroom-grain-bowl",
+      "title": "Oyster Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/oyster-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 304
+    },
+    {
+      "id": "MS-0305",
+      "key": "recipes/oyster-mushroom-pasta-technique",
+      "title": "Oyster Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/oyster-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 305
+    },
+    {
+      "id": "MS-0306",
+      "key": "recipes/shiitake-skillet-method",
+      "title": "Shiitake: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shiitake-skillet-method.md",
+      "status": "research-draft",
+      "priority": 306
+    },
+    {
+      "id": "MS-0307",
+      "key": "recipes/shiitake-oven-roasted-method",
+      "title": "Shiitake: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shiitake-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 307
+    },
+    {
+      "id": "MS-0308",
+      "key": "recipes/shiitake-soup-technique",
+      "title": "Shiitake: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shiitake-soup-technique.md",
+      "status": "research-draft",
+      "priority": 308
+    },
+    {
+      "id": "MS-0309",
+      "key": "recipes/shiitake-grain-bowl",
+      "title": "Shiitake: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shiitake-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 309
+    },
+    {
+      "id": "MS-0310",
+      "key": "recipes/shiitake-pasta-technique",
+      "title": "Shiitake: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shiitake-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 310
+    },
+    {
+      "id": "MS-0311",
+      "key": "recipes/lions-mane-skillet-method",
+      "title": "Lion’S Mane: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lions-mane-skillet-method.md",
+      "status": "research-draft",
+      "priority": 311
+    },
+    {
+      "id": "MS-0312",
+      "key": "recipes/lions-mane-oven-roasted-method",
+      "title": "Lion’S Mane: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lions-mane-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 312
+    },
+    {
+      "id": "MS-0313",
+      "key": "recipes/lions-mane-soup-technique",
+      "title": "Lion’S Mane: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lions-mane-soup-technique.md",
+      "status": "research-draft",
+      "priority": 313
+    },
+    {
+      "id": "MS-0314",
+      "key": "recipes/lions-mane-grain-bowl",
+      "title": "Lion’S Mane: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lions-mane-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 314
+    },
+    {
+      "id": "MS-0315",
+      "key": "recipes/lions-mane-pasta-technique",
+      "title": "Lion’S Mane: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lions-mane-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 315
+    },
+    {
+      "id": "MS-0316",
+      "key": "recipes/maitake-skillet-method",
+      "title": "Maitake: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/maitake-skillet-method.md",
+      "status": "research-draft",
+      "priority": 316
+    },
+    {
+      "id": "MS-0317",
+      "key": "recipes/maitake-oven-roasted-method",
+      "title": "Maitake: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/maitake-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 317
+    },
+    {
+      "id": "MS-0318",
+      "key": "recipes/maitake-soup-technique",
+      "title": "Maitake: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/maitake-soup-technique.md",
+      "status": "research-draft",
+      "priority": 318
+    },
+    {
+      "id": "MS-0319",
+      "key": "recipes/maitake-grain-bowl",
+      "title": "Maitake: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/maitake-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 319
+    },
+    {
+      "id": "MS-0320",
+      "key": "recipes/maitake-pasta-technique",
+      "title": "Maitake: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/maitake-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 320
+    },
+    {
+      "id": "MS-0321",
+      "key": "recipes/king-oyster-mushroom-skillet-method",
+      "title": "King Oyster Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/king-oyster-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 321
+    },
+    {
+      "id": "MS-0322",
+      "key": "recipes/king-oyster-mushroom-oven-roasted-method",
+      "title": "King Oyster Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/king-oyster-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 322
+    },
+    {
+      "id": "MS-0323",
+      "key": "recipes/king-oyster-mushroom-soup-technique",
+      "title": "King Oyster Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/king-oyster-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 323
+    },
+    {
+      "id": "MS-0324",
+      "key": "recipes/king-oyster-mushroom-grain-bowl",
+      "title": "King Oyster Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/king-oyster-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 324
+    },
+    {
+      "id": "MS-0325",
+      "key": "recipes/king-oyster-mushroom-pasta-technique",
+      "title": "King Oyster Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/king-oyster-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 325
+    },
+    {
+      "id": "MS-0326",
+      "key": "recipes/enoki-skillet-method",
+      "title": "Enoki: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/enoki-skillet-method.md",
+      "status": "research-draft",
+      "priority": 326
+    },
+    {
+      "id": "MS-0327",
+      "key": "recipes/enoki-oven-roasted-method",
+      "title": "Enoki: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/enoki-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 327
+    },
+    {
+      "id": "MS-0328",
+      "key": "recipes/enoki-soup-technique",
+      "title": "Enoki: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/enoki-soup-technique.md",
+      "status": "research-draft",
+      "priority": 328
+    },
+    {
+      "id": "MS-0329",
+      "key": "recipes/enoki-grain-bowl",
+      "title": "Enoki: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/enoki-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 329
+    },
+    {
+      "id": "MS-0330",
+      "key": "recipes/enoki-pasta-technique",
+      "title": "Enoki: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/enoki-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 330
+    },
+    {
+      "id": "MS-0331",
+      "key": "recipes/wood-ear-mushroom-skillet-method",
+      "title": "Wood Ear Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/wood-ear-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 331
+    },
+    {
+      "id": "MS-0332",
+      "key": "recipes/wood-ear-mushroom-oven-roasted-method",
+      "title": "Wood Ear Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/wood-ear-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 332
+    },
+    {
+      "id": "MS-0333",
+      "key": "recipes/wood-ear-mushroom-soup-technique",
+      "title": "Wood Ear Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/wood-ear-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 333
+    },
+    {
+      "id": "MS-0334",
+      "key": "recipes/wood-ear-mushroom-grain-bowl",
+      "title": "Wood Ear Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/wood-ear-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 334
+    },
+    {
+      "id": "MS-0335",
+      "key": "recipes/wood-ear-mushroom-pasta-technique",
+      "title": "Wood Ear Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/wood-ear-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 335
+    },
+    {
+      "id": "MS-0336",
+      "key": "recipes/reishi-skillet-method",
+      "title": "Reishi: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/reishi-skillet-method.md",
+      "status": "research-draft",
+      "priority": 336
+    },
+    {
+      "id": "MS-0337",
+      "key": "recipes/reishi-oven-roasted-method",
+      "title": "Reishi: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/reishi-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 337
+    },
+    {
+      "id": "MS-0338",
+      "key": "recipes/reishi-soup-technique",
+      "title": "Reishi: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/reishi-soup-technique.md",
+      "status": "research-draft",
+      "priority": 338
+    },
+    {
+      "id": "MS-0339",
+      "key": "recipes/reishi-grain-bowl",
+      "title": "Reishi: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/reishi-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 339
+    },
+    {
+      "id": "MS-0340",
+      "key": "recipes/reishi-pasta-technique",
+      "title": "Reishi: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/reishi-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 340
+    },
+    {
+      "id": "MS-0341",
+      "key": "recipes/turkey-tail-skillet-method",
+      "title": "Turkey Tail: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/turkey-tail-skillet-method.md",
+      "status": "research-draft",
+      "priority": 341
+    },
+    {
+      "id": "MS-0342",
+      "key": "recipes/turkey-tail-oven-roasted-method",
+      "title": "Turkey Tail: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/turkey-tail-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 342
+    },
+    {
+      "id": "MS-0343",
+      "key": "recipes/turkey-tail-soup-technique",
+      "title": "Turkey Tail: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/turkey-tail-soup-technique.md",
+      "status": "research-draft",
+      "priority": 343
+    },
+    {
+      "id": "MS-0344",
+      "key": "recipes/turkey-tail-grain-bowl",
+      "title": "Turkey Tail: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/turkey-tail-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 344
+    },
+    {
+      "id": "MS-0345",
+      "key": "recipes/turkey-tail-pasta-technique",
+      "title": "Turkey Tail: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/turkey-tail-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 345
+    },
+    {
+      "id": "MS-0346",
+      "key": "recipes/cremini-mushroom-skillet-method",
+      "title": "Cremini Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/cremini-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 346
+    },
+    {
+      "id": "MS-0347",
+      "key": "recipes/cremini-mushroom-oven-roasted-method",
+      "title": "Cremini Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/cremini-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 347
+    },
+    {
+      "id": "MS-0348",
+      "key": "recipes/cremini-mushroom-soup-technique",
+      "title": "Cremini Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/cremini-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 348
+    },
+    {
+      "id": "MS-0349",
+      "key": "recipes/cremini-mushroom-grain-bowl",
+      "title": "Cremini Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/cremini-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 349
+    },
+    {
+      "id": "MS-0350",
+      "key": "recipes/cremini-mushroom-pasta-technique",
+      "title": "Cremini Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/cremini-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 350
+    },
+    {
+      "id": "MS-0351",
+      "key": "recipes/portobello-mushroom-skillet-method",
+      "title": "Portobello Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/portobello-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 351
+    },
+    {
+      "id": "MS-0352",
+      "key": "recipes/portobello-mushroom-oven-roasted-method",
+      "title": "Portobello Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/portobello-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 352
+    },
+    {
+      "id": "MS-0353",
+      "key": "recipes/portobello-mushroom-soup-technique",
+      "title": "Portobello Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/portobello-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 353
+    },
+    {
+      "id": "MS-0354",
+      "key": "recipes/portobello-mushroom-grain-bowl",
+      "title": "Portobello Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/portobello-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 354
+    },
+    {
+      "id": "MS-0355",
+      "key": "recipes/portobello-mushroom-pasta-technique",
+      "title": "Portobello Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/portobello-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 355
+    },
+    {
+      "id": "MS-0356",
+      "key": "recipes/chanterelle-skillet-method",
+      "title": "Chanterelle: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chanterelle-skillet-method.md",
+      "status": "research-draft",
+      "priority": 356
+    },
+    {
+      "id": "MS-0357",
+      "key": "recipes/chanterelle-oven-roasted-method",
+      "title": "Chanterelle: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chanterelle-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 357
+    },
+    {
+      "id": "MS-0358",
+      "key": "recipes/chanterelle-soup-technique",
+      "title": "Chanterelle: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chanterelle-soup-technique.md",
+      "status": "research-draft",
+      "priority": 358
+    },
+    {
+      "id": "MS-0359",
+      "key": "recipes/chanterelle-grain-bowl",
+      "title": "Chanterelle: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chanterelle-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 359
+    },
+    {
+      "id": "MS-0360",
+      "key": "recipes/chanterelle-pasta-technique",
+      "title": "Chanterelle: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chanterelle-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 360
+    },
+    {
+      "id": "MS-0361",
+      "key": "recipes/morel-skillet-method",
+      "title": "Morel: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/morel-skillet-method.md",
+      "status": "research-draft",
+      "priority": 361
+    },
+    {
+      "id": "MS-0362",
+      "key": "recipes/morel-oven-roasted-method",
+      "title": "Morel: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/morel-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 362
+    },
+    {
+      "id": "MS-0363",
+      "key": "recipes/morel-soup-technique",
+      "title": "Morel: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/morel-soup-technique.md",
+      "status": "research-draft",
+      "priority": 363
+    },
+    {
+      "id": "MS-0364",
+      "key": "recipes/morel-grain-bowl",
+      "title": "Morel: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/morel-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 364
+    },
+    {
+      "id": "MS-0365",
+      "key": "recipes/morel-pasta-technique",
+      "title": "Morel: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/morel-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 365
+    },
+    {
+      "id": "MS-0366",
+      "key": "recipes/porcini-skillet-method",
+      "title": "Porcini: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/porcini-skillet-method.md",
+      "status": "research-draft",
+      "priority": 366
+    },
+    {
+      "id": "MS-0367",
+      "key": "recipes/porcini-oven-roasted-method",
+      "title": "Porcini: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/porcini-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 367
+    },
+    {
+      "id": "MS-0368",
+      "key": "recipes/porcini-soup-technique",
+      "title": "Porcini: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/porcini-soup-technique.md",
+      "status": "research-draft",
+      "priority": 368
+    },
+    {
+      "id": "MS-0369",
+      "key": "recipes/porcini-grain-bowl",
+      "title": "Porcini: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/porcini-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 369
+    },
+    {
+      "id": "MS-0370",
+      "key": "recipes/porcini-pasta-technique",
+      "title": "Porcini: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/porcini-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 370
+    },
+    {
+      "id": "MS-0371",
+      "key": "recipes/shaggy-mane-skillet-method",
+      "title": "Shaggy Mane: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shaggy-mane-skillet-method.md",
+      "status": "research-draft",
+      "priority": 371
+    },
+    {
+      "id": "MS-0372",
+      "key": "recipes/shaggy-mane-oven-roasted-method",
+      "title": "Shaggy Mane: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shaggy-mane-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 372
+    },
+    {
+      "id": "MS-0373",
+      "key": "recipes/shaggy-mane-soup-technique",
+      "title": "Shaggy Mane: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shaggy-mane-soup-technique.md",
+      "status": "research-draft",
+      "priority": 373
+    },
+    {
+      "id": "MS-0374",
+      "key": "recipes/shaggy-mane-grain-bowl",
+      "title": "Shaggy Mane: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shaggy-mane-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 374
+    },
+    {
+      "id": "MS-0375",
+      "key": "recipes/shaggy-mane-pasta-technique",
+      "title": "Shaggy Mane: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/shaggy-mane-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 375
+    },
+    {
+      "id": "MS-0376",
+      "key": "recipes/blewit-skillet-method",
+      "title": "Blewit: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/blewit-skillet-method.md",
+      "status": "research-draft",
+      "priority": 376
+    },
+    {
+      "id": "MS-0377",
+      "key": "recipes/blewit-oven-roasted-method",
+      "title": "Blewit: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/blewit-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 377
+    },
+    {
+      "id": "MS-0378",
+      "key": "recipes/blewit-soup-technique",
+      "title": "Blewit: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/blewit-soup-technique.md",
+      "status": "research-draft",
+      "priority": 378
+    },
+    {
+      "id": "MS-0379",
+      "key": "recipes/blewit-grain-bowl",
+      "title": "Blewit: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/blewit-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 379
+    },
+    {
+      "id": "MS-0380",
+      "key": "recipes/blewit-pasta-technique",
+      "title": "Blewit: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/blewit-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 380
+    },
+    {
+      "id": "MS-0381",
+      "key": "recipes/puffball-skillet-method",
+      "title": "Puffball: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/puffball-skillet-method.md",
+      "status": "research-draft",
+      "priority": 381
+    },
+    {
+      "id": "MS-0382",
+      "key": "recipes/puffball-oven-roasted-method",
+      "title": "Puffball: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/puffball-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 382
+    },
+    {
+      "id": "MS-0383",
+      "key": "recipes/puffball-soup-technique",
+      "title": "Puffball: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/puffball-soup-technique.md",
+      "status": "research-draft",
+      "priority": 383
+    },
+    {
+      "id": "MS-0384",
+      "key": "recipes/puffball-grain-bowl",
+      "title": "Puffball: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/puffball-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 384
+    },
+    {
+      "id": "MS-0385",
+      "key": "recipes/puffball-pasta-technique",
+      "title": "Puffball: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/puffball-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 385
+    },
+    {
+      "id": "MS-0386",
+      "key": "recipes/hedgehog-mushroom-skillet-method",
+      "title": "Hedgehog Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/hedgehog-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 386
+    },
+    {
+      "id": "MS-0387",
+      "key": "recipes/hedgehog-mushroom-oven-roasted-method",
+      "title": "Hedgehog Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/hedgehog-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 387
+    },
+    {
+      "id": "MS-0388",
+      "key": "recipes/hedgehog-mushroom-soup-technique",
+      "title": "Hedgehog Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/hedgehog-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 388
+    },
+    {
+      "id": "MS-0389",
+      "key": "recipes/hedgehog-mushroom-grain-bowl",
+      "title": "Hedgehog Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/hedgehog-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 389
+    },
+    {
+      "id": "MS-0390",
+      "key": "recipes/hedgehog-mushroom-pasta-technique",
+      "title": "Hedgehog Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/hedgehog-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 390
+    },
+    {
+      "id": "MS-0391",
+      "key": "recipes/chicken-of-the-woods-skillet-method",
+      "title": "Chicken Of The Woods: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chicken-of-the-woods-skillet-method.md",
+      "status": "research-draft",
+      "priority": 391
+    },
+    {
+      "id": "MS-0392",
+      "key": "recipes/chicken-of-the-woods-oven-roasted-method",
+      "title": "Chicken Of The Woods: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chicken-of-the-woods-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 392
+    },
+    {
+      "id": "MS-0393",
+      "key": "recipes/chicken-of-the-woods-soup-technique",
+      "title": "Chicken Of The Woods: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chicken-of-the-woods-soup-technique.md",
+      "status": "research-draft",
+      "priority": 393
+    },
+    {
+      "id": "MS-0394",
+      "key": "recipes/chicken-of-the-woods-grain-bowl",
+      "title": "Chicken Of The Woods: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chicken-of-the-woods-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 394
+    },
+    {
+      "id": "MS-0395",
+      "key": "recipes/chicken-of-the-woods-pasta-technique",
+      "title": "Chicken Of The Woods: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/chicken-of-the-woods-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 395
+    },
+    {
+      "id": "MS-0396",
+      "key": "recipes/lobster-mushroom-skillet-method",
+      "title": "Lobster Mushroom: Skillet Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lobster-mushroom-skillet-method.md",
+      "status": "research-draft",
+      "priority": 396
+    },
+    {
+      "id": "MS-0397",
+      "key": "recipes/lobster-mushroom-oven-roasted-method",
+      "title": "Lobster Mushroom: Oven-Roasted Method",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lobster-mushroom-oven-roasted-method.md",
+      "status": "research-draft",
+      "priority": 397
+    },
+    {
+      "id": "MS-0398",
+      "key": "recipes/lobster-mushroom-soup-technique",
+      "title": "Lobster Mushroom: Soup Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lobster-mushroom-soup-technique.md",
+      "status": "research-draft",
+      "priority": 398
+    },
+    {
+      "id": "MS-0399",
+      "key": "recipes/lobster-mushroom-grain-bowl",
+      "title": "Lobster Mushroom: Grain Bowl",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lobster-mushroom-grain-bowl.md",
+      "status": "research-draft",
+      "priority": 399
+    },
+    {
+      "id": "MS-0400",
+      "key": "recipes/lobster-mushroom-pasta-technique",
+      "title": "Lobster Mushroom: Pasta Technique",
+      "category": "recipes",
+      "file": "content-library/drafts/recipes/lobster-mushroom-pasta-technique.md",
+      "status": "research-draft",
+      "priority": 400
+    },
+    {
+      "id": "MS-0401",
+      "key": "health/oyster-mushroom-nutrition-evidence-review",
+      "title": "Oyster Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/oyster-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 401
+    },
+    {
+      "id": "MS-0402",
+      "key": "health/oyster-mushroom-supplement-label-review",
+      "title": "Oyster Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/oyster-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 402
+    },
+    {
+      "id": "MS-0403",
+      "key": "health/oyster-mushroom-beta-glucan-evidence",
+      "title": "Oyster Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/oyster-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 403
+    },
+    {
+      "id": "MS-0404",
+      "key": "health/oyster-mushroom-vitamin-and-mineral-context",
+      "title": "Oyster Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/oyster-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 404
+    },
+    {
+      "id": "MS-0405",
+      "key": "health/oyster-mushroom-safety-and-interactions",
+      "title": "Oyster Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/oyster-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 405
+    },
+    {
+      "id": "MS-0406",
+      "key": "health/shiitake-nutrition-evidence-review",
+      "title": "Shiitake Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/shiitake-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 406
+    },
+    {
+      "id": "MS-0407",
+      "key": "health/shiitake-supplement-label-review",
+      "title": "Shiitake Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/shiitake-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 407
+    },
+    {
+      "id": "MS-0408",
+      "key": "health/shiitake-beta-glucan-evidence",
+      "title": "Shiitake Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/shiitake-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 408
+    },
+    {
+      "id": "MS-0409",
+      "key": "health/shiitake-vitamin-and-mineral-context",
+      "title": "Shiitake Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/shiitake-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 409
+    },
+    {
+      "id": "MS-0410",
+      "key": "health/shiitake-safety-and-interactions",
+      "title": "Shiitake Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/shiitake-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 410
+    },
+    {
+      "id": "MS-0411",
+      "key": "health/lions-mane-nutrition-evidence-review",
+      "title": "Lion’S Mane Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/lions-mane-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 411
+    },
+    {
+      "id": "MS-0412",
+      "key": "health/lions-mane-supplement-label-review",
+      "title": "Lion’S Mane Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/lions-mane-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 412
+    },
+    {
+      "id": "MS-0413",
+      "key": "health/lions-mane-beta-glucan-evidence",
+      "title": "Lion’S Mane Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/lions-mane-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 413
+    },
+    {
+      "id": "MS-0414",
+      "key": "health/lions-mane-vitamin-and-mineral-context",
+      "title": "Lion’S Mane Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/lions-mane-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 414
+    },
+    {
+      "id": "MS-0415",
+      "key": "health/lions-mane-safety-and-interactions",
+      "title": "Lion’S Mane Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/lions-mane-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 415
+    },
+    {
+      "id": "MS-0416",
+      "key": "health/maitake-nutrition-evidence-review",
+      "title": "Maitake Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/maitake-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 416
+    },
+    {
+      "id": "MS-0417",
+      "key": "health/maitake-supplement-label-review",
+      "title": "Maitake Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/maitake-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 417
+    },
+    {
+      "id": "MS-0418",
+      "key": "health/maitake-beta-glucan-evidence",
+      "title": "Maitake Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/maitake-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 418
+    },
+    {
+      "id": "MS-0419",
+      "key": "health/maitake-vitamin-and-mineral-context",
+      "title": "Maitake Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/maitake-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 419
+    },
+    {
+      "id": "MS-0420",
+      "key": "health/maitake-safety-and-interactions",
+      "title": "Maitake Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/maitake-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 420
+    },
+    {
+      "id": "MS-0421",
+      "key": "health/king-oyster-mushroom-nutrition-evidence-review",
+      "title": "King Oyster Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/king-oyster-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 421
+    },
+    {
+      "id": "MS-0422",
+      "key": "health/king-oyster-mushroom-supplement-label-review",
+      "title": "King Oyster Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/king-oyster-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 422
+    },
+    {
+      "id": "MS-0423",
+      "key": "health/king-oyster-mushroom-beta-glucan-evidence",
+      "title": "King Oyster Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/king-oyster-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 423
+    },
+    {
+      "id": "MS-0424",
+      "key": "health/king-oyster-mushroom-vitamin-and-mineral-context",
+      "title": "King Oyster Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/king-oyster-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 424
+    },
+    {
+      "id": "MS-0425",
+      "key": "health/king-oyster-mushroom-safety-and-interactions",
+      "title": "King Oyster Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/king-oyster-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 425
+    },
+    {
+      "id": "MS-0426",
+      "key": "health/enoki-nutrition-evidence-review",
+      "title": "Enoki Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/enoki-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 426
+    },
+    {
+      "id": "MS-0427",
+      "key": "health/enoki-supplement-label-review",
+      "title": "Enoki Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/enoki-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 427
+    },
+    {
+      "id": "MS-0428",
+      "key": "health/enoki-beta-glucan-evidence",
+      "title": "Enoki Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/enoki-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 428
+    },
+    {
+      "id": "MS-0429",
+      "key": "health/enoki-vitamin-and-mineral-context",
+      "title": "Enoki Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/enoki-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 429
+    },
+    {
+      "id": "MS-0430",
+      "key": "health/enoki-safety-and-interactions",
+      "title": "Enoki Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/enoki-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 430
+    },
+    {
+      "id": "MS-0431",
+      "key": "health/wood-ear-mushroom-nutrition-evidence-review",
+      "title": "Wood Ear Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/wood-ear-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 431
+    },
+    {
+      "id": "MS-0432",
+      "key": "health/wood-ear-mushroom-supplement-label-review",
+      "title": "Wood Ear Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/wood-ear-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 432
+    },
+    {
+      "id": "MS-0433",
+      "key": "health/wood-ear-mushroom-beta-glucan-evidence",
+      "title": "Wood Ear Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/wood-ear-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 433
+    },
+    {
+      "id": "MS-0434",
+      "key": "health/wood-ear-mushroom-vitamin-and-mineral-context",
+      "title": "Wood Ear Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/wood-ear-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 434
+    },
+    {
+      "id": "MS-0435",
+      "key": "health/wood-ear-mushroom-safety-and-interactions",
+      "title": "Wood Ear Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/wood-ear-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 435
+    },
+    {
+      "id": "MS-0436",
+      "key": "health/reishi-nutrition-evidence-review",
+      "title": "Reishi Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/reishi-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 436
+    },
+    {
+      "id": "MS-0437",
+      "key": "health/reishi-supplement-label-review",
+      "title": "Reishi Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/reishi-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 437
+    },
+    {
+      "id": "MS-0438",
+      "key": "health/reishi-beta-glucan-evidence",
+      "title": "Reishi Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/reishi-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 438
+    },
+    {
+      "id": "MS-0439",
+      "key": "health/reishi-vitamin-and-mineral-context",
+      "title": "Reishi Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/reishi-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 439
+    },
+    {
+      "id": "MS-0440",
+      "key": "health/reishi-safety-and-interactions",
+      "title": "Reishi Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/reishi-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 440
+    },
+    {
+      "id": "MS-0441",
+      "key": "health/turkey-tail-nutrition-evidence-review",
+      "title": "Turkey Tail Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/turkey-tail-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 441
+    },
+    {
+      "id": "MS-0442",
+      "key": "health/turkey-tail-supplement-label-review",
+      "title": "Turkey Tail Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/turkey-tail-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 442
+    },
+    {
+      "id": "MS-0443",
+      "key": "health/turkey-tail-beta-glucan-evidence",
+      "title": "Turkey Tail Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/turkey-tail-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 443
+    },
+    {
+      "id": "MS-0444",
+      "key": "health/turkey-tail-vitamin-and-mineral-context",
+      "title": "Turkey Tail Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/turkey-tail-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 444
+    },
+    {
+      "id": "MS-0445",
+      "key": "health/turkey-tail-safety-and-interactions",
+      "title": "Turkey Tail Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/turkey-tail-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 445
+    },
+    {
+      "id": "MS-0446",
+      "key": "health/cremini-mushroom-nutrition-evidence-review",
+      "title": "Cremini Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/cremini-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 446
+    },
+    {
+      "id": "MS-0447",
+      "key": "health/cremini-mushroom-supplement-label-review",
+      "title": "Cremini Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/cremini-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 447
+    },
+    {
+      "id": "MS-0448",
+      "key": "health/cremini-mushroom-beta-glucan-evidence",
+      "title": "Cremini Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/cremini-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 448
+    },
+    {
+      "id": "MS-0449",
+      "key": "health/cremini-mushroom-vitamin-and-mineral-context",
+      "title": "Cremini Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/cremini-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 449
+    },
+    {
+      "id": "MS-0450",
+      "key": "health/cremini-mushroom-safety-and-interactions",
+      "title": "Cremini Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/cremini-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 450
+    },
+    {
+      "id": "MS-0451",
+      "key": "health/portobello-mushroom-nutrition-evidence-review",
+      "title": "Portobello Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/portobello-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 451
+    },
+    {
+      "id": "MS-0452",
+      "key": "health/portobello-mushroom-supplement-label-review",
+      "title": "Portobello Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/portobello-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 452
+    },
+    {
+      "id": "MS-0453",
+      "key": "health/portobello-mushroom-beta-glucan-evidence",
+      "title": "Portobello Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/portobello-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 453
+    },
+    {
+      "id": "MS-0454",
+      "key": "health/portobello-mushroom-vitamin-and-mineral-context",
+      "title": "Portobello Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/portobello-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 454
+    },
+    {
+      "id": "MS-0455",
+      "key": "health/portobello-mushroom-safety-and-interactions",
+      "title": "Portobello Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/portobello-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 455
+    },
+    {
+      "id": "MS-0456",
+      "key": "health/chanterelle-nutrition-evidence-review",
+      "title": "Chanterelle Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/chanterelle-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 456
+    },
+    {
+      "id": "MS-0457",
+      "key": "health/chanterelle-supplement-label-review",
+      "title": "Chanterelle Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/chanterelle-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 457
+    },
+    {
+      "id": "MS-0458",
+      "key": "health/chanterelle-beta-glucan-evidence",
+      "title": "Chanterelle Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/chanterelle-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 458
+    },
+    {
+      "id": "MS-0459",
+      "key": "health/chanterelle-vitamin-and-mineral-context",
+      "title": "Chanterelle Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/chanterelle-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 459
+    },
+    {
+      "id": "MS-0460",
+      "key": "health/chanterelle-safety-and-interactions",
+      "title": "Chanterelle Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/chanterelle-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 460
+    },
+    {
+      "id": "MS-0461",
+      "key": "health/morel-nutrition-evidence-review",
+      "title": "Morel Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/morel-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 461
+    },
+    {
+      "id": "MS-0462",
+      "key": "health/morel-supplement-label-review",
+      "title": "Morel Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/morel-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 462
+    },
+    {
+      "id": "MS-0463",
+      "key": "health/morel-beta-glucan-evidence",
+      "title": "Morel Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/morel-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 463
+    },
+    {
+      "id": "MS-0464",
+      "key": "health/morel-vitamin-and-mineral-context",
+      "title": "Morel Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/morel-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 464
+    },
+    {
+      "id": "MS-0465",
+      "key": "health/morel-safety-and-interactions",
+      "title": "Morel Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/morel-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 465
+    },
+    {
+      "id": "MS-0466",
+      "key": "health/porcini-nutrition-evidence-review",
+      "title": "Porcini Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/porcini-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 466
+    },
+    {
+      "id": "MS-0467",
+      "key": "health/porcini-supplement-label-review",
+      "title": "Porcini Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/porcini-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 467
+    },
+    {
+      "id": "MS-0468",
+      "key": "health/porcini-beta-glucan-evidence",
+      "title": "Porcini Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/porcini-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 468
+    },
+    {
+      "id": "MS-0469",
+      "key": "health/porcini-vitamin-and-mineral-context",
+      "title": "Porcini Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/porcini-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 469
+    },
+    {
+      "id": "MS-0470",
+      "key": "health/porcini-safety-and-interactions",
+      "title": "Porcini Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/porcini-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 470
+    },
+    {
+      "id": "MS-0471",
+      "key": "health/shaggy-mane-nutrition-evidence-review",
+      "title": "Shaggy Mane Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/shaggy-mane-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 471
+    },
+    {
+      "id": "MS-0472",
+      "key": "health/shaggy-mane-supplement-label-review",
+      "title": "Shaggy Mane Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/shaggy-mane-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 472
+    },
+    {
+      "id": "MS-0473",
+      "key": "health/shaggy-mane-beta-glucan-evidence",
+      "title": "Shaggy Mane Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/shaggy-mane-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 473
+    },
+    {
+      "id": "MS-0474",
+      "key": "health/shaggy-mane-vitamin-and-mineral-context",
+      "title": "Shaggy Mane Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/shaggy-mane-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 474
+    },
+    {
+      "id": "MS-0475",
+      "key": "health/shaggy-mane-safety-and-interactions",
+      "title": "Shaggy Mane Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/shaggy-mane-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 475
+    },
+    {
+      "id": "MS-0476",
+      "key": "health/blewit-nutrition-evidence-review",
+      "title": "Blewit Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/blewit-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 476
+    },
+    {
+      "id": "MS-0477",
+      "key": "health/blewit-supplement-label-review",
+      "title": "Blewit Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/blewit-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 477
+    },
+    {
+      "id": "MS-0478",
+      "key": "health/blewit-beta-glucan-evidence",
+      "title": "Blewit Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/blewit-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 478
+    },
+    {
+      "id": "MS-0479",
+      "key": "health/blewit-vitamin-and-mineral-context",
+      "title": "Blewit Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/blewit-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 479
+    },
+    {
+      "id": "MS-0480",
+      "key": "health/blewit-safety-and-interactions",
+      "title": "Blewit Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/blewit-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 480
+    },
+    {
+      "id": "MS-0481",
+      "key": "health/puffball-nutrition-evidence-review",
+      "title": "Puffball Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/puffball-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 481
+    },
+    {
+      "id": "MS-0482",
+      "key": "health/puffball-supplement-label-review",
+      "title": "Puffball Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/puffball-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 482
+    },
+    {
+      "id": "MS-0483",
+      "key": "health/puffball-beta-glucan-evidence",
+      "title": "Puffball Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/puffball-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 483
+    },
+    {
+      "id": "MS-0484",
+      "key": "health/puffball-vitamin-and-mineral-context",
+      "title": "Puffball Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/puffball-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 484
+    },
+    {
+      "id": "MS-0485",
+      "key": "health/puffball-safety-and-interactions",
+      "title": "Puffball Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/puffball-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 485
+    },
+    {
+      "id": "MS-0486",
+      "key": "health/hedgehog-mushroom-nutrition-evidence-review",
+      "title": "Hedgehog Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/hedgehog-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 486
+    },
+    {
+      "id": "MS-0487",
+      "key": "health/hedgehog-mushroom-supplement-label-review",
+      "title": "Hedgehog Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/hedgehog-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 487
+    },
+    {
+      "id": "MS-0488",
+      "key": "health/hedgehog-mushroom-beta-glucan-evidence",
+      "title": "Hedgehog Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/hedgehog-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 488
+    },
+    {
+      "id": "MS-0489",
+      "key": "health/hedgehog-mushroom-vitamin-and-mineral-context",
+      "title": "Hedgehog Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/hedgehog-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 489
+    },
+    {
+      "id": "MS-0490",
+      "key": "health/hedgehog-mushroom-safety-and-interactions",
+      "title": "Hedgehog Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/hedgehog-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 490
+    },
+    {
+      "id": "MS-0491",
+      "key": "health/chicken-of-the-woods-nutrition-evidence-review",
+      "title": "Chicken Of The Woods Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/chicken-of-the-woods-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 491
+    },
+    {
+      "id": "MS-0492",
+      "key": "health/chicken-of-the-woods-supplement-label-review",
+      "title": "Chicken Of The Woods Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/chicken-of-the-woods-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 492
+    },
+    {
+      "id": "MS-0493",
+      "key": "health/chicken-of-the-woods-beta-glucan-evidence",
+      "title": "Chicken Of The Woods Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/chicken-of-the-woods-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 493
+    },
+    {
+      "id": "MS-0494",
+      "key": "health/chicken-of-the-woods-vitamin-and-mineral-context",
+      "title": "Chicken Of The Woods Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/chicken-of-the-woods-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 494
+    },
+    {
+      "id": "MS-0495",
+      "key": "health/chicken-of-the-woods-safety-and-interactions",
+      "title": "Chicken Of The Woods Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/chicken-of-the-woods-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 495
+    },
+    {
+      "id": "MS-0496",
+      "key": "health/lobster-mushroom-nutrition-evidence-review",
+      "title": "Lobster Mushroom Nutrition Evidence Review",
+      "category": "health",
+      "file": "content-library/drafts/health/lobster-mushroom-nutrition-evidence-review.md",
+      "status": "research-draft",
+      "priority": 496
+    },
+    {
+      "id": "MS-0497",
+      "key": "health/lobster-mushroom-supplement-label-review",
+      "title": "Lobster Mushroom Supplement Label Review",
+      "category": "health",
+      "file": "content-library/drafts/health/lobster-mushroom-supplement-label-review.md",
+      "status": "research-draft",
+      "priority": 497
+    },
+    {
+      "id": "MS-0498",
+      "key": "health/lobster-mushroom-beta-glucan-evidence",
+      "title": "Lobster Mushroom Beta-Glucan Evidence",
+      "category": "health",
+      "file": "content-library/drafts/health/lobster-mushroom-beta-glucan-evidence.md",
+      "status": "research-draft",
+      "priority": 498
+    },
+    {
+      "id": "MS-0499",
+      "key": "health/lobster-mushroom-vitamin-and-mineral-context",
+      "title": "Lobster Mushroom Vitamin And Mineral Context",
+      "category": "health",
+      "file": "content-library/drafts/health/lobster-mushroom-vitamin-and-mineral-context.md",
+      "status": "research-draft",
+      "priority": 499
+    },
+    {
+      "id": "MS-0500",
+      "key": "health/lobster-mushroom-safety-and-interactions",
+      "title": "Lobster Mushroom Safety And Interactions",
+      "category": "health",
+      "file": "content-library/drafts/health/lobster-mushroom-safety-and-interactions.md",
+      "status": "research-draft",
+      "priority": 500
+    }
+  ]
+}
