@@ -40,11 +40,33 @@ const cardMeta = (article: (typeof articles)[number]) => {
   if (data.evidenceLevel) return `${data.evidenceLevel} evidence · editorial review`;
   return undefined;
 };
+const hubLinks: Record<string, { title: string; href: string; text: string }[]> = {
+  identification: [
+    { title: 'Mushroom identification safety hub', href: '/hubs/mushroom-identification-safety/', text: 'A complete path through field records, poisonous warning signs, and lookalike comparisons.' },
+    { title: 'Oyster mushroom topic hub', href: '/hubs/oyster-mushroom-guide/', text: 'Species context, lookalikes, growing, and cooking ideas for oyster mushrooms.' },
+  ],
+  health: [
+    { title: 'Mushroom nutrition evidence hub', href: '/hubs/mushroom-nutrition-evidence/', text: 'Connect nutrition, vitamin D, beta-glucans, gut, heart, immune, and supplement claims.' },
+  ],
+  growing: [
+    { title: 'Beginner mushroom growing hub', href: '/hubs/beginner-mushroom-growing/', text: 'Start with spawn, substrates, fruiting chambers, contamination, and harvest timing.' },
+    { title: 'Oyster mushroom topic hub', href: '/hubs/oyster-mushroom-guide/', text: 'Move from oyster blocks to fruiting conditions and reliable recipe use.' },
+  ],
+  recipes: [
+    { title: 'Easy mushroom recipes hub', href: '/hubs/easy-mushroom-recipes/', text: 'Quick cultivated mushroom recipes grouped by browning, crisping, simmering, and saucing.' },
+    { title: 'Oyster mushroom topic hub', href: '/hubs/oyster-mushroom-guide/', text: 'Cooking ideas connected to oyster mushroom species and cultivation guides.' },
+  ],
+  mushrooms: [
+    { title: 'Oyster mushroom topic hub', href: '/hubs/oyster-mushroom-guide/', text: 'A cross-category path through oyster mushroom identification context, growing, and cooking.' },
+    { title: 'Mushroom identification safety hub', href: '/hubs/mushroom-identification-safety/', text: 'Safety-first field documentation before any wild mushroom confidence call.' },
+  ],
+};
 ---
 <BaseLayout title={detail.title} description={detail.description} noindex={articles.length === 0} schema={breadcrumbSchema}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: detail.title }]} /></div>
   <header class="shell py-12 sm:py-16"><p class="eyebrow">MushroomScope library</p><h1 class="mt-4 max-w-4xl font-serif text-5xl sm:text-6xl">{detail.title}</h1><p class="mt-6 max-w-3xl text-xl leading-8 text-slate-600">{detail.intro}</p></header>
   <section class="shell pb-12" aria-labelledby="collection-standards"><div class="grid gap-5 lg:grid-cols-3"><article class="card"><p class="eyebrow">What this section covers</p><h2 id="collection-standards" class="mt-3 font-serif text-2xl">Useful scope</h2><p class="mt-3 leading-7 text-slate-600">{detail.scope}</p></article><article class="card"><p class="eyebrow">Editorial method</p><h2 class="mt-3 font-serif text-2xl">How pages are checked</h2><p class="mt-3 leading-7 text-slate-600">{detail.method}</p></article><article class="card"><p class="eyebrow">Important limit</p><h2 class="mt-3 font-serif text-2xl">Use information safely</h2><p class="mt-3 leading-7 text-slate-600">{detail.safety}</p></article></div></section>
+  {hubLinks[category ?? ''] && <section class="shell pb-12" aria-labelledby="topic-clusters"><p class="eyebrow">Recommended clusters</p><h2 id="topic-clusters" class="mt-3 font-serif text-3xl">Topic hubs for deeper reading</h2><div class="mt-6 grid gap-5 md:grid-cols-2">{hubLinks[category ?? ''].map((hub) => <a href={hub.href} class="card group no-underline"><h3 class="font-serif text-2xl group-hover:text-forest-700">{hub.title}</h3><p class="mt-3 leading-7 text-slate-600">{hub.text}</p><span class="mt-5 inline-block font-bold text-forest-700">Open hub →</span></a>)}</div></section>}
   <div class="shell"><AdBanner /></div>
   {speciesArticles.length > 0 && <nav class="shell pt-10" aria-label="Browse species"><div class="card"><h2 class="font-serif text-2xl">Browse the encyclopedia</h2><div class="mt-5 grid gap-6 lg:grid-cols-3"><div><p class="eyebrow">Scientific name A–Z</p><div class="mt-3 flex flex-wrap gap-2">{alphabet.map((letter) => <a class="grid size-9 place-items-center rounded-full border border-beige-300 no-underline hover:bg-sage-100" href={`#letter-${letter.toLowerCase()}`}>{letter}</a>)}</div></div><div><p class="eyebrow">Established genus indexes</p><div class="mt-3 flex flex-wrap gap-x-4 gap-y-2">{indexableGenera.length ? indexableGenera.map(([genus, count]) => <a href={`/mushrooms/genus/${genus.toLowerCase()}/`}><em>{genus}</em> ({count})</a>) : <span class="text-sm text-slate-500">Indexes appear after {MIN_TAXON_INDEX_ENTRIES} reviewed species in a genus.</span>}</div></div><div><p class="eyebrow">Established family indexes</p><div class="mt-3 flex flex-wrap gap-x-4 gap-y-2">{indexableFamilies.length ? indexableFamilies.map(([family, count]) => <a href={`/mushrooms/family/${family.toLowerCase()}/`}>{family} ({count})</a>) : <span class="text-sm text-slate-500">Indexes appear after {MIN_TAXON_INDEX_ENTRIES} reviewed species in a family.</span>}</div></div></div>{speciesArticles.length >= 8 && <form id="species-filter" class="mt-7 grid gap-3 border-t border-beige-300 pt-6 sm:grid-cols-2" role="search"><label class="grid gap-2 text-sm font-semibold">Filter by genus<select id="filter-genus" class="min-h-11 rounded-xl border border-beige-300 bg-white px-3"><option value="">All genera</option>{genera.map(([genus]) => <option value={genus.toLowerCase()}>{genus}</option>)}</select></label><label class="grid gap-2 text-sm font-semibold">Filter by family<select id="filter-family" class="min-h-11 rounded-xl border border-beige-300 bg-white px-3"><option value="">All families</option>{families.map(([family]) => <option value={family.toLowerCase()}>{family}</option>)}</select></label><div class="flex flex-wrap items-center justify-between gap-3 sm:col-span-2"><p id="species-filter-status" class="text-sm text-slate-600" aria-live="polite">Showing all {speciesArticles.length} published species.</p><button id="clear-species-filter" type="button" class="min-h-11 rounded-full border border-forest-800 px-4 text-sm font-semibold text-forest-800">Clear filters</button></div></form>}</div></nav>}
   {speciesArticles.length > 0 && <section class="shell pt-10" aria-labelledby="taxonomy-index"><h2 id="taxonomy-index" class="font-serif text-3xl">Species index</h2><div class="mt-6 grid gap-4 md:grid-cols-2">{speciesArticles.sort((a, b) => (a.data.scientificName ?? a.data.title).localeCompare(b.data.scientificName ?? b.data.title)).map(({ article, data }, index, sorted) => {

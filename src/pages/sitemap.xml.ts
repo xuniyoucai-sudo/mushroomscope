@@ -1,7 +1,11 @@
 import type { APIRoute } from 'astro';
 import { entryPath, getPublishedEntries, MIN_TAXON_INDEX_ENTRIES } from '../lib/content';
 
-const staticPaths = ['/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/editorial-policy/', '/glossary/'];
+const staticPaths = [
+  '/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/editorial-policy/', '/glossary/',
+  '/hubs/mushroom-identification-safety/', '/hubs/mushroom-nutrition-evidence/', '/hubs/beginner-mushroom-growing/',
+  '/hubs/easy-mushroom-recipes/', '/hubs/oyster-mushroom-guide/',
+];
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value
@@ -23,8 +27,8 @@ export const GET: APIRoute = async ({ site }) => {
   const genera = [...countTaxa('genus')].filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES).map(([name]) => name);
   const families = [...countTaxa('family')].filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES).map(([name]) => name);
   const paths: SitemapEntry[] = [
-    ...staticPaths.map((path) => ({ path })),
-    ...populatedCategories.map((category) => ({ path: `/${category}/` })),
+    ...staticPaths.map((path) => ({ path, lastmod: '2026-08-15' })),
+    ...populatedCategories.map((category) => ({ path: `/${category}/`, lastmod: '2026-08-15' })),
     ...genera.map((genus) => ({ path: `/mushrooms/genus/${String(genus).toLowerCase()}/` })),
     ...families.map((family) => ({ path: `/mushrooms/family/${String(family).toLowerCase()}/` })),
     ...articles.map(({ id, data }) => ({

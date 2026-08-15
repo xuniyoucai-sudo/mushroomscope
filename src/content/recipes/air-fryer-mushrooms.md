@@ -77,6 +77,16 @@ Cook in one loose layer. If the basket is crowded, the mushrooms steam. Shake on
 
 Pair with [garlic butter oyster mushrooms](/recipes/garlic-butter-oyster-mushrooms/) or learn the stovetop approach in [sauteed mushrooms](/recipes/sauteed-mushrooms-recipe/).
 
+## Texture cues and serving ideas
+
+The finished mushrooms should look dry on the surface, with browned edges and a coating that feels crisp when tapped with tongs. If the coating still looks pale after the listed time, continue in short intervals rather than raising the temperature sharply. High heat can darken the crumbs before the mushroom interior is hot.
+
+Serve them as a side dish, a salad topper, or a snack with yogurt-herb sauce, lemon aioli, or a simple marinara. For a lighter plate, pair them with a crunchy vegetable salad so the mushrooms do not have to carry the whole meal.
+
+## Common variations
+
+For a dairy-free version, skip Parmesan and add nutritional yeast or extra garlic powder. For a spicier version, add cayenne or chili flakes to the panko. For oyster mushrooms, tear large clusters into strips and press the coating into the frilled edges; they crisp well but can cook faster than dense button mushrooms.
+
 ## Storage
 
 Air fryer mushrooms are best fresh. Refrigerate leftovers promptly in a shallow covered container and re-crisp briefly in the air fryer. Discard food held unsafely or showing spoilage.

@@ -5,7 +5,8 @@ keywords: ["reishi clinical evidence", "Ganoderma lucidum systematic review", "r
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Expanded practical guidance, internal context, troubleshooting depth, and safety notes as part of the August 2026 SEO quality pass."
 draft: false
 featured: false
 evidenceLevel: preliminary

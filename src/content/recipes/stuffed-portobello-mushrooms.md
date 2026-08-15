@@ -5,7 +5,8 @@ keywords: ["stuffed portobello mushrooms", "mushroom recipe", "portobello mushro
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Expanded practical guidance, internal context, troubleshooting depth, and safety notes as part of the August 2026 SEO quality pass."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/grilled-portobello-burgers", "health/cooked-vs-raw-mushrooms"]
@@ -70,6 +71,12 @@ A wide skillet promotes evaporation. Let mushrooms contact the hot surface befor
 **Garlic or spices taste bitter:** Add delicate aromatics later or reduce the heat once browning is established.
 
 **The finished dish is heavy:** Add measured acidity, fresh herbs, or unsalted stock rather than more salt.
+
+## Filling and moisture control
+
+Portobello caps release water as they cook, so remove excess moisture before adding heavy fillings. Wipe the caps clean, trim damaged areas, and pre-bake or briefly roast them gill-side down if your filling is especially wet. This prevents a watery baking dish and helps the filling stay distinct from the mushroom.
+
+Balance the filling with texture. Breadcrumbs, cooked grains, chopped herbs, and a measured amount of cheese can make the center satisfying without turning dense. If using vegetables such as spinach or peppers, cook off their moisture first.
 
 ## Storage and reheating
 

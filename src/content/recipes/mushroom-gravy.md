@@ -75,6 +75,16 @@ If the gravy is lumpy, whisk firmly or blend briefly. If it is too thick, add wa
 
 Serve with mashed potatoes, mushroom loaf, roasted vegetables, or [mushroom risotto](/recipes/mushroom-risotto/) for a more indulgent meal.
 
+## Flavor-building checklist
+
+A good mushroom gravy should taste savory before it tastes salty. Brown the mushrooms first, cook the flour briefly, and add stock gradually so the sauce thickens evenly. If the gravy tastes dull, try black pepper, thyme, a small splash of vinegar, or a few drops of soy sauce before adding more salt.
+
+For holiday meals, make the gravy slightly looser than you want at serving time because it thickens as it cools. Keep extra warm stock nearby for adjustment. If serving with salty sides, season gently and let diners add salt at the table.
+
+## What to serve with mushroom gravy
+
+Use it over mashed potatoes, roasted vegetables, lentil loaf, rice, biscuits, or cultivated mushroom patties. It also works as a sauce for leftover grains when loosened with stock. For a mushroom-forward menu, pair it with [sauteed mushrooms](/recipes/sauteed-mushrooms-recipe/) or a lighter side so the meal does not become heavy.
+
 ## Storage
 
 Cool leftovers promptly and refrigerate in a covered shallow container. USDA FSIS recommends using cooked leftovers within three to four days. Reheat only the amount needed, adding a splash of stock if the gravy tightens.

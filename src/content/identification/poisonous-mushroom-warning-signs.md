@@ -55,6 +55,16 @@ Keep unknown mushrooms out of food containers. Photograph them where they grow, 
 
 When documenting, record cap, underside, stem, base, odor, bruising, spore deposit, substrate, associated trees, location, date, and weather. The [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/) gives a structured version of this process.
 
+## Warning signs that are not enough
+
+Some features deserve caution, such as a bulbous base, ring or veil tissue, unfamiliar spore color, unusual staining, or a mushroom growing in a high-risk lookalike context. The key point is that none of these works alone, and the absence of these features does not prove safety. A dangerous mushroom can lack the dramatic warning signs people expect.
+
+A safer mental model is cumulative uncertainty. If the complete base is missing, the underside is not documented, the substrate is unclear, the mushroom is outside your experience, or local lookalikes have not been checked, the correct status is unresolved. Unresolved mushrooms do not belong in food.
+
+## Household prevention
+
+Keep unknown mushrooms away from kitchens, picnic baskets, children, and pets. If you bring specimens home for study, label them clearly, bag them separately from food, and clean the surface afterward. Teach children not to taste outdoor mushrooms, even tiny pieces, and keep yard specimens documented if pets show interest.
+
 ## When to seek urgent help
 
 If someone may have eaten an unknown mushroom, do not wait for symptoms or online identification. Contact emergency services or a poison center. Save uncooked specimens, cooked leftovers, vomit if medically relevant and safely collected, packaging, and photos. Timing and material can help clinicians and toxicologists.

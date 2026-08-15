@@ -74,6 +74,16 @@ Collect grounds promptly after brewing, let them cool in a clean container, and 
 
 If growth is uneven or you see green, black, pink, orange, slimy, insect-damaged, or foul-smelling material, stop. Isolate and discard the batch. The [contamination guide](/growing/mushroom-contamination-guide/) gives a more conservative decision framework.
 
+## Coffee grounds versus beginner-friendly substrates
+
+Coffee-ground projects are appealing because the material is easy to find, but reliability is the real beginner metric. Fresh grounds can work in a small experiment, yet they are less predictable than a purchased ready-to-fruit block or a method built around pasteurized straw. If your goal is a first successful harvest, start with the controlled route and treat coffee grounds as a later learning batch.
+
+A useful comparison is risk concentration. Coffee grounds are fine, wet, and nutrient-rich, so one handling mistake can spread quickly. Straw and sawdust-based blocks usually offer better structure and clearer supplier instructions. That structure helps air, moisture, and colonization stay more readable.
+
+## Batch log template
+
+Record the brew date, inoculation date, spawn source, approximate ratio of spawn to grounds, container type, room temperature, visible growth, odor, moisture, and any changes you made. If a batch fails, the log tells you whether the problem was old grounds, too little spawn, excess water, or poor exchange.
+
 ## Fruiting and harvest
 
 Only fruit a healthy, evenly colonized batch. Use the supplier's fruiting conditions for the exact oyster strain. Harvest normal-looking mushrooms with clean hands or tools and refrigerate promptly.

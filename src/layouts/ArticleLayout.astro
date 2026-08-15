@@ -116,6 +116,28 @@ const automaticRelated = allPublished
   .slice(0, Math.max(0, 3 - explicitRelated.length))
   .map(({ entry }) => entry);
 const related = [...explicitRelated, ...automaticRelated].slice(0, 3);
+const trustNotes: Record<string, { label: string; title: string; text: string; href: string; link: string }[]> = {
+  identification: [
+    { label: 'Safety first', title: 'Use as a field-record guide', text: 'Document the whole mushroom, habitat, substrate, and region before comparing names or photographs.', href: '/hubs/mushroom-identification-safety/', link: 'Open the identification safety hub' },
+    { label: 'Decision limit', title: 'Do not use this as an edibility verdict', text: 'Wild mushroom consumption decisions require qualified local, in-person confirmation of the complete specimen.', href: '/disclaimer/', link: 'Read the safety disclaimer' },
+  ],
+  mushrooms: [
+    { label: 'Species context', title: 'Treat profiles as reference material', text: 'Species profiles summarize documented traits, taxonomy, and lookalikes, but natural variation can be substantial.', href: '/identification/mushroom-identification-safety-checklist/', link: 'Use the safety checklist' },
+    { label: 'Decision limit', title: 'A profile cannot authenticate a specimen', text: 'Do not eat a wild mushroom from an online match, single feature, or generated image.', href: '/disclaimer/', link: 'Read the safety disclaimer' },
+  ],
+  health: [
+    { label: 'Evidence context', title: 'Food, extracts, and supplements differ', text: 'Health conclusions depend on species, fungal part, preparation, dose, population, and measured outcome.', href: '/hubs/mushroom-nutrition-evidence/', link: 'Open the nutrition evidence hub' },
+    { label: 'Medical limit', title: 'Educational, not medical advice', text: 'Do not delay diagnosis or replace prescribed care with mushroom foods or supplements.', href: '/editorial-policy/', link: 'Read the editorial policy' },
+  ],
+  growing: [
+    { label: 'Growing method', title: 'Start with authenticated culture', text: 'Use supplier-identified spawn or blocks and record substrate, stage, temperature, humidity, and visible changes.', href: '/hubs/beginner-mushroom-growing/', link: 'Open the beginner growing hub' },
+    { label: 'Food safety', title: 'Discard suspect batches', text: 'Unusual colors, slime, insects, or abnormal odor should be treated as a safety concern, not a climate tweak.', href: '/growing/mushroom-contamination-guide/', link: 'Review contamination guidance' },
+  ],
+  recipes: [
+    { label: 'Food source', title: 'Cook identified edible mushrooms', text: 'Recipes assume mushrooms sold as food by a reputable supplier, not foraged specimens needing identification.', href: '/hubs/easy-mushroom-recipes/', link: 'Open the recipe hub' },
+    { label: 'Kitchen safety', title: 'Handle leftovers promptly', text: 'Cool leftovers in shallow containers, refrigerate promptly, and discard food held unsafely or showing spoilage.', href: '/health/cooked-vs-raw-mushrooms/', link: 'Review preparation safety' },
+  ],
+};
 
 const articleSchema: Record<string, unknown> = {
   '@type': 'Article', '@id': `${canonical}#article`, headline: title, description,
@@ -163,6 +185,8 @@ const schema = [
       {category === 'health' && evidenceLevel && <section class="mt-8 rounded-2xl border border-sage-100 bg-white p-5" aria-label="Evidence and review status"><div class="flex flex-wrap items-center gap-3"><span class="rounded-full bg-sage-100 px-3 py-1 text-xs font-bold uppercase tracking-wider text-forest-800">{formatValue(evidenceLevel)} evidence</span><span class="text-sm text-slate-600">{reviewStatus === 'expert-reviewed' ? `Expert reviewed by ${reviewedBy}` : 'Editorial review only; no named clinical expert review is claimed.'}</span></div></section>}
       {updatedDate && revisionSummary && <aside class="mt-8 rounded-2xl border border-beige-300 bg-beige-50 p-5 text-sm leading-6 text-slate-700" aria-label="Revision note"><strong>What changed:</strong> {revisionSummary}</aside>}
 
+      {trustNotes[category] && <section class="mt-8 grid gap-4 md:grid-cols-2" aria-label="How to use this guide">{trustNotes[category].map((note) => <article class="rounded-2xl border border-sage-100 bg-white p-5"><p class="eyebrow">{note.label}</p><h2 class="mt-2 font-serif text-2xl">{note.title}</h2><p class="mt-3 text-sm leading-6 text-slate-600">{note.text}</p><a href={note.href} class="mt-4 inline-block text-sm font-bold text-forest-700">{note.link} →</a></article>)}</section>}
+
       {coverImage && <figure class="mt-8"><Image src={coverImage} alt={coverAlt || title} widths={[480, 768, 1200, 1600]} sizes="(min-width: 1280px) 880px, (min-width: 1024px) calc(100vw - 380px), 100vw" format="webp" quality="high" loading="eager" fetchpriority="high" decoding="async" class="aspect-[3/2] w-full rounded-3xl object-cover" />{(imageCredit || imageNote) && <figcaption class="mt-3 text-sm leading-6 text-slate-500">{imageCredit && <span>{imageCredit}</span>}{imageCredit && imageNote && <span> · </span>}{imageNote && <span>{imageNote}</span>}</figcaption>}</figure>}
 
       {scientificName && <section class="card mt-10" aria-labelledby="quick-facts"><h2 id="quick-facts" class="font-serif text-3xl">Quick facts</h2><dl class="mt-6 grid gap-x-8 gap-y-5 sm:grid-cols-2 lg:grid-cols-3"><div><dt class="eyebrow">Scientific name</dt><dd class="mt-1 italic">{scientificName}</dd>{taxonomicAuthority && <dd class="mt-1 text-sm text-slate-500">{taxonomicAuthority}</dd>}</div><div><dt class="eyebrow">Common names</dt><dd class="mt-1">{commonNames.join(', ')}</dd></div><div><dt class="eyebrow">Taxonomy</dt><dd class="mt-1">{taxonomy?.genus && <><a href={`/mushrooms/genus/${taxonomy.genus.toLowerCase()}/`}>{taxonomy.genus}</a>{taxonomy.family ? ' · ' : ''}</>}{taxonomy?.family && <a href={`/mushrooms/family/${taxonomy.family.toLowerCase()}/`}>{taxonomy.family}</a>}{!taxonomy?.genus && !taxonomy?.family && 'Not documented'}</dd></div><div class="sm:col-span-2"><dt class="eyebrow">Edibility context</dt><dd class="mt-1"><strong>{formatValue(edibility?.status)}:</strong> {edibility?.notes ?? 'Not documented. Do not infer safety from a category label.'}</dd></div><div><dt class="eyebrow">Spore print</dt><dd class="mt-1">{appearance?.sporePrint ?? 'Not documented'}</dd></div><div class="sm:col-span-2"><dt class="eyebrow">Toxicity context</dt><dd class="mt-1"><strong>{formatValue(toxicity?.level)}:</strong> {toxicity?.notes ?? 'Not documented. Absence of a known toxin does not confirm identity or edibility.'}</dd></div><div><dt class="eyebrow">Season</dt><dd class="mt-1">{season?.months.join(', ') || 'Varies by region'}</dd></div><div><dt class="eyebrow">Growing difficulty</dt><dd class="mt-1">{formatValue(growingDifficulty?.level)}</dd></div><div><dt class="eyebrow">Regions</dt><dd class="mt-1">{habitat?.regions.join(', ') || 'Not documented'}</dd></div>{synonyms.length > 0 && <div class="sm:col-span-2 lg:col-span-3"><dt class="eyebrow">Recorded synonyms</dt><dd class="mt-1 italic">{synonyms.join(', ')}</dd></div>}</dl><p class="mt-6 border-t border-beige-300 pt-4 text-sm leading-6 text-slate-600"><strong>Safety limit:</strong> These labels summarize documented context; they never authenticate a wild specimen. Cooking does not make a poisonous species safe.</p></section>}
@@ -172,6 +196,8 @@ const schema = [
       {recipe && <section class="card mt-10" aria-labelledby="recipe-details"><h2 id="recipe-details" class="font-serif text-3xl">Recipe details</h2><dl class="mt-5 grid gap-4 sm:grid-cols-3"><div><dt class="eyebrow">Prep time</dt><dd class="mt-1 font-semibold">{recipe.prepTime}</dd></div><div><dt class="eyebrow">Cook time</dt><dd class="mt-1 font-semibold">{recipe.cookTime}</dd></div><div><dt class="eyebrow">Yield</dt><dd class="mt-1 font-semibold">{recipe.recipeYield}</dd></div></dl><h3 class="mt-8 font-serif text-2xl">Ingredients</h3><ul class="mt-4 list-disc space-y-2 pl-6">{recipe.ingredients.map((ingredient) => <li>{ingredient}</li>)}</ul><h3 class="mt-8 font-serif text-2xl">Instructions</h3><ol class="mt-4 list-decimal space-y-3 pl-6">{recipe.instructions.map((instruction) => <li>{instruction}</li>)}</ol></section>}
 
       <div class="prose mt-10"><slot /></div>
+
+      {sources.length > 0 && <section class="mt-14 border-t border-beige-300 pt-8" aria-labelledby="source-quality"><h2 id="source-quality" class="font-serif text-3xl">Source quality notes</h2><p class="mt-3 max-w-3xl leading-7 text-slate-600">MushroomScope cites sources that match the page scope, such as taxonomic databases, extension guidance, food-safety agencies, food-composition databases, and peer-reviewed or institutional health references. Sources support context and uncertainty; they do not turn an online page into specimen identification, medical advice, or a tested recipe record.</p></section>}
 
       <section id="frequently-asked-questions" class="mt-14"><h2 class="font-serif text-3xl">Frequently asked questions</h2><div class="mt-5 grid gap-3">{faq.map((item) => <details class="card"><summary class="cursor-pointer font-bold">{item.question}</summary><p class="mt-3 leading-7 text-slate-600">{item.answer}</p></details>)}</div></section>
 
