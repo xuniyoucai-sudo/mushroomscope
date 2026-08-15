@@ -1,0 +1,96 @@
+{
+  "dailyLimit": 10,
+  "updatedAt": "2026-08-15",
+  "items": [
+    {
+      "key": "health/mushrooms-heart-health",
+      "title": "Mushrooms and Heart Health: Nutrition and Evidence",
+      "status": "published",
+      "priority": 10,
+      "file": "src/content/health/mushrooms-heart-health.md",
+      "notes": "Uses existing health editorial image; review before publication.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "recipes/mushroom-toast",
+      "title": "Garlic Mushroom Toast",
+      "status": "published",
+      "priority": 20,
+      "file": "src/content/recipes/mushroom-toast.md",
+      "notes": "Recipe queue item; uses existing mushroom pasta image as related serving art unless replaced.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "growing/build-mushroom-fruiting-chamber",
+      "title": "How to Build a Simple Mushroom Fruiting Chamber",
+      "status": "published",
+      "priority": 30,
+      "file": "src/content/growing/build-mushroom-fruiting-chamber.md",
+      "notes": "Growing guide with conservative safety boundaries.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "identification/oyster-mushroom-lookalikes",
+      "title": "Oyster Mushroom Lookalikes: Safety Comparison",
+      "status": "published",
+      "priority": 40,
+      "file": "src/content/identification/oyster-mushroom-lookalikes.md",
+      "notes": "Identification safety topic; must keep caveats prominent.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "health/mushrooms-gut-health",
+      "title": "Mushrooms and Gut Health: Fiber, Prebiotics, and Evidence",
+      "status": "published",
+      "priority": 50,
+      "file": "src/content/health/mushrooms-gut-health.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "health/mushrooms-immune-system",
+      "title": "Mushrooms and the Immune System: Research Explained",
+      "status": "published",
+      "priority": 60,
+      "file": "src/content/health/mushrooms-immune-system.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "recipes/air-fryer-mushrooms",
+      "title": "Crispy Air Fryer Mushrooms",
+      "status": "published",
+      "priority": 70,
+      "file": "src/content/recipes/air-fryer-mushrooms.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "recipes/mushroom-gravy",
+      "title": "Homemade Mushroom Gravy",
+      "status": "published",
+      "priority": 80,
+      "file": "src/content/recipes/mushroom-gravy.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "growing/grow-mushrooms-coffee-grounds",
+      "title": "How to Grow Mushrooms on Coffee Grounds",
+      "status": "published",
+      "priority": 90,
+      "file": "src/content/growing/grow-mushrooms-coffee-grounds.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    },
+    {
+      "key": "identification/poisonous-mushroom-warning-signs",
+      "title": "Poisonous Mushroom Warning Signs and Safety Rules",
+      "status": "published",
+      "priority": 100,
+      "file": "src/content/identification/poisonous-mushroom-warning-signs.md",
+      "notes": "Weekend publishing batch item; review final page after build.",
+      "publishedDate": "2026-08-15"
+    }
+  ]
+}

@@ -5,7 +5,8 @@ keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Added a practical serving-context note, stronger internal links to preparation and heart/gut evidence guides, and refreshed review metadata for the August 2026 content expansion."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "recipes/mushroom-risotto"]
@@ -35,6 +36,9 @@ medicalDisclaimer: "Educational information only. This page does not diagnose, t
 ---
 
 ## Key takeaways
+
+**August 2026 editorial note:** For readers comparing mushrooms with health claims, start with ordinary food use first. Pair this nutrition overview with [cooked vs. raw mushrooms](/health/cooked-vs-raw-mushrooms/), [mushrooms and gut health](/health/mushrooms-gut-health/), and [mushrooms and heart health](/health/mushrooms-heart-health/) before treating any single nutrient as a medical claim.
+
 
 Mushrooms can contribute fiber, protein, B vitamins, minerals, and flavor, but composition varies by species, growing conditions, and preparation. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on food composition and realistic dietary context.
 

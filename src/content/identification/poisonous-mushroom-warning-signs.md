@@ -1,68 +1,82 @@
 ---
 title: "Poisonous Mushroom Warning Signs and Safety Rules"
-description: "Learn poisonous mushroom warning signs and safety rules with observable features, comparison points, field documentation tips, and conservative safety guidance."
-keywords: ["poisonous mushroom warning signs and safety rules", "identification guide", "mushroom guide"]
+seoTitle: "Poisonous Mushroom Warning Signs Guide"
+description: "Learn why poisonous mushroom warning signs are unreliable alone, which safety rules matter, what to document, and when to seek urgent help."
+keywords: ["poisonous mushroom warning signs", "mushroom poisoning safety", "wild mushroom safety"]
 category: identification
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-08-15
+updatedDate: 2026-08-15
+revisionSummary: "Replaced the template with a complete safety-first identification guide, field documentation steps, FAQs, sources, and image metadata."
+draft: false
 featured: false
-faq: []
+relatedEntries: ["identification/mushroom-identification-safety-checklist", "identification/how-to-identify-mushrooms", "identification/false-morel-vs-morel"]
+coverImage: "../../assets/identification/mushroom-identification-safety-checklist.jpg"
+coverAlt: "Mushroom identification safety checklist with field notes and collected specimens"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Visual context only; the image does not identify any mushroom as edible or poisonous."
+sources:
+  - title: "North American Mycological Association — Mushroom Poisonings"
+    url: "https://namyco.org/interests/toxicology/mushroom-poisonings/"
+  - title: "CDC — Poisoning Prevention"
+    url: "https://www.cdc.gov/poisoning-prevention/"
+  - title: "Poison Control"
+    url: "https://www.poison.org/"
+faq:
+  - question: "Are there simple warning signs for poisonous mushrooms?"
+    answer: "No simple rule is reliable. Dangerous mushrooms can look ordinary, and edible-looking features cannot prove safety."
+  - question: "Does cooking remove mushroom poison?"
+    answer: "No. Cooking does not reliably destroy mushroom toxins or make an unidentified mushroom safe."
+  - question: "What should I do after a suspected mushroom poisoning?"
+    answer: "Call emergency services or a poison center immediately. Preserve remaining mushrooms, cooked food, packaging, and photos if safe."
+cap: { shape: ["record fully; no cap shape proves safety"], color: ["record in natural light"], surface: ["smooth, scaly, sticky, dry, or textured"], size: "Measure cap width in millimeters." }
+stem: { shape: ["record complete stem and base"], color: ["record from top to base"], surface: ["smooth, fibrous, scaly, or patterned"], ring: "Record any ring, skirt, or veil tissue.", volva: "Excavate and photograph the complete base; a hidden volva can be decisive." }
+gills: { attachment: ["free", "attached", "notched", "decurrent"], spacing: ["crowded", "close", "distant"], color: ["record young and mature specimens"], notes: "Gills alone cannot establish edibility." }
+spores: { printColor: ["record on light and dark nonabsorbent surfaces"], shape: ["microscopy may be required"], size: "Use calibrated microscopy when a key requires it." }
+habitat: { summary: "Habitat narrows possibilities but never proves safety by itself.", substrates: ["soil", "wood", "leaf litter", "buried wood"], associatedTrees: ["record when known"], regions: ["Use current local references"] }
+safetyNotice: "There is no universal visual test for poisonous mushrooms. Do not eat wild mushrooms without qualified local, in-person identification."
 ---
-
-# Poisonous Mushroom Warning Signs and Safety Rules
-
-> **Draft template:** Replace every bracketed note with original, verified reporting before changing `draft` to `false`.
-
-## Search intent
-
-- **Primary query:** poisonous mushroom warning signs and safety rules
-- **Reader goal:** [Describe the specific question this page resolves.]
-- **Unique value:** [Add firsthand expertise, original synthesis, photographs, measurements, or tested instructions.]
-- **Suggested length:** [Set a length based on topic complexity—not a keyword target.]
 
 ## Identification overview
 
-[Write a concise, direct answer that satisfies the main search intent. Define essential terms and set appropriate expectations.]
+The most important poisonous mushroom warning sign is uncertainty. There is no universal color, odor, bruise reaction, insect damage pattern, or cooking method that proves a wild mushroom is safe. Dangerous mushrooms can look plain, attractive, or similar to edible species.
 
-## Features to examine
+This guide is about safety rules and documentation. It cannot identify a specimen or decide edibility from a description.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Myths to avoid
 
-## Step-by-step field method
+Do not trust folk tests such as silver spoons, onion color changes, insect feeding, peeling caps, pleasant smell, or cooking thoroughly. These rules are unreliable and can create false confidence.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Also avoid relying on a single app result or image-search match. Identification depends on the complete mushroom, habitat, region, season, developmental stage, and sometimes microscopy or expert review.
 
-## Common mistakes and lookalikes
+## Field safety rules
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Keep unknown mushrooms out of food containers. Photograph them where they grow, collect only where legal and appropriate, and preserve the complete base if you need expert help. Wash hands after handling unknown specimens and keep them away from children and pets.
 
-## Safety limits
+When documenting, record cap, underside, stem, base, odor, bruising, spore deposit, substrate, associated trees, location, date, and weather. The [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/) gives a structured version of this process.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## When to seek urgent help
 
-## What to photograph and record
+If someone may have eaten an unknown mushroom, do not wait for symptoms or online identification. Contact emergency services or a poison center. Save uncooked specimens, cooked leftovers, vomit if medically relevant and safely collected, packaging, and photos. Timing and material can help clinicians and toxicologists.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Symptoms can be delayed, and delayed symptoms can be serious. Online comments are not emergency care.
 
 ## Frequently asked questions
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+### Are brightly colored mushrooms always poisonous?
 
-## Sources and further reading
+No. Color alone is not reliable. Some dangerous mushrooms are pale or ordinary-looking, and some bright mushrooms are not deadly. Identification requires a full character set.
 
-- [Primary or authoritative source — organization, title, URL, access date]
-- [Peer-reviewed or expert source — authors, publication, DOI or URL]
+### Can animals tell which mushrooms are safe?
 
-## Editorial checklist
+No. Animal feeding does not prove human safety, and different species tolerate different compounds.
 
-- [ ] All factual claims verified against primary or authoritative sources
-- [ ] No copied, spun, or unsupported content
-- [ ] Identification, medical, allergy, and food-safety caveats reviewed where relevant
-- [ ] Original image added with descriptive alt text and confirmed usage rights
-- [ ] Title, description, headings, and body match the same search intent
-- [ ] Links added to the parent category and at least two genuinely related guides
-- [ ] FAQ answers are visible on the page and not created only for schema
-- [ ] Publication and update dates are accurate
-- [ ] `draft` changed to `false` only after editorial review
+### Is a mushroom safe if it smells good?
 
+No. Odor can be useful in identification, but pleasant smell is not an edibility test.
+
+## References
+
+1. North American Mycological Association. [Mushroom Poisonings](https://namyco.org/interests/toxicology/mushroom-poisonings/).
+2. CDC. [Poisoning Prevention](https://www.cdc.gov/poisoning-prevention/).
+3. Poison Control. [Poison Help](https://www.poison.org/).

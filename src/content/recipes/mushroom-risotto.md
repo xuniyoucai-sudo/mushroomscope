@@ -6,8 +6,8 @@ keywords: ["mushroom risotto", "creamy mushroom risotto", "cremini mushroom riso
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-13
-revisionSummary: "Rebuilt the recipe around a precise mushroom-first sequence, stock and texture cues, improved substitutions, separate troubleshooting, updated FAQs, and cited leftover guidance."
+updatedDate: 2026-08-15
+revisionSummary: "Added clearer leftover and texture links to new gravy and toast pages for recipe clustering."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/mushroom-pasta"]
@@ -62,6 +62,8 @@ recipe:
 This mushroom risotto has two jobs: make the rice creamy and keep the mushrooms noticeably savory. The answer is not constant stirring or extra cheese. Brown the cultivated cremini mushrooms in a wide pan first, keep the stock hot, and add the liquid in measured additions until the rice is tender with a slight resistance at its center. Fold in cheese and a little butter only after the rice is ready, then serve it while it still flows softly on the plate.
 
 Use mushrooms sold as food by a reputable supplier. This recipe cannot identify wild mushrooms, and cooking does not turn a poisonous species into an edible one.
+
+**August 2026 cooking note:** If you want the same savory mushroom base with less stirring, use the browning section here as a bridge to [garlic mushroom toast](/recipes/mushroom-toast/) or [homemade mushroom gravy](/recipes/mushroom-gravy/).
 
 ## The texture to aim for
 

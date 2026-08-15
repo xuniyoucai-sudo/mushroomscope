@@ -5,7 +5,8 @@ keywords: ["mushroom identification safety checklist", "mushroom identification"
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Added a weekend safety update linking the checklist to poisonous warning signs and oyster lookalikes."
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-photo-checklist", "identification/mushroom-habitat-identification"]
@@ -34,6 +35,8 @@ spores: { printColor: ["record on light and dark nonabsorbent surfaces"], shape:
 habitat: { summary: "Habitat and substrate are identification characters, not background decoration.", substrates: ["soil", "leaf litter", "hardwood", "conifer wood"], associatedTrees: [], regions: ["Use a current local checklist"] }
 safetyNotice: "This educational guide cannot authenticate a wild mushroom or determine edibility. Seek qualified local, in-person confirmation."
 ---
+
+**August 2026 safety note:** This checklist now pairs with [poisonous mushroom warning signs](/identification/poisonous-mushroom-warning-signs/) and [oyster mushroom lookalikes](/identification/oyster-mushroom-lookalikes/). Treat both as documentation aids, not edibility verdicts.
 
 ## Overview
 

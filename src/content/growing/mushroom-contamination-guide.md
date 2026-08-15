@@ -6,8 +6,8 @@ keywords: ["mushroom contamination", "mushroom contamination prevention", "mushr
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-05
-revisionSummary: "Reframed the page around isolation and prevention, strengthened food-safety limits, aligned claims with extension guidance, and improved intentional internal links."
+updatedDate: 2026-08-15
+revisionSummary: "Added a stronger discard-vs-rescue note and links to coffee-ground and fruiting-chamber guides."
 draft: false
 featured: false
 relatedEntries: ["growing/sterilize-mushroom-substrate", "growing/mushroom-growing-troubleshooting", "growing/mushroom-grow-bag-guide"]
@@ -43,6 +43,8 @@ equipment: ["authenticated spawn or ready-to-fruit block", "labels and batch not
 contaminationRisks: [{ name: "Unusual growth, wet spots, or off odors", prevention: "Treat these as isolation triggers rather than an online diagnosis; do not taste, trim, or move the material through a clean culture area." }, { name: "Contamination spread through handling", prevention: "Work with clean cultures first, keep suspect material closed where possible, clean reusable surfaces after handling, and do not reuse questionable culture material." }, { name: "Repeat failures without a record", prevention: "Track substrate source, treatment, culture, date, container, conditions, and first signs so the next batch can test one targeted change." }]
 steps: [{ title: "Pause and isolate", instruction: "Label the batch as suspect, keep it closed if the container allows, and move it away from clean cultures without opening or agitating it." }, { title: "Protect food decisions", instruction: "Do not taste, trim, wash, or otherwise attempt to turn material from a suspect batch into food. Appearance alone cannot establish safety." }, { title: "Record before changing conditions", instruction: "Write down culture source, substrate, treatment, inoculation date, container, conditions, first observation, and any handling event before making changes." }, { title: "Clean and reset the workflow", instruction: "After handling suspect material, clean reusable surfaces and tools according to their instructions, wash hands, and return to clean cultures only after the area is reset." }, { title: "Test one prevention change next time", instruction: "Use the record to improve one plausible control point—such as authenticated spawn, suitable substrate treatment, or post-treatment handling—rather than changing everything at once." }]
 ---
+
+**August 2026 growing note:** The safest improvement is often a cleaner next batch, not rescuing a suspect one. Apply that rule especially to [coffee-ground growing](/growing/grow-mushrooms-coffee-grounds/) and small [fruiting chamber](/growing/build-mushroom-fruiting-chamber/) experiments.
 
 ## The safest first response
 

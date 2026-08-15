@@ -5,7 +5,8 @@ keywords: ["cooked vs. raw mushrooms: nutrition and safety", "mushroom nutrition
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Added clearer preparation guidance, linked the raw/cooked discussion to nutrition and gut-health coverage, and refreshed review metadata for the August 2026 content expansion."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/mushrooms-vitamin-d", "recipes/sauteed-mushrooms-recipe"]
@@ -35,6 +36,9 @@ medicalDisclaimer: "Educational information only. This page does not diagnose, t
 ---
 
 ## Key takeaways
+
+**August 2026 editorial note:** The practical choice is not raw versus cooked in isolation. Match preparation to safety, texture, and the meal pattern, then use the [mushroom nutrition guide](/health/mushroom-nutrition-guide/) and [gut-health evidence guide](/health/mushrooms-gut-health/) for broader context.
+
 
 Cooking changes water content, texture, digestibility, and measured nutrient concentration; it also supports safer produce handling. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on preparation, nutrient interpretation, and food safety.
 

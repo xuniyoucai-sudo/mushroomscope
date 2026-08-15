@@ -5,7 +5,8 @@ keywords: ["mushroom supplement label", "mushroom supplement testing", "suppleme
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Added a stronger supplement-label review note and linked to new immune and gut evidence guides."
 draft: false
 featured: false
 evidenceLevel: insufficient
@@ -33,6 +34,8 @@ faq:
 evidenceSummary: "Label terminology alone cannot establish identity, purity, equivalence to research, effectiveness, or individual safety."
 medicalDisclaimer: "Educational information only. This page does not diagnose, treat, or replace individualized medical care."
 ---
+
+**August 2026 editorial note:** Before buying a product for immune or gut claims, compare the label against the evidence questions in [mushrooms and the immune system](/health/mushrooms-immune-system/) and [mushrooms and gut health](/health/mushrooms-gut-health/).
 
 ## Start with what is actually in the bottle
 

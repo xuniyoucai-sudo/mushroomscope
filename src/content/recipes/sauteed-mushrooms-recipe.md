@@ -7,7 +7,7 @@ category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
 updatedDate: 2026-08-15
-revisionSummary: "Rebuilt the recipe around pan size, batch cooking, timing, substitutions, troubleshooting, and verified storage guidance."
+revisionSummary: "Added stronger internal links to new air fryer, toast, and gravy uses while preserving the tested pan-space method."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-barley-soup", "recipes/garlic-butter-oyster-mushrooms"]
@@ -41,6 +41,8 @@ recipe:
   ingredients: ["450 g cultivated cremini mushrooms", "1 1/2 tablespoons olive oil, divided", "1/2 teaspoon kosher salt, plus more to taste", "2 garlic cloves, finely minced", "1 teaspoon fresh thyme leaves or 1/4 teaspoon dried thyme", "2 tablespoons chopped parsley", "freshly ground black pepper", "1 teaspoon lemon juice, optional"]
   instructions: ["Choose labeled cultivated mushrooms sold for food and refrigerate them until preparation; keep them separate from raw animal foods.", "Trim only visibly dry stem ends. Brush away debris or rinse briefly under running water, then dry thoroughly and cut into even slices or quarters.", "Heat a 30 cm / 12 inch skillet over medium-high heat. Add 2 teaspoons oil and half the mushrooms in a loose layer; season with a small pinch of salt.", "Leave the mushrooms undisturbed until the first contact surfaces brown, then stir occasionally until tender and their released moisture has cooked away, about 6 to 8 minutes. Transfer to a bowl and repeat.", "Lower to medium. Return all mushrooms, add garlic and thyme, and toss only until fragrant, 30 to 60 seconds. Remove from heat, add parsley, pepper, and optional lemon juice, then adjust salt.", "Serve immediately. For leftovers, divide into shallow covered containers and refrigerate promptly; reheat in a skillet until hot before serving."]
 ---
+
+**August 2026 cooking note:** This browning method now supports several quick recipes: [garlic mushroom toast](/recipes/mushroom-toast/), [crispy air fryer mushrooms](/recipes/air-fryer-mushrooms/), and [homemade mushroom gravy](/recipes/mushroom-gravy/).
 
 ## Why this recipe works
 

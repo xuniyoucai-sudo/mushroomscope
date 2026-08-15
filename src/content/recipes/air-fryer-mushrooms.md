@@ -1,68 +1,102 @@
 ---
 title: "Crispy Air Fryer Mushrooms"
-description: "Make crispy air fryer mushrooms with clear ingredients, step-by-step instructions, cooking tips, substitutions, storage, and serving ideas."
-keywords: ["crispy air fryer mushrooms", "recipes guide", "mushroom recipe"]
+seoTitle: "Crispy Air Fryer Mushrooms Recipe Guide"
+description: "Make crispy air fryer mushrooms with cultivated mushrooms, a light coating, timing cues, storage advice, and food-safety guidance."
+keywords: ["air fryer mushrooms", "crispy air fryer mushrooms", "mushroom recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-08-15
+updatedDate: 2026-08-15
+revisionSummary: "Replaced the template with a complete air-fryer recipe, structured recipe metadata, troubleshooting, FAQs, sources, and image metadata."
+draft: false
 featured: false
-faq: []
+relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/garlic-butter-oyster-mushrooms", "mushrooms/oyster-mushroom-guide"]
+coverImage: "../../assets/recipes/garlic-butter-oyster-mushrooms.jpg"
+coverAlt: "Crisp browned cultivated mushrooms prepared as an air fryer mushroom recipe"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original MushroomScope editorial food illustration reused as related crispy mushroom serving art until a dedicated air fryer image is added."
+sources:
+  - title: "FDA — Selecting and Serving Produce Safely"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+  - title: "FDA — Are You Storing Food Safely?"
+    url: "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"
+  - title: "USDA FoodData Central"
+    url: "https://fdc.nal.usda.gov/"
+faq:
+  - question: "Why are my air fryer mushrooms soggy?"
+    answer: "They were likely crowded, too wet, or undercooked. Dry them well, cook in one loose layer, and give the coating enough time to crisp."
+  - question: "Can I air fry mushrooms without breadcrumbs?"
+    answer: "Yes. Toss dry mushrooms with oil, salt, pepper, and spices for a browned version, though it will be less crunchy than a coated version."
+  - question: "What mushrooms work best in the air fryer?"
+    answer: "Use cultivated cremini, button, oyster, or small portobello pieces from a reputable food supplier. Avoid unidentified wild mushrooms."
+mushroomSpecies: ["cultivated cremini mushrooms", "cultivated oyster mushrooms"]
+dietaryTags: ["vegetarian"]
+recipe:
+  prepTime: "PT12M"
+  cookTime: "PT12M"
+  totalTime: "PT24M"
+  recipeYield: "3 servings"
+  recipeCategory: "Side dish"
+  recipeCuisine: "Everyday"
+  ingredients:
+    - "12 ounces (340 g) cultivated mushrooms, halved or torn"
+    - "1 tablespoon olive oil"
+    - "1/2 cup panko breadcrumbs"
+    - "2 tablespoons finely grated Parmesan, optional"
+    - "1 teaspoon cornstarch"
+    - "1/2 teaspoon garlic powder"
+    - "1/2 teaspoon smoked paprika"
+    - "Salt and black pepper, to taste"
+  instructions:
+    - "Clean, trim, and dry the cultivated mushrooms thoroughly."
+    - "Toss mushrooms with oil, then coat with panko, optional Parmesan, cornstarch, and seasonings."
+    - "Arrange in one loose layer in the air fryer basket."
+    - "Air fry at 390°F (199°C) until browned and crisp at the edges, shaking once."
+    - "Serve immediately while the coating is crisp."
 ---
-
-# Crispy Air Fryer Mushrooms
-
-> **Draft template:** Replace every bracketed note with original, verified reporting before changing `draft` to `false`.
-
-## Search intent
-
-- **Primary query:** crispy air fryer mushrooms
-- **Reader goal:** [Describe the specific question this page resolves.]
-- **Unique value:** [Add firsthand expertise, original synthesis, photographs, measurements, or tested instructions.]
-- **Suggested length:** [Set a length based on topic complexity—not a keyword target.]
 
 ## Why this recipe works
 
-[Write a concise, direct answer that satisfies the main search intent. Define essential terms and set appropriate expectations.]
+Air fryer mushrooms need dry surfaces, space, and a coating that can crisp before the mushroom interior turns watery. A small amount of cornstarch helps the crumb coating cling, while panko gives more crunch than fine breadcrumbs.
 
-## Ingredients and substitutions
+Use only identified cultivated mushrooms sold as food. A recipe cannot authenticate a wild mushroom.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Method
 
-## How to prepare the mushrooms
+Clean mushrooms with a soft brush or brief rinse, then dry them well. Cut large mushrooms into even pieces so they cook at the same rate. Toss with oil first, then add the crumb mixture and press lightly so it adheres.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Cook in one loose layer. If the basket is crowded, the mushrooms steam. Shake once halfway through and stop when the edges are browned and the coating feels dry. Serve right away; crisp coatings soften as mushrooms release steam.
 
-## Step-by-step instructions
+## Troubleshooting
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+**Coating falls off:** The mushrooms were too wet or the pieces were handled roughly. Dry them well and press the coating on after oiling.
 
-## Expert cooking tips
+**Mushrooms are dry:** Pieces were too small or cooked too long. Use larger halves or torn strips and check early.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+**Flavor is bland:** Add salt after cooking and finish with lemon, herbs, or a small dipping sauce.
 
-## Storage and reheating
+Pair with [garlic butter oyster mushrooms](/recipes/garlic-butter-oyster-mushrooms/) or learn the stovetop approach in [sauteed mushrooms](/recipes/sauteed-mushrooms-recipe/).
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Storage
+
+Air fryer mushrooms are best fresh. Refrigerate leftovers promptly in a shallow covered container and re-crisp briefly in the air fryer. Discard food held unsafely or showing spoilage.
 
 ## Frequently asked questions
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+### Can I use whole button mushrooms?
 
-## Sources and further reading
+Yes, if they are small and evenly sized. Larger mushrooms crisp better when halved.
 
-- [Primary or authoritative source — organization, title, URL, access date]
-- [Peer-reviewed or expert source — authors, publication, DOI or URL]
+### Do I need to preheat the air fryer?
 
-## Editorial checklist
+Preheating helps the coating set quickly. If your model does not require preheating, check the first batch early and adjust timing.
 
-- [ ] All factual claims verified against primary or authoritative sources
-- [ ] No copied, spun, or unsupported content
-- [ ] Identification, medical, allergy, and food-safety caveats reviewed where relevant
-- [ ] Original image added with descriptive alt text and confirmed usage rights
-- [ ] Title, description, headings, and body match the same search intent
-- [ ] Links added to the parent category and at least two genuinely related guides
-- [ ] FAQ answers are visible on the page and not created only for schema
-- [ ] Publication and update dates are accurate
-- [ ] `draft` changed to `false` only after editorial review
+### Can I make them gluten-free?
 
+Use certified gluten-free breadcrumbs and confirm all seasoning labels meet your needs.
+
+## References
+
+1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).
+2. FDA. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely).
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/).

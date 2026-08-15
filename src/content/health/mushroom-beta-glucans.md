@@ -5,7 +5,8 @@ keywords: ["fungal beta glucans evidence", "mushroom beta glucan trials", "beta 
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-03
+updatedDate: 2026-08-15
+revisionSummary: "Added a clearer claim-evaluation note and linked beta-glucan discussion to new immune and gut evidence pages."
 draft: false
 featured: false
 evidenceLevel: moderate
@@ -35,6 +36,8 @@ faq:
 evidenceSummary: "Randomized trials of fungal beta-glucans use different species, preparations, doses, populations, and outcomes; this prevents broad health claims for all mushroom foods or extracts."
 medicalDisclaimer: "Educational information only. This page does not diagnose, treat, or replace individualized medical care."
 ---
+
+**August 2026 editorial note:** Beta-glucan claims should be read alongside the exact species, fungal part, preparation, and dose. For related claim checks, see [mushrooms and the immune system](/health/mushrooms-immune-system/) and [mushrooms and gut health](/health/mushrooms-gut-health/).
 
 ## The short answer
 

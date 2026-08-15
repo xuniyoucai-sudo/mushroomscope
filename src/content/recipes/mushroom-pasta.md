@@ -6,7 +6,8 @@ keywords: ["creamy mushroom pasta", "mushroom recipe", "cremini mushrooms"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-15
+revisionSummary: "Added sauce-texture cues, improved internal links to mushroom toast and gravy, and refreshed storage language."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-risotto", "recipes/creamy-mushroom-soup"]
@@ -39,6 +40,8 @@ recipe:
   ingredients: ["450 g cremini mushrooms, sliced", "300 g pasta", "180 ml cream", "60 g finely grated Parmesan", "2 garlic cloves, minced", "salt and black pepper to taste"]
   instructions: ["Buy identified cultivated mushrooms from a reputable food supplier and discard spoiled pieces.", "Clean mushrooms with a soft brush or brief rinse, dry well, and cut into even pieces.", "Brown mushrooms separately and toss with pasta, sauce, and reserved cooking water.", "Season to taste and serve while hot.", "Cool leftovers promptly in a shallow covered container and refrigerate."]
 ---
+
+**August 2026 cooking note:** For a tighter recipe cluster, use the same mushroom-browning step for [garlic mushroom toast](/recipes/mushroom-toast/) and turn extra browned mushrooms into [homemade mushroom gravy](/recipes/mushroom-gravy/).
 
 ## Why this recipe works
 

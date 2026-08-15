@@ -6,8 +6,8 @@ keywords: ["mushroom fruiting conditions", "mushroom humidity and fresh air", "m
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-12
-revisionSummary: "Reframed fruiting as a staged observation system, added a control sequence and symptom-to-action matrix, and strengthened contamination and food-safety boundaries."
+updatedDate: 2026-08-15
+revisionSummary: "Added stronger onward links to fruiting chamber and coffee-ground growing pages for the new weekend content cluster."
 draft: false
 featured: false
 relatedEntries: ["growing/grow-oyster-mushrooms-home", "growing/mushroom-growing-temperature", "growing/mushroom-growing-troubleshooting", "growing/when-to-harvest-mushrooms"]
@@ -57,6 +57,8 @@ steps:
   - title: "Separate safety from optimization"
     instruction: "Isolate unusual or suspect growth and do not harvest it for food. Improve the process with a clean future batch instead of treating a safety concern as a climate-control experiment."
 ---
+
+**August 2026 growing note:** This page now anchors the new practical guides on [building a simple fruiting chamber](/growing/build-mushroom-fruiting-chamber/) and [growing mushrooms on coffee grounds](/growing/grow-mushrooms-coffee-grounds/). Use it as the environmental decision guide before changing a setup.
 
 ## The practical answer: fruiting is a linked system, not four magic numbers
 

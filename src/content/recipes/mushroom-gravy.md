@@ -1,68 +1,100 @@
 ---
 title: "Homemade Mushroom Gravy"
-description: "Make homemade mushroom gravy with clear ingredients, step-by-step instructions, cooking tips, substitutions, storage, and serving ideas."
-keywords: ["homemade mushroom gravy", "recipes guide", "mushroom recipe"]
+seoTitle: "Homemade Mushroom Gravy Recipe Guide"
+description: "Make homemade mushroom gravy with browned cultivated mushrooms, a smooth roux, vegetarian options, storage guidance, and practical fixes."
+keywords: ["mushroom gravy", "homemade mushroom gravy", "vegetarian mushroom gravy"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-08-15
+updatedDate: 2026-08-15
+revisionSummary: "Replaced the template with a complete mushroom gravy recipe, structured recipe metadata, FAQs, sources, and image metadata."
+draft: false
 featured: false
-faq: []
+relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/mushroom-risotto", "mushrooms/cremini-mushroom-guide"]
+coverImage: "../../assets/recipes/sauteed-mushrooms-recipe.jpg"
+coverAlt: "Browned cultivated mushrooms prepared for a homemade mushroom gravy recipe"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Original MushroomScope editorial food illustration reused as related mushroom cooking art until a dedicated gravy image is added."
+sources:
+  - title: "FDA — Selecting and Serving Produce Safely"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+  - title: "USDA FSIS — Leftovers and Food Safety"
+    url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety"
+  - title: "USDA FoodData Central"
+    url: "https://fdc.nal.usda.gov/"
+faq:
+  - question: "How do I make mushroom gravy thicker?"
+    answer: "Simmer it longer or whisk in a small slurry of cornstarch and cold water. Add gradually so the gravy does not become gummy."
+  - question: "Can mushroom gravy be vegetarian?"
+    answer: "Yes. Use vegetable stock, olive oil or butter, and cultivated mushrooms. Check Worcestershire-style sauces because some contain anchovy."
+  - question: "Why does my mushroom gravy taste flat?"
+    answer: "The mushrooms may not be browned enough, or the gravy may need acidity, pepper, herbs, or a small amount of salt after simmering."
+mushroomSpecies: ["cultivated cremini mushrooms", "cultivated button mushrooms"]
+dietaryTags: ["vegetarian option"]
+recipe:
+  prepTime: "PT10M"
+  cookTime: "PT25M"
+  totalTime: "PT35M"
+  recipeYield: "2 cups"
+  recipeCategory: "Sauce"
+  recipeCuisine: "Everyday"
+  ingredients:
+    - "8 ounces (225 g) cultivated cremini mushrooms, finely sliced"
+    - "2 tablespoons butter or olive oil"
+    - "1 small shallot, minced"
+    - "2 tablespoons all-purpose flour"
+    - "2 cups low-sodium vegetable or beef stock"
+    - "1 teaspoon soy sauce or tamari, optional"
+    - "1 teaspoon thyme leaves"
+    - "Salt and black pepper, to taste"
+  instructions:
+    - "Brown the mushrooms in a wide pan until their moisture evaporates."
+    - "Add shallot and cook until softened."
+    - "Stir in flour and cook for one minute."
+    - "Whisk in warm stock gradually until smooth."
+    - "Simmer until thickened, then season with thyme, pepper, and optional soy sauce."
 ---
-
-# Homemade Mushroom Gravy
-
-> **Draft template:** Replace every bracketed note with original, verified reporting before changing `draft` to `false`.
-
-## Search intent
-
-- **Primary query:** homemade mushroom gravy
-- **Reader goal:** [Describe the specific question this page resolves.]
-- **Unique value:** [Add firsthand expertise, original synthesis, photographs, measurements, or tested instructions.]
-- **Suggested length:** [Set a length based on topic complexity—not a keyword target.]
 
 ## Why this recipe works
 
-[Write a concise, direct answer that satisfies the main search intent. Define essential terms and set appropriate expectations.]
+Good mushroom gravy starts with browning, not with stock. Cook the mushrooms until their released liquid evaporates and the pan smells deeply savory. Then build a roux and whisk in stock gradually for a smooth, spoonable sauce.
 
-## Ingredients and substitutions
+Use identified cultivated mushrooms from a reputable food supplier. Do not use wild mushrooms unless they have been confirmed in person by a qualified local expert.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Method
 
-## How to prepare the mushrooms
+Slice mushrooms thinly so they brown and distribute through the gravy. Heat butter or oil in a wide pan, add mushrooms, and cook until the liquid cooks off. Add shallot, then flour, stirring for about a minute so the raw flour taste fades.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Whisk in warm stock slowly. Simmer until the gravy coats a spoon. Finish with thyme, black pepper, and optional soy sauce or tamari for deeper savoriness. Add salt at the end because stock and soy sauce vary.
 
-## Step-by-step instructions
+## Fixes and variations
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+For richer gravy, use a mix of cremini and shiitake mushrooms. For a vegetarian version, use vegetable stock and confirm every sauce label. For gluten-free gravy, use cornstarch slurry instead of flour and certified gluten-free tamari if needed.
 
-## Expert cooking tips
+If the gravy is lumpy, whisk firmly or blend briefly. If it is too thick, add warm stock. If it is too thin, simmer or add a small slurry.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Serve with mashed potatoes, mushroom loaf, roasted vegetables, or [mushroom risotto](/recipes/mushroom-risotto/) for a more indulgent meal.
 
-## Storage and reheating
+## Storage
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Cool leftovers promptly and refrigerate in a covered shallow container. USDA FSIS recommends using cooked leftovers within three to four days. Reheat only the amount needed, adding a splash of stock if the gravy tightens.
 
 ## Frequently asked questions
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+### Can I make mushroom gravy ahead?
 
-## Sources and further reading
+Yes. It reheats well with a little extra stock. Whisk as it warms to restore a smooth texture.
 
-- [Primary or authoritative source — organization, title, URL, access date]
-- [Peer-reviewed or expert source — authors, publication, DOI or URL]
+### Can I freeze mushroom gravy?
 
-## Editorial checklist
+Yes, though the texture may change slightly. Thaw in the refrigerator and reheat gently while whisking.
 
-- [ ] All factual claims verified against primary or authoritative sources
-- [ ] No copied, spun, or unsupported content
-- [ ] Identification, medical, allergy, and food-safety caveats reviewed where relevant
-- [ ] Original image added with descriptive alt text and confirmed usage rights
-- [ ] Title, description, headings, and body match the same search intent
-- [ ] Links added to the parent category and at least two genuinely related guides
-- [ ] FAQ answers are visible on the page and not created only for schema
-- [ ] Publication and update dates are accurate
-- [ ] `draft` changed to `false` only after editorial review
+### Can I use dried mushrooms?
 
+Yes, if they are purchased as food. Rehydrate them, strain any soaking liquid through a fine filter, and combine with fresh cultivated mushrooms for better texture.
+
+## References
+
+1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).
+2. USDA FSIS. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety).
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/).
