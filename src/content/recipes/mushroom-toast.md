@@ -88,6 +88,18 @@ The [sauteed mushrooms recipe](/recipes/sauteed-mushrooms-recipe/) covers the br
 
 **The topping tastes flat.** Add a small squeeze of lemon, more black pepper, or fresh herbs before adding more salt.
 
+## Make-ahead workflow
+
+The best make-ahead version separates the parts. Cook the mushroom topping, cool it quickly, and refrigerate it in a shallow container. Toast the bread only when you are ready to eat. If the mushrooms have released liquid in storage, reheat them in a wide skillet until that moisture evaporates again, then refresh the flavor with herbs or a small squeeze of lemon.
+
+For a brunch board, hold the cooked mushrooms warm for a short time and keep the toast pieces dry on a rack. Let people assemble their own portions. This protects the crisp texture and also makes it easier to offer dairy and dairy-free spreads side by side.
+
+## Flavor variations
+
+For a Mediterranean-style toast, add parsley, lemon zest, and a spoonful of ricotta or white beans. For a deeper winter version, use thyme, black pepper, and a small amount of grated hard cheese. For a vegan toast, use olive oil, chopped herbs, and a thin layer of hummus or cashew spread.
+
+Keep the mushroom identity simple when serving guests. A mix of cultivated cremini, button, oyster, and shiitake mushrooms is easier to explain and safer than using foraged specimens. If anyone has a history of mushroom intolerance, serve the topping separately so they can avoid it.
+
 ## Storage
 
 Mushroom toast is best assembled right before eating. Cooked mushrooms can be cooled promptly in a shallow covered container and refrigerated. FDA storage guidance recommends keeping refrigerators at or below 40°F (4°C). Reheat the mushrooms in a skillet and toast fresh bread for the best texture.

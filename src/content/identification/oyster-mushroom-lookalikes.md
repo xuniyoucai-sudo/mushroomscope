@@ -66,6 +66,16 @@ If a specimen has orange tones, an unusual ring or veil tissue, growth away from
 
 The broader [how to identify mushrooms guide](/identification/how-to-identify-mushrooms/) explains why complete observations matter. The [mushroom gill types guide](/identification/mushroom-gill-types/) can help with underside vocabulary.
 
+## Confidence checklist before any kitchen decision
+
+Before a specimen moves anywhere near food, ask whether the full mushroom is documented, whether the substrate is clear, whether the underside matches a current local key, whether the spore deposit is consistent, and whether regional lookalikes have been considered. If one of those answers is missing, the identification is not complete enough for eating.
+
+Also separate learning confidence from eating confidence. It is fine to say "this looks oyster-like" while still keeping the specimen out of the kitchen. That distinction protects beginners from turning a useful observation into a risky conclusion. When discussing a find online, include the uncertainty in the caption so others do not read the post as an edibility endorsement.
+
+## Regional variation matters
+
+Oyster mushroom common names can cover multiple species and local forms. Tree host, season, climate, and region can change which lookalikes are realistic. A checklist copied from another country may omit the species that matter in your area. Use local field guides, local mushroom clubs, and current biodiversity records as supporting context rather than relying on one global description.
+
 ## Safety limits
 
 Never eat an oyster-like mushroom because an app, search result, or online comment matched one photograph. Remote viewers cannot check all texture, odor, microscopic, and habitat details. For suspected poisoning, contact emergency services or a poison center immediately and preserve remaining material if it is safe to do so.

@@ -61,6 +61,18 @@ Some features deserve caution, such as a bulbous base, ring or veil tissue, unfa
 
 A safer mental model is cumulative uncertainty. If the complete base is missing, the underside is not documented, the substrate is unclear, the mushroom is outside your experience, or local lookalikes have not been checked, the correct status is unresolved. Unresolved mushrooms do not belong in food.
 
+## A safer decision framework
+
+Use three categories instead of two: identified for study, identified for eating, and unresolved. Many mushrooms can be interesting enough to photograph and compare while still remaining unresolved for food. Moving from study to eating requires local expertise, complete specimens, and a current regional reference, not just confidence from one feature.
+
+For beginners, the best default is to separate field curiosity from meal planning. Bring food from known suppliers and study wild mushrooms as observations. This keeps learning enjoyable while removing pressure to make a risky decision at the end of a walk.
+
+## Special-risk situations
+
+Extra caution is needed when children, pets, visitors, or vulnerable adults may access mushrooms. Small lawn mushrooms can be tempting to toddlers and dogs, and mixed wild mushrooms can be hard for clinicians to interpret after a meal. Keep specimens bagged, labeled, and away from food preparation areas.
+
+Risk also rises when people combine alcohol, unfamiliar foods, or multiple wild species in one meal. If symptoms occur later, it becomes harder to know what was eaten and when. A conservative identification habit includes keeping notes and never mixing uncertain specimens into shared dishes.
+
 ## Household prevention
 
 Keep unknown mushrooms away from kitchens, picnic baskets, children, and pets. If you bring specimens home for study, label them clearly, bag them separately from food, and clean the surface afterward. Teach children not to taste outdoor mushrooms, even tiny pieces, and keep yard specimens documented if pets show interest.

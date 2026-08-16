@@ -84,6 +84,18 @@ A useful comparison is risk concentration. Coffee grounds are fine, wet, and nut
 
 Record the brew date, inoculation date, spawn source, approximate ratio of spawn to grounds, container type, room temperature, visible growth, odor, moisture, and any changes you made. If a batch fails, the log tells you whether the problem was old grounds, too little spawn, excess water, or poor exchange.
 
+## Decision points during colonization
+
+Do not judge the batch only by how quickly white growth appears. Healthy oyster mycelium should become increasingly even and should not be accompanied by sour, rotten, chemical, or strongly unpleasant odors. Fast patches of unusual color are not a sign that the batch is "extra active"; they are a reason to isolate it.
+
+If the surface looks too wet, resist the urge to open, stir, and handle it repeatedly. Every intervention can add contamination. Instead, use the observation in your batch log and improve the next batch with fresher grounds, better drainage, more structure, or a more controlled substrate.
+
+## When to abandon the coffee-ground method
+
+If two or three small batches fail with the same symptoms, move to a more predictable learning path. A ready-to-fruit block teaches pinning, humidity, fresh air, and harvest timing without forcing you to solve substrate biology first. Pasteurized straw for oyster mushrooms is also easier to observe than dense coffee grounds.
+
+The goal is not to prove that coffee grounds can never work. The goal is to avoid turning a low-cost material into repeated crop loss, unsafe food, or frustration. Successful growers choose the method that gives them clean learning data.
+
 ## Fruiting and harvest
 
 Only fruit a healthy, evenly colonized batch. Use the supplier's fruiting conditions for the exact oyster strain. Harvest normal-looking mushrooms with clean hands or tools and refrigerate promptly.

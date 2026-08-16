@@ -54,6 +54,22 @@ Some studies measure immune cells, cytokines, antibody response, symptoms, or qu
 
 Small trials, short duration, mixed products, unclear blinding, and industry funding can reduce confidence. Results also may not apply to children, older adults, immunocompromised people, pregnant people, or people taking immune-modulating medicines.
 
+## What a stronger claim would need
+
+A stronger immune-health claim would need a clearly identified mushroom material, consistent manufacturing, an appropriate dose, a relevant comparison group, enough participants, and outcomes that matter to people rather than only laboratory markers. It would also need safety reporting, because immune effects are not automatically beneficial in every context.
+
+This is why MushroomScope avoids language such as "boosts immunity" or "protects against infection." The immune system is not a simple volume knob. In some conditions, increased immune activity can be harmful. A useful article should help readers understand uncertainty, not encourage them to self-treat complex medical decisions.
+
+## Practical food context
+
+Eating mushrooms as food is a lower-claim, more realistic choice. They can add flavor and nutrients to soups, stir-fries, grains, and vegetable dishes. They also help some people cook more plant-forward meals, which can support general nutrition. That general nutrition context is more defensible than promising a specific immune outcome.
+
+If you are comparing products, keep whole foods and concentrated extracts in separate mental categories. A serving of cooked shiitake in dinner and a concentrated capsule with unclear identity should not be described as if they were the same exposure.
+
+## Reader decision checklist
+
+Before acting on an immune claim, ask whether the article names the exact species, preparation, dose, study population, and outcome. Also check whether it explains who should avoid the product. If those details are missing, treat the claim as marketing language rather than medical guidance.
+
 ## Food use vs. supplements
 
 Whole edible mushrooms provide flavor and nutrients inside meals. Supplements are more concentrated and more variable. They may use fruiting bodies, mycelium, grain substrate, extracts, or blends. FDA supplement regulation is not the same as drug approval.

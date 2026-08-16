@@ -87,6 +87,18 @@ Serve them as a side dish, a salad topper, or a snack with yogurt-herb sauce, le
 
 For a dairy-free version, skip Parmesan and add nutritional yeast or extra garlic powder. For a spicier version, add cayenne or chili flakes to the panko. For oyster mushrooms, tear large clusters into strips and press the coating into the frilled edges; they crisp well but can cook faster than dense button mushrooms.
 
+## Batch size and timing
+
+Air fryers vary a lot in basket shape and heat pattern. A shallow basket may brown quickly; a deeper drawer may need a shake or two. The first batch should be treated as the test batch. Once you know the timing for your machine, repeat the same cut size and basket load for predictable results.
+
+Avoid stacking coated mushrooms. The pieces need moving air around them, and contact points stay damp. If you are cooking for a group, cook multiple small batches and keep finished mushrooms on a rack in a low oven for a short time. Do not cover them tightly while hot, because trapped steam softens the coating.
+
+## Food-safety notes
+
+Start with mushrooms sold as food and discard slimy, moldy, or sour-smelling pieces. Wash hands and keep raw produce away from dirty sink surfaces or raw meat juices. If you serve a dipping sauce with dairy, eggs, or mayonnaise, keep it refrigerated until serving and discard food left out too long.
+
+Because mushrooms shrink as they cook, a serving can feel smaller than expected. Pair the crispy pieces with a salad, grains, or a protein source if this is meant to be more than a snack.
+
 ## Storage
 
 Air fryer mushrooms are best fresh. Refrigerate leftovers promptly in a shallow covered container and re-crisp briefly in the air fryer. Discard food held unsafely or showing spoilage.

@@ -85,6 +85,18 @@ For holiday meals, make the gravy slightly looser than you want at serving time 
 
 Use it over mashed potatoes, roasted vegetables, lentil loaf, rice, biscuits, or cultivated mushroom patties. It also works as a sauce for leftover grains when loosened with stock. For a mushroom-forward menu, pair it with [sauteed mushrooms](/recipes/sauteed-mushrooms-recipe/) or a lighter side so the meal does not become heavy.
 
+## Make-ahead and scaling
+
+Mushroom gravy is friendly to advance cooking because the flavor deepens after resting. Make it a little thinner than the final texture you want, cool it promptly, and reheat gently while whisking. Add warm stock in small amounts until it returns to a pourable consistency.
+
+When scaling for a holiday table, use a wider pan rather than simply piling more mushrooms into the same skillet. Crowded mushrooms steam and produce a lighter, flatter gravy. Brown in batches if needed, then combine them before adding flour and stock.
+
+## Ingredient choices
+
+Cremini mushrooms are a dependable base because they are widely available and mild enough for many dishes. Shiitake can add aroma, but too much may dominate a delicate meal. Dried mushrooms can deepen the sauce if they are purchased as food, rehydrated fully, and rinsed or strained to remove grit.
+
+Use low-sodium stock when possible so seasoning stays under your control. Soy sauce, tamari, miso, or a splash of vinegar can all sharpen the flavor, but each changes salt level and allergen considerations. Label vegetarian, vegan, gluten-free, and dairy-free versions clearly if serving guests.
+
 ## Storage
 
 Cool leftovers promptly and refrigerate in a covered shallow container. USDA FSIS recommends using cooked leftovers within three to four days. Reheat only the amount needed, adding a splash of stock if the gravy tightens.

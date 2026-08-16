@@ -85,6 +85,18 @@ Humidity and air exchange have to be read together. A sealed chamber may look hu
 
 Do not mist aggressively to solve every problem. If you see unusual color, slime, insects, wet decay, or an abnormal odor, treat that as a safety concern. Isolate the material and review your process with a future batch.
 
+## Reading the crop response
+
+Use the mushrooms themselves as the final signal, not the gadget reading alone. A hygrometer can drift, and the reading changes depending on whether the sensor is near wet plastic, the block surface, or an air opening. Healthy development is usually more useful than chasing a perfect number.
+
+Long, thin stems and small caps can suggest that the setup needs more appropriate fresh-air exchange, but the response depends on species and strain. Dry, cracked surfaces can point toward excessive evaporation. Wet, slimy surfaces or sour odors are not normal climate cues; treat them as contamination warnings rather than misting problems.
+
+## What not to automate too early
+
+Beginners often add fans, foggers, lights, timers, and sensors before understanding the basic crop response. Automation can help a stable process, but it can also hide mistakes. A small passive chamber with a batch log teaches more than a complicated system changed every few hours.
+
+If you do automate later, add one device at a time and record the reason. The goal is repeatability: same culture type, same room, same chamber, same opening routine, and a clear note about what changed between batches.
+
 ## Harvest boundary
 
 Harvest only normal-looking mushrooms from the authenticated culture using supplier maturity cues. Use clean hands or tools, avoid soaking the harvest, and refrigerate culinary mushrooms promptly. Do not taste mushrooms from a suspect block.

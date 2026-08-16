@@ -60,6 +60,18 @@ For everyday meals, use identified edible mushrooms from reputable suppliers. Co
 
 People with irritable bowel symptoms, known mushroom intolerance, or a history of food reactions may need smaller portions or professional guidance. Introduce new mushroom foods gradually if you already know your digestion is sensitive.
 
+## How to interpret "prebiotic" claims
+
+A careful prebiotic claim should name the ingredient, dose, population, duration, and measured outcome. Many mushroom articles skip those details and move straight from "contains polysaccharides" to "improves gut health." That jump is too large. A compound can be fermentable or biologically active without proving symptom relief, disease prevention, or a predictable microbiome change for every reader.
+
+For practical eating, the better question is whether mushrooms help you build a more varied, fiber-containing plate. If mushrooms replace a low-fiber, highly processed component and help you eat more vegetables, legumes, or whole grains, they may support a healthier dietary pattern. That is different from saying mushrooms alone are a gut-health intervention.
+
+## Tolerance and portion size
+
+Gut-friendly foods are still individual. A small serving of cooked mushrooms may be comfortable for one person and unpleasant for another. Texture, fat level, garlic, onion, wheat, dairy, or spicy sauces in the same meal can also be the true trigger, so avoid blaming or crediting the mushroom without looking at the whole dish.
+
+If you are experimenting, start with a modest portion of one familiar cultivated mushroom, cooked simply, and note your response. Do not introduce several new mushroom foods or supplements at once. People with persistent abdominal pain, blood in stool, unexplained weight loss, fever, or recurring severe symptoms should seek medical care rather than self-testing foods.
+
 ## Supplement cautions
 
 Mushroom powders and extracts can differ from whole foods. They may use fruiting body, mycelium, grain-grown material, hot-water extract, alcohol extract, or blends. FDA supplement regulation is different from drug approval, so label claims should be checked carefully.
