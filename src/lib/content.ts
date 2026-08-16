@@ -16,8 +16,11 @@ export async function getAllKnowledgeEntries() {
 export async function getPublishedEntries() {
   return (await getAllKnowledgeEntries())
     .filter(({ data }) => !data.draft)
-    .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+    .sort((a, b) => entryDisplayDate(b).valueOf() - entryDisplayDate(a).valueOf());
 }
+
+export const entryDisplayDate = (entry: { data: { publishDate: Date; updatedDate?: Date } }) =>
+  entry.data.updatedDate ?? entry.data.publishDate;
 
 export const entryPath = (entry: { id: string; data: { category: string } }) =>
   `/${entry.data.category}/${entry.id}/`;
