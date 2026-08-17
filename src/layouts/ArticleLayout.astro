@@ -15,6 +15,7 @@ interface Props {
   title: string;
   seoTitle?: string;
   description: string;
+  keywords?: string[];
   category: string;
   author: string;
   publishDate: Date;
@@ -49,7 +50,7 @@ interface Props {
 }
 
 const {
-  title, seoTitle, description, category, author, publishDate, updatedDate, revisionSummary, coverImage, coverAlt, imageCredit, imageNote,
+  title, seoTitle, description, keywords = [], category, author, publishDate, updatedDate, revisionSummary, coverImage, coverAlt, imageCredit, imageNote,
   faq: editorialFaq = [], sources = [], recipe, currentKey, scientificName, commonNames = [], taxonomy,
   habitat, season, edibility, toxicity, growingDifficulty, appearance, reviewedBy,
   taxonomicAuthority, synonyms = [], externalIds, relatedEntries = [], headings = [], evidenceLevel, reviewStatus, reviewDate,
@@ -169,7 +170,7 @@ const schema = [
     { '@type': 'ListItem', position: 2, name: categoryName, item: `https://mushroomscope.com/${category}/` },
     { '@type': 'ListItem', position: 3, name: title, item: canonical },
   ] },
-  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/authors/mushroomscope-editorial-team/' }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions.map((text) => ({ '@type': 'HowToStep', text })), ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
+  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/authors/mushroomscope-editorial-team/' }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), ...(keywords.length ? { keywords: keywords.join(', ') } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions, ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
   { '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) },
 ];
 ---
