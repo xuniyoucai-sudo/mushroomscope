@@ -11,9 +11,9 @@ revisionSummary: "Rewritten with species-specific field characters, tree-health 
 draft: false
 featured: false
 coverImage: "../../assets/species/dryads-saddle-mushroom.jpg"
-coverAlt: "Close natural-history photograph of a scaly tan Dryad's saddle bracket attached laterally to a hardwood trunk, with its pale pore surface visible"
-imageCredit: "Original MushroomScope AI-generated editorial image"
-imageNote: "Created for MushroomScope; a field reference image only, so color, scale, pore size, and host association must be checked on a complete fresh specimen."
+coverAlt: "Original editorial illustration showing a scaly tan Dryad's saddle bracket attached laterally to a hardwood trunk, with its pale pore surface visible"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustration for orientation only; color, scale, pore size, and host association must be checked on a complete fresh specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification", "recipes/sauteed-mushrooms-recipe"]
 sources:
   - title: "GBIF — Cerioporus squamosus"

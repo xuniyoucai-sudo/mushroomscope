@@ -11,9 +11,9 @@ revisionSummary: "Rewritten with specific latex, habitat, taxonomy, safety, and 
 draft: false
 featured: false
 coverImage: "../../assets/species/indigo-milk-cap-mushroom.jpg"
-coverAlt: "Close natural-history photograph of Indigo milk cap mushrooms on a forest floor, showing blue zoned caps, decurrent gills, and a small blue latex droplet"
-imageCredit: "Original MushroomScope AI-generated editorial image"
-imageNote: "Created for MushroomScope; a field reference image only, so blue color and apparent latex must be checked on a complete fresh specimen."
+coverAlt: "Original editorial illustration of an Indigo milk cap with a blue zoned cap, decurrent blue gills, and blue latex at a cut surface on forest soil"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustration for orientation only; blue color and apparent latex vary with age, light, and image processing and are not identification proof."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-gill-types", "mushrooms/chanterelle-mushroom-guide"]
 sources:
   - title: "GBIF — Lactarius indigo"
