@@ -6,9 +6,14 @@ keywords: ["paddy straw mushroom", "Volvariella volvacea", "paddy straw mushroom
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+updatedDate: 2026-08-15
 draft: true
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+coverImage: "../../assets/species/paddy-straw-mushroom.jpg"
+coverAlt: "Editorial illustration of Paddy straw mushroom showing major field-recognition structures in a neutral habitat setting"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Volvariella volvacea"
     url: "https://www.gbif.org/species/5241445"

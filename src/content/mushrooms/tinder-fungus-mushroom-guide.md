@@ -6,9 +6,14 @@ keywords: ["tinder fungus", "Fomes fomentarius", "tinder fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+updatedDate: 2026-08-15
 draft: true
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+coverImage: "../../assets/species/tinder-fungus-mushroom.jpg"
+coverAlt: "Editorial illustration of Tinder fungus showing major field-recognition structures in a neutral habitat setting"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Fomes fomentarius"
     url: "https://www.gbif.org/species/8068867"

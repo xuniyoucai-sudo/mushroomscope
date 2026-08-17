@@ -6,9 +6,14 @@ keywords: ["black trumpet", "Craterellus cornucopioides", "black trumpet identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+updatedDate: 2026-08-15
 draft: true
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+coverImage: "../../assets/species/black-trumpet-mushroom.jpg"
+coverAlt: "Editorial illustration of Black trumpet showing major field-recognition structures in a neutral habitat setting"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Craterellus cornucopioides"
     url: "https://www.gbif.org/species/2554662"
@@ -26,7 +31,7 @@ faq:
   - question: "Where does Black trumpet grow?"
     answer: "Mycorrhizal on forest soil, often among leaf litter near hardwoods. Regional records and host associations should be checked before applying this summary to a local collection."
   - question: "What is the spore print of Black trumpet?"
-    answer: "The expected deposit is white to pale cream., but print color overlaps among fungi and cannot confirm this species by itself."
+    answer: "The expected deposit is white to pale cream, but print color overlaps among fungi and cannot confirm this species by itself."
   - question: "Can Black trumpet be cultivated at home?"
     answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
 scientificName: "Craterellus cornucopioides"
@@ -75,7 +80,7 @@ similarSpecies:
 
 ## Identification overview
 
-Dark gray to black, thin, hollow funnels with a wavy margin and no true gills. Smooth to faintly wrinkled outer fertile surface; the inner funnel is darker. Tapered hollow base continuous with the cap. Thin, flexible, gray-black flesh with a strong aroma when dried. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white to pale cream. spore deposit is supporting evidence, never a species verdict.
+Dark gray to black, thin, hollow funnels with a wavy margin and no true gills. Smooth to faintly wrinkled outer fertile surface; the inner funnel is darker. Tapered hollow base continuous with the cap. Thin, flexible, gray-black flesh with a strong aroma when dried. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white to pale cream spore deposit is supporting evidence, never a species verdict.
 
 ## Habitat and season
 

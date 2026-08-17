@@ -6,9 +6,14 @@ keywords: ["cauliflower fungus", "Sparassis crispa", "cauliflower fungus identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+updatedDate: 2026-08-15
 draft: true
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+coverImage: "../../assets/species/cauliflower-fungus-mushroom.jpg"
+coverAlt: "Editorial illustration of Cauliflower fungus showing major field-recognition structures in a neutral habitat setting"
+imageCredit: "Original MushroomScope editorial illustration"
+imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Sparassis crispa"
     url: "https://www.gbif.org/species/2550247"
@@ -26,7 +31,7 @@ faq:
   - question: "Where does Cauliflower fungus grow?"
     answer: "A root and butt-associated fungus, especially near conifers. Regional records and host associations should be checked before applying this summary to a local collection."
   - question: "What is the spore print of Cauliflower fungus?"
-    answer: "The expected deposit is white to pale cream., but print color overlaps among fungi and cannot confirm this species by itself."
+    answer: "The expected deposit is white to pale cream, but print color overlaps among fungi and cannot confirm this species by itself."
   - question: "Can Cauliflower fungus be cultivated at home?"
     answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
 scientificName: "Sparassis crispa"
@@ -75,7 +80,7 @@ similarSpecies:
 
 ## Identification overview
 
-A large cream to ochre mass of flattened, tightly curled, leaf-like branches. The fertile surface covers both sides of the flattened lobes rather than forming gills. A short buried base branches repeatedly into the visible mass. White to cream, brittle-tender when young and tougher with age. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white to pale cream. spore deposit is supporting evidence, never a species verdict.
+A large cream to ochre mass of flattened, tightly curled, leaf-like branches. The fertile surface covers both sides of the flattened lobes rather than forming gills. A short buried base branches repeatedly into the visible mass. White to cream, brittle-tender when young and tougher with age. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white to pale cream spore deposit is supporting evidence, never a species verdict.
 
 ## Habitat and season
 
