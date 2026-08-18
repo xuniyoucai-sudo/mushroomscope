@@ -9,9 +9,9 @@ publishDate: 2026-08-18
 draft: false
 featured: false
 coverImage: "../../assets/species/chaga-mushroom-editorial-v4.png"
-coverAlt: "Original AI-generated editorial image of an irregular black Chaga conk with a rusty exposed inner edge growing on a living white birch trunk"
-imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
-imageNote: "Licensed for MushroomScope editorial use. Illustration only, not a field photograph or specimen record; morphology, scale, host, and identity require verification on a complete specimen."
+coverAlt: "An irregular black Chaga conk with a rusty exposed inner edge growing on a living white birch trunk"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "health/mushroom-supplements-guide"]
 sources:
   - title: "GBIF — Inonotus obliquus"

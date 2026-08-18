@@ -9,9 +9,9 @@ publishDate: 2026-08-18
 draft: false
 featured: false
 coverImage: "../../assets/species/birch-polypore-editorial-v3.png"
-coverAlt: "Original AI-generated editorial image of three pale Birch polypore brackets with one fine white pore surface visible on a fallen birch log"
-imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
-imageNote: "Licensed for MushroomScope editorial use. Illustration only, not a field photograph or specimen record; morphology, scale, host, and identity require verification on a complete specimen."
+coverAlt: "Three pale Birch polypore brackets with one fine white pore surface visible on a fallen birch log"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Fomitopsis betulina"
