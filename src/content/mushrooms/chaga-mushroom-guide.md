@@ -5,14 +5,13 @@ description: "Learn Chaga identification, habitat, season, lookalikes, safety, f
 keywords: ["chaga", "Inonotus obliquus", "chaga identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-18
+draft: false
 featured: false
-coverImage: "../../assets/species/chaga-mushroom.jpg"
-coverAlt: "Editorial illustration of Chaga showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/chaga-mushroom-editorial-v2.png"
+coverAlt: "Original AI-generated editorial illustration of irregular black Chaga conks with rusty fissures growing from a living white birch trunk"
+imageCredit: "Original AI-generated MushroomScope editorial illustration, created with OpenAI image tools"
+imageNote: "Licensed for MushroomScope editorial use. Illustration only, not a field photograph or specimen record; morphology, scale, host, and identity require verification on a complete specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "health/mushroom-supplements-guide"]
 sources:
   - title: "GBIF — Inonotus obliquus"
@@ -136,6 +135,8 @@ Chaga is often discussed in supplement and tea contexts, but this species accoun
 Use this checklist to decide whether an observation is strong enough for learning, not whether it is safe to eat. For Chaga, the record is stronger when these points are answered in writing: host is verified as birch or clearly recorded as uncertain; black exterior and rusty interior are documented together; tree burl and canker alternatives have been considered; harvest legality and tree impact are addressed. If one of these points is missing, mark the identification as tentative and collect more evidence before comparing it with food, cultivation, or supplement information.
 
 A good checklist entry includes both positive and negative evidence. Positive evidence explains what matches the species profile. Negative evidence explains what dangerous or common alternatives were ruled out and why. For example, a note that says "found on wood" is weak by itself, while a note that describes the exact wood, visible attachment, fertile surface, spore context, and excluded lookalikes is much stronger. This distinction matters because many mushroom mistakes happen when a field note records only the attractive matching feature and ignores the contradictory details.
+
+The cover illustration is a teaching aid, not a specimen record: use it only to notice broad features worth documenting, then verify them against an intact local collection and an appropriate regional key.
 
 For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
 
