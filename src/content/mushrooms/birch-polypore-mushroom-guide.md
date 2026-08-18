@@ -8,9 +8,9 @@ author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
 draft: false
 featured: false
-coverImage: "../../assets/species/birch-polypore-natural-history-v2.png"
-coverAlt: "Original AI-generated natural-history illustration of pale Birch polypore brackets with one white pore surface visible on a fallen birch trunk"
-imageCredit: "Original AI-generated MushroomScope natural-history editorial illustration, created with OpenAI image tools"
+coverImage: "../../assets/species/birch-polypore-editorial-v3.png"
+coverAlt: "Original AI-generated editorial image of three pale Birch polypore brackets with one fine white pore surface visible on a fallen birch log"
+imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
 imageNote: "Licensed for MushroomScope editorial use. Illustration only, not a field photograph or specimen record; morphology, scale, host, and identity require verification on a complete specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:

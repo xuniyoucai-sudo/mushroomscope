@@ -8,9 +8,9 @@ author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
 draft: false
 featured: false
-coverImage: "../../assets/species/chaga-mushroom-natural-history-v3.png"
-coverAlt: "Original AI-generated natural-history illustration of a single irregular black Chaga conk with a rusty inner edge growing from a living white birch trunk"
-imageCredit: "Original AI-generated MushroomScope natural-history editorial illustration, created with OpenAI image tools"
+coverImage: "../../assets/species/chaga-mushroom-editorial-v4.png"
+coverAlt: "Original AI-generated editorial image of an irregular black Chaga conk with a rusty exposed inner edge growing on a living white birch trunk"
+imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
 imageNote: "Licensed for MushroomScope editorial use. Illustration only, not a field photograph or specimen record; morphology, scale, host, and identity require verification on a complete specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "health/mushroom-supplements-guide"]
 sources:
