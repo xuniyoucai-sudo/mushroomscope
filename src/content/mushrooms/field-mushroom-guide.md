@@ -112,7 +112,7 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Use this guide as a field-record framework
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. The safest field record gives equal weight to what is absent: no volva, no white mature gills, no strong phenolic odor, and no rapid chrome-yellow staining at the base. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -122,7 +122,7 @@ Photograph the specimen before handling, then document the underside, base or at
 
 The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
 
-## Field verification details
+## Record the key field characters
 
 Field mushroom identification rests on a careful Agaricus workflow. Start with habitat: open pasture, meadow, or lightly managed grassland is more supportive than woodland duff or rich compost piles. Then document free gills that begin pinkish and mature toward chocolate brown, a short ringed stem, and the absence of a volva at the base. A dark brown spore deposit is important because white-gilled, white-spored mushrooms can include dangerous Amanita species. Always photograph the complete base before trimming or cleaning.
 
@@ -130,7 +130,7 @@ The most important lookalike screen is for yellow-staining Agaricus and pale Ama
 
 Although field mushroom has a familiar culinary reputation, modern lawns and fields introduce contamination questions. Avoid roadsides, sprayed turf, industrial edges, livestock waste concentrations, and sites with unknown chemical history. Mature gills, insect damage, waterlogging, and decay also affect quality. A useful published observation explains why the specimen is placed in Agaricus, why yellow-stainer and Amanita concerns were addressed, and why the habitat fits. That level of detail teaches safer reasoning and prevents the article from becoming a short edible-mushroom checklist.
 
-## Build a field record before naming it
+## Build a field record before applying a species name
 
 The common name is useful for searching, but it is not an identification method. *Agaricus campestris* is the current name used by the [GBIF species record](https://www.gbif.org/species/5243458); a name record tells readers what taxon is being discussed, not what a particular collection is. Start with an intact, mature specimen and a second specimen at a different stage. A button can hide its gills and a very old cap can conceal a ring, so one photograph rarely supplies the details that matter.
 
@@ -138,7 +138,7 @@ For a learning record, photograph the whole group in place, then the cap, gills,
 
 The site also matters. Field mushrooms are associated with open grass and pasture, while a collection from deep woodchip, a compost pile, or inside woodland asks for a wider comparison. Record recent turf treatment, proximity to roads or industrial land, grazing, and any unusual odour or staining. Those notes do two jobs: they make a later identification discussion more useful, and they keep an apparent species name from being mistaken for a food-safety assessment.
 
-## The lookalike screen is a stop sign, not a shortcut
+## Use lookalikes as a safety screen, not a shortcut
 
 The two comparisons below are reasons to pause. They are not a two-step key and they do not exhaust regional possibilities.
 

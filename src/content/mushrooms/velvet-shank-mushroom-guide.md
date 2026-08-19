@@ -112,7 +112,7 @@ Cultivation is established but requires controlled substrate preparation, clean 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Use this guide as a field-record framework
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Wild velvet shank and cultivated enoki can look surprisingly different. The dark velvety lower stem, lack of ring, season, and hardwood setting deserve explicit photographs. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -130,7 +130,7 @@ Wild velvet shank is often discussed beside cultivated enoki because both names 
 
 The Missouri Department of Conservation describes velvet foot as a clustered hardwood-log mushroom with a tawny sticky cap, pale to yellowish gills, and a stalk that becomes brown-black and velvety below. Those features are useful observations to document together. They are not a permission slip: age, rain, frost, camera white balance, and the condition of the wood all change appearances. Photograph several intact fruit bodies in place, including the complete lower stems, rather than selecting the cleanest cap after harvest.
 
-## A practical comparison record
+## Build a complete comparison record
 
 For learning, make one record for each log or stump. Note the host if known, whether the wood is living or dead, the season and recent weather, cap surface, gill colour, full stem, and any ring or ring zone. Include a scale image but do not discard the base. A record is weaker when it says only “orange mushrooms on wood”; it is stronger when it preserves both matching and contradictory evidence.
 
@@ -143,13 +143,13 @@ For learning, make one record for each log or stump. Note the host if known, whe
 
 The University of Wisconsin's species account explicitly warns that the deadly *Galerina* comparison requires attention to both spore colour and a ring, while also noting that a ring can be lost in age. This is why a “no ring” observation cannot rescue a weak collection. A white spore deposit and the complete combination of characters can support further discussion, but they do not identify a specimen remotely. Use [a controlled spore print](/identification/how-to-make-spore-print/) as one record component and keep caps from different collections separate.
 
-## The Galerina boundary
+## Treat Galerina lookalikes as a safety boundary
 
 Brown-spored wood-growing mushrooms deserve special caution. *Galerina marginata* is associated with serious poisoning risk, and descriptions of its ring can be complicated by maturity or damage. Do not try to turn the comparison into a home edibility test. If any specimen in a proposed collection has rusty-brown spores, a ring or ring zone, uncertain gill colour, or an undocumented lower stem, keep it out of food handling and seek in-person local expertise. This conservative boundary is more useful than a checklist that promises certainty.
 
 If an unknown wild mushroom has been eaten, preserve leftovers, trimmings, and clear photos; record the time and amount; then contact a local poison service or urgent medical care. North Carolina Poison Control cautions that internet methods cannot reliably separate poisonous from harmless mushrooms. Do not wait for a web identification or induce vomiting based on a page like this.
 
-## Field verification details
+## Record the key field characters
 
 Velvet shank deserves a careful comparison between wild and cultivated forms. The wild mushroom usually has orange-brown to amber caps and a stem that darkens toward a velvety brown-black base, while cultivated enoki is often pale and elongated because of production conditions. Field documentation should show the cap surface, pale gills, lack of a ring, and the full stem from cap to base. Cool-season timing and hardwood substrate are important supporting clues, especially when few other fresh gilled mushrooms are present.
 
