@@ -6,9 +6,11 @@ keywords: ["mushroom growing temperatures", "mushroom incubation temperature", "
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-07
+updatedDate: 2026-08-19
+revisionSummary: "Expanded the decision process with instrument placement, escalation thresholds, and a handoff-ready batch record while keeping all targets tied to the exact supplier and cultivation stage."
 draft: false
 featured: false
-relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/mushroom-growing-troubleshooting", "growing/sterilize-mushroom-substrate"]
+relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/mushroom-growing-troubleshooting", "growing/mushroom-contamination-guide", "growing/mushroom-substrate-guide"]
 coverImage: "../../assets/growing/mushroom-growing-temperature-batch-log.png"
 coverAlt: "Oyster mushrooms fruiting from a white grow block beside a probe thermometer, hygrometer, and batch notebook"
 imageCredit: "Original MushroomScope editorial illustration, generated with OpenAI image tools"
@@ -92,6 +94,22 @@ The [fruiting conditions guide](/growing/mushroom-fruiting-conditions/) explains
 It is tempting to make a species-by-species table with exact incubation and fruiting targets. That can hide the information that determines whether a number applies: strain, substrate, stage, sensing location, and the producer’s process. Even a precise range can be unsafe or unhelpful when it is detached from those conditions.
 
 This guide therefore does not publish generic set points. It does preserve a useful comparison: commercial production sources describe temperature as one controlled input among moisture, fresh air, carbon dioxide, sanitation, and crop stage. University of Maryland Extension similarly directs new growers to method-specific resources for indoor and log-based production rather than presenting one home formula. That is the model to use when searching: identify the system first, then compare the source to your actual batch.
+
+## Turn a reading into one defensible decision
+
+The most useful temperature note has three parts: where the instrument was, what the supplier says for that exact stage, and what changed after the reading. “It was too warm” is not enough to learn from. A more useful note is: “Room sensor on the shelf edge; clean probe at the documented block location; fruiting-stage supplier guidance retained with batch label; moved the healthy block away from a heat source and observed the next day.” It makes the next decision reviewable without pretending that a single observation proves cause.
+
+Keep instrument placement consistent. A room sensor beside a sunny window, heater outlet, or humidifier may describe a small local pocket rather than the area around the culture. A substrate reading taken at a new depth or from a different block may be just as misleading as no reading at all. If a probe cannot be cleaned and used without damaging or contaminating a block, do not improvise a measurement; use the supplier's recommended method and record that the substrate value was not taken.
+
+For a healthy batch, compare a sequence rather than one isolated number. A stable reading with a clear change in surface condition may point you toward airflow or moisture management, while a changed room reading with no change in the documented block location tells a different story. The [fruiting-conditions guide](/growing/mushroom-fruiting-conditions/) helps keep those inputs distinct. Make only one planned adjustment within supplier guidance, then give the observation period the supplier recommends before deciding whether another healthy-batch change is warranted.
+
+## Escalate instead of improvising
+
+Some observations are not tuning problems. Isolate a batch showing unusual growth, slime, persistent abnormal odor, insects, unexplained wet areas, or a failure that conflicts with the supplier's healthy-stage description. Do not harvest or taste it to test whether a temperature change worked. A photo, color description, or temperature log cannot identify contamination or establish food safety.
+
+For an otherwise healthy batch with unclear instructions, contact the culture supplier with a compact record: product or strain label, substrate and container, stage, arrival or inoculation date, room and block measurements with locations, recent changes, and clear photographs of the setup where appropriate. This gives them information they can actually compare with their protocol. If the response is a generic number without species, strain, substrate, stage, and measurement context, treat it as incomplete rather than as a command to override the batch documentation.
+
+For a future experiment, change one documented variable only after the suspect batch is kept separate or disposed of according to local waste guidance. Review the [substrate guide](/growing/mushroom-substrate-guide/) and [contamination response guide](/growing/mushroom-contamination-guide/) before starting again. The objective is a clean, interpretable next batch—not squeezing a yield from material whose safety and identity are uncertain.
 
 ## Keep food safety separate from yield questions
 

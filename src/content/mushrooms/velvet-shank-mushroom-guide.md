@@ -1,28 +1,27 @@
 ---
-title: "Flammulina velutipes: Velvet shank Species Guide"
-seoTitle: "Velvet shank (Flammulina velutipes) Species Guide"
-description: "Learn Velvet shank identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Velvet Shank (Flammulina velutipes): Identification and Safety Guide"
+seoTitle: "Velvet Shank (Flammulina velutipes) Identification Guide"
+description: "Learn how to document wild velvet shank, distinguish it from dangerous wood-growing lookalikes, and separate it from cultivated enoki."
 keywords: ["velvet shank", "Flammulina velutipes", "velvet shank identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-19
+draft: false
 featured: false
-coverImage: "../../assets/species/velvet-shank-mushroom.jpg"
-coverAlt: "Editorial illustration of Velvet shank showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "mushrooms/enoki-mushroom-guide"]
+coverImage: "../../assets/species/velvet-shank-mushroom-editorial-v3.png"
+coverAlt: "A cluster of amber velvet-shank-like mushrooms on a mossy hardwood stump, with pale gills and dark lower stems"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/enoki-mushroom-guide", "identification/how-to-make-spore-print"]
 sources:
   - title: "GBIF — Flammulina velutipes"
     url: "https://www.gbif.org/species/3341441"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
-  - title: "NAMA — Mushroom Poisoning Syndromes"
-    url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
-  - title: "FDA — Selecting and Serving Produce Safely"
-    url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
+  - title: "Missouri Department of Conservation — Velvet Foot"
+    url: "https://mdc.mo.gov/discover-nature/field-guide/velvet-foot"
+  - title: "University of Wisconsin — Flammulina velutipes"
+    url: "https://botit.botany.wisc.edu/toms_fungi/march97.html"
+  - title: "North Carolina Poison Control — Mushrooms"
+    url: "https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms"
 faq:
   - question: "Can Velvet shank be identified from one photograph?"
     answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
@@ -32,8 +31,8 @@ faq:
     answer: "A cool-season wood-decayer on hardwood trunks and stumps. Regional records and host associations should be checked before applying this summary to a local collection."
   - question: "What is the spore print of Velvet shank?"
     answer: "The expected deposit is white, but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Velvet shank be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "How is wild velvet shank different from cultivated enoki?"
+    answer: "They are not a safe visual substitute. Cultivation conditions can make enoki pale and elongated, while a wild collection must be assessed as its own complete specimen with local expert confirmation."
 scientificName: "Flammulina velutipes"
 commonNames: ["Velvet shank"]
 externalIds: { gbif: "3341441" }
@@ -125,6 +124,31 @@ The safety language in this article is intentionally conservative. Published edi
 
 Regional names, field-guide treatments, and marketplace labels may use Velvet shank broadly, narrowly, or historically. Recheck current local literature before treating the name on this page as a final species determination.
 
+## Start with the wild setting, not the grocery name
+
+Wild velvet shank is often discussed beside cultivated enoki because both names have been applied to *Flammulina* in food writing. That connection does not make a supermarket mushroom a field key. Commercial production can produce long, pale fruit bodies in controlled conditions; a wild collection may be darker, tougher, weathered, mixed with other species, or growing from a different part of the log. Treat the title as a species profile and use the [cultivated enoki guide](/mushrooms/enoki-mushroom-guide/) for food-product context, not for clearing a mushroom found outdoors.
+
+The Missouri Department of Conservation describes velvet foot as a clustered hardwood-log mushroom with a tawny sticky cap, pale to yellowish gills, and a stalk that becomes brown-black and velvety below. Those features are useful observations to document together. They are not a permission slip: age, rain, frost, camera white balance, and the condition of the wood all change appearances. Photograph several intact fruit bodies in place, including the complete lower stems, rather than selecting the cleanest cap after harvest.
+
+## A practical comparison record
+
+For learning, make one record for each log or stump. Note the host if known, whether the wood is living or dead, the season and recent weather, cap surface, gill colour, full stem, and any ring or ring zone. Include a scale image but do not discard the base. A record is weaker when it says only “orange mushrooms on wood”; it is stronger when it preserves both matching and contradictory evidence.
+
+| Observation | Supports a velvet-shank hypothesis | Requires a stop and wider comparison |
+| --- | --- | --- |
+| Lower stem | clearly dark, velvety lower portion with no ring | a ring, uncertain ring zone, or a missing lower stem |
+| Gills and spores | pale gills and a documented white spore deposit | rusty/brown deposit or gills that mature brown |
+| Setting | clustered growth from hardwood in cool weather | an undocumented substrate or several species mixed together |
+| Overall record | several intact fruit bodies and local review | a single detached cap, app match, or market-name comparison |
+
+The University of Wisconsin's species account explicitly warns that the deadly *Galerina* comparison requires attention to both spore colour and a ring, while also noting that a ring can be lost in age. This is why a “no ring” observation cannot rescue a weak collection. A white spore deposit and the complete combination of characters can support further discussion, but they do not identify a specimen remotely. Use [a controlled spore print](/identification/how-to-make-spore-print/) as one record component and keep caps from different collections separate.
+
+## The Galerina boundary
+
+Brown-spored wood-growing mushrooms deserve special caution. *Galerina marginata* is associated with serious poisoning risk, and descriptions of its ring can be complicated by maturity or damage. Do not try to turn the comparison into a home edibility test. If any specimen in a proposed collection has rusty-brown spores, a ring or ring zone, uncertain gill colour, or an undocumented lower stem, keep it out of food handling and seek in-person local expertise. This conservative boundary is more useful than a checklist that promises certainty.
+
+If an unknown wild mushroom has been eaten, preserve leftovers, trimmings, and clear photos; record the time and amount; then contact a local poison service or urgent medical care. North Carolina Poison Control cautions that internet methods cannot reliably separate poisonous from harmless mushrooms. Do not wait for a web identification or induce vomiting based on a page like this.
+
 ## Field verification details
 
 Velvet shank deserves a careful comparison between wild and cultivated forms. The wild mushroom usually has orange-brown to amber caps and a stem that darkens toward a velvety brown-black base, while cultivated enoki is often pale and elongated because of production conditions. Field documentation should show the cap surface, pale gills, lack of a ring, and the full stem from cap to base. Cool-season timing and hardwood substrate are important supporting clues, especially when few other fresh gilled mushrooms are present.
@@ -145,9 +169,9 @@ Keep a dated record even when no specimen is collected. A useful record includes
 
 ## References
 
-1. Global Biodiversity Information Facility. [Flammulina velutipes species record](https://www.gbif.org/species/3341441). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
-3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+1. Global Biodiversity Information Facility. [*Flammulina velutipes* species record](https://www.gbif.org/species/3341441). Taxonomic name and occurrence context.
+2. Missouri Department of Conservation. [Velvet foot](https://mdc.mo.gov/discover-nature/field-guide/velvet-foot). Field-character and habitat context.
+3. University of Wisconsin. [*Flammulina velutipes*](https://botit.botany.wisc.edu/toms_fungi/march97.html). Wild/cultivated context and cautious *Galerina* comparison.
+4. North Carolina Poison Control. [Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms). Conservative response guidance for unknown mushroom exposure.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: August 19, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
