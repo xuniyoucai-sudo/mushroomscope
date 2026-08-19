@@ -1,39 +1,38 @@
 ---
-title: "Agaricus campestris: Field mushroom Species Guide"
-seoTitle: "Field mushroom (Agaricus campestris) Species Guide"
-description: "Learn Field mushroom identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Field Mushroom (Agaricus campestris): Identification and Safety Guide"
+seoTitle: "Field Mushroom (Agaricus campestris) Identification Guide"
+description: "Learn how to document field mushroom features, distinguish key lookalikes, and use local expert confirmation before any wild-food decision."
 keywords: ["field mushroom", "Agaricus campestris", "field mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-19
+draft: false
 featured: false
-coverImage: "../../assets/species/field-mushroom.jpg"
-coverAlt: "Editorial illustration of Field mushroom showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-spore-colors"]
+coverImage: "../../assets/species/field-mushroom-editorial-v2.png"
+coverAlt: "Three pale field-mushroom-like Agaricus growing in damp grass, with pink-brown gills visible on one upturned cap"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Agaricus campestris"
     url: "https://www.gbif.org/species/5243458"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
-  - title: "NAMA — Mushroom Poisoning Syndromes"
-    url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
-  - title: "FDA — Selecting and Serving Produce Safely"
-    url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
+  - title: "Missouri Department of Conservation — Meadow Mushroom"
+    url: "https://mdc.mo.gov/discover-nature/field-guide/meadow-mushroom"
+  - title: "Queensland Mycological Society — Agaricus campestris record"
+    url: "https://www.qldfungi.org.au/wp-content/uploads/FoQs/A-Agaricus/Agaricus-campestris.pdf"
+  - title: "North Carolina Poison Control — Mushrooms"
+    url: "https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms"
 faq:
   - question: "Can Field mushroom be identified from one photograph?"
     answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
   - question: "Is wild Field mushroom safe to eat?"
     answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
   - question: "Where does Field mushroom grow?"
-    answer: "A saprotroph of unfertilized or lightly managed grassland. Regional records and host associations should be checked before applying this summary to a local collection."
+    answer: "It is associated with open grassland and pasture settings, but habitat only supports an identification; a regional field guide and a complete specimen still matter."
   - question: "What is the spore print of Field mushroom?"
     answer: "The expected deposit is dark chocolate brown, but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Field mushroom be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "What should I do if a wild mushroom was eaten by mistake?"
+    answer: "Do not wait for an online answer. Preserve leftovers and photographs, then contact a local poison service or urgent medical care; symptoms and risk vary by species and exposure."
 scientificName: "Agaricus campestris"
 commonNames: ["Field mushroom"]
 externalIds: { gbif: "5243458" }
@@ -131,6 +130,36 @@ The most important lookalike screen is for yellow-staining Agaricus and pale Ama
 
 Although field mushroom has a familiar culinary reputation, modern lawns and fields introduce contamination questions. Avoid roadsides, sprayed turf, industrial edges, livestock waste concentrations, and sites with unknown chemical history. Mature gills, insect damage, waterlogging, and decay also affect quality. A useful published observation explains why the specimen is placed in Agaricus, why yellow-stainer and Amanita concerns were addressed, and why the habitat fits. That level of detail teaches safer reasoning and prevents the article from becoming a short edible-mushroom checklist.
 
+## Build a field record before naming it
+
+The common name is useful for searching, but it is not an identification method. *Agaricus campestris* is the current name used by the [GBIF species record](https://www.gbif.org/species/5243458); a name record tells readers what taxon is being discussed, not what a particular collection is. Start with an intact, mature specimen and a second specimen at a different stage. A button can hide its gills and a very old cap can conceal a ring, so one photograph rarely supplies the details that matter.
+
+For a learning record, photograph the whole group in place, then the cap, gills, full stem, and undisturbed base. Add a size reference only after those views are secured. Note whether the gills are genuinely free of the stem and whether their colour moves from pinkish to dark brown as spores mature. The Missouri Department of Conservation describes meadow mushroom gills as free and changing from light pink to dark brown or nearly black, with a dark spore print; its account is a helpful feature checklist, not permission to eat a collection. Compare that sequence with [our guide to gill attachment](/identification/mushroom-gill-types/) and record uncertainty rather than forcing a match.
+
+The site also matters. Field mushrooms are associated with open grass and pasture, while a collection from deep woodchip, a compost pile, or inside woodland asks for a wider comparison. Record recent turf treatment, proximity to roads or industrial land, grazing, and any unusual odour or staining. Those notes do two jobs: they make a later identification discussion more useful, and they keep an apparent species name from being mistaken for a food-safety assessment.
+
+## The lookalike screen is a stop sign, not a shortcut
+
+The two comparisons below are reasons to pause. They are not a two-step key and they do not exhaust regional possibilities.
+
+### Yellow-staining Agaricus
+
+Several *Agaricus* species can have pink-to-brown gills. The yellow-stainer, *Agaricus xanthodermus*, is often reported with rapid bright yellow staining, especially at the stem base or cap margin, and an unpleasant phenolic or chemical odour. Test descriptions vary by specimen condition, so an absent smell or weak stain is not a clearance. The practical point is narrower: a strong yellow stain or phenolic odour is contradictory evidence for a field-mushroom hypothesis. Stop any food plan, keep the sample separate, and take it to an experienced local identifier.
+
+### White-gilled Amanita species
+
+Pale mushrooms are not interchangeable. The Missouri field guide specifically contrasts meadow mushroom's dark spore print and coloured mature gills with destroying-angel *Amanita* species, which have white gills, a white spore print, and a cup-like volva at the base. A buried or broken base can hide that last feature. Never trim or discard the base before it is photographed, and never decide that a missing volva was absent merely because the sample was pulled from compact soil. Read the wider [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/) before treating any white mushroom as food.
+
+### Why a spore print helps but does not finish the job
+
+A dark brown deposit supports an Agaricus-type hypothesis and is useful when paired with free gills and an intact base. It cannot resolve every Agaricus species, rule out every local lookalike, or overcome a contradictory habitat. Make the print from a mature cap on contrasting paper, label it with date and collection, and keep the cap with its own notes. Our [spore-print guide](/identification/how-to-make-spore-print/) explains the mechanics. Do not use a print to decide that a mixed basket is safe: each collection needs its own complete record.
+
+## Food context: separate identity, condition, and exposure
+
+Some field guides list *A. campestris* as edible, but that label belongs to an accurately identified organism in a particular context. It does not evaluate the mushroom in a reader's hand. Three separate questions must all have a solid answer: is the identification supported by a complete specimen and local expertise; is the site and material suitable for food; and is the person consuming it able to tolerate it? Cooking does not turn a toxic lookalike into food, and it does not solve spoilage or environmental contamination.
+
+If a person or pet has eaten an unknown wild mushroom, do not induce vomiting or wait to see whether symptoms appear. Save the remaining material, trimmings, and clear photographs; note the time, amount, and symptoms; then contact the local poison service or urgent medical care. North Carolina Poison Control warns that internet tricks and folk tests cannot distinguish safe from poisonous mushrooms and recommends trained identification for wild material. Emergency resources differ by country, so use the local emergency or poison service rather than relying on a number printed on a general web page.
+
 ## Reader decision checklist
 
 Use this checklist to decide whether an observation is strong enough for learning, not whether it is safe to eat. For Field mushroom, the record is stronger when these points are answered in writing: free gills mature from pink toward chocolate brown; no volva is present at the complete base; yellow-stainer odor and staining checks are recorded; grassland setting is clean enough to discuss. If one of these points is missing, mark the identification as tentative and collect more evidence before comparing it with food, cultivation, or supplement information.
@@ -145,9 +174,9 @@ Taxonomy note: field Agaricus names can be applied broadly in older sources, so 
 
 ## References
 
-1. Global Biodiversity Information Facility. [Agaricus campestris species record](https://www.gbif.org/species/5243458). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
-3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+1. Global Biodiversity Information Facility. [*Agaricus campestris* species record](https://www.gbif.org/species/5243458). Taxonomic name and occurrence context.
+2. Missouri Department of Conservation. [Meadow mushroom](https://mdc.mo.gov/discover-nature/field-guide/meadow-mushroom). Field characters, spore-print context, and *Amanita* comparison.
+3. Queensland Mycological Society. [*Agaricus campestris* record (PDF)](https://www.qldfungi.org.au/wp-content/uploads/FoQs/A-Agaricus/Agaricus-campestris.pdf). Documented morphology and grassland habitat record.
+4. North Carolina Poison Control. [Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms). Conservative response guidance for unknown mushroom exposure.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: August 19, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
