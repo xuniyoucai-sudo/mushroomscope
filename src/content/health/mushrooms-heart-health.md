@@ -14,10 +14,10 @@ relatedEntries: ["health/mushroom-nutrition-guide", "health/cooked-vs-raw-mushro
 evidenceLevel: preliminary
 reviewStatus: editorial
 reviewDate: 2026-08-15
-coverImage: "../../assets/health/mushroom-nutrition-guide.jpg"
-coverAlt: "Assorted cultivated mushrooms arranged for a nutrition and heart health overview"
+coverImage: "../../assets/health/mushrooms-heart-health-editorial-v2.jpg"
+coverAlt: "Cultivated mushrooms with whole grains, beans, leafy greens, olive oil, and lemon in a balanced meal setting"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original editorial illustration reused for a nutrition-focused health article; it is not evidence of cardiovascular benefit."
+imageNote: "Original AI-generated editorial image illustrating a balanced meal context; it is not evidence that mushrooms prevent or treat cardiovascular disease."
 sources:
   - title: "American Heart Association — Suggested Servings from Each Food Group"
     url: "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/suggested-servings-from-each-food-group"
