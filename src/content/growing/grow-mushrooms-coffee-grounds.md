@@ -11,10 +11,10 @@ revisionSummary: "Expanded the coffee-ground growing guide to 1500+ words with d
 draft: false
 featured: false
 relatedEntries: ["growing/grow-oyster-mushrooms-home", "growing/mushroom-substrate-guide", "growing/mushroom-contamination-guide"]
-coverImage: "../../assets/growing/mushroom-substrate-guide.jpg"
-coverAlt: "Prepared mushroom growing substrate shown as context for a coffee grounds growing guide"
+coverImage: "../../assets/growing/grow-mushrooms-coffee-grounds-editorial-v2.jpg"
+coverAlt: "Used coffee grounds and mushroom spawn being combined in a clean small-batch growing container"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original educational illustration reused for substrate context; it is not a verified coffee-ground grow record."
+imageNote: "Original AI-generated educational image illustrating a small-batch workflow; it is not a verified grow record or guarantee of success."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
     url: "https://smallfarms.cornell.edu/projects/mushrooms/"

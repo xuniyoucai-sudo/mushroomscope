@@ -14,10 +14,10 @@ relatedEntries: ["health/mushroom-beta-glucans", "health/mushroom-supplements-gu
 evidenceLevel: preliminary
 reviewStatus: editorial
 reviewDate: 2026-08-15
-coverImage: "../../assets/health/mushroom-supplements-guide.jpg"
-coverAlt: "Mushroom foods and supplement capsules arranged for an immune research overview"
+coverImage: "../../assets/health/mushrooms-immune-system-editorial-v2.jpg"
+coverAlt: "Fresh shiitake and oyster mushrooms beside research notes and a magnifying glass on a naturally lit table"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original editorial illustration; visual context is not evidence of immune benefit."
+imageNote: "Original AI-generated editorial image illustrating evidence review; it is not evidence that mushrooms prevent or treat immune conditions."
 sources:
   - title: "FDA — Dietary Supplements"
     url: "https://www.fda.gov/food/dietary-supplements"

@@ -11,10 +11,10 @@ revisionSummary: "Expanded the gravy recipe to 1500+ words with richer technique
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/mushroom-risotto", "mushrooms/cremini-mushroom-guide"]
-coverImage: "../../assets/recipes/sauteed-mushrooms-recipe.jpg"
-coverAlt: "Browned cultivated mushrooms prepared for a homemade mushroom gravy recipe"
+coverImage: "../../assets/recipes/mushroom-gravy-editorial-v2.jpg"
+coverAlt: "Brown mushroom gravy with sliced mushrooms in a ceramic gravy boat beside mashed potatoes"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original MushroomScope editorial food illustration reused as related mushroom cooking art until a dedicated gravy image is added."
+imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished gravy and a serving context."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"

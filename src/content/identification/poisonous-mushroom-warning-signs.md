@@ -11,10 +11,10 @@ revisionSummary: "Expanded the poisonous-mushroom safety guide to 1500+ words wi
 draft: false
 featured: false
 relatedEntries: ["identification/mushroom-identification-safety-checklist", "identification/how-to-identify-mushrooms", "identification/false-morel-vs-morel"]
-coverImage: "../../assets/identification/mushroom-identification-safety-checklist.jpg"
-coverAlt: "Mushroom identification safety checklist with field notes and collected specimens"
+coverImage: "../../assets/identification/poisonous-mushroom-warning-signs-editorial-v2.jpg"
+coverAlt: "Unidentified woodland mushrooms left in place beside a plain warning marker, notebook, and phone"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Visual context only; the image does not identify any mushroom as edible or poisonous."
+imageNote: "Original AI-generated safety illustration; no pictured mushroom is identified as edible or poisonous."
 sources:
   - title: "North American Mycological Association — Mushroom Poisonings"
     url: "https://namyco.org/interests/toxicology/mushroom-poisonings/"

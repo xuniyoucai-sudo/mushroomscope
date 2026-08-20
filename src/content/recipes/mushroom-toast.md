@@ -11,10 +11,10 @@ revisionSummary: "Expanded the recipe into a 1500+ word guide with detailed brow
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/mushroom-pasta", "mushrooms/cremini-mushroom-guide"]
-coverImage: "../../assets/recipes/mushroom-pasta.jpg"
-coverAlt: "Browned cultivated mushrooms and herbs prepared for a savory mushroom toast recipe"
+coverImage: "../../assets/recipes/mushroom-toast-editorial-v2.jpg"
+coverAlt: "Two slices of toasted sourdough topped with browned cultivated mushrooms, a light spread, and thyme"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original MushroomScope editorial food illustration reused as related mushroom serving art until a dedicated toast image is added."
+imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished mushroom toast."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"

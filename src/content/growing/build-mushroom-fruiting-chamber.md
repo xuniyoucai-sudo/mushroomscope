@@ -11,10 +11,10 @@ revisionSummary: "Expanded the fruiting-chamber guide to 1500+ words with deeper
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/mushroom-growing-troubleshooting"]
-coverImage: "../../assets/growing/mushroom-fruiting-conditions.jpg"
-coverAlt: "Simple indoor mushroom fruiting setup with humidity, light, and fresh-air considerations"
+coverImage: "../../assets/growing/build-mushroom-fruiting-chamber-editorial-v2.jpg"
+coverAlt: "Clear tote fruiting chamber with filtered air holes, moist perlite, oyster mushroom blocks, and a hygrometer"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original educational illustration; equipment shown is a concept view, not a universal fruiting prescription."
+imageNote: "Original AI-generated educational image; the setup is illustrative, not a universal fruiting prescription."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
     url: "https://smallfarms.cornell.edu/projects/mushrooms/"

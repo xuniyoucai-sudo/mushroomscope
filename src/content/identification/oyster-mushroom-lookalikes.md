@@ -11,10 +11,10 @@ revisionSummary: "Expanded the lookalike guide to 1500+ words with a fuller docu
 draft: false
 featured: false
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "identification/how-to-identify-mushrooms", "identification/mushroom-gill-types"]
-coverImage: "../../assets/species/oyster-mushroom.jpg"
-coverAlt: "Cultivated oyster mushrooms shown as visual context for a lookalike safety guide"
+coverImage: "../../assets/identification/oyster-mushroom-lookalikes-editorial-v2.jpg"
+coverAlt: "Pale oyster-like mushrooms and a contrasting brown shelf-like cluster on separate woodland logs"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Visual context only; do not use this image as proof that a wild mushroom is edible."
+imageNote: "Original AI-generated comparison context only; do not use this image to identify or eat a wild mushroom."
 sources:
   - title: "North American Mycological Association — Mushroom Poisonings"
     url: "https://namyco.org/interests/toxicology/mushroom-poisonings/"

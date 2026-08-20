@@ -14,10 +14,10 @@ relatedEntries: ["health/mushroom-nutrition-guide", "health/mushroom-beta-glucan
 evidenceLevel: preliminary
 reviewStatus: editorial
 reviewDate: 2026-08-15
-coverImage: "../../assets/health/mushroom-beta-glucans.jpg"
-coverAlt: "Assorted mushrooms arranged for a fiber and gut health evidence overview"
+coverImage: "../../assets/health/mushrooms-gut-health-editorial-v2.jpg"
+coverAlt: "Cultivated mushrooms with barley, beans, leafy vegetables, and plain fermented food in a balanced meal-prep setting"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original editorial illustration reused for a nutrition and gut-health evidence article; it is not evidence of a medical benefit."
+imageNote: "Original AI-generated editorial image illustrating dietary context; it is not evidence that mushrooms prevent or treat digestive conditions."
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"

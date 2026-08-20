@@ -11,10 +11,10 @@ revisionSummary: "Expanded the air-fryer recipe to 1500+ words with detailed tex
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/garlic-butter-oyster-mushrooms", "mushrooms/oyster-mushroom-guide"]
-coverImage: "../../assets/recipes/garlic-butter-oyster-mushrooms.jpg"
-coverAlt: "Crisp browned cultivated mushrooms prepared as an air fryer mushroom recipe"
+coverImage: "../../assets/recipes/air-fryer-mushrooms-editorial-v2.jpg"
+coverAlt: "Browned cremini mushroom halves in an open air-fryer basket with a serving bowl nearby"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original MushroomScope editorial food illustration reused as related crispy mushroom serving art until a dedicated air fryer image is added."
+imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished air-fryer preparation."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"

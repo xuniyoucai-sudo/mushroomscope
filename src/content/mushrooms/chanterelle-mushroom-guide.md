@@ -8,10 +8,10 @@ publishDate: 2026-08-02
 updatedDate: 2026-08-02
 draft: false
 featured: false
-coverImage: "../../assets/identification/chanterelle-vs-jack-o-lantern.jpg"
-coverAlt: "Editorial comparison of golden chanterelles and orange jack-o-lantern mushrooms on forest wood"
+coverImage: "../../assets/species/chanterelle-mushroom-editorial-v2.jpg"
+coverAlt: "Golden chanterelles with wavy caps and blunt decurrent ridges growing among moss and woodland leaf litter"
 imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative comparison only; colors and proportions are not identification evidence."
+imageNote: "Original AI-generated editorial image for habitat context only; it is not evidence for identifying or eating a wild specimen."
 relatedEntries: ["identification/chanterelle-vs-jack-o-lantern", "identification/how-to-identify-mushrooms", "identification/mushroom-habitat-identification", "recipes/garlic-butter-oyster-mushrooms"]
 sources:
   - title: "GBIF — Cantharellus cibarius Fr."
