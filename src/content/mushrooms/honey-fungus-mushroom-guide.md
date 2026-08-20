@@ -5,14 +5,13 @@ description: "Learn Honey fungus identification, habitat, season, lookalikes, sa
 keywords: ["honey fungus", "Armillaria mellea", "honey fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-20
+draft: false
 featured: false
-coverImage: "../../assets/species/honey-fungus-mushroom.jpg"
-coverAlt: "Editorial illustration of Honey fungus showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/honey-fungus-editorial-v2.jpg"
+coverAlt: "Original AI-generated editorial illustration of honey fungus clustered from a hardwood stump, showing pale gills and ringed stems"
+imageCredit: "Original MushroomScope AI-generated editorial illustration"
+imageNote: "Visual context only; this AI-generated illustration is not identification evidence or a specimen record."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/poisonous-mushroom-warning-signs"]
 sources:
   - title: "GBIF — Armillaria mellea"
@@ -113,7 +112,7 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Evidence limits and responsible use
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Clustered growth on wood is not enough. Ring structure, gill color, spore deposit, substrate, and regional Armillaria concepts all affect whether a collection belongs near this name. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -124,6 +123,8 @@ Photograph the specimen before handling, then document the underside, base or at
 The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
 
 Regional names, field-guide treatments, and marketplace labels may use Honey fungus broadly, narrowly, or historically. Recheck current local literature before treating the name on this page as a final species determination.
+
+The GBIF record provides a taxonomic and occurrence starting point, while poison-response guidance explains why a species account cannot act as a personal safety clearance. Keep the names, host notes, images, and spore information in the same observation record. If they conflict, do not resolve the conflict by selecting the most familiar-looking mushroom; obtain help from a qualified local identifier.
 
 ## Field verification details
 

@@ -5,8 +5,8 @@ keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-19
-revisionSummary: "Expanded the guide with a food-data reading method, species-and-preparation context, a label-checking workflow, and clearer boundaries between food composition, supplements, and medical claims."
+updatedDate: 2026-08-20
+revisionSummary: "Added a fiber-claim comparison method tied to food form and serving basis, clarified how to separate meal-level nutrition from concentrated products, and retained conservative medical boundaries."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "health/mushroom-supplements-guide", "health/mushrooms-gut-health"]
@@ -15,8 +15,8 @@ reviewStatus: editorial
 reviewDate: 2026-08-01
 coverImage: "../../assets/health/mushroom-nutrition-guide.jpg"
 coverAlt: "Assorted cultivated mushrooms arranged for a nutrition overview"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
+imageCredit: "Original MushroomScope AI-generated editorial illustration"
+imageNote: "Original AI-generated editorial illustration; visual context only and not evidence of a medical benefit."
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"
@@ -65,6 +65,14 @@ Mushrooms are often described with a string of favorable nutrient words: low cal
 It is also worth separating a whole food from a single constituent. A meal that includes mushrooms brings water, texture, flavor, and whatever other ingredients were used. Adding mushrooms to a salty, creamy, or highly processed dish does not make the whole recipe nutritionally equivalent to a simple mushroom preparation. For meal-level context, see the [mushroom risotto guide](/recipes/mushroom-risotto/) and adapt portions and ingredients to the dietary pattern rather than chasing one nutrient in isolation.
 
 Vitamin D requires especially careful reading. Some mushrooms may have vitamin D values affected by ultraviolet exposure, while others may not. The [mushrooms and vitamin D guide](/health/mushrooms-vitamin-d/) explains why the species, treatment, and actual label matter. The NIH fact sheet is useful for the broader role and intake context of vitamin D, but it does not convert any mushroom product into a replacement for clinical advice or prescribed treatment.
+
+## Compare fiber claims by food form and serving basis
+
+“Fiber in mushrooms” is not a single fixed number. Before comparing two products, first identify whether each is fresh, cooked, dried, powdered, or combined with other ingredients. A dried powder has much less water per spoonful than fresh mushrooms, so a weight-for-weight comparison can look dramatic while describing very different portions of food. A prepared soup, snack, or supplement blend may also obtain much of its fiber from grains, legumes, added fibers, or other ingredients rather than from mushrooms alone.
+
+Use the Nutrition Facts or Supplement Facts panel for the item in hand, including its stated serving size, and use a FoodData Central entry only as broader context for a comparable food and preparation state. Compare total dietary fiber on like-for-like portions, then consider the meal around it. A food can contribute fiber without making a disease-prevention or treatment claim true. This distinction is especially important where a product label shifts from a nutrient statement to promises about digestion, blood sugar, weight, or immunity.
+
+For ordinary meals, adding an identified culinary mushroom can be one way to vary texture and ingredients alongside other fiber-containing foods. For a powder or extract, the relevant questions change: what exactly is the material, how much is served, what else is in the product, and what evidence applies to that exact preparation? The [mushroom supplements guide](/health/mushroom-supplements-guide/) explains why those products should not be treated as interchangeable with a grocery-store mushroom.
 
 ## Preparation changes the practical comparison
 

@@ -5,14 +5,13 @@ description: "Learn Saffron milk cap identification, habitat, season, lookalikes
 keywords: ["saffron milk cap", "Lactarius deliciosus", "saffron milk cap identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-20
+draft: false
 featured: false
-coverImage: "../../assets/species/saffron-milk-cap-mushroom.jpg"
-coverAlt: "Editorial illustration of Saffron milk cap showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/saffron-milk-cap-editorial-v2.jpg"
+coverAlt: "Original AI-generated editorial illustration of saffron milk caps in pine needle litter, showing orange zones and decurrent gills"
+imageCredit: "Original MushroomScope AI-generated editorial illustration"
+imageNote: "Visual context only; this AI-generated illustration is not identification evidence or a specimen record."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-gill-types"]
 sources:
   - title: "GBIF — Lactarius deliciosus"
@@ -113,7 +112,7 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Evidence limits and responsible use
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Latex color and host tree are essential. Orange milk, green staining, brittle flesh, and pine association should be documented together rather than reduced to cap color. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -144,6 +143,8 @@ For publication review, avoid language that turns uncertainty into confidence. P
 Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
 
 Taxonomy note: orange milkcap names vary with host tree and region, so pine association, latex behavior, and staining should be checked against current local treatments.
+
+Use the GBIF record as a taxonomic starting point, then compare the entire observation with a current regional treatment. A name, a vivid cap color, or one orange latex photograph cannot settle a food decision when host evidence, mature gills, or local species boundaries are missing.
 
 ## References
 
