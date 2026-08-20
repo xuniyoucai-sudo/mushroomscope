@@ -8,7 +8,7 @@ author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
 draft: false
 featured: false
-coverImage: "../../assets/species/honey-fungus-editorial-v2.jpg"
+coverImage: "../../assets/species/honey-fungus-editorial-v3.jpg"
 coverAlt: "Original AI-generated editorial illustration of honey fungus clustered from a hardwood stump, showing pale gills and ringed stems"
 imageCredit: "Original MushroomScope AI-generated editorial illustration"
 imageNote: "Visual context only; this AI-generated illustration is not identification evidence or a specimen record."

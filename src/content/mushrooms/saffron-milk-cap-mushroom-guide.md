@@ -8,7 +8,7 @@ author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
 draft: false
 featured: false
-coverImage: "../../assets/species/saffron-milk-cap-editorial-v2.jpg"
+coverImage: "../../assets/species/saffron-milk-cap-editorial-v3.jpg"
 coverAlt: "Original AI-generated editorial illustration of saffron milk caps in pine needle litter, showing orange zones and decurrent gills"
 imageCredit: "Original MushroomScope AI-generated editorial illustration"
 imageNote: "Visual context only; this AI-generated illustration is not identification evidence or a specimen record."
