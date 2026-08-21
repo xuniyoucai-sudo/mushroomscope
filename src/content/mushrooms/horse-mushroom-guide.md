@@ -5,14 +5,13 @@ description: "Learn Horse mushroom identification, habitat, season, lookalikes, 
 keywords: ["horse mushroom", "Agaricus arvensis", "horse mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-21
+draft: false
 featured: false
-coverImage: "../../assets/species/horse-mushroom.jpg"
-coverAlt: "Editorial illustration of Horse mushroom showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/horse-mushroom-editorial-v2.png"
+coverAlt: "White horse mushrooms in short pasture grass, including an upturned cap with mature brown free gills and a substantial ring"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-spore-colors"]
 sources:
   - title: "GBIF — Agaricus arvensis"
@@ -113,7 +112,7 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Use a complete field record
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Horse mushroom interpretation rests on the whole Agaricus pattern: free gills maturing brown, no volva, ring structure, odor, staining behavior, and a suitable grassland context. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -123,7 +122,7 @@ Photograph the specimen before handling, then document the underside, base or at
 
 The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
 
-## Field verification details
+## Check the key field characters
 
 Horse mushroom is another Agaricus profile where the whole specimen matters more than the common name. Record the large pale cap, free gills maturing from pale gray-pink toward brown, substantial ring, and lack of a volva. The cap and flesh may yellow slowly, and many collections are described as having an anise-like odor, but odor varies by observer and specimen age. Grassland habitat, verges, and nutrient-rich turf can support the identification, while woodland or compost settings may broaden the comparison set.
 

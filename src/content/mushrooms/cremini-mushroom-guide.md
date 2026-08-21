@@ -6,7 +6,7 @@ keywords: ["Agaricus bisporus","white button mushroom","mushroom identification"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-21
 draft: false
 featured: false
 coverImage: "../../assets/species/cremini-mushroom.jpg"
@@ -84,6 +84,14 @@ similarSpecies:
 This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
 
 A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+
+## How button, cremini, and portobello stages differ
+
+The grocery labels describe familiar forms of *Agaricus bisporus*, but they are not a substitute for a species identification. White buttons are usually sold with a compact, closed cap. Cremini (also called baby bella) are brown mushrooms commonly sold before the cap has opened widely. Portobellos are the larger, open-cap form of a brown *A. bisporus* product, so the darker mature gills are exposed. A brown cap, a wide cap, or dark gills by themselves do not identify a wild mushroom; many unrelated species can share one or more of those characters.
+
+For cooking, the useful distinction is mostly structural. Closed buttons and cremini have less exposed gill surface and are convenient for quick sautéing, soups, sauces, and even-sized slices. A mature portobello has a broad cap that can be roasted whole, grilled, or used as a filling vessel; remove the stem only when a recipe calls for it, not as a safety step. The two related recipe methods, [stuffed portobello mushrooms](/recipes/stuffed-portobello-mushrooms/) and [grilled portobello burgers](/recipes/grilled-portobello-burgers/), apply to cultivated market mushrooms, not to a lookalike found outdoors.
+
+When comparing packages, check condition before choosing a stage: the mushrooms should be sound, without a strong off odor, slime, widespread mold, or unexplained discoloration. Package weight, moisture loss, and the cut size a recipe needs can matter more than a claim that one stage is inherently more nutritious or safer. USDA FoodData Central provides food-composition reference values, but individual products and cooked servings vary with variety, water content, and preparation.
 
 ## Identification
 

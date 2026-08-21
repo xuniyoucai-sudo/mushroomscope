@@ -5,14 +5,13 @@ description: "Learn Parasol mushroom identification, habitat, season, lookalikes
 keywords: ["parasol mushroom", "Macrolepiota procera", "parasol mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-16
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-21
+draft: false
 featured: false
-coverImage: "../../assets/species/parasol-mushroom.jpg"
-coverAlt: "Editorial illustration of Parasol mushroom showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/parasol-mushroom-editorial-v2.png"
+coverAlt: "Tall parasol mushroom in grass with a scaled pale cap, brown central umbo, movable-looking ring, and snakeskin-patterned stem"
+imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/poisonous-mushroom-warning-signs"]
 sources:
   - title: "GBIF — Macrolepiota procera"
@@ -113,7 +112,7 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Publication review notes
+## Use a complete field record
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Large lawn or woodland parasol-like mushrooms require extra caution because green-spored and staining lookalikes can be common. The ring, stem pattern, gill attachment, staining, and spore color all matter. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
@@ -123,7 +122,7 @@ Photograph the specimen before handling, then document the underside, base or at
 
 The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
 
-## Field verification details
+## Check the key field characters
 
 A parasol mushroom record should be built from the entire stature of the fruit body. Document the large umbrella-like cap, brown scales, free pale gills, tall stem, movable ring, and snakeskin-like stem pattern. The base should be photographed intact because volva-like structures or bulbous bases can redirect the identification. Size is helpful but not decisive; young specimens may be drumstick-shaped, and mature caps may flatten broadly. Include nearby habitat such as grassland, pasture edge, woodland margin, or disturbed soil.
 
