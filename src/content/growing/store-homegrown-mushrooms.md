@@ -5,13 +5,14 @@ keywords: ["how to store homegrown mushrooms", "store mushrooms after harvest", 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-09
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["growing/when-to-harvest-mushrooms", "growing/mushroom-growing-troubleshooting", "growing/mushroom-contamination-guide"]
-coverImage: "../../assets/growing/store-homegrown-mushrooms.png"
-coverAlt: "Cultivated oyster mushrooms in a shallow paper tray beside a refrigerator thermometer and clean harvest knife"
-imageCredit: "Original MushroomScope editorial illustration generated with OpenAI image generation"
-imageNote: "Illustrative post-harvest scene only. The pictured mushrooms, thermometer, and handwritten date do not establish species identity, storage history, or edibility. Licensed for MushroomScope editorial use."
+coverImage: "../../assets/growing/store-homegrown-mushrooms-v2.png"
+coverAlt: "Cultivated oyster mushroom cluster in a shallow paper tray beside a clean harvest knife and open refrigerator"
+imageCredit: "Original AI-generated MushroomScope editorial image"
+imageNote: "Original AI-generated post-harvest scene. It does not establish species identity, storage history, refrigerator temperature, or edibility."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
@@ -85,17 +86,53 @@ Use those values as a safety boundary, not as a promise about exact shelf life. 
 | Placement | Keep mushrooms away from raw animal foods and their drips. | Separation limits cross-contact with pathogens from other foods. |
 | Before cooking | Check the dated record and the crop's condition; discard if suspect. | Neither a clean-looking cap nor a normal smell can prove food safety. |
 
+## Move from harvest to refrigeration as one workflow
+
+Prepare the clean container, date label, and refrigerator space before cutting or twisting the cluster. This prevents a harvested crop from sitting warm while the grower searches for packaging or rearranges raw foods. If several blocks are ready, harvest and label one batch at a time so culture, block, date, and condition remain traceable.
+
+Remove obvious loose substrate with a clean method appropriate to the cultivated species, but do not turn sorting into prolonged room-temperature handling. Separate damaged or questionable material immediately. A clean-looking portion should not be mixed with mushrooms from a block already classified as suspect, and one old batch should not be topped up with a fresh harvest under the older label.
+
+Place the container where cold air can circulate and where liquids from raw animal foods cannot drip onto it. Do not crowd the refrigerator so tightly that its measured temperature becomes uneven. Check the appliance thermometer at the location recommended by its manufacturer and record unusual readings, door failures, or power interruptions with the batch.
+
+Transport time belongs in the same record. If mushrooms must travel before refrigeration, use a clean food-safe system appropriate for perishables and document the time away from controlled cooling. A cool-feeling vehicle, shaded bag, or outdoor winter temperature is not a verified refrigerator.
+
+## Choose packaging by what it does in your refrigerator
+
+Packaging should protect mushrooms from dirty surfaces and cross-contact while avoiding visible standing water and excessive crushing. A shallow paper tray, paper bag, vented food-safe container, or supplier-recommended package can behave differently depending on species, refrigerator airflow, fill depth, and initial moisture. There is no single container that corrects unsafe harvest handling or warm storage.
+
+Do not tightly compress delicate clusters to save shelf space. Crowding can bruise caps, trap moisture between surfaces, and make condition harder to inspect. Use a clean liner only if it is intended for food contact, and replace it when it becomes saturated or dirty rather than layering a fresh sheet over residue.
+
+If using a reusable container, wash and sanitize it according to its material and current food-safety guidance, then allow it to reach a clean, usable condition before adding the harvest. A container that still smells of chemicals, old food, compost, or prior spoilage should not be used. Never reuse a grow bag, substrate tub, chemical bucket, or unknown packaging as a harvest container merely because it is available.
+
+Label the outside without allowing ink, adhesive, or an unclean marker to contact the food. Include harvest date and time, culture or block identifier, and preservation action. If mushrooms are cooked or frozen later, add that date rather than replacing the original harvest information.
+
 ## Handle moisture without creating a false sense of safety
 
 Fresh mushrooms can lose quality when they are bruised, held warm, or kept wet. Do not soak harvested mushrooms, leave them in puddled water, or let a reusable container remain visibly dirty. The mushroom produce-safety fact sheet warns that humid mushroom environments can support pathogens and calls for preventing standing water and condensation as well as cleaning harvest utensils, shelves, and reusable packing containers.
 
 If condensation appears, do not conclude that the food is unsafe solely from a wet surface; instead, check the storage history, clean or replace the container if appropriate, and follow the supplier's direction. If the crop is slimy, leaking, moldy, or persistently off-smelling, discard it rather than trying to dry it out or cut away a visible area.
 
+Distinguish expected surface moisture from an unknown history only as a quality observation, not a safety verdict. Check whether the mushrooms entered storage wet, whether the container changed, whether the refrigerator remained within its target, and whether another food leaked nearby. Record the decision and avoid repeatedly opening and warming the package simply to watch it.
+
+Do not put warm cooked mushrooms into the same container as the remaining raw harvest. Prepared leftovers follow their own cooling and storage guidance, with ingredients and cooking time added to the record. Likewise, a marinade, sauce, or layer of oil does not make questionable raw mushrooms safe or extend an undocumented storage history.
+
 ## Freeze only a sound, promptly handled crop
 
 Freezing is for a crop that was handled safely first—not for resetting the clock on food left warm or showing spoilage. FDA guidance states that freezing stops bacterial growth but does not kill most bacteria, and quality can decline over time. Prepare and freeze mushrooms using a reliable, species-appropriate cooking or preservation method; then label the package with the date and method.
 
 If a refrigerator has lost power, keep the door closed as much as possible and use a thermometer or the applicable food-safety guidance to decide what to keep. Do not use smell or appearance as the deciding test. When the handling history is uncertain, the safer choice is to discard the food.
+
+Freeze in clean food-safe portions sized for one use, remove only the amount needed, and follow the selected preservation method for the cultivated species. Write both harvest and freezing dates on the package. Avoid thawing and refreezing as a routine storage strategy; follow authoritative food-safety guidance when a package has partly thawed or warmed.
+
+Freezer burn and texture loss are quality problems, whereas unsafe pre-freezing handling is a safety problem. Freezing cannot reverse the latter. Discard a package with unknown identity, a failed seal plus uncertain exposure, or a history that no longer supports a safe decision.
+
+## Use a conservative keep-or-discard decision
+
+Begin with the record: authenticated cultivated culture, sound block at harvest, clean tools and container, prompt cooling, verified refrigerator conditions, and known dates. Then inspect the actual mushrooms before preparation. A complete favorable record supports using an apparently sound crop; it does not guarantee that hazards are absent.
+
+Discard when the batch came from a suspect grow, crossed an unsafe time-temperature boundary, contacted raw-food drips or an unclean container, or developed mold, slime, leakage, or a persistent off odor. Do not taste, rinse, cook, dry, freeze, or trim it to settle uncertainty. When illness occurs after eating mushrooms, obtain appropriate medical or poison-control advice and retain relevant labels or leftovers only if safe to do so.
+
+When two batches with different histories were accidentally mixed, use the less certain history for the combined food rather than assuming the sound batch cancels the questionable one. For a household member with an allergy or prior reaction, storage quality does not remove individual risk; seek medical guidance appropriate to that person.
 
 ## A simple after-harvest record
 

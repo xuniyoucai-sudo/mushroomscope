@@ -6,6 +6,7 @@ keywords: ["mushroom barley soup", "mushroom barley soup recipe", "pearl barley 
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["recipes/creamy-mushroom-soup", "recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide"]
@@ -58,6 +59,18 @@ Use only mushrooms labeled and sold as food. A soup recipe cannot identify a wil
 
 FDA advises keeping mushrooms and other perishable produce at **40°F / 4°C or below**, separating produce from raw meat, poultry, and seafood, and starting with clean hands and equipment. Rinse mushrooms briefly under running water or wipe away debris; do not use soap or produce wash. [FDA’s produce-safety guidance](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) explains those food-handling boundaries.
 
+Barley contains gluten, so this recipe is not gluten-free even if tamari and certified broth are used. Replacing barley with rice or another grain changes liquid needs, cooking time, texture, and the recipe's defining character; use a recipe developed for that grain rather than making a direct volume substitution.
+
+If using dried mushrooms, buy a food product with clear identity and storage directions. Strain rehydration liquid carefully because grit can settle at the bottom, and include that liquid within the total broth volume. Dried wild mushrooms from an uncertain source do not become authenticated merely because they are packaged or simmered.
+
+## Prepare the ingredients before heating the pot
+
+Slice mushrooms to a reasonably consistent thickness so a batch browns at a similar rate. Dice the onion, carrots, and celery before starting, rinse the pearl barley, measure broth, and set aside a clean bowl for the browned mushrooms. This sequence prevents the first batch from overcooking while vegetables are still being cut.
+
+Choose a heavy soup pot with enough surface area to brown mushrooms and enough headroom for simmering without splashing. If the pot is narrow, use a separate wide skillet for browning and transfer the mushrooms afterward. Do not crowd a small pot merely to avoid washing a second pan.
+
+Keep raw animal foods and their boards, knives, and containers outside this produce-focused workflow. Wash hands and clean surfaces before preparing vegetables. If you add meat or another perishable ingredient, follow an appropriate recipe and food-safety method for that ingredient; the timing here was tested conceptually around a vegan soup.
+
 ## Build the flavor in stages
 
 ### Brown, then reserve, the mushrooms
@@ -72,11 +85,33 @@ Lower the heat to medium and cook the onion, carrots, and celery with a pinch of
 
 Bring the pot to a boil, then lower it to a gentle simmer and partially cover. A hard boil can reduce the broth before the barley is tender. Stir from the bottom occasionally and begin checking at 35 minutes. The grains should be chewy but no longer hard in their centers. Add hot broth in small amounts if the pot looks dry before that point.
 
+Check several grains from different parts of the pot. One soft grain does not prove the whole batch is ready, especially if the simmer was uneven or barley settled in a corner. Pearl barley should retain a pleasant chew but not a hard, chalky center. Package age, brand, pot width, elevation, and burner behavior can shift the stated range.
+
+If the vegetables are tender before the barley, continue at a gentle simmer and protect the liquid level with small additions of hot broth. Do not add cold liquid in a large amount, because it interrupts the simmer and makes the next timing check harder to interpret. Stir enough to prevent sticking without crushing the softened vegetables.
+
+If the barley remains hard well beyond its package guidance, confirm that the pot is actually simmering and that an acidic ingredient was not increased substantially. Continue only while the food has remained under a safe, controlled cooking workflow; do not leave the pot lukewarm for an extended pause and then resume later.
+
 ### Finish, then adjust the texture
 
 Remove the bay leaf and return the reserved mushrooms. Stir in parsley, taste, and season with pepper and salt only at the end; broth brands and soy sauce differ greatly in salt. If the soup is too thick, add broth. If it is too thin once the barley is tender, simmer uncovered for a few minutes instead of adding more grain.
 
 For a silkier mushroom meal, make the [creamy mushroom soup](/recipes/creamy-mushroom-soup/). For a skillet-first side dish, use the [sautéed mushrooms with garlic and herbs](/recipes/sauteed-mushrooms-recipe/).
+
+## Adjust seasoning without hiding the mushrooms
+
+Taste the broth, barley, and a mushroom piece together. Soy sauce, broth, and added salt contribute in different ways, so delay the final salt decision until the barley is tender and the liquid has reduced. Black pepper, thyme, and parsley should support the browned mushrooms rather than cover a scorched or overly salty base.
+
+A small amount of lemon juice can brighten a flat soup, but add it at the end and taste after each addition. Acidity cannot repair burnt fond, spoiled ingredients, or a soup with unsafe handling. If the soup is too salty, dilution may help flavor but does not reverse an allergen, contamination, or time-temperature problem.
+
+For more mushroom intensity, brown a portion a little deeper or include a modest amount of properly prepared dried culinary mushroom. Do not solve blandness by crowding a larger mushroom batch into the pot, where it will steam, or by using an unidentified wild ingredient.
+
+## Scale the recipe while preserving the method
+
+A half batch may evaporate faster in the same wide pot, so begin checking liquid and barley earlier. A double batch needs a larger vessel and mushrooms browned in several rounds; doubling the ingredient list does not double the available pan surface. Keep some extra hot broth ready but stop adding when the grains and serving texture are correct.
+
+When serving a crowd, cool leftovers immediately after the meal rather than leaving the full stockpot on a counter for repeated helpings. Divide the remaining soup among shallow containers in quantities that will cool and reheat efficiently. Label each with the preparation date instead of mixing a later batch into an older container.
+
+For meal preparation, consider freezing part of the freshly cooled batch rather than waiting until the end of the refrigerated storage window. Package in meal-sized portions and add broth during reheating. Discard containers with failed seals, unknown dates, or uncertain temperature history.
 
 ## Make-ahead, storage, and reheating
 

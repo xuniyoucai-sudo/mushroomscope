@@ -130,6 +130,14 @@ Yes, cooked mushrooms can still contribute food fiber and nutrients. Cooking als
 
 Yes. Some people experience gas, bloating, nausea, allergy, or intolerance. Stop eating a suspect food and seek care for severe or persistent symptoms.
 
+## Separate digestive symptoms from microbiome claims
+
+A microbiome composition change is not automatically a health benefit, and stool sequencing results depend on collection, analysis, diet, medicines, and many other factors. Record symptoms and clinically meaningful outcomes separately. People with persistent pain, bleeding, weight loss, fever, dehydration, or severe symptoms should seek medical assessment rather than self-treating with mushroom powders.
+
+## Keep food and supplement questions separate
+
+A serving of cooked cultivated mushrooms, a purified beta-glucan, a whole powder, and a multi-species extract expose the gut to different materials and doses. Evidence from one cannot be assigned automatically to another. Record preparation and product identity before comparing symptoms or microbiome studies.
+
 ## References
 
 1. USDA. [FoodData Central](https://fdc.nal.usda.gov/).

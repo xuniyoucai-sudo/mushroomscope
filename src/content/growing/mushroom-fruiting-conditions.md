@@ -150,6 +150,14 @@ Use the culture supplier’s recommended water method. Direct misting, room humi
 
 A small record separates memory from observation. It captures the culture, stage, conditions, and one change you made, which makes the next crop easier to assess. It also helps prevent multiple uncontrolled changes from being mistaken for a reliable technique.
 
+## Validate changes over more than one observation
+
+After adjusting air, humidity, light, or temperature, define when the crop will be checked again and what response would count as improvement. Preserve sensor location and avoid changing another control during that interval. One attractive fruit body is not enough to validate a chamber; compare morphology, contamination, yield, and consistency across batches.
+
+## Compare the chamber with an empty-system test
+
+Before loading a valuable block, run the clean empty chamber through a normal cycle. Map minimum and maximum temperature and humidity at several shelf positions, inspect condensation and drainage, verify timers after a power interruption, and confirm air does not blow directly on the fruiting opening. Correct unsafe water or electrical behavior before cultivation.
+
 ## References
 
 1. Cornell Small Farms. [Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/). Cultivation resources and production context.

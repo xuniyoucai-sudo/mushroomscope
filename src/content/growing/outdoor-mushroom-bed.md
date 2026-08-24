@@ -6,13 +6,14 @@ keywords: ["how to start a wine cap mushroom bed", "wine cap mushroom bed", "out
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-10
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-substrate-guide", "growing/when-to-harvest-mushrooms", "growing/mushroom-contamination-guide"]
-coverImage: "../../assets/growing/outdoor-mushroom-bed.jpg"
-coverAlt: "Illustrated shaded garden bed of hardwood chips with wine cap mushrooms, a spawn bag, and a hand trowel"
-imageCredit: "Original MushroomScope editorial illustration generated with OpenAI image generation"
-imageNote: "Original educational illustration. It depicts a planned cultivation bed, not a field-identification guide, and cannot establish that any mushroom is edible."
+coverImage: "../../assets/growing/outdoor-mushroom-bed-v2.png"
+coverAlt: "Shaded raised bed of hardwood chips with burgundy-capped cultivated mushrooms, a closed spawn bag, and a hand trowel"
+imageCredit: "Original AI-generated MushroomScope editorial image"
+imageNote: "Original AI-generated cultivation scene. It is not a field record or identification guide and cannot establish that any mushroom is edible."
 sources:
   - title: "Cornell Small Farms — Outdoor Production"
     url: "https://smallfarms.cornell.edu/es/recursos/outdoor-production/"
@@ -82,6 +83,16 @@ Use mixed hardwood chips from a known **untreated** source and follow the spawn 
 
 Do not use material from painted, pressure-treated, or otherwise unknown wood. Likewise, do not assume that mulch from an unknown landscape project is suitable just because it looks like hardwood. When the material history is unclear, choose a different source rather than trying to make it acceptable with rinsing, compost, or extra spawn.
 
+## Screen the site before ordering spawn
+
+Observe the proposed location through at least one ordinary watering or rainfall event. Note where roof runoff, downspouts, slopes, irrigation, foot traffic, pets, and garden tools affect the area. A site that holds standing water, receives contaminated runoff, repeatedly dries to dust, or cannot be protected from digging may be a poor bed location even when it looks shaded in one photograph.
+
+Check the site's known history. Avoid former dumping areas, chemically treated wood borders, roadside splash zones, industrial fill, or soil with an uncertain contamination history. Fungi should not be used as an assumed cleanup step for a food crop. When site suitability cannot be established, choose a contained non-food experiment or a different location with documented materials rather than representing the harvest as edible.
+
+Map the shade across the day and season. A fence or deciduous canopy may shade the bed in spring but expose it during summer heat, while dense cover can also slow drying after heavy rain. Record the pattern instead of assigning the site a single “shady” label. Make sure the bed remains accessible for observation and does not require stepping on the substrate.
+
+Consider nearby garden work. Herbicides, pesticides, fertilizers, compost additions, soil cultivation, and replacement mulch can alter the system or its traceability. Keep a buffer appropriate to the products and site rules, and do not apply any chemical to the bed unless it is expressly compatible with the documented cultivation and food-growing use.
+
 ## Build the bed as one observable system
 
 Clear the planned surface only as needed to lay out the bed; do not convert the project into a broad soil-mixing experiment. Keep the chips as the culture's substrate and avoid repeatedly turning them into surrounding garden soil. Cornell's urban-farming guide lists wine cap for wood-chip or straw-mulched beds, while its outdoor-production table names mixed hardwood chips for wine cap beds.
@@ -100,6 +111,28 @@ Do not dig through the bed on a schedule to search for mycelium. Unnecessary dis
 Outdoor beds trade indoor controls for local weather. Cornell describes outdoor systems as lower in infrastructure and energy use, but generally slower and less predictable than controlled production. So the useful question after a heat wave or heavy rain is not “Did I hit the perfect humidity?” It is “What changed at this labeled bed, and what does the supplier say to do next?”
 
 After dry weather, inspect the substrate and the surrounding site, then use only the culture supplier's supported watering or mulch practice. After rain, observe whether water pools, the bed erodes, or neighboring plants shade it differently than expected. Make one reversible adjustment and write it down. More water cannot correct every problem, and a wetter bed is not evidence that the culture is healthy.
+
+Use a repeatable observation point. Photograph the same edge and center area after major weather events, and record whether the upper chips and material below them appear dry, damp, displaced, compacted, or waterlogged. Do not dig through the entire bed to check moisture; a small supplier-supported observation at a consistent location preserves more of the system.
+
+Weather-app rainfall totals are context, not a measurement at the bed. Tree canopy, roof edges, irrigation, slope, and wind can make the substrate receive much more or less water than a nearby station reports. If you include outside weather data, identify its source and keep it separate from what you directly observed.
+
+During extended dry or wet periods, follow the spawn supplier's instructions and change one factor at a time. Record the action, location, and date. A cover that reduces evaporation can also change airflow and rainfall access, while extra mulch changes substrate depth; neither is a neutral fix when added without method support.
+
+## Observe colonization without excavating the project
+
+Outdoor colonization is slower to interpret than a clear indoor bag. Do not treat every pale thread, patch, odor, or fruiting body as the purchased culture. Record surface and edge observations, but leave culture confirmation and food decisions separate. A photo cannot distinguish all expected mycelium from competing fungi or other pale biological material.
+
+Cornell's two-to-six-month planning window for possible wine-cap fruiting depends on warm enough conditions and is not a countdown. Shipping condition, spawn vitality, chip material, bed construction, moisture, and seasonal timing can shift or eliminate fruiting. Keep the inoculation date and weather record, then contact the supplier when the bed falls outside its supported expectations.
+
+Avoid adding more spawn, compost, straw, chips, fertilizer, or water simultaneously when growth seems slow. Multiple additions erase the ability to learn which factor changed the outcome and can create an overly deep, wet, or nutrient-rich system. If the supplier recommends renewal material, document it as a new dated stage.
+
+## Separate planned maintenance from uncontrolled expansion
+
+An established outdoor patch may spread through suitable mulch or persist into another season, but this is not guaranteed. Before refreshing a bed, confirm that the location is still appropriate, the chip source remains traceable, and the supplier supports the timing and material. Record new inputs rather than treating them as part of the original batch.
+
+Keep the bed within an area you can monitor. Do not intentionally move colonized chips into public land, neighboring property, natural habitat, or another garden without permission and local ecological guidance. Cultivated organisms and associated substrate should not be distributed merely because the species is already reported in a broad region.
+
+At the end of a season, summarize observed fruiting dates, weather events, maintenance, unexpected mushrooms, and whether anything was harvested. “No fruiting observed” is a valid result; it is more accurate than claiming failure or success without defined observation effort. Use the summary to decide whether to retain, refresh, relocate, or discontinue the project under supplier and local guidance.
 
 ## Keep identity and food safety outside the cultivation shortcut
 

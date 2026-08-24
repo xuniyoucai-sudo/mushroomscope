@@ -6,8 +6,8 @@ keywords: ["mushroom risotto", "creamy mushroom risotto", "cremini mushroom riso
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-15
-revisionSummary: "Added clearer leftover and texture links to new gravy and toast pages for recipe clustering."
+updatedDate: 2026-08-24
+revisionSummary: "Expanded the cooking workflow with heat and pan controls, make-ahead boundaries, serving adjustments, dairy-free options, and more precise doneness troubleshooting."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/mushroom-pasta"]
@@ -71,6 +71,10 @@ Risotto is ready when the grains are tender yet not mushy and the cooking liquid
 
 Keep the stock gently hot in a small saucepan. Adding cold stock repeatedly slows the pot and makes the texture harder to judge. You do not need to stir without pause; stir often enough to keep the rice from catching and to release its creamy starch, then give it short undisturbed moments between additions.
 
+Judge doneness with both movement and taste. The liquid should suspend the grains rather than form a separate watery pool, and an individual grain should be tender through most of its center with only a slight, pleasant resistance. A crunchy white core needs more cooking; a grain that collapses without structure has gone too far. Because the pot continues absorbing liquid off heat, have warmed bowls and toppings ready before the final adjustment.
+
+Pan width changes the process. A very narrow pot creates a deep layer that cooks less evenly, while an oversized pan can evaporate stock faster than the rice hydrates. Choose a heavy, medium-wide pot that holds the rice in a manageable layer, then regulate the burner so each ladle simmers gently rather than boiling violently or sitting motionless.
+
 ## Ingredients and substitutions
 
 Choose firm cultivated cremini mushrooms, sometimes sold as baby bella mushrooms. USDA FoodData Central lists brown Italian or crimini mushrooms as a cultivated mushroom food. White button mushrooms are the closest substitute; a few shiitake mushrooms can add a stronger aroma, but keep cremini as the base for a balanced texture.
@@ -84,6 +88,18 @@ Choose firm cultivated cremini mushrooms, sometimes sold as baby bella mushrooms
 | Dry white wine | Adds acidity before stock | Replace with extra stock and finish with lemon juice |
 
 Clean the mushrooms just before cooking. FDA recommends clean hands and surfaces, keeping produce separate from raw animal foods, and trimming away damaged portions. Avoid soaking sliced mushrooms: after a brief rinse, dry them well so they brown rather than steam.
+
+For an alcohol-free version, replace the wine with hot stock and use the optional lemon only at the end. For a dairy-free dish, omit butter and Parmesan, use olive oil, and check the stock label; the rice's starch can still create a creamy consistency. Nutritional yeast can add savory flavor, but add it gradually because brands vary in saltiness and intensity.
+
+If using shiitake as part of the mushroom mixture, remove tough stems and cook the caps thoroughly. Do not substitute a wild collection based on resemblance to a market mushroom. The ingredient list assumes cultivated mushrooms sold as food and does not provide a wild-identification process.
+
+## Organize the two-pan workflow
+
+Slice and dry the mushrooms, dice the shallot, grate the cheese, chop parsley, and measure the rice before heating either pan. Start the stock first, then brown the mushrooms. The browned mushrooms can wait briefly in a bowl while the rice cooks, whereas a half-finished rice pot cannot be paused without changing its texture.
+
+Use the mushroom skillet only if its browned residue is clean and not scorched. A splash of hot stock can loosen flavorful browned bits, which may be added to the rice; discard bitter black residue. Keep the reserved garnish separate so it remains visibly browned rather than softening in the pot.
+
+When cooking for guests, plan to bring everyone to the table before the final cheese and stock adjustment. Risotto is not a casserole that improves during a long rest. If timing slips, keep a little stock hot and stop the rice slightly looser, but do not deliberately undercook a chalky center in hopes that standing will fix it.
 
 ## Step-by-step method
 
@@ -106,6 +122,20 @@ If you want a close-up look at the first part of this technique, the [sautéed m
 **The risotto is heavy or stiff.** Add hot stock a tablespoon at a time just before serving. Extra cheese will make it richer, but it will not replace the looseness created by the final stock addition.
 
 **The flavor tastes flat.** Taste after the Parmesan is incorporated. A small squeeze of lemon or more black pepper can brighten the dish before you add more salt.
+
+**The rice cooks unevenly.** Check that the simmer reaches the whole pot and that additions are not so large they repeatedly cool it. Stir around the bottom and corners, then use smaller additions while maintaining a gentle simmer.
+
+**The bottom begins to catch.** Lower the heat and transfer the unburned rice to a clean warm pot without scraping the scorched layer. Add hot stock and continue cautiously. Strong burnt flavor cannot be hidden with cheese or lemon.
+
+**The risotto is soupy.** Continue cooking briefly before adding cheese, stirring so excess liquid integrates and evaporates. Do not add dry uncooked rice late in the process; it will not hydrate on the same timeline as the rest.
+
+## Scale servings without losing control
+
+The four-serving recipe suits a medium pot and a typical home burner. A half batch usually needs less total stock and may cook faster because evaporation is proportionally greater. Keep the full estimated stock hot but stop adding it when the rice is ready.
+
+For a larger group, two moderate batches are easier to control than doubling everything in a crowded pot. Mushroom browning also works best in batches; a doubled pile releases enough water to steam before its surfaces color. Keep finished browned mushrooms covered loosely, not sealed so tightly that condensation makes them wet.
+
+Serve risotto as the main dish with a crisp salad or simply cooked vegetables, or use smaller portions as a first course. Richness depends on portion size, cheese, butter, and stock—not on the word “creamy.” Let the rice's starch provide the body before increasing added fat.
 
 ## Storage and reheating
 

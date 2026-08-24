@@ -145,6 +145,10 @@ The tree itself deserves respect. The appearance of a decay fungus is informatio
 
 If the purpose is food, pause before harvest and use a higher standard than a casual identification post. Verify the species with a qualified local expert, confirm that the fruiting body is young and fresh, assess whether the site could be contaminated, and keep uncertain material separate. Never combine unidentified mushrooms in a meal. If confidence is incomplete at any point, leave the specimen or use it only as an observation. That decision protects both the person collecting and the useful information that future observers can learn from the fungus in place.
 
+## Record age separately from identification
+
+Measure cap thickness and photograph the pore surface, margin, attachment, and a cut section from young and mature shelves. The patterned cap and large angular pores support identification, while tenderness declines with age. A correct species name does not make an old, contaminated, or insect-damaged bracket suitable for food.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Cerioporus squamosus*](https://www.gbif.org/species/2547092). Taxonomic backbone and occurrence context.

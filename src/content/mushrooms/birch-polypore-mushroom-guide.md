@@ -144,6 +144,10 @@ For publication review, avoid language that turns uncertainty into confidence. P
 
 Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
 
+## Preserve host evidence with the bracket record
+
+Photograph birch bark, leaves or twigs, the attachment point, upper cap, pore surface, and side profile under one collection number. Weathered pale brackets on an uncertain host should remain unresolved. Host fit supports the name but does not replace pore, texture, age, range, and local expert review.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Fomitopsis betulina species record](https://www.gbif.org/species/9819973). Taxonomic backbone and occurrence context.

@@ -117,6 +117,10 @@ Temperature monitoring helps you learn from a healthy crop; it cannot authentica
 
 If a batch becomes suspect, keep it away from clean cultures, avoid tasting or harvesting from it, and record the culture source, substrate, treatment, date, container, first observation, and any handling event. The purpose is to protect the next clean batch—not to diagnose a mold from a photo or “fix” it with heat, cold, misting, or extra air.
 
+## Calibrate decisions to the sensor, not just the display
+
+Compare the working sensor with a trusted reference at relevant temperatures and record its offset, placement, and check date. Air, substrate core, shelf, and room readings answer different questions. If a value is implausible, verify the instrument before changing heaters or cooling and risking a large uncontrolled swing.
+
 ## References
 
 1. [Cornell Small Farms — Seven Stages of Cultivation](https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/2-seven-stages-of-cultivation/)

@@ -5,7 +5,7 @@ keywords: ["how to identify mushrooms: a beginner's field guide", "mushroom iden
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-14
+updatedDate: 2026-08-24
 revisionSummary: "Rebuilt the guide around an evidence record, an exclusion-first workflow, and clearer safety escalation guidance."
 draft: false
 featured: false
@@ -79,11 +79,65 @@ Image search, community platforms, and identification apps can surface candidate
 
 GBIF can help check accepted names and occurrence data after a tentative identification, but a database occurrence is not a specimen determination. A regional key, herbarium, or local mycological group may be better placed to assess a real specimen.
 
+## Identify the fertile surface before comparing cap color
+
+Determine whether the underside has true gills, pores, teeth, blunt folds, tubes, a smooth surface, or an enclosed spore mass. This first branch often narrows the candidate set more effectively than color. Photograph attachment to the stem and the margin.
+
+For gills, record free, attached, notched, or decurrent attachment; spacing; short gills; edge color; and changes with age. For pores, record size, shape, color, bruising, and whether the tube layer separates. Use the [gill guide](/identification/mushroom-gill-types/) and [bolete guide](/identification/bolete-identification-guide/) as anatomy references, not edibility clearance.
+
+## Preserve veil remnants and the entire base
+
+Partial veils can leave a ring, fibers, a cobwebby zone, or tissue on the cap margin. Universal veils can leave cap patches, a sac-like volva, collars around a bulb, or friable material at the base. Weather and handling may remove them, so compare young and mature specimens.
+
+Cutting at ground level can eliminate decisive *Amanita* characters. Excavate carefully where permitted and photograph the base before cleaning. If it is missing, write “base not observed” and keep the identification unresolved. The [stem-features guide](/identification/mushroom-stem-features/) explains rings, volvas, bulbs, rooting extensions, and interior structure.
+
+## Record controlled changes instead of relying on memory
+
+Photograph untouched tissue first. Scratch or cut a defined area, note the starting color, and take timed photographs. Specify whether a reaction occurs on cap, pores, gills, stem surface, stem base, or internal flesh. Include an unhandled specimen for comparison.
+
+Record odor cautiously and in plain language. Do not inhale deeply, taste an unidentified mushroom, or use chemical reagents without training. If a key requires a spore deposit, make it on adjoining light and dark nonabsorbent surfaces away from food areas and link it to the collection number.
+
+## Compare candidates with positive and negative evidence
+
+Use a current regional key to generate a short list. For each candidate, compare range, season, habitat, substrate or host, growth pattern, cap, fertile surface, stem base, veil, spore color, staining, odor, and microscopy if required. Mark matches, conflicts, and missing data.
+
+One decisive contradiction outweighs several generic matches. “Brown cap in woods” supports hundreds of possibilities; a white spore deposit cannot support a brown-spored candidate. Do not explain away a missing volva, wrong host, or incompatible pore surface because an image-search result resembles the cap.
+
+Common names can cover several species, and taxonomy changes. Record the scientific name and reference concept used, date of determination, identifier, and confidence. Preserve earlier names so later reviewers can understand the change.
+
+## Use apps and communities as hypothesis tools
+
+Image recognition can propose names to test, but it cannot inspect odor, texture, hidden tissue, spores, or microscopic characters. Training data may favor common photographed species and regions. Never use an app confidence percentage as probability of identity or safety.
+
+When asking online, provide full-resolution images plus measurements and habitat notes. State what remains missing and ask which character would separate the leading candidates. Likes and repeated guesses are not independent expert confirmations.
+
+DNA sequencing requires a documented voucher, appropriate marker, quality-controlled process, and reliable reference sequences. Molecular evidence complements rather than erases field documentation.
+
+## Apply a stop rule before any food decision
+
+Stop when the base is missing, collections are mixed, decisive characters conflict, the specimen is degraded, the local key does not fit, or dangerous lookalikes have not been excluded. “Probably” is not a food-safety category. Seek a qualified local expert who can inspect complete fresh material in person.
+
+Correct species identification still does not resolve pollution, pesticide exposure, freshness, allergy, interactions, or legal collection. Cooking cannot detoxify every poisonous mushroom. Beginners should learn through documentation and expert-led field groups rather than consumption experiments.
+
 ## Eating and poisoning safety
 
 Poison Control warns that lookalikes can fool even confident collectors and that cooking does not make a poisonous wild mushroom safe. Do not taste-test an unidentified specimen, use a single “rule,” or rely on online agreement before eating it.
 
 After a suspected ingestion, contact local emergency services or a poison center promptly. Keep uncooked material, leftovers, packaging, and photographs only if it is safe to do so; do not delay care while waiting for an online identification.
+
+## Create a reusable determination record
+
+A final record should preserve the field number, original photographs, measurements, substrate, associated plants, spore information, cut or bruise timing, candidate list, conflicts, identifier, reference used, and confidence. Export a copy outside the social platform where the discussion occurred. If the name changes, append the new determination instead of deleting the earlier one.
+
+Revisit unresolved collections as learning exercises. List the exact missing character—complete base, mature gills, host, microscopy, or better location data—and plan how to capture it next season. An unresolved record with clear limitations is more valuable than a confident name that cannot be audited.
+
+Before sharing a location, consider landowner privacy and conservation sensitivity. Precise coordinates can remain in a private scientific record while a public observation uses a broader locality. Identification quality does not require exposing a vulnerable site.
+
+For teaching, compare one confirmed reference collection with one unresolved collection and explain why the second stops short. This trains attention to contradictory evidence rather than visual resemblance and keeps the page's safety boundary operational.
+
+## Define what would change the conclusion
+
+End every determination with the evidence that could strengthen or overturn it. Name the required view, measurement, microscopic feature, host confirmation, or expert comparison. This makes confidence testable and prevents a tentative label from becoming permanent merely through repetition. If that evidence can no longer be recovered, retain the conservative confidence level.
 
 ## References
 

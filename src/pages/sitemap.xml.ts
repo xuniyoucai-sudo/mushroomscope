@@ -1,11 +1,14 @@
 import type { APIRoute } from 'astro';
 import { entryPath, getIndexableTaxa, getPublishedEntries, taxonPath } from '../lib/content';
+import { hubDefinitions } from '../lib/hubs';
 
-const staticPaths = [
-  '/', '/about/', '/authors/mushroomscope-editorial-team/', '/blog/', '/editorial-policy/', '/glossary/',
-  '/hubs/mushroom-identification-safety/', '/hubs/mushroom-nutrition-evidence/', '/hubs/beginner-mushroom-growing/',
-  '/hubs/easy-mushroom-recipes/', '/hubs/oyster-mushroom-guide/',
+const editorialStaticPaths: SitemapEntry[] = [
+  { path: '/about/', lastmod: '2026-08-15' },
+  { path: '/authors/mushroomscope-editorial-team/', lastmod: '2026-08-23' },
+  { path: '/editorial-policy/', lastmod: '2026-08-15' },
+  { path: '/glossary/', lastmod: '2026-08-15' },
 ];
+const BLOG_PAGE_SIZE = 18;
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value
@@ -17,15 +20,29 @@ const escapeXml = (value: string) => value
 
 export const GET: APIRoute = async ({ site }) => {
   const articles = await getPublishedEntries();
+  const dateOf = (entry: (typeof articles)[number]) => entry.data.updatedDate ?? entry.data.publishDate;
+  const maxDate = (entries: typeof articles) => entries.length
+    ? new Date(Math.max(...entries.map((entry) => dateOf(entry).valueOf()))).toISOString().slice(0, 10)
+    : undefined;
+  const newestDate = maxDate(articles);
   const populatedCategories = [...new Set(articles.map(({ data }) => data.category))];
   const species = articles.filter(({ data }) => data.category === 'mushrooms');
   const genera = getIndexableTaxa(species as any, 'genus').map(([name]) => name);
   const families = getIndexableTaxa(species as any, 'family').map(([name]) => name);
+  const blogPages = Array.from({ length: Math.max(0, Math.ceil(articles.length / BLOG_PAGE_SIZE) - 1) }, (_, index) => `/blog/page/${index + 2}/`);
+  const hubEntries = Object.entries(hubDefinitions).map(([slug, hub]) => ({
+    path: `/hubs/${slug}/`,
+    lastmod: maxDate(articles.filter((entry) => hub.categories.includes(entry.data.category as never))),
+  }));
   const paths: SitemapEntry[] = [
-    ...staticPaths.map((path) => ({ path, lastmod: '2026-08-15' })),
-    ...populatedCategories.map((category) => ({ path: `/${category}/`, lastmod: '2026-08-15' })),
-    ...genera.map((genus) => ({ path: taxonPath('genus', genus) })),
-    ...families.map((family) => ({ path: taxonPath('family', family) })),
+    { path: '/', lastmod: newestDate },
+    { path: '/blog/', lastmod: newestDate },
+    ...blogPages.map((path) => ({ path, lastmod: newestDate })),
+    ...editorialStaticPaths,
+    ...hubEntries,
+    ...populatedCategories.map((category) => ({ path: `/${category}/`, lastmod: maxDate(articles.filter(({ data }) => data.category === category)) })),
+    ...genera.map((genus) => ({ path: taxonPath('genus', genus), lastmod: maxDate(species.filter(({ data }) => (data as any).taxonomy?.genus === genus)) })),
+    ...families.map((family) => ({ path: taxonPath('family', family), lastmod: maxDate(species.filter(({ data }) => (data as any).taxonomy?.family === family)) })),
     ...articles.map(({ id, data }) => ({
       path: entryPath({ id, data }),
       lastmod: (data.updatedDate ?? data.publishDate).toISOString().slice(0, 10),

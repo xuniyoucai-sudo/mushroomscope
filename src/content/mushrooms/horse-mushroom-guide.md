@@ -142,6 +142,10 @@ Keep a dated record even when no specimen is collected. A useful record includes
 
 Taxonomy note: horse mushroom belongs to a difficult Agaricus neighborhood, so odor, staining, ring details, habitat, and regional concepts should be recorded together carefully.
 
+## Document the yellow-stainer exclusion
+
+A useful record photographs the untouched cap and stem base, then the same areas immediately and several minutes after rubbing or cutting. Record odor from the bruised base cautiously and compare gill maturity, ring, spore deposit, and intact base. Rapid bright yellow staining or phenolic odor keeps the collection out of a food workflow and requires local expert assessment.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Agaricus arvensis species record](https://www.gbif.org/species/5243403). Taxonomic backbone and occurrence context.

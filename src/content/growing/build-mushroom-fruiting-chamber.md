@@ -155,6 +155,10 @@ Yes, if it is washable and undamaged. Clean and dry it between batches, discard 
 
 It is useful as a trend tool, not as a guarantee. Record where the sensor sits and compare readings with the visible condition of a healthy crop.
 
+## Plan shutdown and cleaning before the first crop
+
+Design the chamber so trays, humidification parts, sensors, and fans can be removed without spreading water or spores through the room. Document power isolation, drainage, cleaning product, contact time, drying, and filter replacement. If standing water, electrical damage, persistent mold, or unsafe household humidity develops, stop the chamber and correct the system before adding another block.
+
 ## References
 
 1. Cornell Small Farms. [Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/).

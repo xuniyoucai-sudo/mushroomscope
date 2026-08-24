@@ -124,7 +124,7 @@ Foods and supplements can cause allergy, intolerance, contamination, or interact
 
 The FDA regulates dietary supplements differently from conventional foods and drugs; consumers should not interpret market availability as proof of effectiveness. Check labels, lot numbers, independent identity and contaminant testing, recall notices, and adverse-event guidance. For symptoms suggesting a serious allergic reaction—such as trouble breathing, swelling of the face or throat, fainting, or rapidly worsening illness—seek urgent medical help rather than attempting to manage the reaction with food advice.
 
-## Practical use
+## Apply composition data to a real serving
 
 For food, buy identified culinary mushrooms from reputable suppliers, store them safely, and cook them appropriately. For supplements, bring the exact label to a clinician or pharmacist. Record the species, part, extraction, dose, other ingredients, and reason for use. Stop and seek care for severe allergic symptoms or other urgent reactions.
 

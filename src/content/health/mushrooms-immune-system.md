@@ -140,6 +140,14 @@ They can be part of a balanced diet, but no ordinary food guarantees immune prot
 
 Do not use mushroom products to delay medical care. Ask a clinician, especially if symptoms are severe, prolonged, or you have underlying conditions.
 
+## Keep immune claims tied to measured outcomes
+
+When reading a new study, write the exact immune marker or clinical endpoint, product, dose, population, duration, comparator, and adverse events. A change in one cytokine or cell count does not automatically mean fewer infections or better health. Apply results only to materially matching products and do not replace vaccination, diagnosis, or prescribed care.
+
+## Report null findings and adverse events
+
+A balanced summary includes outcomes that did not change, withdrawals, side effects, and uncertainty intervals—not only the statistically positive result. If a trial measured many immune markers, an isolated change may be a chance finding. Transparent negative evidence helps prevent “immune support” language from outrunning clinically meaningful data.
+
 ## References
 
 1. FDA. [Dietary Supplements](https://www.fda.gov/food/dietary-supplements).

@@ -5,13 +5,14 @@ keywords: ["mushroom odor identification", "mushroom smell field notes", "mushro
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-08
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["identification/mushroom-photo-checklist", "identification/mushroom-stem-features", "identification/how-to-make-spore-print"]
-coverImage: "../../assets/identification/mushroom-odor-identification.png"
-coverAlt: "A neutral mushroom specimen, field notebook, pencil, ruler, and open jar arranged on a forest floor"
-imageCredit: "Original MushroomScope editorial illustration generated for this guide"
-imageNote: "Illustrative field-note scene only; it does not identify the specimen or establish edibility. Licensed for MushroomScope editorial use."
+coverImage: "../../assets/identification/mushroom-odor-identification-v2.png"
+coverAlt: "An unidentified brown mushroom, a matching collected specimen, and a closed field notebook on a damp forest floor"
+imageCredit: "Original MushroomScope AI-generated editorial image"
+imageNote: "AI-generated field-note context only; it does not encourage close inhalation, identify the specimen, or establish edibility. Licensed for MushroomScope editorial use."
 sources:
   - title: "Iowa State University Extension — Tips for Collecting and Identifying Mushrooms"
     url: "https://yardandgarden.extension.iastate.edu/how-to/tips-collecting-and-identifying-mushrooms"
@@ -71,6 +72,54 @@ An odor note becomes more useful when the following observations are complete an
 | Spore deposit when appropriate | A controlled deposit can support a key, but is not a stand-alone identification. Follow the [spore-print method](/identification/how-to-make-spore-print/). |
 
 Conflicts are meaningful. A “right” smell cannot rescue a specimen whose substrate, underside, stem base, or spore deposit disagrees with the candidate. Stop at an unresolved group rather than selecting the closest image or common name.
+
+## Standardize the observation environment
+
+Record odor outdoors or in a well-ventilated space, away from perfume, smoke, food, cleaners, and other specimens. Smell the intact collection cautiously from a normal distance first. If a regional key requires it, expose a small fresh surface and waft air toward the nose rather than inhaling deeply. Stop if irritation, dizziness, nausea, or breathing symptoms occur.
+
+Use separate clean tools and containers so one strong-smelling collection does not contaminate another. Record whether the odor came from cap, gills, stem base, cut flesh, or the storage container. Temperature, wetness, age, and time since collection belong in the note because volatile compounds change.
+
+People with asthma, fragrance sensitivity, mold allergy, or another respiratory vulnerability should avoid deliberate odor assessment. A trained second observer can record the character without requiring exposure from the vulnerable person.
+
+## Write intensity, timing, and tissue location
+
+Avoid a single label such as “mushroomy.” Describe intensity—absent, faint, moderate, or strong—and when it appeared. Terms used in keys include floury, anise-like, almond-like, radish-like, phenolic, inky, fishy, earthy, or garlic-like, but observers map odors to different memories.
+
+“Moderate radish-like odor from cut stem base after 30 seconds” is more reproducible than “strange.” Do not place reference chemicals beside the specimen. Ask a second observer independently when safe and record both descriptions rather than forcing agreement.
+
+Photographs cannot preserve odor, so link the text to a field number, habitat images, measurements, and full anatomy. A later expert needs to know whether the scent was clear, uncertain, or not assessed.
+
+## Explain changes with age and handling
+
+Volatile compounds vary with developmental stage, hydration, temperature, damage, microbes, and decay. A dry old specimen may have little odor; a sealed wet container can accumulate a smell that was not apparent in the field. Cutting may release compounds that intact tissue retains.
+
+Foul, sour, ammonia-like, or rotten odor can reflect deterioration, but lack of bad odor does not prove freshness or safety. Poisonous mushrooms can smell pleasant or neutral. Food mushrooms with slime, mold, foul odor, or unsafe storage history should be discarded without tasting.
+
+Record the intact odor before bruising and again after a defined cut when a local key calls for it. Keep one specimen unhandled as a comparison. Do not heat, burn, microwave, or chemically treat an unknown mushroom to make its odor stronger; this can release irritants and destroy evidence.
+
+## Combine odor with anatomy and ecology
+
+Enter odor beside cap, fertile surface, stem and base, veil structures, spore deposit, staining, substrate, host, season, and region. A phenolic odor plus rapid yellow staining at an *Agaricus* stem base is more informative than either clue alone, yet full local examination remains necessary.
+
+When odor contradicts a candidate, recheck tissue freshness and observer confidence instead of automatically dismissing it. Compare alternative local taxa and mark missing evidence. The [complete identification workflow](/identification/how-to-identify-mushrooms/) shows how to weigh matches and conflicts.
+
+Odor can sometimes help choose the next key branch; it cannot compensate for a missing stem base, wrong spore color, incompatible substrate, or absent microscopy. Do not combine an odor from one collection with photographs from another.
+
+## Avoid odor myths and unsafe shortcuts
+
+There is no universal poison smell. Pleasant, fruity, nutty, or ordinary mushroom odor does not indicate edibility, and unpleasant odor does not classify every toxic species. Animals or insects eating a mushroom are not safety evidence for humans.
+
+Do not taste unidentified mushrooms. Taste steps appearing in specialist keys require expertise and taxonomic context and are not a beginner method. Chemical spot reagents also require safety documentation and treated tissue must never enter food.
+
+A market name, app result, or online vote cannot turn odor into confirmation. The specimen still needs a complete base, fertile-surface examination, habitat record, local key, and qualified review when food use is contemplated.
+
+## Preserve an odor record for review
+
+Use a template: collection number; intact or cut tissue; intensity; closest comparison; time after cutting; duration; observer; temperature and moisture; confidence. Add it to the photographs and written morphology before consulting candidate names.
+
+Drying changes odor, so a voucher may not retain the original scent. Preserve the field note even when lawful material is dried. If odor is decisive in a key and the original observation was uncertain, the identification may need to remain unresolved.
+
+For suspected ingestion, odor should not delay poison-control contact. Preserve material and notes, but follow medical instructions rather than repeatedly smelling or handling the specimen.
 
 ## Why odor is easy to overread
 

@@ -6,13 +6,14 @@ keywords: ["mushroom tacos", "vegetarian mushroom tacos", "cremini mushroom taco
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-13
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/garlic-butter-oyster-mushrooms"]
-coverImage: "../../assets/recipes/mushroom-tacos.png"
+coverImage: "../../assets/recipes/mushroom-tacos-v2.png"
 coverAlt: "Three corn tortillas filled with browned cremini mushrooms, black beans, red cabbage, cilantro, and lime wedges on a terracotta plate"
 imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
-imageNote: "Original illustrative food image for MushroomScope. It shows a serving idea only; it is not a recipe test record or food-safety assessment."
+imageNote: "Original AI-generated natural-light editorial food image for MushroomScope. It shows a serving idea only; it is not a recipe test record or food-safety assessment."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
@@ -87,6 +88,46 @@ For another simple skillet method, see [how to sauté mushrooms](/recipes/sautee
 
 The important visual cue is **browning before seasoning**, not a fixed minute count: mushrooms vary in thickness, skillet size, and moisture. When the pan is crowded, steam lingers and the filling stays softer. A wider skillet or two batches gives the water more room to evaporate.
 
+## Brown the filling instead of steaming it
+
+Use a wide skillet and cook mushrooms in batches that fit in one loose layer. Let the first side contact the hot pan before stirring. When water appears, continue until it evaporates and browned edges develop. Reserve garlic and powdered spices until the heat is reduced so they do not burn.
+
+For cultivated oyster mushrooms, tear broad fans and slice dense stems narrowly. Cremini can be sliced or chopped into pieces that stay inside a tortilla. Portobello works when released liquid is managed; gill removal is optional. Never substitute an unidentified wild mushroom.
+
+Bloom cumin, oregano, paprika, or chile briefly after browning, then add a small splash of water or stock so spices coat rather than scorch. Finish with lime off heat. Salty sauces and packaged seasoning need label checks before more salt is added.
+
+## Add a separate protein or vegetable when needed
+
+Mushrooms contribute savory flavor and moisture but are not nutritionally equivalent to meat or beans. Add black beans, pinto beans, lentils, tofu, tempeh, or another suitable component for a more substantial filling. Cook it separately enough to preserve texture, then combine near the end.
+
+Corn, roasted peppers, cabbage, or zucchini can extend the filling, but each adds water. Brown or roast watery vegetables independently. A scoop of wet salsa inside the skillet will soften mushrooms; use salsa at service unless it is deliberately reduced.
+
+For vegan tacos, verify tortillas, seasoning, refried beans, sauces, and toppings. For gluten-free service, use certified tortillas and prevent cross-contact on the griddle and with utensils. Soy, wheat, milk, sesame, and tree nuts may appear in substitutes.
+
+## Warm tortillas without drying them
+
+Heat a dry skillet according to the package and warm each side only until flexible and lightly toasted. Hold briefly in a clean towel or covered warmer. Do not place warmed tortillas on a plate that held raw or unwashed ingredients.
+
+For a group, warm small batches close to service. Prolonged uncovered heat makes corn tortillas brittle, while excessive trapped steam makes them gummy. Use separate tongs for allergen-sensitive tortillas when cross-contact matters.
+
+## Set up a controlled taco bar
+
+Keep hot filling hot and cold toppings refrigerated until service. Put cabbage, herbs, onion, salsa, and crema in separate containers with their own utensils. Label allergens and spicy ingredients rather than expecting appearance to communicate them.
+
+Serve smaller batches and replenish instead of leaving everything at room temperature. Refrigerate perishables within two hours, or one hour above 90°F (32°C). Outdoor service needs shade, covered containers, and a safe hot-and-cold holding plan.
+
+## Fix common taco-filling problems
+
+**The filling is watery:** The pan was crowded, vegetables were combined too soon, or salsa entered the skillet. Cook smaller batches, evaporate liquid fully, and drain toppings.
+
+**The spices taste bitter:** Powdered chile or garlic burned on an empty hot surface. Reduce heat, add them after browning, and moisten promptly.
+
+**The tacos fall apart:** Tortillas were cold or brittle, or the filling was overloaded. Warm tortillas, use a modest portion, and serve juicy condiments separately.
+
+**The filling tastes heavy:** Add lime, pickled onion, cabbage, cilantro, or another acidic element before more salt or oil.
+
+**Mushrooms are rubbery:** Pieces were too thick or browned before the centers softened. Cut evenly, reduce heat after browning, and taste a fully cooked sample.
+
 ## Toppings that keep the balance
 
 Choose one creamy topping and one fresh topping so the taco stays distinct rather than overloaded. A spoonful of plain yogurt or a simple avocado-lime sauce works with the warm filling; cabbage, sliced radish, or cilantro provide contrast. Add salsa at the table because a very wet salsa can soften the tortillas quickly.
@@ -112,6 +153,14 @@ The written filling is vegan. Choose plant-based toppings and check the tortilla
 ### Can I freeze the mushroom taco filling?
 
 Freezing is possible, but the mushrooms and beans will be softer after thawing. For the best taco texture, refrigerate a short-term batch and make only the amount you expect to use within the leftover-storage window.
+
+## Store components separately for safer reheating
+
+Cool the mushroom filling promptly in a shallow covered container and refrigerate it at or below 40°F (4°C). Keep tortillas, cabbage, herbs, salsa, and creamy toppings in separate containers so the filling can be reheated thoroughly without warming ingredients intended to remain cold.
+
+Reheat only the portion needed in a skillet with a measured splash of water or in a vented microwave-safe container, stirring until no cold pockets remain. Warm fresh tortillas separately and assemble immediately. Repeatedly warming and cooling the entire batch reduces quality and adds avoidable handling.
+
+Label leftovers and follow applicable local storage guidance. Discard food with mold, slime, off odor, or unsafe time-temperature history rather than tasting it. If unexpected symptoms follow mushroom consumption, seek appropriate medical advice; possible unidentified wild-mushroom exposure requires prompt poison-control or emergency contact.
 
 ## References
 

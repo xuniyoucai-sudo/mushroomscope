@@ -47,15 +47,6 @@ const schema = [
       { '@type': 'ListItem', position: 2, name: hub.title, item: canonical },
     ],
   },
-  {
-    '@type': 'FAQPage',
-    '@id': `${canonical}#faq`,
-    mainEntity: hub.questions.map((question) => ({
-      '@type': 'Question',
-      name: question,
-      acceptedAnswer: { '@type': 'Answer', text: hub.description },
-    })),
-  },
 ];
 ---
 <BaseLayout title={hub.title} seoTitle={hub.seoTitle} description={hub.description} schema={schema}>

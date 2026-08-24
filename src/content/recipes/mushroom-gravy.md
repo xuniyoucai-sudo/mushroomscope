@@ -65,7 +65,7 @@ The most common weak mushroom gravy tastes wet rather than savory. That happens 
 
 The second key is starch control. A roux gives a smooth, classic texture, but flour needs a minute in the fat so the final sauce does not taste raw. Warm stock added gradually helps prevent lumps. If you rush this step, the gravy may look thin at first and then tighten unevenly.
 
-## Method
+## Brown the mushrooms before thickening the gravy
 
 Slice mushrooms thinly so they brown and distribute through the gravy. Heat butter or oil in a wide pan, add mushrooms, and cook until the liquid cooks off. Add shallot, then flour, stirring for about a minute so the raw flour taste fades.
 
@@ -158,6 +158,10 @@ Yes, though the texture may change slightly. Thaw in the refrigerator and reheat
 ### Can I use dried mushrooms?
 
 Yes, if they are purchased as food. Rehydrate them, strain any soaking liquid through a fine filter, and combine with fresh cultivated mushrooms for better texture.
+
+## Hold gravy without masking spoilage or texture problems
+
+If gravy must wait, keep it within applicable safe hot-holding guidance and stir periodically so the base does not scorch. For refrigeration, cool promptly in shallow containers. Reheat only the needed portion until steaming, whisking in measured liquid; do not use extra seasoning to hide an off odor or unsafe storage history.
 
 ## References
 

@@ -1,6 +1,8 @@
 import { getCollection } from 'astro:content';
 
-export const MIN_TAXON_INDEX_ENTRIES = 3;
+export const MIN_TAXON_ROUTE_ENTRIES = 3;
+export const MIN_GENUS_INDEX_ENTRIES = 5;
+export const MIN_FAMILY_INDEX_ENTRIES = 6;
 
 export async function getAllKnowledgeEntries() {
   const [species, identification, growing, recipes, health] = await Promise.all([
@@ -41,5 +43,19 @@ export function getIndexableTaxa(
     return map;
   }, new Map<string, number>());
 
-  return [...counts].filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES);
+  const minimum = rank === 'genus' ? MIN_GENUS_INDEX_ENTRIES : MIN_FAMILY_INDEX_ENTRIES;
+  return [...counts].filter(([, count]) => count >= minimum);
+}
+
+export function getRoutableTaxa(
+  species: Array<{ data: { taxonomy?: { genus?: string; family?: string } } }>,
+  rank: 'genus' | 'family',
+) {
+  const counts = species.reduce((map, { data }) => {
+    const value = data.taxonomy?.[rank];
+    if (value) map.set(value, (map.get(value) ?? 0) + 1);
+    return map;
+  }, new Map<string, number>());
+
+  return [...counts].filter(([, count]) => count >= MIN_TAXON_ROUTE_ENTRIES);
 }

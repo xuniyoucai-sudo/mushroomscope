@@ -155,6 +155,10 @@ The white interior turns yellowish, olive, then brown as spores mature, eventual
 
 Ordinary outdoor contact is different from deliberately creating and inhaling a dense spore cloud. Avoid kicking mature fruit bodies, minimize dust exposure, wash hands after handling, and seek medical advice for concerning respiratory symptoms.
 
+## Cut every candidate through the center
+
+A complete vertical section should show a uniformly solid interior in a sound young puffball and must reveal any developing cap, gills, stem, or internal outline of another mushroom. Photograph the section immediately in neutral light. Yellowing, browning, softness, odor, or an internal mushroom structure excludes the specimen from a food discussion.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/5243177). Taxonomic placement and nomenclature.

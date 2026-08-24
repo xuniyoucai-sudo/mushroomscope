@@ -151,6 +151,10 @@ It may be an aged *Laetiporus*, but fading makes identification harder and the m
 
 *Laetiporus* can decay wood and may fruit on living trees, but a photograph cannot measure structural risk. A qualified arborist should assess a tree near buildings, paths, or other targets.
 
+## Separate substrate identity from food reputation
+
+Record whether the shelves grow from a living tree, stump, log, or buried wood and verify the host when possible. Condition, region, and host influence the lookalike and food discussion, while age changes tenderness dramatically. Even a plausible sulfur shelf needs complete local confirmation; cooking cannot correct a mistaken species or contaminated collection.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Laetiporus sulphureus* species record](https://www.gbif.org/species/9072021). Taxonomic placement and nomenclature.

@@ -154,6 +154,10 @@ Yes. Add a small pinch near the end with the salt and pepper. It will taste diff
 
 Prep the mushroom topping, not the assembled toast. Refrigerate cooked mushrooms promptly and toast the bread just before serving so the texture stays crisp.
 
+## Protect the toast from residual pan liquid
+
+Move cooked mushrooms to a warm rack or tilt the pan briefly before topping bread. Toast both sides when the filling is especially wet and apply creamy spreads in a thin layer. Assemble only at service; storing mushrooms on bread produces a soggy surface and complicates safe reheating.
+
 ## References
 
 1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).

@@ -142,6 +142,10 @@ Keep a dated record even when no specimen is collected. A useful record includes
 
 Taxonomy note: large parasol-like mushrooms are treated differently across modern field guides, so regional names and older cookbook labels should be checked against current local keys before publication or collection use.
 
+## Record spore color before considering a parasol name
+
+Photograph a deposit on adjoining light and dark nonabsorbent surfaces in neutral light and keep it linked to the complete specimen. Greenish mature spores are a critical warning in regions with Chlorophyllum molybdites. Spore color still must agree with the movable ring, patterned stem, free gills, intact base, habitat, and a current regional key.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Macrolepiota procera species record](https://www.gbif.org/species/8914748). Taxonomic backbone and occurrence context.

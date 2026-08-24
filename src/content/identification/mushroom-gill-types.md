@@ -40,7 +40,7 @@ habitat: { summary: "Habitat and substrate are identification characters, not ba
 safetyNotice: "This educational guide cannot authenticate a wild mushroom or determine edibility. Seek qualified local, in-person confirmation."
 ---
 
-## Overview
+## Use gill structure as one part of a complete identification
 
 Compare free, attached, notched, and decurrent gills while recording spacing, color changes, and short gills. The central task is gill attachment and development. A defensible observation separates what was directly seen from what was inferred. Common names, image-search results, and app suggestions can generate hypotheses, but none establishes identity or edibility.
 
@@ -120,9 +120,13 @@ Online communities can improve documentation, but remote viewers cannot examine 
 
 For suspected poisoning, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging, and photographs if it is safe to do so. Do not wait for a social-media identification. North Carolina Poison Control specifically advises treating unknown mushroom ingestion as potentially serious; use your local poison-center or emergency contact rather than relying on a remote identification.
 
-## Related learning
+## Connect gill observations with the rest of the specimen
 
 Continue with the [species encyclopedia](/mushrooms/) and other [identification guides](/identification/). These pages are educational and intentionally conservative.
+
+## Preserve attachment changes across development
+
+Photograph young and mature gills at the same angle because cap expansion can alter the apparent relationship to the stem. Record short gills, forks, cross-veins, edge color, bruising, and whether the stem separated naturally or was torn. Attachment vocabulary narrows a key but never authenticates edibility on its own.
 
 ## References
 

@@ -65,7 +65,7 @@ The air fryer is essentially a compact convection oven. It can brown the outside
 
 This recipe uses three controls: dry mushrooms, a light coating, and a single loose layer. The oil helps conduct heat and carry flavor. The panko creates texture. The cornstarch helps the coating grip and absorb a little surface moisture. None of these steps is complicated, but skipping one changes the result.
 
-## Method
+## Air-fry in a loose layer and check the center
 
 Clean mushrooms with a soft brush or brief rinse, then dry them well. Cut large mushrooms into even pieces so they cook at the same rate. Toss with oil first, then add the crumb mixture and press lightly so it adheres.
 
@@ -162,6 +162,10 @@ Preheating helps the coating set quickly. If your model does not require preheat
 ### Can I make them gluten-free?
 
 Use certified gluten-free breadcrumbs and confirm all seasoning labels meet your needs.
+
+## Verify the appliance batch rather than copying oven time
+
+Basket shape, fan power, mushroom size, and load change cooking speed. Record weight and arrange one loose layer, then inspect and turn at defined intervals. A browned exterior should accompany a hot tender center. Follow the appliance's clearance, liner, and cleaning instructions and never block required airflow.
 
 ## References
 

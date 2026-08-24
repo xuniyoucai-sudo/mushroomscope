@@ -6,13 +6,14 @@ keywords: ["bolete identification", "bolete pores", "blue staining bolete", "bol
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-14
+updatedDate: 2026-08-24
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-photo-checklist", "identification/mushroom-spore-colors"]
-coverImage: "../../assets/identification/bolete-identification-guide.png"
-coverAlt: "Editorial illustration of three pore-bearing bolete-like mushrooms, including a cut specimen with blue staining, beside a ruler and spore-print card"
-imageCredit: "Original MushroomScope editorial illustration generated for this guide"
-imageNote: "Illustrative field-documentation scene only; it cannot identify a specimen or establish edibility."
+coverImage: "../../assets/identification/bolete-identification-guide-v2.png"
+coverAlt: "Three pore-bearing bolete-like specimens documented beside a ruler, including a cut specimen showing blue staining"
+imageCredit: "Original AI-generated MushroomScope editorial image"
+imageNote: "Original AI-generated educational field-documentation scene; it cannot identify a specimen or establish edibility. The specimens are illustrative rather than field records."
 sources:
   - title: "USDA Forest Service — Commercially Harvested Mushrooms of the Pacific Northwest"
     url: "https://www.fs.usda.gov/pnw/pubs/pnw_gtr309.pdf"
@@ -52,7 +53,15 @@ Turn the mushroom over before judging the cap. Photograph the underside in even 
 - **Cap and stem:** Measure the cap and stem, then note texture, net-like reticulation, dots, or color zones.
 - **Flesh reaction:** Make one fresh cut, photograph it immediately and again after a short interval, and state exactly where any color appears.
 
-Color shifts are characters, not safety labels. USGS documentation of *Exsudoporus frostii* records blue staining when injured, while the USDA Forest Service describes king bolete pores as white when young and not blue-bruising. Those contrasting examples show why one reaction cannot settle a species name or edibility question.
+Color shifts are characters, not safety labels. The USDA Forest Service description of king bolete includes pale young pores and the absence of blue bruising, but that combination belongs to a complete species description rather than a universal edibility rule. A reaction—or its absence—cannot settle a species name by itself.
+
+## Separate tubes, pores, and other undersides
+
+“No gills” is not enough to call a specimen a bolete. Look at the entire fertile surface and how it attaches to the cap. A typical bolete underside presents the openings of many vertical tubes; a clean section through the cap can show that tube layer. Other fungi may have folds, blunt ridges, teeth, an almost smooth surface, or pores arranged on a shelf-like fruit body attached to wood.
+
+Do not tear away the underside before photographing it. First capture a straight-on view, an oblique view that shows depth, and the junction between tubes and stem. Then, if collection is legal and the specimen can be handled safely, make a clean vertical section through cap and stem. Label every image with the same specimen number. A loose pore surface photographed without the cap, stem, and habitat loses much of its identification value.
+
+Also record age. Young pores can be small and pale, while mature pores may be wider or differently colored. Weathering, insect damage, handling, and camera white balance can alter the apparent color. Comparing several fruit bodies at different stages is more informative than choosing the most photogenic cap.
 
 ## Build a comparison record
 
@@ -74,11 +83,43 @@ Pressing pores or cutting flesh can produce a reaction immediately, slowly, weak
 
 Michigan State University Extension notes that some bolete descriptions use red-to-orange pores and blue staining as cautionary features for collectors. That is conservative field advice, not a universal identification key. It does not mean every blue-staining bolete is toxic, every non-blue bolete is edible, or that a phone image can replace a regional identification. Do not taste-test or cook a specimen to resolve uncertainty.
 
+Create a timed sequence rather than writing only “stains blue.” Photograph the untouched pore surface and flesh, the same area immediately after pressure or cutting, and the reaction again at a recorded interval. State whether color began in the pores, tube layer, cap flesh, or stem flesh. Note whether it spread, darkened, faded, or remained local. Keep the lighting and camera angle as consistent as practical.
+
+A lack of visible change also needs context. Old, dry, frozen, waterlogged, or repeatedly handled material may not behave like a fresh specimen. Do not intensify damage to force a reaction and do not apply household chemicals based on an unsourced internet test. Chemical reactions and microscopy belong to properly documented keys and trained workflows.
+
+## Examine the stem from apex to base
+
+Photograph the stem while it is still attached, then record the top, middle, and base separately. Look for a net-like raised pattern, fine dots, coarse scabers, longitudinal fibers, bruising, cavities, or color zones. Describe what is visible instead of deciding too early that a pattern is “reticulation.” Side lighting can reveal whether markings are raised, recessed, or merely differences in color.
+
+The complete base matters even when no cup-like structure is expected. A broken stem can hide attachment, basal color, mycelium, or substrate. Where collecting is permitted, loosen the soil around one representative specimen and lift it without slicing off the base. Keep soil and leaf litter with the habitat record, but do not carry an unknown specimen loose beside food.
+
+Measure rather than estimate. Cap width, total height, stem width at several points, and the relative thickness of the tube layer can help a local expert compare descriptions. Measurements should be tied to the individual specimen; a ruler placed somewhere in the scene without sharing the mushroom's plane can distort scale.
+
+## Record trees, substrate, and geographic limits
+
+Many bolete-like fungi are associated with particular trees, so photograph trunks, leaves or needles, bark, and the wider site. Record whether the fruit body emerged from mineral soil, leaf litter, moss, buried wood, or visible wood. “In a forest” is usually too broad. If you cannot identify a nearby tree, upload clear tree features separately rather than guessing its name.
+
+Location should be specific enough for ecology but shared responsibly. Country, state or province, broad habitat, elevation when relevant, and date are usually more useful than a vague regional label. Follow land rules and avoid publishing precise coordinates for sensitive sites. A name from another continent may represent a related species or a historically broad concept, so use a current key or checklist written for the region where the specimen was found.
+
+Season and weather support the record but do not authenticate a mushroom. Note recent rain, frost, drought, and whether several fruit bodies appeared together. Return visits can document development, yet a later photograph should never be assumed to show the exact same individual unless it was marked and tracked appropriately.
+
 ## Lookalikes are a comparison problem
 
 Several mushrooms and fungal groups can have pores. A shelf-like polypore on wood, a pored mushroom without a central stem, or a gilled mushroom photographed poorly may not belong in the same comparison set as a ground-growing bolete. Start by describing the structure rather than by selecting a name.
 
 Within boletes, similar cap colors can conceal differences in pore color, stem pattern, host association, flesh reaction, odor, and microscopic characters. A useful answer may therefore be “pore-bearing mushroom, species unresolved.” That conclusion protects the specimen record from false certainty and gives a local identifier better evidence to work with.
+
+Build a short candidate table from a current regional reference and try to disprove each candidate. Compare the same fields for every option: pore structure and age, stem surface, complete base, timed staining, cap texture, flesh color, substrate, nearby trees, region, and season. Mark missing evidence explicitly. Do not silently treat an unphotographed feature as absent.
+
+If two candidates remain separated by spore dimensions, microscopic ornamentation, reagents, or specialist taxonomy, stop at the level the evidence supports. A genus-level or family-level record can still be scientifically useful when its photographs, locality, date, and habitat are complete. It is safer and more accurate than selecting a species because a gallery image has the same cap color.
+
+## Prepare a specimen for qualified review
+
+Montana State University's submission guidance emphasizes complete material and supporting information. Contact the local herbarium, extension office, mycological society, or other qualified identifier before mailing or delivering anything, because submission rules differ. Ask whether fresh or dried material is accepted, how specimens should be packaged, and which location and habitat fields are required.
+
+Keep photographs linked to a specimen code. Include collection date, general locality, substrate, nearby trees, measurements, odor recorded without tasting, staining sequence, and collector contact information. Do not seal fresh mushrooms in plastic for an extended period unless the receiving expert specifically instructs it; deterioration can erase useful characters and create a handling problem.
+
+An expert identification is not automatically permission to eat. The reviewer may be assessing taxonomy only, and edibility guidance can depend on local species concepts, condition, preparation, individual sensitivity, and legal or institutional policy. Ask what level of determination was reached and preserve uncertainty in any public record.
 
 ## Consumption and poisoning safety
 

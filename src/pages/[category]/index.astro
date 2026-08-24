@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import AdBanner from '../../components/AdBanner.astro';
-import { entryDisplayDate, entryPath, getPublishedEntries, MIN_TAXON_INDEX_ENTRIES } from '../../lib/content';
+import { entryDisplayDate, entryPath, getPublishedEntries, MIN_GENUS_INDEX_ENTRIES, MIN_FAMILY_INDEX_ENTRIES } from '../../lib/content';
 export function getStaticPaths() {
   const details: Record<string, { title: string; description: string; intro: string; scope: string; method: string; safety: string }> = {
     mushrooms: { title: 'Mushroom Encyclopedia', description: 'Explore mushroom species, defining characteristics, habitats, seasons, uses, and notable lookalikes.', intro: 'A growing, carefully organized reference to the diverse fungi found around the world.', scope: 'Species profiles connect accepted scientific names with visible characters, ecology, season, documented edibility context, cultivation, and meaningful lookalikes.', method: 'Taxonomy and distribution are checked against recognized databases and specialist references. Identification statements use multiple characters rather than color or one photograph.', safety: 'A profile cannot authenticate a collected specimen. Never use an online page alone to decide whether a wild mushroom is edible.' },
@@ -26,8 +26,9 @@ const countTaxa = (rank: 'genus' | 'family') => speciesArticles.reduce((counts, 
 }, new Map<string, number>());
 const genera = [...countTaxa('genus')].sort(([a], [b]) => a.localeCompare(b));
 const families = [...countTaxa('family')].sort(([a], [b]) => a.localeCompare(b));
-const indexableGenera = genera.filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES);
-const indexableFamilies = families.filter(([, count]) => count >= MIN_TAXON_INDEX_ENTRIES);
+const indexableGenera = genera.filter(([, count]) => count >= MIN_GENUS_INDEX_ENTRIES);
+const indexableFamilies = families.filter(([, count]) => count >= MIN_FAMILY_INDEX_ENTRIES);
+const MIN_TAXON_INDEX_ENTRIES = MIN_GENUS_INDEX_ENTRIES;
 const breadcrumbSchema = [
   { '@type': 'CollectionPage', '@id': `https://mushroomscope.com/${category}/#collection`, name: detail.title, description: detail.description, url: `https://mushroomscope.com/${category}/`, isPartOf: { '@id': 'https://mushroomscope.com/#website' }, mainEntity: { '@type': 'ItemList', numberOfItems: articles.length, itemListElement: articles.map((article, index) => ({ '@type': 'ListItem', position: index + 1, url: new URL(entryPath(article), Astro.site).href, name: article.data.title })) } },
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://mushroomscope.com/' }, { '@type': 'ListItem', position: 2, name: detail.title }] }
