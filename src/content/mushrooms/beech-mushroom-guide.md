@@ -5,14 +5,14 @@ description: "Learn Beech mushroom identification, habitat, season, lookalikes, 
 keywords: ["beech mushroom", "Hypsizygus marmoreus", "beech mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-updatedDate: 2026-08-15
-draft: true
+publishDate: 2026-08-24
+updatedDate: 2026-08-24
+draft: false
 featured: false
-coverImage: "../../assets/species/beech-mushroom.jpg"
-coverAlt: "Editorial illustration of Beech mushroom showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/beech-mushroom-editorial-v2.png"
+coverAlt: "Dense cultivated cluster of brown beech mushrooms with pale stems fruiting from a sawdust block"
+imageCredit: "Original AI-generated MushroomScope editorial image"
+imageNote: "Original AI-generated editorial image of a cultivated cluster; it is not a product record or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Hypsizygus marmoreus"
@@ -23,6 +23,10 @@ sources:
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
+  - title: "Food Chemistry — Nutritional relationships in Hypsizygus marmoreus"
+    url: "https://pubmed.ncbi.nlm.nih.gov/39644664/"
+  - title: "Frontiers in Microbiology — Low-temperature fruiting of Hypsizygus marmoreus"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9315786/"
 faq:
   - question: "Can Beech mushroom be identified from one photograph?"
     answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
@@ -113,11 +117,65 @@ Cultivation is established but requires controlled substrate preparation, clean 
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
+## Distinguish the cultivated product from a wild identification
+
+Beech mushrooms sold as buna-shimeji or bunapi-shimeji are usually cultivated *Hypsizygus marmoreus*. Brown forms have small mottled tan-to-brown caps, while white commercial forms are pale because they are selected and grown under controlled conditions. Both are commonly presented as dense, uniform clusters with long firm stems. That market appearance is useful for understanding the crop, but it is not a template for declaring a wild cluster edible.
+
+Commercial mushrooms arrive with supply-chain information, a consistent growth substrate, and a producer's label. A wild collection may contain a related *Hypsizygus*, a member of *Lyophyllum*, or an unrelated clustered mushroom. Weather also changes cap color, stem proportions, and texture. For a wild observation, record the full attachment to wood, mature gill color, cap surface, stem bases, odor without tasting, and a spore deposit. Keep the conclusion tentative when microscopy or a regional key is unavailable.
+
+The common name “beech mushroom” can create another shortcut: the cultivated product may be grown on prepared hardwood sawdust rather than harvested from a beech tree, and wild records should not be assigned by nearby tree name alone. Record the actual substrate and whether it is living, dead, buried, or processed. Host and cultivation context support an identification but do not replace anatomy.
+
+## Examine cap, gills, stems, and cluster together
+
+A useful record includes several developmental stages. Young cultivated caps are rounded and tightly grouped; mature caps expand and expose pale gills. Brown strains may show a marbled or watery-looking pattern, while white strains lack the darker pigment. Lighting and condensation can exaggerate these differences, so photograph a dry cluster in neutral natural light when possible. Include a scale rather than estimating size from the cluster alone.
+
+The gills should be pale and attached, and the firm stems are typically central to slightly off-center. Crowding in a bottle or bag can make stems unusually long and caps small. This cultivated shape is an environmental response, not a fixed diagnostic ratio. A wild fruit body with more room may look broader and less uniform. Slice one representative mushroom lengthwise to record whether the stem is solid, fibrous, hollow, discolored, or insect-damaged.
+
+A white spore deposit is supporting evidence. Obtain it from a mature cap on contrasting light and dark surfaces, protected from drafts. Photograph the result and record the time. A white print does not separate beech mushroom from every pale-spored lookalike, so it must agree with the gills, stem, cap, growth habit, substrate, and regional occurrence.
+
+## Use lookalikes as a structured comparison
+
+*Hypsizygus ulmarius* has historically been confused with or marketed alongside other *Hypsizygus* names. It is often described as a larger elm-associated mushroom, but names and product labels are not always applied consistently. *Lyophyllum* species can also form clustered pale mushrooms and may require microscopic characters. Other wood-growing gilled fungi enter the comparison according to region and season.
+
+Do not use bitterness, cap color, or clustered growth as a one-step test. Bitterness varies with strain and cooking, cap color changes between cultivated lines, and many unrelated fungi cluster on wood. A defensible comparison table would include mature cap dimensions, gill attachment and spacing, stem texture, spore color, substrate, host, region, and microscopic features. When the decisive characters are not available, a genus-level or “cultivated beech mushroom product” label is more accurate than a species claim.
+
+Wild mushroom safety remains separate from market familiarity. Never add a wild cluster to a commercial package for cooking, and keep different collections in separate containers. If symptoms occur after an unidentified wild mushroom, contact local emergency services or a poison center and preserve uncooked material and photographs.
+
+## Storage, preparation, and kitchen safety
+
+For a packaged cultivated product, check the use-by guidance and keep it refrigerated. Fresh clusters should be firm and relatively dry, without slime, spreading mold, sour odor, or collapsed tissue. Trim the compact substrate base and separate the stems gently. A brief brushing or rinse followed by thorough drying is usually enough; prolonged soaking can make the texture watery.
+
+Beech mushrooms are commonly cooked because raw specimens can taste noticeably bitter and cooking improves texture and flavor. Sautéing, roasting, simmering, and stir-frying are practical methods. Cook the stems and caps until heated through and tender rather than using surface browning alone as the endpoint. If a producer supplies preparation directions, follow them because package size and processing differ.
+
+First-time consumers should try a modest portion. Even correctly labeled edible mushrooms can cause individual intolerance or allergy, and cross-contact matters for people with food allergies. Cooking cannot correct spoilage, chemical contamination, or a mistaken wild identification. Discard a package with uncontrolled mold, slime, or a persistent abnormal odor rather than attempting to wash away deterioration.
+
+## Nutrition without exaggerated claims
+
+Beech mushrooms can contribute culinary variety, water, fiber, protein, and micronutrients in the context of an ordinary diet, but exact values depend on the analyzed strain, serving basis, water content, and preparation. A figure for raw mushrooms should not be presented as though it applies unchanged after drying or cooking. When nutrient precision matters, use a database entry that matches the product and preparation and state whether values are per 100 grams or per serving.
+
+Do not convert the presence of fiber, polysaccharides, or antioxidant activity into a promise to prevent or treat disease. Cell, animal, and compositional studies answer different questions from controlled human trials. A normal serving is food, not a standardized therapeutic dose. Readers managing a medical condition should use evidence-based clinical guidance rather than substituting a mushroom dish or supplement for treatment.
+
+## Cultivation context for home growers
+
+Commercial production commonly uses authenticated culture and supplemented hardwood-based substrate packed into bottles or bags. Clean inoculation and controlled incubation allow mycelium to colonize the substrate before fruiting conditions are introduced. Temperature, humidity, fresh air, light, and timing are managed as a system; copying one number without the supplier's strain-specific instructions can produce weak or malformed clusters.
+
+Beginners should start with a reputable ready-to-fruit block rather than cloning a store mushroom or wild collection. Confirm the species and strain on the supplier label, isolate the block from houseplants and food preparation areas, and follow the supplied fruiting range. Excess carbon dioxide can elongate stems and reduce cap development, while stagnant wet surfaces encourage bacterial problems. High humidity should support the developing cluster without leaving standing water on caps.
+
+Discard contaminated material according to supplier and local guidance. Green sporulation, black growth, spreading slime, or a persistent foul odor are reasons to isolate a block, not to harvest around the affected area. Do not taste a questionable crop to diagnose it. Keep a simple log of inoculation source, dates, temperature, humidity, airflow changes, and photographs; those records are more useful for troubleshooting than changing several variables at once.
+
+## A publication-ready verification checklist
+
+Before assigning the species name, state whether the subject is a labeled cultivated product or a wild observation. For a product, photograph the intact label without exposing personal purchase information and record the producer, country, lot if relevant, and storage condition. For a wild observation, document substrate, attachment, habitat, mature gills, full stems, spore deposit, and regional comparison sources.
+
+Then separate three conclusions: what the visible anatomy supports, what the supply-chain label reports, and what remains unverified. This prevents a retail package from becoming proof for a different wild mushroom and prevents an editorial illustration from being treated as a diagnostic photograph. The safest final wording explains that the page teaches characters and handling context but cannot confirm the identity or edibility of a reader's specimen.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Hypsizygus marmoreus species record](https://www.gbif.org/species/2530653). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+5. Chen J, et al. [Nutritional relationships in mycelia and fruiting bodies of *Hypsizygus marmoreus*](https://pubmed.ncbi.nlm.nih.gov/39644664/). *Food Chemistry*. Species-specific composition and cultivation-medium context.
+6. Zhang J, et al. [Low-temperature fruiting and nutrient accumulation in *Hypsizygus marmoreus*](https://pmc.ncbi.nlm.nih.gov/articles/PMC9315786/). *Frontiers in Microbiology*. Cultivation-stage and fruiting physiology evidence.
 
 *Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
