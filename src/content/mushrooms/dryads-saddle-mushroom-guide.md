@@ -6,7 +6,7 @@ keywords: ["dryad's saddle identification", "Cerioporus squamosus", "pheasant ba
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-08-24
 revisionSummary: "Rewritten with species-specific field characters, tree-health context, safety guidance, and verified sources."
 draft: false
 featured: false

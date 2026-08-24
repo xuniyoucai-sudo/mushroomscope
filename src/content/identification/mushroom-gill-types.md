@@ -5,7 +5,7 @@ keywords: ["mushroom gill types: attachment, spacing, and color", "mushroom iden
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-19
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the attachment glossary, added a field-recording and photo workflow, clarified non-gill lookalike surfaces, and replaced broad reference links with identification and poison-safety sources."
 draft: false
 featured: false

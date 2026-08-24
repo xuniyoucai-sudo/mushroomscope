@@ -6,6 +6,7 @@ keywords: ["birch polypore", "Fomitopsis betulina", "birch polypore identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
+updatedDate: 2026-08-24
 draft: false
 featured: false
 coverImage: "../../assets/species/birch-polypore-editorial-v3.png"

@@ -6,7 +6,7 @@ keywords: ["mushrooms and gut health", "mushroom fiber", "prebiotic mushrooms"]
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the gut-health guide to 1500+ words with deeper evidence interpretation, tolerance guidance, meal planning, supplement boundaries, and safety caveats."
 draft: false
 featured: false

@@ -6,7 +6,7 @@ keywords: ["mushroom growing temperatures", "mushroom incubation temperature", "
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-07
-updatedDate: 2026-08-19
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the decision process with instrument placement, escalation thresholds, and a handoff-ready batch record while keeping all targets tied to the exact supplier and cultivation stage."
 draft: false
 featured: false

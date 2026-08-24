@@ -6,7 +6,7 @@ keywords: ["mushroom fruiting chamber", "simple fruiting chamber", "home mushroo
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the fruiting-chamber guide to 1500+ words with deeper setup reasoning, crop-response interpretation, sanitation boundaries, and beginner troubleshooting."
 draft: false
 featured: false

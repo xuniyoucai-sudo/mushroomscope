@@ -6,7 +6,7 @@ keywords: ["mushroom fruiting conditions", "mushroom humidity and fresh air", "m
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-15
+updatedDate: 2026-08-24
 revisionSummary: "Added stronger onward links to fruiting chamber and coffee-ground growing pages for the new weekend content cluster."
 draft: false
 featured: false

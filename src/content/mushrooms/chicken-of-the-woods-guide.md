@@ -6,6 +6,7 @@ keywords: ["chicken of the woods", "Laetiporus sulphureus", "chicken of the wood
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
+updatedDate: 2026-08-24
 draft: false
 featured: false
 coverImage: "../../assets/species/chicken-of-the-woods-editorial-v2.png"

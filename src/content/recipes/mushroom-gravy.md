@@ -6,7 +6,7 @@ keywords: ["mushroom gravy", "homemade mushroom gravy", "vegetarian mushroom gra
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the gravy recipe to 1500+ words with richer technique notes, ingredient choices, scaling guidance, troubleshooting, and food-safety details."
 draft: false
 featured: false

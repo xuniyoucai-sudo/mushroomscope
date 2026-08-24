@@ -6,7 +6,7 @@ keywords: ["air fryer mushrooms", "crispy air fryer mushrooms", "mushroom recipe
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the air-fryer recipe to 1500+ words with detailed texture cues, batching strategy, substitutions, serving ideas, and food-safety notes."
 draft: false
 featured: false

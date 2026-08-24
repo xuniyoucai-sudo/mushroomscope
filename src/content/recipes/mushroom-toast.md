@@ -6,7 +6,7 @@ keywords: ["garlic mushroom toast", "mushroom toast", "easy mushroom recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the recipe into a 1500+ word guide with detailed browning technique, serving variations, make-ahead workflow, safety notes, and troubleshooting."
 draft: false
 featured: false

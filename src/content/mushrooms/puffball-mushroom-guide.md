@@ -6,6 +6,7 @@ keywords: ["giant puffball", "Calvatia gigantea", "puffball identification", "pu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
+updatedDate: 2026-08-24
 draft: false
 featured: false
 coverImage: "../../assets/species/puffball-mushroom-editorial-v2.png"

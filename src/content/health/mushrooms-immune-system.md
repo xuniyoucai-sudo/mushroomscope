@@ -6,7 +6,7 @@ keywords: ["mushrooms immune system", "mushroom beta glucans", "immune support m
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
+updatedDate: 2026-08-24
 revisionSummary: "Expanded the immune-system article to 1500+ words with clearer evidence grading, product-comparison guidance, food context, and stronger medical safety boundaries."
 draft: false
 featured: false

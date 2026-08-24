@@ -6,6 +6,7 @@ keywords: ["horse mushroom", "Agaricus arvensis", "horse mushroom identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
+updatedDate: 2026-08-24
 draft: false
 featured: false
 coverImage: "../../assets/species/horse-mushroom-editorial-v2.png"

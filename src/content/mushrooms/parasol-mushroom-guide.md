@@ -6,6 +6,7 @@ keywords: ["parasol mushroom", "Macrolepiota procera", "parasol mushroom identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
+updatedDate: 2026-08-24
 draft: false
 featured: false
 coverImage: "../../assets/species/parasol-mushroom-editorial-v2.png"
