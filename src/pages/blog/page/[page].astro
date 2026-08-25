@@ -19,7 +19,7 @@ const { articles, page, totalPages } = Astro.props;
 const previousHref = page === 2 ? '/blog/' : `/blog/page/${page - 1}/`;
 const nextHref = page < totalPages ? `/blog/page/${page + 1}/` : undefined;
 ---
-<BaseLayout title={`Mushroom Guides Archive — Page ${page}`} description={`Browse MushroomScope species, identification, growing, health, and recipe guides on archive page ${page}.`}>
+<BaseLayout title={`Mushroom Guides Archive — Page ${page}`} description={`Browse MushroomScope species, identification, growing, health, and recipe guides on archive page ${page}.`} noindex={true}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: 'Blog', href: '/blog/' }, { label: `Page ${page}` }]} /></div>
   <header class="shell py-12"><p class="eyebrow">The journal archive</p><h1 class="mt-4 font-serif text-5xl sm:text-6xl">Mushroom guides — page {page}</h1><p class="mt-5 max-w-3xl text-xl leading-8 text-slate-600">Earlier MushroomScope guides, ordered by their latest substantive publication or update date.</p></header>
   <section class="shell py-10"><div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{articles.map((article: any) => <ArticleCard title={article.data.title} description={article.data.description} category={article.data.category} date={entryDisplayDate(article)} href={entryPath(article)} image={article.data.coverImage} imageAlt={article.data.coverAlt} />)}</div>

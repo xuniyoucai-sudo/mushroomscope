@@ -8,7 +8,6 @@ const editorialStaticPaths: SitemapEntry[] = [
   { path: '/editorial-policy/', lastmod: '2026-08-15' },
   { path: '/glossary/', lastmod: '2026-08-15' },
 ];
-const BLOG_PAGE_SIZE = 18;
 type SitemapEntry = { path: string; lastmod?: string };
 
 const escapeXml = (value: string) => value
@@ -29,7 +28,6 @@ export const GET: APIRoute = async ({ site }) => {
   const species = articles.filter(({ data }) => data.category === 'mushrooms');
   const genera = getIndexableTaxa(species as any, 'genus').map(([name]) => name);
   const families = getIndexableTaxa(species as any, 'family').map(([name]) => name);
-  const blogPages = Array.from({ length: Math.max(0, Math.ceil(articles.length / BLOG_PAGE_SIZE) - 1) }, (_, index) => `/blog/page/${index + 2}/`);
   const hubEntries = Object.entries(hubDefinitions).map(([slug, hub]) => ({
     path: `/hubs/${slug}/`,
     lastmod: maxDate(articles.filter((entry) => hub.categories.includes(entry.data.category as never))),
@@ -37,7 +35,6 @@ export const GET: APIRoute = async ({ site }) => {
   const paths: SitemapEntry[] = [
     { path: '/', lastmod: newestDate },
     { path: '/blog/', lastmod: newestDate },
-    ...blogPages.map((path) => ({ path, lastmod: newestDate })),
     ...editorialStaticPaths,
     ...hubEntries,
     ...populatedCategories.map((category) => ({ path: `/${category}/`, lastmod: maxDate(articles.filter(({ data }) => data.category === category)) })),

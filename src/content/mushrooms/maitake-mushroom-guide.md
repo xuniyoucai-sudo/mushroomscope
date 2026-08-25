@@ -5,7 +5,7 @@ keywords: ["Grifola frondosa","maitake","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-25
 draft: false
 featured: false
 coverImage: "../../assets/species/maitake-mushroom.jpg"
@@ -14,6 +14,10 @@ imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-beta-glucans", "recipes/mushroom-risotto"]
 sources:
+  - title: "Missouri Department of Conservation — Hen of the Woods"
+    url: "https://mdc.mo.gov/discover-nature/field-guide/hen-woods-maitake"
+  - title: "UMass Extension — Root and Butt Rot Caused by Grifola frondosa"
+    url: "https://www.umass.edu/agriculture-food-environment/landscape/fact-sheets/root-butt-rot-caused-by-grifola-frondosa-hen-of-woods"
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
   - title: "USDA FoodData Central"
@@ -106,6 +110,14 @@ Observe multiple fruit bodies at different stages. Immature specimens may concea
 
 The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
 
+### Compare the rosette over time, not by silhouette alone
+
+For *Meripilus sumstinei*, document a clean area before handling, then record whether bruised pore or flesh tissue darkens over time. The Missouri Department of Conservation field guide specifically highlights blackening as a useful distinction. A negative stain on one old, dry, frozen, or damaged sample is not decisive, and the reaction should be documented rather than remembered. Photograph the same marked area immediately and again after a measured interval.
+
+Berkeley's polypore typically produces fewer, broader, paler fronds than the many smaller spoon-shaped caps expected in maitake, but overlap in age and weathering prevents a one-character decision. Compare the complete base, individual cap dimensions, pore surface, texture, host, season, staining, and spore deposit. Preserve an uncooked portion if a qualified identifier may need to examine it.
+
+The cover on this page is an editorial illustration, not a specimen record. A real identification requires your own uncropped habitat, attachment, upper-surface, underside, section, and timed-reaction photographs. The [mushroom photo checklist](/identification/mushroom-photo-checklist/) provides a repeatable sequence, and the [identification safety checklist](/identification/mushroom-identification-safety-checklist/) explains why an edible reputation never clears an unknown rosette for food.
+
 ## Scientific Classification
 
 | Rank | Name |
@@ -129,6 +141,14 @@ Wild maitake commonly fruits at the base of oak and other mature hardwoods, some
 Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
 
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+
+### Treat the host tree as part of the record
+
+The Missouri Department of Conservation describes maitake as a large cluster of spoon-shaped gray-brown caps with a white pore surface, growing at the base of oak trees in autumn. UMass Extension adds an arboricultural boundary that food-oriented summaries often miss: *G. frondosa* is associated with root and butt rot, and its annual fruiting bodies can resemble those of the black-staining polypore. A rosette is therefore evidence about a fungus and possibly about hidden root or lower-trunk decay; it is not proof that a tree is safe to stand beneath.
+
+Record the apparent host, distance from the trunk, whether the fungus emerges from exposed wood or soil over buried roots, and whether fruiting recurs in the same position. Do not cut roots or excavate around a mature tree to find an attachment. If a large rosette appears beside a tree near a building, path, playground, or parked vehicle, a qualified arborist—not a mushroom app—should assess structural risk.
+
+This ecological role also separates the species guide from the [maitake benefits evidence page](/health/maitake-benefits-evidence/). The species page addresses the organism, host association, morphology, lookalikes, cultivation, and food context. The health page evaluates product and study claims. Keeping those intents separate prevents a forest observation from being treated as supplement evidence.
 
 ## Growing Guide
 
@@ -171,5 +191,7 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
+6. Missouri Department of Conservation. [Hen of the Woods (Maitake)](https://mdc.mo.gov/discover-nature/field-guide/hen-woods-maitake). Morphology, oak-base habitat, season, spore print, and black-staining-polypore comparison.
+7. UMass Extension. [Root and Butt Rot Caused by Grifola frondosa](https://www.umass.edu/agriculture-food-environment/landscape/fact-sheets/root-butt-rot-caused-by-grifola-frondosa-hen-of-woods). Host-decay context and arboricultural safety boundary.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: August 25, 2026. Substantive revision added host-tree ecology, arboricultural boundaries, timed lookalike comparison, and intent separation from health evidence. Scientific names and public-health recommendations should be rechecked at every substantive update.*
