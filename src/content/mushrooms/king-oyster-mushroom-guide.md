@@ -5,7 +5,7 @@ keywords: ["Pleurotus eryngii","king oyster mushroom","mushroom identification",
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-26
 draft: false
 featured: false
 coverImage: "../../assets/species/king-oyster-mushroom.jpg"
@@ -131,6 +131,12 @@ Habitat is part of the identification, not decorative background. Record whether
 
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
 
+### The eryngii name covers an ecologically distinctive complex
+
+Wild king-oyster records should not be interpreted as ordinary wood-oyster records. Members of the *P. eryngii* complex are associated with roots and dead tissues of large herbaceous plants, particularly Apiaceae, across steppe and Mediterranean systems. Host association, geography, and microscopic or molecular evidence can therefore matter when separating named varieties or related taxa. A thick stem and tan cap are not enough to transfer a supermarket name to a wild observation.
+
+Commercial production changes the ecological setting. Sterilized sawdust and agricultural blends let authenticated cultures fruit away from native plant associates, while ventilation and bottle or bag geometry reshape the fruit body. The cultivated form belongs in a species account but should not become a field-identification template. The broader [oyster species guide](/mushrooms/oyster-mushroom-guide/) covers shelf-forming *P. ostreatus* intent separately.
+
 ## Growing Guide
 
 King oysters are less forgiving than basic straw-grown oysters. Producers normally use filter-patch bags or bottles containing hydrated, supplemented substrate that has been properly sterilized. After colonization, a cool pinning phase, humidity, light, and controlled ventilation shape the crop. Growers may thin pins so fewer fruit bodies become larger. Home cultivators should follow a strain-specific supplier protocol and avoid sealing fruiting containers without gas exchange.
@@ -156,6 +162,14 @@ Research articles often test cultured cells, animals, purified molecules, or con
 
 Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
 
+## Dense stems need a different cooking decision
+
+King oyster's culinary identity rests less on a health claim than on structure. The thick stem has much less open gill area than a broad oyster cap and can be sliced across the grain into rounds, cut lengthwise into planks, scored, or shredded. Equal thickness matters because a thin edge can dry before the center of a thick piece heats through. Surface moisture must evaporate before strong browning develops, so crowding a cool pan tends to steam pieces and leave their exterior pale.
+
+For seared rounds or planks, wipe away loose substrate, trim only the dry base, and use a broad pan with space between pieces. Moderate initial heat lets the center warm; a hotter finishing phase drives browning after released water evaporates. Salt timing, oil quantity, slice thickness, and pan material change the result, so visual and tactile cues transfer better than one minute count. The [garlic-butter oyster technique](/recipes/garlic-butter-oyster-mushrooms/) is designed for more delicate caps and must be adjusted for dense stems.
+
+Braising trades surface crispness for even tenderness and flavor absorption. Shredding exposes more surface for a pulled texture, but small fibers dry quickly under prolonged high heat. Cook cultivated mushrooms thoroughly and cool leftovers promptly in shallow containers. Culinary performance does not authenticate a wild specimen, and pleasant smell or successful browning is never an edibility test.
+
 ## Safety
 
 Buy from a reputable food producer, keep refrigerated, and cook until tender and steaming. Do not use a cultivation block that smells putrid, develops unexplained colorful molds, or comes from an unknown culture. Individuals with mushroom allergy should avoid it. Wild Pleurotus-like mushrooms require expert confirmation, particularly in regions where rare relatives occur; collecting a rare species can also create conservation harm even if it is technically edible.
@@ -173,4 +187,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Substantive update: August 26, 2026. Added plant-associated eryngii-complex ecology, separated cultivated morphology from wild identification, and added a mechanism-based dense-stem cooking section. Editorial review only; no named clinician or mycologist reviewed this page.*
