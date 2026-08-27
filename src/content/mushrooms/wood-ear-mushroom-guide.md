@@ -5,14 +5,14 @@ keywords: ["Auricularia heimuer","wood ear","mushroom identification","mushroom 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-27
 draft: false
 featured: false
 coverImage: "../../assets/species/wood-ear-mushroom.jpg"
 coverAlt: "Reddish-brown ear-shaped Auricularia mushrooms attached to damp hardwood"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
-relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/mushroom-fried-rice"]
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/mushroom-fried-rice", "health/cooked-vs-raw-mushrooms"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
@@ -145,6 +145,32 @@ Use authenticated spawn intended for the local production method. Outdoor logs r
 
 Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
 
+### Separate log and bag decisions
+
+Log cultivation and supplemented-sawdust bags are not interchangeable versions of one recipe. Logs trade speed and environmental control for a durable outdoor substrate; species of tree, bark condition, cutting date, log diameter, inoculation pattern, shade, and rainfall all influence colonization. Bag production gives tighter control but increases the importance of moisture measurement, heat treatment, filtered gas exchange, clean inoculation, fruiting cuts, and rapid post-harvest handling. A grower should choose one documented system and record its variables instead of combining convenient steps from both.
+
+Ear formation also responds to the boundary layer at the bag or log surface. High humidity without adequate air movement can leave wet, weak tissue; excessive drying can harden young ears before they expand. Because room sensors describe air rather than the microclimate at the fruit body, observe surface condensation, ear texture, edge growth, and drying rate alongside instrument readings. Change one control at a time and keep an untreated comparison when practical.
+
+## Distinguishing the wood-ear market from a species name
+
+“Wood ear,” “black fungus,” and related market terms can refer to more than one *Auricularia* species. *A. heimuer* is a major cultivated species, especially in East Asian production, while *A. cornea* is important in warmer regions and commerce. Historical use of *A. auricula-judae* as a broad label further complicates older books and datasets. The correct editorial practice is to report a package or study's stated organism and not silently convert every wood-ear result into evidence about *A. heimuer*.
+
+This boundary also keeps a future cloud-ear species account from competing with this page. This guide centers *A. heimuer*, temperate hardwood context, black-wood-ear trade naming, cultivation systems, rehydration, and cooking behavior. A cloud-ear guide would need to center *A. cornea*, tropical-subtropical distribution, its own microscopic and hair-character limits, and the regional ambiguity of its common names. Similar appearance is a reason for explicit comparison, not for canonical consolidation.
+
+## Why rehydrated wood ear stays crisp
+
+Dried wood ear does not behave like a dried gilled mushroom that becomes soft and broth-like. Its thin gelatinous tissue collapses during drying and regains water when soaked, producing a springy, crisp-gelatinous texture. That physical behavior explains why it works in stir-fries, soups, and dressed dishes: the ingredient contributes surface area and bite more than a strong mushroom aroma.
+
+For even texture, cover dried pieces generously with clean water and allow room for expansion. Refrigerate a prolonged soak rather than leaving it warm, then drain, rinse away debris, trim hard attachment points, and cook. Do not treat soaking liquid as stock by default; it can contain debris and is not equivalent to a carefully prepared culinary mushroom broth. The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) explains why processing choices must be matched to the actual food and safety question.
+
+In a stir-fry, add rehydrated pieces early enough to heat through but not so early that they lose all snap. Broad pieces can be torn or sliced for more consistent heating. Pairing them with the [mushroom fried rice method](/recipes/mushroom-fried-rice/) works best when excess soaking water is removed before the ingredient reaches the hot pan; otherwise the rice steams and clumps.
+
+## Evidence boundary and editorial status
+
+Composition papers on polysaccharides or extracts do not establish that a normal serving prevents thrombosis, lowers glucose, treats cancer, or replaces medication. Species identity, extraction solvent, dose, comparator, and human outcome must all match before a claim can travel from one study to a consumer conclusion. This page therefore treats wood ear primarily as a cultivated food and decomposer, with research context clearly separated from clinical advice.
+
+No named clinician or mycologist has reviewed this guide. Its status is editorial: taxonomy is cross-checked against current databases, food handling is bounded by public-health guidance, and uncertain identification is referred to local expertise. Readers taking anticoagulants, preparing for surgery, or considering concentrated extracts should discuss the actual product and dose with a qualified clinician rather than extrapolating from a culinary serving.
+
 ## Health Benefits
 
 Wood ear adds fiber and texture to soups, stir-fries, and salads that are subsequently cooked. Laboratory reports about polysaccharides, anticoagulant activity, lipids, or glucose are not a basis for self-treatment. Dried and fresh nutrition figures cannot be compared gram for gram without accounting for water. Concentrated extracts may have pharmacology and quality-control issues unlike a normal culinary portion.
@@ -172,4 +198,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: August 27, 2026. This article received editorial, not named-expert or clinical, review. Scientific names and public-health recommendations should be rechecked at every substantive update.*
