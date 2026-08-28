@@ -1,118 +1,163 @@
 ---
-title: "Craterellus tubaeformis: Yellowfoot chanterelle Species Guide"
-seoTitle: "Yellowfoot chanterelle (Craterellus tubaeformis) Species Gui"
-description: "Learn Yellowfoot chanterelle identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
-keywords: ["yellowfoot chanterelle", "Craterellus tubaeformis", "yellowfoot chanterelle identification"]
+title: "Yellowfoot Chanterelle: Craterellus tubaeformis Field Guide"
+seoTitle: "Yellowfoot Chanterelle (Craterellus tubaeformis) Guide"
+description: "Identify yellowfoot chanterelles by hollow yellow stems, gray folds, mossy conifer habitat, lookalikes, season, cooking qualities, and safety limits."
+keywords: ["yellowfoot chanterelle", "Craterellus tubaeformis", "winter chanterelle", "yellowfoot identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-08-28
+draft: false
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+coverImage: "../../assets/species/yellowfoot-mushroom-editorial-v2.png"
+coverAlt: "Slender yellowfoot chanterelles with brown funnels, gray folds, and yellow stems in wet moss"
+imageCredit: "Original AI-generated MushroomScope editorial image"
+imageNote: "Created as non-identification visual context; it is not a field photograph or evidence that a specimen is edible."
+relatedEntries: ["mushrooms/chanterelle-mushroom-guide", "mushrooms/black-trumpet-mushroom-guide", "identification/mushroom-identification-safety-checklist", "identification/how-to-make-spore-print"]
 sources:
+  - title: "Royal Botanic Gardens, Kew — Craterellus tubaeformis"
+    url: "https://powo.science.kew.org/taxon/urn:lsid:indexfungorum.org:names:356436"
   - title: "GBIF — Craterellus tubaeformis"
     url: "https://www.gbif.org/species/2554536"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "First Nature — Craterellus tubaeformis"
+    url: "https://www.first-nature.com/fungi/craterellus-tubaeformis.php"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Yellowfoot chanterelle be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Yellowfoot chanterelle safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Yellowfoot chanterelle grow?"
-    answer: "A mycorrhizal species of damp mossy conifer forests. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Yellowfoot chanterelle?"
-    answer: "The expected deposit is cream to pale yellow., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Yellowfoot chanterelle be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "What separates yellowfoot from a golden chanterelle?"
+    answer: "Yellowfoot is usually smaller and thinner, with a hollow yellow stem, brown-gray funnel cap, and grayish blunt folds. Golden chanterelles are generally fleshier and yellow-orange, but neither description confirms a wild specimen."
+  - question: "Does yellowfoot have true gills?"
+    answer: "No. Its fertile surface has low, blunt, forked, often cross-veined folds that run down the stem. Sharp blade-like gills point away from Craterellus tubaeformis."
+  - question: "Where does yellowfoot grow?"
+    answer: "Records commonly place it in cool, damp, moss-rich forests, especially with conifers. Host associations and season vary by region."
+  - question: "Can a photograph confirm yellowfoot is edible?"
+    answer: "No. A food decision requires the whole specimen, fertile surface, hollow section, habitat, region, maturity, and in-person assessment by a qualified local identifier."
+  - question: "Can yellowfoot be cultivated at home?"
+    answer: "It is a mycorrhizal forest fungus rather than a dependable indoor block crop. Culture growth does not equal a repeatable beginner fruiting method."
 scientificName: "Craterellus tubaeformis"
-commonNames: ["Yellowfoot chanterelle"]
+commonNames: ["yellowfoot chanterelle", "yellow foot", "winter chanterelle", "funnel chanterelle"]
 externalIds: { gbif: "2554536" }
-taxonomy:
-  kingdom: Fungi
-  phylum: Basidiomycota
-  class: Agaricomycetes
-  order: Cantharellales
-  family: Hydnaceae
-  genus: Craterellus
+taxonomy: { kingdom: Fungi, phylum: Basidiomycota, class: Agaricomycetes, order: Cantharellales, family: Hydnaceae, genus: Craterellus }
 identification:
-  summary: "Small brown funnel caps, gray forked folds, and hollow yellow stems, often in mossy troops. Blunt gray folds run down the stem rather than forming sharp true gills. Slender hollow yellow to orange stem."
-  keyFeatures: ["Small brown funnel caps, gray forked folds, and hollow yellow stems, often in mossy troops.", "Blunt gray folds run down the stem rather than forming sharp true gills.", "Slender hollow yellow to orange stem.", "Cream to pale yellow."]
+  summary: "A small thin funnel mushroom with a brown-gray cap, blunt grayish folds descending the stem, and a hollow yellow-to-orange stem, often fruiting in mossy troops."
+  keyFeatures: ["Thin brown-gray funnel cap", "Blunt forked gray folds rather than true gills", "Slender hollow yellow-to-orange stem", "Cream to pale-yellow spore deposit"]
 appearance:
-  cap: "Small brown funnel caps, gray forked folds, and hollow yellow stems, often in mossy troops."
-  hymenium: "Blunt gray folds run down the stem rather than forming sharp true gills."
-  stem: "Slender hollow yellow to orange stem."
-  flesh: "Thin flexible flesh with a hollow center."
+  cap: "Thin, brown to gray-brown, becoming deeply funnel-shaped with a wavy margin."
+  hymenium: "Gray to yellow-gray blunt, forked, cross-veined folds running down the stem."
+  stem: "Slender, smooth, yellow to orange, and hollow through the center."
+  flesh: "Thin and flexible, with a hollow central channel."
   sporePrint: "Cream to pale yellow."
 habitat:
-  summary: "A mycorrhizal species of damp mossy conifer forests."
+  summary: "A mycorrhizal forest fungus associated with damp mossy ground, frequently in conifer woods."
   regions: ["Europe", "Asia", "North America"]
-  substrates: ["mossy forest soil", "decayed woody debris beneath conifers"]
+  substrates: ["moss-rich forest soil", "needle litter", "decayed woody debris over soil"]
 season:
-  summary: "Fruiting timing varies with geography, weather, elevation, substrate, and host condition."
+  summary: "Often fruits in cool wet late-season weather; timing varies with latitude, elevation, and rainfall."
   months: ["September", "October", "November", "December"]
-edibility:
-  status: edible
-  notes: "This database label is context, not remote clearance of a wild specimen; identity, preparation, spoilage, contamination, and individual reaction matter."
-toxicity:
-  level: none-known
-  notes: "Risk includes misidentification and individual reaction. Consult current local toxicology guidance before any food decision."
-nutrition:
-  summary: "No species-specific nutrient value is asserted without a matched laboratory record; composition varies with material, substrate, water content, maturity, and preparation."
-growingDifficulty:
-  level: not-cultivated
-  notes: "Cultivation assessment assumes authenticated culture and a documented species-specific method."
+edibility: { status: edible, notes: "Culinary use applies only to correctly identified fresh specimens; this page cannot clear a collection for food." }
+toxicity: { level: none-known, notes: "Principal hazards are misidentification, spoilage, contamination, and individual reaction." }
+nutrition: { summary: "No species-specific nutrient claim is made without matched analytical samples." }
+growingDifficulty: { level: not-cultivated, notes: "Its mycorrhizal ecology makes ordinary indoor block methods inappropriate." }
 similarSpecies:
   - name: "Craterellus lutescens"
-    differences: "smoother fertile surface and stronger orange tones."
+    differences: "Often more orange with a smoother or less strongly folded fertile surface; distinctions vary regionally."
+  - name: "Cantharellus species"
+    differences: "Usually fleshier and more solid, without the same thin hollow yellow stem."
   - name: "Leotia lubrica"
-    differences: "gelatinous yellow-green fruit bodies without chanterelle folds."
+    differences: "Gelatinous and yellow-green, without chanterelle-like descending folds."
 ---
 
-## Identification overview
+## What makes yellowfoot a separate identification problem
 
-Small brown funnel caps, gray forked folds, and hollow yellow stems, often in mossy troops. Blunt gray folds run down the stem rather than forming sharp true gills. Slender hollow yellow to orange stem. Thin flexible flesh with a hollow center. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A cream to pale yellow. spore deposit is supporting evidence, never a species verdict.
+The yellowfoot chanterelle, *Craterellus tubaeformis*, is built on a different scale from the thick golden chanterelle most shoppers recognize. Its cap is thin and brown-gray, its fertile surface is gray and folded, and its narrow yellow stem is hollow. That combination explains the names yellowfoot, winter chanterelle, and funnel chanterelle, but common names vary across countries.
 
-## Habitat and season
+This page focuses on that slender late-season species concept. The broader [chanterelle guide](/mushrooms/chanterelle-mushroom-guide/) explains the familiar golden form; the [black trumpet guide](/mushrooms/black-trumpet-mushroom-guide/) covers a dark, nearly smooth trumpet-shaped relative. Keeping those intents separate matters because color alone is weak evidence and regional books may apply older names differently.
 
-A mycorrhizal species of damp mossy conifer forests. The documented range represented here includes Europe and Asia and North America. Typical substrates or settings include mossy forest soil and decayed woody debris beneath conifers. Fruiting records commonly occur in September, October, November, December, but latitude, elevation, rainfall, and host condition shift the calendar.
+No web page can certify a wild mushroom as edible. Use this account to record characters and choose a regional key, then obtain in-person confirmation from someone qualified to assess local fungi. Photograph apps and AI suggestions are hypotheses, not food-safety decisions.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+## Taxonomy and names need geographic context
 
-## Similar species
+Current databases place *C. tubaeformis* in Cantharellales and Hydnaceae. Older books may use *Cantharellus tubaeformis* or organize chanterelle-like fungi differently. Sequence work has also encouraged regional re-evaluation of material once placed under broad worldwide names. Record the exact name used by a source, its geography, and publication date rather than silently treating every yellow-stemmed funnel as one population.
 
-- **Craterellus lutescens — smoother fertile surface and stronger orange tones.**
-- **Leotia lubrica — gelatinous yellow-green fruit bodies without chanterelle folds.**
+A defensible observation saves location at a sensible privacy level, elevation, date, nearby trees, growth pattern, cap and underside photographs, a lengthwise section, and a spore deposit when appropriate. A database occurrence shows that a name has been reported; it does not verify your find.
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+## Read the whole fruit body
 
-## Food and safety context
+### Cap, folds, stem, and hollow section
 
-Yellowfoot chanterelle has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
+Mature caps are thin and depressed to funnel-shaped. Their brown, ochre-brown, or gray-brown surface can darken when wet and fade as it dries; margins often become wavy. Surface color changes quickly with moisture, so one photograph under warm artificial light is poor evidence.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+Turn the mushroom over. Yellowfoot has low, blunt, forked ridges or wrinkles rather than thin knife-edged gill blades. The folds usually descend the upper stem and may connect through cross-veins. They can be weak on some fruit bodies, making several mature specimens more informative than one button.
 
-## Cultivation context
+The stem is disproportionately slender, smooth, yellow to yellow-orange, and hollow. Slice one specimen vertically: a central cavity should continue through much of the stem and into the funnel. Do not rely on the cut alone, since insects and age can hollow other mushrooms. Identification comes from agreement among structure, ecology, spore evidence, geography, and expert comparison.
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+### Build a useful field record
 
-## How to document a find
+Photograph the troop before touching it, including moss, litter, woody debris, and trees. Document the cap above, folds at an angle, entire stem base, and a clean lengthwise section. Measure rather than estimate. Note whether texture is thin and flexible or brittle and gelatinous. If collection is legal, a cream-to-yellowish deposit can support the record, but cannot confirm the species; the [spore-print method](/identification/how-to-make-spore-print/) explains how paper color, moisture, and debris can mislead.
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+## Moss, trees, and climate explain fruiting
+
+Yellowfoot is mycorrhizal: its underground mycelium participates in an association with living tree roots. It is often recorded in damp, acidic, moss-rich conifer forest, sometimes seeming to emerge from rotten wood lying over soil. That impression does not make it a simple wood-decayer. Record whether the stem actually attaches to wood and which trees occupy the root zone.
+
+Fruit bodies frequently appear in loose troops or broad patches rather than dense fused clusters. Cool wet weather can extend the season later than many fleshy chanterelles, supporting “winter chanterelle” in some regions. September through December is orientation, not a universal calendar: coastal climate, snow, elevation, drought, and rainfall can move fruiting by months.
+
+Occurrence maps are useful for forming a regional hypothesis, not proving absence. Records cluster where observers work. Check conservation rules, avoid trampling moss beds, and leave mature fruit bodies for other observers and spore dispersal.
+
+## Lookalikes require different tests
+
+### Other yellow-stemmed funnels
+
+*Craterellus lutescens* is a close comparison in parts of Europe. Descriptions often emphasize stronger orange tones and a smoother or less folded fertile surface, but regional concepts require a current key. This is the kind of separation for which a common name and photograph are insufficient.
+
+### Golden chanterelles and black trumpets
+
+Golden *Cantharellus* species are typically thicker, fleshier, and more uniformly yellow-orange, with a solid rather than slender hollow stem. Black trumpets are hollow funnels but dark gray to black and often have a comparatively smooth outer fertile surface. Weathered specimens blur color boundaries, so structure remains essential.
+
+### Gelatinous and gilled mushrooms
+
+*Leotia lubrica* can share mossy habitat and yellow-green tones, but it is gelatinous with a distinct rounded head rather than descending folds. Small gilled mushrooms on buried wood can create a more consequential error. Sharp separate blades are not the blunt false gills expected here. Stop rather than forcing a fit. The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) offers a record-first workflow.
+
+## Culinary quality depends on thin texture
+
+Correctly identified yellowfoot chanterelles are valued because thin flesh cooks quickly and funnel shapes hold sauces. Their structure also traps grit, needles, and insects. Trim the dirty base, split larger funnels, and brush or rinse briefly as needed; prolonged soaking can waterlog them. Cook promptly.
+
+A wide pan lets moisture evaporate before butter or oil is added for browning. Overcrowding steams the mushrooms and makes thin stems limp. Their size suits omelets, pasta, soups, and mixed dishes, while gentle drying can preserve aroma. Quality has declined when caps become slimy, sour-smelling, heavily insect-damaged, or water-soaked.
+
+Documented edibility is not permission to eat an online identification. Use only specimens independently confirmed by a qualified local expert, collected legally from an uncontaminated site, and kept cold. Cook thoroughly and try a modest portion the first time.
+
+## Why it is not a beginner cultivation crop
+
+Yellowfoot depends on living trees and a forest soil community. That biology differs from oyster or shiitake mushrooms fruiting on treated plant material. A culture growing on agar, patent, or research observation does not demonstrate a dependable home method.
+
+Claims for “yellowfoot grow kits” should be checked for scientific name, authenticated culture, intended outcome, and evidence the seller has fruited the organism. For a first indoor crop, choose a documented saprotroph and follow the [beginner growing guide](/growing/mushroom-growing-beginners/) rather than transferring wild tissue into food production.
+
+## Collection decisions should protect both evidence and habitat
+
+Before collecting, decide what question the specimen needs to answer. A photograph may be enough for a seasonal observation; a difficult taxonomic record may require one or two complete mature fruit bodies, a spore print, dried material, and notes that can accompany a herbarium voucher. Taking a basketful before establishing identity destroys context and does not improve the diagnosis. Regulations, landowner permission, protected-species rules, and local harvest limits always take priority.
+
+Moss beds are easily compressed. Approach from durable ground, photograph the undisturbed patch, and avoid repeatedly lifting the same moss mat to search for stems. A small fruit body may share its below-ground mycorrhizal network with nearby trees even when it seems attached to a twig. Record the apparent attachment rather than pulling apart a large area to prove it.
+
+For a voucher, keep collections from different patches separate, label each packet with date and site, and dry promptly using appropriate guidance. Do not mix a confirmed collection with later mushrooms merely because their cap color matches. Ecological notes made on site are difficult to reconstruct at home and often carry more diagnostic value than an extra close-up.
+
+## Preservation changes texture, flavor, and identification characters
+
+Yellowfoot’s thin flesh loses water quickly. In the kitchen, that can make careful low-temperature drying effective, but it also means an uncovered refrigerator sample may shrivel before it is assessed. Store food collections cool in breathable packaging and process them promptly. Do not seal wet mushrooms in an unrefrigerated plastic bag, where condensation and microbial deterioration can accelerate.
+
+Drying darkens colors and can flatten the folds, so photograph fresh characters before preservation. Freezing raw thin mushrooms can damage texture; cooks commonly sauté first or dry them, but the safest method depends on a correctly identified, sound collection and ordinary food-storage controls. Preservation does not rescue spoiled material, remove environmental contaminants, or neutralize an unidentified toxic species.
+
+## Evidence limits, safety, and editorial method
+
+This article uses Kew and GBIF for nomenclature and occurrence context, a specialist description for macroscopic comparison, NAMA for poison-response guidance, and FDA material for general handling. These sources answer different questions. No named mycologist, clinician, or dietitian reviewed this page; its status is editorial.
+
+If illness follows a wild mushroom meal, do not wait for an online reply. Contact emergency services or a poison center, especially for persistent vomiting or diarrhea, confusion, breathing difficulty, jaundice, or delayed symptoms. Keep uncooked specimens, trimmings, photographs, packaging, and meal timing for investigation. Cooking cannot turn a poisonous lookalike into safe food.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Craterellus tubaeformis species record](https://www.gbif.org/species/2554536). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
-3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+1. Royal Botanic Gardens, Kew. [*Craterellus tubaeformis* record](https://powo.science.kew.org/taxon/urn:lsid:indexfungorum.org:names:356436). Nomenclatural checkpoint.
+2. GBIF. [*Craterellus tubaeformis*](https://www.gbif.org/species/2554536). Taxonomic backbone and occurrence context.
+3. First Nature. [*Craterellus tubaeformis*](https://www.first-nature.com/fungi/craterellus-tubaeformis.php). Macroscopic description and European comparisons.
+4. NAMA. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poison-response context.
+5. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: August 28, 2026. Taxonomy, distribution, regional lookalikes, and poison-response contacts are rechecked at substantive updates.*

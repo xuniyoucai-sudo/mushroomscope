@@ -5,14 +5,15 @@ keywords: ["Flammulina filiformis","enoki","mushroom identification","mushroom g
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-08-28
+revisionSummary: "Separated cultivated enoki from wild Flammulina identification, added production-variable records, recall-aware handling, and texture-based cooking decisions."
 draft: false
 featured: false
 coverImage: "../../assets/species/enoki-mushroom.jpg"
 coverAlt: "Cultivated enoki mushrooms with slender white stems and small pale caps"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
-relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/shiitake-noodle-stir-fry"]
+relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/mushroom-contamination-guide", "health/mushroom-nutrition-guide", "recipes/shiitake-noodle-stir-fry"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
@@ -20,6 +21,8 @@ sources:
     url: "https://fdc.nal.usda.gov/"
   - title: "Penn State Extension — Mushroom Food Safety"
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety"
+  - title: "CDC — 2020 Enoki Listeria Outbreak"
+    url: "https://archive.cdc.gov/www_cdc_gov/listeria/outbreaks/enoki-mushrooms-03-20/index.html"
 faq:
   - question: "Can this mushroom be identified from a photograph?"
     answer: "No. A photograph can support documentation, but a defensible identification of Flammulina filiformis also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone."
@@ -120,6 +123,12 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 
 Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
 
+### Market enoki and wild velvet shank are not visual equivalents
+
+The tall white market phenotype is created by a production environment. A narrow collar or sleeve can constrain the cluster, low light limits pigmentation, and elevated carbon dioxide promotes stem extension while suppressing cap expansion. Wild *Flammulina* fruit bodies experience fresh air and light, so they may develop broader amber caps and a darker velvety stem base. Neither form alone settles the species name.
+
+This distinction prevents two opposite errors: rejecting a correctly labeled cultivated product because it does not resemble a field guide, or treating any cool-season mushroom on wood as edible because it resembles “natural enoki.” Wild identification is a separate, high-consequence task. Rust-brown spores, a ring, or other disagreement with *Flammulina* requires stopping, not explaining the character away.
+
 ## Habitat
 
 Flammulina species decompose wood and tolerate cool fruiting conditions. Commercial farms use prepared substrate in bottles or bags, a clean culture, controlled incubation, and environmental manipulation. The long-stemmed market form is a production phenotype, not the only natural shape of the organism. Outdoor observations should note wood identity and whether it is buried, because mushrooms may appear terrestrial while attached below ground.
@@ -144,6 +153,22 @@ Home production is possible with a verified kit, but reproducing uniform commerc
 6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
 
 Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+
+### Record variables instead of copying one universal recipe
+
+Commercial-looking enoki depends on the interaction of strain, substrate formula, container geometry, temperature, light, fresh-air exchange, humidity, and timing. Record each batch rather than changing several controls at once. During colonization, note inoculation date, substrate mass and moisture basis, room temperature, and the date growth reaches the container edge. During fruiting, log air temperature, relative humidity, fresh-air schedule, light exposure, cluster height, cap expansion, and harvest mass.
+
+Long stems are not proof that conditions are healthy. Excess carbon dioxide can also accompany weak air movement and uneven surfaces, while excessive humidity can leave water on caps. Follow an authenticated culture supplier’s range and use observations to make one measured adjustment. The [fruiting-conditions guide](/growing/mushroom-fruiting-conditions/) explains how humidity and fresh air interact; the [contamination guide](/growing/mushroom-contamination-guide/) covers isolation and discard decisions when color, odor, or texture changes unexpectedly.
+
+After harvest, clean equipment between batches and cool mushrooms promptly. A home grow does not have the environmental monitoring or validated sanitation program of a regulated food facility, so do not make shelf-life claims from appearance alone.
+
+## Cooking cultivated enoki by texture, not by trend
+
+Trim away the compact substrate base while keeping sound stems together, then separate clusters enough for water and heat to reach them. The stems release moisture and soften, while the small caps cook quickly. In soup or hot pot, add them early enough to cook throughout without boiling until stringy. For a skillet dish, spread them in a thin layer so released water can evaporate before seasoning.
+
+Raw enoki has appeared in salads and online recipes, but its outbreak history makes “traditional” or “fresh” an inadequate safety argument. Check the package and current recall notices, prevent its juices from contacting ready-to-eat foods, wash hands and utensils, and cook thoroughly according to local public-health advice. Discard packages that are recalled, leaking, slimy, abnormally discolored, or foul-smelling; rinsing does not correct a recalled product.
+
+This culinary intent is separate from the [shiitake noodle stir-fry](/recipes/shiitake-noodle-stir-fry/), where enoki could be a texture variation but cannot simply replace shiitake’s broader caps and stronger browning behavior. Ingredient substitutions should account for moisture release and cooking time rather than treating every cultivated mushroom as mechanically identical.
 
 ## Health Benefits
 
@@ -172,4 +197,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Centers for Disease Control and Prevention. [Listeria Outbreak Linked to Enoki Mushrooms](https://archive.cdc.gov/www_cdc_gov/listeria/outbreaks/enoki-mushrooms-03-20/index.html). Archived outbreak investigation.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: August 28, 2026. Scientific names, recall advice, and public-health recommendations should be rechecked at every substantive update. No named clinician or mycologist reviewed this article; review status is editorial.*
