@@ -1,6 +1,6 @@
 ---
 title: "When to Harvest Cultivated Mushrooms"
-description: "Harvest timing depends on species and intended use; prioritize supplier guidance, clean handling, and prompt cooling."
+description: "Learn when to harvest cultivated oyster, lion's mane, shiitake, and other mushrooms using species-specific maturity cues, clean handling, and prompt cooling."
 keywords: ["when to harvest cultivated mushrooms", "mushroom cultivation", "home growing"]
 category: growing
 author: "MushroomScope Editorial Team"
