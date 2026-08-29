@@ -148,7 +148,7 @@ The Missouri Department of Conservation describes maitake as a large cluster of 
 
 Record the apparent host, distance from the trunk, whether the fungus emerges from exposed wood or soil over buried roots, and whether fruiting recurs in the same position. Do not cut roots or excavate around a mature tree to find an attachment. If a large rosette appears beside a tree near a building, path, playground, or parked vehicle, a qualified arborist—not a mushroom app—should assess structural risk.
 
-This ecological role also separates the species guide from the [maitake benefits evidence page](/health/maitake-benefits-evidence/). The species page addresses the organism, host association, morphology, lookalikes, cultivation, and food context. The health page evaluates product and study claims. Keeping those intents separate prevents a forest observation from being treated as supplement evidence.
+This ecological role also separates the species guide from the site's [mushroom nutrition and evidence hub](/hubs/mushroom-nutrition-evidence/). This page addresses the organism, host association, morphology, lookalikes, cultivation, and food context; the hub explains how food, extracts, and human evidence require different interpretations. Keeping those intents separate prevents a forest observation from being treated as supplement evidence.
 
 ## Growing Guide
 

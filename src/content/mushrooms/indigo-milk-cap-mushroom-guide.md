@@ -1,7 +1,7 @@
 ---
 title: "Lactarius indigo: Indigo Milk Cap Species Guide"
 seoTitle: "Indigo Milk Cap (Lactarius indigo) Guide"
-description: "Learn the field characters of Indigo milk cap: blue latex, green staining, brittle flesh, forest habitat, lookalikes, and the safety limits of online identification."
+description: "Learn indigo milk cap field characters: blue latex, green staining, brittle flesh, forest habitat, lookalikes, and why wild finds require local verification."
 keywords: ["indigo milk cap identification", "Lactarius indigo", "blue milk mushroom", "blue latex mushroom"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

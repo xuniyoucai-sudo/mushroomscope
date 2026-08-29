@@ -1,5 +1,6 @@
 ---
 title: "Vegan Mushroom Stroganoff"
+seoTitle: "Vegan Mushroom Stroganoff: Creamy Easy Recipe"
 description: "Make vegan mushroom stroganoff with cultivated cremini mushrooms, clear steps, practical substitutions, and conservative food-safety guidance."
 keywords: ["vegan mushroom stroganoff", "mushroom recipe", "cremini mushrooms"]
 category: recipes

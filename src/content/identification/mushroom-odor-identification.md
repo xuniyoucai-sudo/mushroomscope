@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Odor in Identification: How to Record It Safely"
-description: "Use mushroom odor as one carefully recorded field character—never as a test of identity, safety, or edibility."
+description: "Learn to record mushroom odor safely, compare fresh and cut tissue, control for handling, and never treat smell as an identification or edibility test."
 keywords: ["mushroom odor identification", "mushroom smell field notes", "mushroom identification safety"]
 category: identification
 author: "MushroomScope Editorial Team"

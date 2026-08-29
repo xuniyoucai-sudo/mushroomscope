@@ -1,7 +1,7 @@
 ---
 title: "Pink Oyster Mushroom (Pleurotus djamor): Species and Growing Guide"
 seoTitle: "Pink Oyster Mushroom (Pleurotus djamor) Guide"
-description: "Learn how pink oyster mushrooms differ from other oyster fungi, why their color fades, how warm-climate cultivation works, and where identification limits matter."
+description: "Learn how pink oyster mushrooms differ from other oyster fungi, why their color fades, how warm-climate cultivation works, and why wild finds need verification."
 keywords: ["pink oyster mushroom", "Pleurotus djamor", "pink oyster mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

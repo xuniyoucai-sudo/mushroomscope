@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Cap Shapes: A Practical Identification Guide"
-description: "Learn the vocabulary for cap shapes and how age can change a cap from convex to flat, uplifted, or depressed."
+description: "Compare mushroom cap shapes from convex and bell-shaped to flat, depressed, funnel-shaped, and uplifted, while recording age, margin, surface, and profile."
 keywords: ["mushroom cap shapes: a practical identification guide", "mushroom identification", "field guide"]
 category: identification
 author: "MushroomScope Editorial Team"

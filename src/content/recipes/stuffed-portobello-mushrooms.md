@@ -1,5 +1,6 @@
 ---
 title: "Stuffed Portobello Mushrooms"
+seoTitle: "Stuffed Portobello Mushrooms: Easy Baked Recipe"
 description: "Make stuffed portobello mushrooms with cultivated portobello mushrooms, clear steps, practical substitutions, and conservative food-safety guidance."
 keywords: ["stuffed portobello mushrooms", "mushroom recipe", "portobello mushrooms"]
 category: recipes

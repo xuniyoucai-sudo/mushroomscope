@@ -1,7 +1,7 @@
 ---
 title: "How to Grow Mushrooms on Coffee Grounds"
 seoTitle: "Growing Mushrooms on Coffee Grounds Safely"
-description: "Learn the limits of growing mushrooms on coffee grounds, including fresh substrate handling, oyster mushroom suitability, contamination risks, and safer alternatives."
+description: "Learn the limits of growing mushrooms on coffee grounds, including fresh handling, oyster mushroom suitability, contamination risks, and cleaner alternatives."
 keywords: ["grow mushrooms on coffee grounds", "coffee grounds mushroom growing", "oyster mushrooms coffee grounds"]
 category: growing
 author: "MushroomScope Editorial Team"

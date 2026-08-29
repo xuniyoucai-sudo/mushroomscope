@@ -1,7 +1,7 @@
 ---
 title: "Mushroom Tacos with Black Beans and Lime"
 seoTitle: "Mushroom Tacos with Black Beans & Lime"
-description: "Make weeknight mushroom tacos with browned cremini mushrooms, black beans, crisp cabbage, and a bright lime finish."
+description: "Make weeknight mushroom tacos with browned cremini mushrooms, black beans, crisp cabbage, lime, practical substitutions, reheating guidance, and texture cues."
 keywords: ["mushroom tacos", "vegetarian mushroom tacos", "cremini mushroom tacos"]
 category: recipes
 author: "MushroomScope Editorial Team"

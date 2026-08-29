@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Stem Features: Rings, Volvas, Texture, and Base"
-description: "Document the complete mushroom stem, including buried tissue, rings, volvas, internal structure, and surface texture."
+description: "Document mushroom stem shape, attachment, rings, volvas, buried bases, internal structure, bruising, and texture without using one feature to decide edibility."
 keywords: ["mushroom stem features: rings, volvas, texture, and base", "mushroom identification", "field guide"]
 category: identification
 author: "MushroomScope Editorial Team"

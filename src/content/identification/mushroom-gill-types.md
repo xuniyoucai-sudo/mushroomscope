@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Gill Types: Attachment, Spacing, and Color"
-description: "Compare free, attached, notched, and decurrent gills while recording spacing, color changes, and short gills."
+description: "Compare free, attached, notched, adnate, and decurrent mushroom gills while recording spacing, short gills, edge details, bruising, and color changes."
 keywords: ["mushroom gill types: attachment, spacing, and color", "mushroom identification", "field guide"]
 category: identification
 author: "MushroomScope Editorial Team"
