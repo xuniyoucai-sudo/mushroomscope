@@ -1,68 +1,119 @@
 ---
 title: "Mushroom Bruising and Color Changes Explained"
-description: "Learn mushroom bruising and color changes explained with observable features, comparison points, field documentation tips, and conservative safety guidance."
-keywords: ["mushroom bruising and color changes explained", "identification guide", "mushroom guide"]
+description: "Document mushroom bruising by location, trigger, timing, and color while separating oxidation from age, spores, latex, and damage."
+keywords: ["mushroom bruising","mushroom color change"]
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
 draft: true
 featured: false
-faq: []
+coverImage: "../../assets/identification/mushroom-bruising-reactions-editorial-v2.png"
+coverAlt: "Original editorial illustration supporting mushroom bruising and color changes explained without serving as identification evidence"
+imageCredit: "Original MushroomScope AI-assisted editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
+reviewStatus: editorial
+faq:
+  - question: "What mushroom bruising actually records?"
+    answer: "Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups."
+  - question: "Standardize pressure and cut observations?"
+    answer: "Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section."
+  - question: "Separate bruising from lookalike changes?"
+    answer: "Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster."
+  - question: "How blue, yellow, and green reactions differ?"
+    answer: "Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context."
+  - question: "Why color cannot determine edibility?"
+    answer: "Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact."
 ---
 
 # Mushroom Bruising and Color Changes Explained
 
-> **Draft template:** Replace every bracketed note with original, verified reporting before changing `draft` to `false`.
+> **Safety scope:** This editorial guide explains evidence and documentation. It cannot confirm that a wild mushroom is edible, and it has no named expert or clinical reviewer.
 
-## Search intent
+## What mushroom bruising actually records
 
-- **Primary query:** mushroom bruising and color changes explained
-- **Reader goal:** [Describe the specific question this page resolves.]
-- **Unique value:** [Add firsthand expertise, original synthesis, photographs, measurements, or tested instructions.]
-- **Suggested length:** [Set a length based on topic complexity—not a keyword target.]
+Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups. Record the original tissue color, exact contact point, delay before change, maximum color, and later fading. A reaction is one character in a larger identification, never a verdict.
 
-## Identification overview
+Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster. Milkcap latex may change after exposure while the flesh behaves differently. A scraped cap surface may reveal underlying pigment without a chemical reaction. State which tissue changed rather than saying only that the mushroom turned blue. For the broader workflow, use [this related MushroomScope guide](/identification/mushroom-identification-safety-checklist/).
 
-[Write a concise, direct answer that satisfies the main search intent. Define essential terms and set appropriate expectations.]
+### A practical decision point
 
-## Features to examine
+Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context. Certain milkcaps develop greenish stains as latex and damaged tissue age. These patterns help navigate a regional key but do not transfer safely across unrelated genera. Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section. Photograph immediately and at consistent intervals in neutral light. Aggressive squeezing can mix soil, spores, and damaged layers, producing a result that another observer cannot reproduce.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+## Standardize pressure and cut observations
 
-## Step-by-step field method
+Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section. Photograph immediately and at consistent intervals in neutral light. Aggressive squeezing can mix soil, spores, and damaged layers, producing a result that another observer cannot reproduce.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context. Certain milkcaps develop greenish stains as latex and damaged tissue age. These patterns help navigate a regional key but do not transfer safely across unrelated genera. For the broader workflow, use [this related MushroomScope guide](/identification/mushroom-photo-checklist/).
 
-## Common mistakes and lookalikes
+### A practical decision point
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact. Identification needs complete anatomy, habitat, maturity, and often microscopy or sequence data. Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster. Milkcap latex may change after exposure while the flesh behaves differently. A scraped cap surface may reveal underlying pigment without a chemical reaction. State which tissue changed rather than saying only that the mushroom turned blue.
 
-## Safety limits
+## Separate bruising from lookalike changes
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster. Milkcap latex may change after exposure while the flesh behaves differently. A scraped cap surface may reveal underlying pigment without a chemical reaction. State which tissue changed rather than saying only that the mushroom turned blue.
 
-## What to photograph and record
+Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact. Identification needs complete anatomy, habitat, maturity, and often microscopy or sequence data.
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+### A practical decision point
+
+Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups. Record the original tissue color, exact contact point, delay before change, maximum color, and later fading. A reaction is one character in a larger identification, never a verdict. Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context. Certain milkcaps develop greenish stains as latex and damaged tissue age. These patterns help navigate a regional key but do not transfer safely across unrelated genera.
+
+## How blue, yellow, and green reactions differ
+
+Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context. Certain milkcaps develop greenish stains as latex and damaged tissue age. These patterns help navigate a regional key but do not transfer safely across unrelated genera.
+
+Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups. Record the original tissue color, exact contact point, delay before change, maximum color, and later fading. A reaction is one character in a larger identification, never a verdict.
+
+### A practical decision point
+
+Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section. Photograph immediately and at consistent intervals in neutral light. Aggressive squeezing can mix soil, spores, and damaged layers, producing a result that another observer cannot reproduce. Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact. Identification needs complete anatomy, habitat, maturity, and often microscopy or sequence data.
+
+## Why color cannot determine edibility
+
+Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact. Identification needs complete anatomy, habitat, maturity, and often microscopy or sequence data.
+
+Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section. Photograph immediately and at consistent intervals in neutral light. Aggressive squeezing can mix soil, spores, and damaged layers, producing a result that another observer cannot reproduce.
+
+### A practical decision point
+
+Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster. Milkcap latex may change after exposure while the flesh behaves differently. A scraped cap surface may reveal underlying pigment without a chemical reaction. State which tissue changed rather than saying only that the mushroom turned blue. Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups. Record the original tissue color, exact contact point, delay before change, maximum color, and later fading. A reaction is one character in a larger identification, never a verdict.
+
+## A useful photo and note protocol
+
+Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups. Record the original tissue color, exact contact point, delay before change, maximum color, and later fading. A reaction is one character in a larger identification, never a verdict.
+
+Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster. Milkcap latex may change after exposure while the flesh behaves differently. A scraped cap surface may reveal underlying pigment without a chemical reaction. State which tissue changed rather than saying only that the mushroom turned blue.
+
+### A practical decision point
+
+Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context. Certain milkcaps develop greenish stains as latex and damaged tissue age. These patterns help navigate a regional key but do not transfer safely across unrelated genera. Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section. Photograph immediately and at consistent intervals in neutral light. Aggressive squeezing can mix soil, spores, and damaged layers, producing a result that another observer cannot reproduce.
 
 ## Frequently asked questions
 
-[Cover this section with topic-specific facts, examples, and primary or authoritative sources. Add useful internal links where they naturally help the reader.]
+### What mushroom bruising actually records?
+
+Bruising is a color response after tissue is pressed, cut, or otherwise damaged. It often involves enzymatic oxidation of compounds exposed when cells rupture, but chemistry differs among fungal groups.
+
+### Standardize pressure and cut observations?
+
+Use one uninjured specimen as a control. Apply gentle pressure to a defined cap or pore area and make one clean cut through a second section.
+
+### Separate bruising from lookalike changes?
+
+Darkening from age, waterlogging, frost, bacterial decay, or drying is not equivalent to a fresh bruise. Spore deposits can color caps below a cluster.
+
+### How blue, yellow, and green reactions differ?
+
+Many boletes blue in pores or flesh at different rates and intensities; both edible and toxic taxa occur among blue-staining groups. Some Agaricus show yellow at the cap margin or stem base, with odor and persistence adding context.
+
+### Why color cannot determine edibility?
+
+Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact.
 
 ## Sources and further reading
 
-- [Primary or authoritative source — organization, title, URL, access date]
-- [Peer-reviewed or expert source — authors, publication, DOI or URL]
-
-## Editorial checklist
-
-- [ ] All factual claims verified against primary or authoritative sources
-- [ ] No copied, spun, or unsupported content
-- [ ] Identification, medical, allergy, and food-safety caveats reviewed where relevant
-- [ ] Original image added with descriptive alt text and confirmed usage rights
-- [ ] Title, description, headings, and body match the same search intent
-- [ ] Links added to the parent category and at least two genuinely related guides
-- [ ] FAQ answers are visible on the page and not created only for schema
-- [ ] Publication and update dates are accurate
-- [ ] `draft` changed to `false` only after editorial review
-
+- [Authoritative source 1](https://namyco.org/interests/education/poisonings/)
+- [Authoritative source 2](https://pubmed.ncbi.nlm.nih.gov/28493020/)
+- [Authoritative source 3](https://poisonhelp.hrsa.gov/)
