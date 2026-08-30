@@ -1,13 +1,17 @@
 ---
-title: "Pleurotus pulmonarius: Phoenix oyster mushroom Species Guide"
-seoTitle: "Phoenix oyster mushroom (Pleurotus pulmonarius) Species Guid"
-description: "Learn Phoenix oyster mushroom identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Phoenix Oyster Mushroom: Warm-Season Ecology and Cultivation"
+seoTitle: "Phoenix Oyster Mushroom: Ecology, Growing & Safety"
+description: "Learn how Phoenix oyster differs from other Pleurotus, with warm-season hardwood ecology, cultivation variables, lookalikes, cooking, and safety limits."
 keywords: ["phoenix oyster mushroom", "Pleurotus pulmonarius", "phoenix oyster mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
 draft: true
 featured: false
+coverImage: "../../assets/species/phoenix-oyster-mushroom-editorial-v2.png"
+coverAlt: "Pale Phoenix oyster mushrooms fruiting in a layered cluster from a fallen hardwood log"
+imageCredit: "Original MushroomScope AI editorial image"
+imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "identification/oyster-mushroom-lookalikes"]
 sources:
   - title: "GBIF — Pleurotus pulmonarius"
@@ -99,6 +103,58 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 ## Cultivation context
 
 Commercial cultivation is practical with authenticated spawn and species-appropriate plant material. Follow the supplier’s strain-specific temperatures and hygiene process; internet-wide set points cannot replace those instructions. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+
+## Define the Phoenix oyster intent
+
+Phoenix oyster refers here to authenticated *Pleurotus pulmonarius*, a warm-season member of the oyster group. The broader [oyster species guide](/mushrooms/oyster-mushroom-guide/) treats *P. ostreatus*, while the [oyster hub](/hubs/oyster-mushroom-guide/) routes among species, cultivation, recipes, and lookalike safety. Pale color and summer fruiting can suggest a direction, but neither proves the species. Preserve the culture-label name for cultivated material and the region, substrate, photographs, and voucher for a lawful wild collection.
+
+## Read attachment before cap color
+
+Start where the cluster meets wood. Phoenix oysters usually attach laterally or through short eccentric stems, and pale gills descend those attachments. Photograph the intact cluster, its side profile, the lower gill surface, and several ages. Young caps are compact with inrolled margins; mature caps expand into fans and may flatten. Heat, light, humidity, crowding, and age alter color and stem length, so a detached cap removes critical context.
+
+A white to pale lilac deposit supports placement but overlaps other oyster-like fungi. Record cap dimensions, flesh texture, odor, gill attachment, wood type, season, region, and microscopic characters. If separating closely related *Pleurotus* affects a scientific or commercial decision, sequence evidence may be required.
+
+## Use warm-season hardwood ecology carefully
+
+Warm-season fruiting helps distinguish this page’s intent from cooler-fruiting oyster concepts, but it is not a one-feature rule. A shaded moist log can fruit during hot weather, and controlled production can fruit outside a natural calendar. Record whether wood is living, standing dead, or fallen, and identify hardwood only when bark, leaves, buds, or anatomy support it. Buried roots can make a wood decomposer appear soil-borne.
+
+## Set the lookalike boundary
+
+Thin white *Pleurocybella porrigens* shelves occur on conifer wood and differ from the more substantial Phoenix-oyster form. Toxic *Omphalotus* species can cluster from wood or buried roots but have different pigmentation and tissue characters. Other *Pleurotus* species may remain inseparable from casual photographs. Use the [oyster lookalikes guide](/identification/oyster-mushroom-lookalikes/) to structure observations, never to clear a specimen for food.
+
+## Build a strain-specific grow record
+
+Use authenticated spawn and record supplier, culture, substrate dry weights, water, treatment method, inoculation rate, container, temperatures, and dates. “Heat tolerant” does not replace complete strain instructions. Straw and supplemented hardwood sawdust differ in water capacity, aeration, nutrition, and contamination pressure; the [substrate guide](/growing/mushroom-substrate-guide/) explains why changing several variables at once prevents useful diagnosis.
+
+During fruiting, humidity, fresh air, temperature, light, and cluster density interact. Long stems, small caps, cracked margins, or lesions are observations rather than diagnoses. Isolate blocks with unexpected pigments, foul odor, insects, or unplanned mushrooms. Do not harvest around contamination or assume cooking repairs a failed batch.
+
+## Harvest and cook for tenderness
+
+Harvest while margins remain sound and flesh is tender. Cut with a clean tool, trim substrate debris away from food, cool promptly, and use breathable packaging. In a crowded pan, water released by the caps causes steaming. Tear large caps along the grain, cook in batches in a broad preheated pan, and add delicate aromatics after excess moisture evaporates. Cooking improves texture and ordinary handling safety but cannot make a toxic lookalike safe.
+
+## Editorial and evidence limits
+
+This stored draft has editorial review only and no named mycologist or food-safety reviewer. It makes no medical claim and does not treat an AI-generated cover as identification evidence. Before publication, recheck scientific names, source availability, related-page status, image metadata, and poison-response guidance; preserve `draft: true` until the planned publication date is deliberately assigned.
+
+## Publication-ready questions to answer from the record
+
+**Is a pale oyster in summer automatically *P. pulmonarius*?** No. Color fades and several *Pleurotus* taxa overlap. Season, hardwood attachment, gills, morphology, geography, microscopy, and sometimes DNA must converge.
+
+**Can a grower reuse the temperature from another oyster strain?** Not as a controlled assumption. Record the supplier’s range and the actual block response. Temperature interacts with fresh air, humidity, light, water, and cluster density.
+
+**Why keep this page separate from the oyster hub?** The hub organizes a topic family; this page documents one species concept and its warm-season production decisions. Specific anchors prevent either page from competing for the other’s job.
+
+**What makes a failed block unsafe to salvage?** Unexpected fungi, persistent foul odor, insects, bacterial-looking decay, or broken traceability. Opening a suspect block near healthy production can spread contaminants. Photograph, isolate, and discard according to local waste practice.
+
+**What must be checked on publication day?** Confirm that all linked pages are public, the proposed publication date is not in the future, the cover builds to responsive formats, title and description remain unique, FAQ Schema matches the visible questions, and every source resolves to the claim it supports. Run the complete site build rather than changing only `draft`.
+
+## Example cultivation decision log
+
+A useful Phoenix-oyster log might state: authenticated culture received on a named date; straw dry mass and water addition recorded; pasteurization method and cooling endpoint documented; inoculation performed with a measured rate; colonization observed without unusual pigment or odor; fruiting moved under the supplier’s specified range; and the first harvest weighed before trimming. Photographs should show the closed container, colonization pattern, primordia, mature cluster, and any rejected unit.
+
+The log should distinguish observation from interpretation. “Longer stems than the previous batch” is an observation; “carbon dioxide caused long stems” is a hypothesis until fresh-air exchange and other variables are measured. Humidity, temperature, density, light, genetics, and timing can produce overlapping symptoms. This discipline makes the draft useful to growers without promising a universal recipe.
+
+At editorial release, summarize only parameters supported by the cited method or the culture supplier. Do not present one home batch as a controlled trial, claim superior yield without comparable dry substrate, or describe an AI image as crop evidence. This page is ready for scheduled publication only after a final editor confirms those boundaries remain intact.
 
 ## How to document a find
 

@@ -1,18 +1,17 @@
 ---
-title: "Fomes fomentarius: Tinder fungus Species Guide"
-seoTitle: "Tinder fungus (Fomes fomentarius) Species Guide"
-description: "Learn Tinder fungus identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Tinder Fungus: Perennial Brackets, Birch Ecology, and Amadou"
+seoTitle: "Tinder Fungus: Identification, Ecology & Amadou History"
+description: "Understand tinder fungus hoof-shaped brackets, perennial pore layers, birch and beech ecology, similar conks, decay, amadou history, and safety limits."
 keywords: ["tinder fungus", "Fomes fomentarius", "tinder fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-15
 draft: true
 featured: false
-coverImage: "../../assets/species/tinder-fungus-mushroom.jpg"
-coverAlt: "Editorial illustration of Tinder fungus showing major field-recognition structures in a neutral habitat setting"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustrative species overview only; colors, scale, and proportions are not identification evidence."
+coverImage: "../../assets/species/tinder-fungus-editorial-v2.png"
+coverAlt: "Gray hoof-shaped tinder fungus brackets attached to mature birch bark"
+imageCredit: "Original MushroomScope AI editorial image"
+imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Fomes fomentarius"
@@ -104,6 +103,62 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 ## Cultivation context
 
 This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+
+## Read the hoof as a perennial structure
+
+*Fomes fomentarius* builds a hard bracket over multiple growing periods. Its gray crust develops zones, cracks, dark stains, and sometimes algae; the underside adds new tube layers. A section may expose stacked tubes, but visible bands are not a precise age count because growth pauses and erosion obscure the sequence. Photograph the attachment, profile, crust, lower pores, and host before collecting, and measure rather than judging scale from a close image.
+
+## Make the host and tree condition explicit
+
+Birch and beech are important hosts across much of the documented range, while other hardwood records vary geographically. Identify a host only when bark, leaves, buds, or anatomy support it. State whether the trunk is living, standing dead, or fallen. The fungus can behave as a pathogen and then continue decomposing after tree death, but a visible conk does not map the full internal decay column.
+
+A bracket on a living tree does not quantify failure risk. Decay location, remaining wood, architecture, exposure, and site use matter. Do not drill, remove, or inoculate a tree from this page. Where failure could harm people or property, seek a qualified local arborist.
+
+## Separate similar perennial conks
+
+Artist’s conk is generally flatter and has a pale pore surface that marks brown; compare its [species guide](/mushrooms/artists-conk-mushroom-guide/). Birch polypore is usually smoother and annual. Dark *Phellinus* relatives can also form hoof-like bodies. Examine pore density, tube layers, context, crust, spores, host, and regional keys. Fire-associated common names cannot substitute for taxonomy.
+
+## Understand decay without oversimplifying it
+
+“White rot” describes changes to woody polymers, not cap color, edibility, or proof of structural danger. Other fungi and insects may share the trunk, so one bracket does not explain every cavity or stain. Leave dead wood where regulations and safety allow because it retains moisture and supports decomposer communities. Photograph first and collect only lawful, justified material.
+
+## Place amadou in materials history
+
+The fibrous context has been processed into amadou for catching and carrying an ember. An intact wet conk does not ignite like prepared modern tinder; age, moisture, decay, and processing matter. Historic utility does not prove food or medical value. Smoke contains irritants, and contaminated conks or treated timber must not be burned indoors. Follow fire restrictions and use modern safety equipment.
+
+Archaeological and ethnographic claims should identify a specimen, site, dating method, and publication. Avoid converting “historically used” into a universal health assertion. A material can be culturally important without being a clinically tested treatment.
+
+## Preserve a scientific record
+
+A lawful voucher should include host, growth position, date, collector, dimensions, photographs, and location at an appropriate privacy level. Microscopy can assess spores and hyphal construction; DNA may resolve difficult geographic material. Do not wash away the pore surface before documentation. Commercial powders need independent identity and contaminant evidence; a conk image cannot verify species, fungal part, extraction, or purity.
+
+Use the [habitat identification guide](/identification/mushroom-habitat-identification/) to separate host evidence from nearby-tree guesses, and the [identification safety checklist](/identification/mushroom-identification-safety-checklist/) before handling an uncertain conk or discussing any use.
+
+## Editorial and safety limits
+
+This stored draft has editorial review only and no named mycologist, archaeologist, arborist, or clinician. It does not recommend ingestion, wound care, tree treatment, or indoor burning. Before publication, recheck taxonomy, host records, fire guidance, sources, internal links, and image disclosure while keeping the page in draft status.
+
+## Publication-ready questions to answer from the record
+
+**Can the number of cap bands date a conk?** No. Surface zones and internal tube layers reflect growth, but pauses, erosion, damage, and incomplete seasons prevent simple one-band-per-year arithmetic.
+
+**Does a tinder conk mean a tree will fail immediately?** No. It signals a decay organism worth documenting, but risk assessment requires the whole tree, defect location, remaining wood, loads, targets, and professional judgment.
+
+**Is amadou simply dried bracket tissue?** Traditional preparation selects and works suitable fibrous context. Moisture, age, decay, and processing control performance, and an intact conk should not be represented as ready-to-light material.
+
+**Can historical use justify a supplement claim?** No. Material history and ethnography do not demonstrate clinical identity, dose, purity, efficacy, or safety. Products need their own traceability and evidence.
+
+**What must happen before publication?** Verify every host and historical statement against its cited source, confirm the artist’s-conk link remains public, ensure FAQ Schema mirrors frontmatter, inspect the responsive cover, set a deliberate current publish date without inventing expert review, and complete the full production build.
+
+## Example tree-side observation record
+
+A defensible record describes the bracket as attached to a specified side and height of a named or cautiously unidentified hardwood. It records trunk status, surrounding crown condition, wounds, cavities, dimensions, crust zones, pore color, fresh margin, and other fungi. Photographs include the whole tree, target context where appropriate, bracket profile, underside, and scale. The observer separates visible facts from structural conclusions.
+
+If the site is visited again, use the same camera direction and measurement points. Note new pore growth, margin change, bracket loss, storm damage, and management work. Do not infer an annual growth rate from two imprecise images. Longitudinal records help an arborist or mycologist, but they never replace a professional risk assessment where people or buildings are exposed.
+
+For a museum or craft context, add provenance and permission, preparation method, and whether the object is modern experimental amadou or an archaeological artifact. These categories must not be blended. Clear provenance is what keeps the page about a specific fungus and material history rather than a collection of romantic but unverifiable claims.
+
+The final release should also distinguish organism, fruit body, decayed wood, processed amadou, smoke, extract, and retail powder. Evidence about one material cannot be silently transferred to another. Captions must say whether an image is generated editorial context, a documented field specimen, or an artifact. This vocabulary check prevents the historical section from implying clinical efficacy and prevents the tree section from implying that a visible bracket alone establishes immediate hazard.
 
 ## How to document a find
 

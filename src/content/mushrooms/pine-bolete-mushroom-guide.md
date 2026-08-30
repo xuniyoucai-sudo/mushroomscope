@@ -1,13 +1,17 @@
 ---
-title: "Boletus pinophilus: Pine bolete Species Guide"
-seoTitle: "Pine bolete (Boletus pinophilus) Species Guide"
-description: "Learn Pine bolete identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Pine Bolete: Red-Brown Cap, Pine Ecology, and Lookalikes"
+seoTitle: "Pine Bolete: Identification, Pine Habitat & Safety"
+description: "Document pine bolete caps, pores, stem reticulation, pine-associated ecology, regional lookalikes, food-safety limits, and why cultivation is difficult."
 keywords: ["pine bolete", "Boletus pinophilus", "pine bolete identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
 draft: true
 featured: false
+coverImage: "../../assets/species/pine-bolete-mushroom-editorial-v2.png"
+coverAlt: "Two red-brown pine boletes with thick pale stems among moss and pine needles"
+imageCredit: "Original MushroomScope AI editorial image"
+imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
 sources:
   - title: "GBIF — Boletus pinophilus"
@@ -99,6 +103,64 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 ## Cultivation context
 
 This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+
+## Define the pine bolete concept
+
+This page treats *Boletus pinophilus*, not every porcini-like bolete found beneath pine. Common names and the *Boletus edulis* complex have been applied differently across regions, so preserve the scientific name and geographic concept used by each source. A robust red-brown cap is useful context, but host, pores, stem ornament, flesh reactions, spores, and regional taxonomy must agree.
+
+## Record changes from young pores to maturity
+
+Young pore surfaces begin pale and mature through yellow toward olive. The thick stem usually carries a raised net-like reticulation, especially above, and the firm flesh is expected not to stain strongly blue. Photograph multiple ages, the cap surface, pore surface, full stem, reticulation, and a clean lengthwise section. Record color changes immediately and again after several minutes; vague “no staining” notes can miss a delayed reaction.
+
+An olive-brown deposit is supporting evidence, not a verdict. Measure cap, stem, pores, and spores where appropriate. Insect tunneling, drought cracking, rain, and age can obscure otherwise helpful characters. Generated imagery on this draft illustrates habitat and form only.
+
+## Treat pine association as a biological relationship
+
+Pine bolete is ectomycorrhizal: the fungus exchanges resources with living tree roots rather than decomposing a log. Record nearby potential hosts, forest composition, soil, elevation, and whether fruit bodies recur in the same area. Nearby pine needles are supporting evidence, not proof that the visible tree is the partner; roots overlap and mixed woods contain several candidates.
+
+Because the underground partnership is central, ordinary sterile-block cultivation does not reproduce the ecology. Claims of quick indoor porcini production require unusually strong verification. Do not transplant soil, roots, or wild mycelium into new habitats, and follow land-access and collection rules.
+
+## Compare the whole bolete, not one warning color
+
+*Boletus edulis* and related porcini can overlap in stature, reticulation, pores, and food reputation. Some *Rubroboletus* have red pores and blue-staining flesh and include toxic species, but absence of red does not establish edibility. Bitter *Tylopilus* and other boletes add regional confusion. Use the [bolete identification guide](/identification/bolete-identification-guide/) to build a character matrix rather than relying on a single color rule.
+
+## Keep food decisions conservative
+
+Food-use reports apply only after expert-supported identity and sound condition. Avoid old, waterlogged, heavily insect-damaged, roadside, treated-land, or polluted-site specimens. Retain uncooked material and meal details. Cook thoroughly and try no wild mushroom on behalf of a child, pregnant person, immunocompromised person, or anyone unable to consent to the uncertainty.
+
+Drying concentrates flavor and also concentrates whatever material was present; it does not repair misidentification or contamination. Label lawful, verified dried specimens with species, place, date, and processor, and keep them separate from unknown collections.
+
+## Build a defensible field record
+
+Photograph the undisturbed habitat, several ages, pores, stem base, section, and host context. Note odor without tasting, weather, soil, elevation, and collection permit. A voucher dried promptly is more valuable than a basket photograph. If food is contemplated, obtain in-person help from a qualified regional identifier; this page and its cover cannot authorize consumption.
+
+The [habitat identification guide](/identification/mushroom-habitat-identification/) helps document potential root partners without overstating them, while the [identification safety checklist](/identification/mushroom-identification-safety-checklist/) keeps collection and food decisions separate from online pattern matching.
+
+## Editorial and evidence limits
+
+This stored draft has editorial review only and no named mycologist or clinician. It makes no medicinal or nutrition claim without a matched analysis. Before publication, recheck the regional species concept, occurrence sources, link status, image metadata, and poison-response guidance while retaining `draft: true`.
+
+## Publication-ready questions to answer from the record
+
+**Does a pine host prove pine bolete?** No. Several ectomycorrhizal boletes can fruit within the same root zone. Host evidence narrows ecology but does not replace pore, stem, flesh, spore, and regional characters.
+
+**Is a non-blueing bolete safe?** No. Staining is one character, and its absence neither confirms *B. pinophilus* nor establishes edibility. Observe immediate and delayed reactions under consistent light.
+
+**Why is an indoor grow claim doubtful?** The organism depends on a living-root ectomycorrhizal partnership. Producing mycelium in culture is not the same as completing fruiting with a host tree.
+
+**Can a porcini market name settle taxonomy?** No. Trade names can group multiple species and geographic concepts. Keep origin, supplier, scientific label, and any laboratory evidence attached to the lot.
+
+**What must happen before publication?** Recheck the accepted name and range, confirm the bolete-guide link is public, inspect every source and FAQ, set a deliberate non-future publication date, verify the unique cover and its AI disclosure, and run the complete build with sitemap, RSS, search index, canonical, Article, Taxon, and FAQ output checks.
+
+## Example field comparison record
+
+For each candidate, make columns for cap color and texture, pore color by age, staining at zero and ten minutes, flesh color, stem shape, reticulation position and color, odor, spore deposit, host evidence, soil, elevation, region, and collection date. Add measurements from more than one fruit body. A row left unknown is better than a value guessed after the specimen has dried.
+
+Compare the completed record with a current regional key. If a key requires microscopy, document spore dimensions, shape, and preparation rather than skipping the character. If sequence evidence is used, preserve voucher and accession information. A database photograph that looks similar is not an independent character and should not be counted as confirmation.
+
+This comparison also protects search intent. The page should answer how *B. pinophilus* is documented within a pine-associated porcini complex, while the general bolete guide teaches pore and staining methods. Publication copy should link the two with descriptive anchors and avoid claiming that either page can remotely clear a meal.
+
+When editing the release, review every heading against the paragraph that follows it. “Pine association,” “pore maturation,” and “reticulation” are precise; “secrets,” “ultimate test,” and “guaranteed edible” are not. Confirm that the regional range is not presented as exhaustive and that records outside the stated core are evaluated under current local taxonomy. This final pass turns a descriptive draft into a cautious species account rather than a universal porcini shortcut.
 
 ## How to document a find
 

@@ -1,13 +1,17 @@
 ---
-title: "Suillus luteus: Slippery jack Species Guide"
-seoTitle: "Slippery jack (Suillus luteus) Species Guide"
-description: "Learn Slippery jack identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Slippery Jack: Viscid Cap, Pine Partnership, and Safety"
+seoTitle: "Slippery Jack: Identification, Pine Ecology & Safety"
+description: "Recognize slippery jack by its viscid brown cap, yellow pores and ring, while documenting pine ecology, lookalikes, handling limits, and food safety."
 keywords: ["slippery jack", "Suillus luteus", "slippery jack identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
 draft: true
 featured: false
+coverImage: "../../assets/species/slippery-jack-mushroom-editorial-v2.png"
+coverAlt: "Four glossy brown slippery jack boletes growing upright beneath a pine tree"
+imageCredit: "Original MushroomScope AI editorial image"
+imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
 sources:
   - title: "GBIF — Suillus luteus"
@@ -99,6 +103,64 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 ## Cultivation context
 
 This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+
+## Combine cap, pores, ring, and pine
+
+The useful identification pattern is a very viscid brown cap, yellow pores rather than gills, a persistent membranous ring, glandular dots on the stem, and association with compatible pines. None is sufficient alone. Rain can wash or exaggerate slime, age darkens pores, and a damaged ring may disappear. Photograph several ages and the intact stem before handling removes surface characters.
+
+Make a clean section and record immediate and delayed color changes. An olive-brown spore deposit supports the bolete group but overlaps relatives. Measure pores, cap, and stem, and retain a lawful voucher if the distinction matters. The AI editorial image shows a plausible intact group but cannot replace these observations.
+
+## Verify the pine partnership
+
+*Suillus luteus* is ectomycorrhizal with pine roots and has traveled beyond its native range with plantation forestry. Record the pine species when needles, cones, buds, or a local flora support it; “under a conifer” is not enough. Note whether the stand is planted or native, soil disturbance, elevation, rainfall, and repeated fruiting. Nearby trees may have overlapping roots.
+
+This root partnership explains why a household sawdust block is not a normal cultivation method. Moving colonized soil or seedlings can spread organisms beyond intended ranges and may violate biosecurity rules. Do not inoculate public land or transplant wild material.
+
+## Separate ringed and ringless Suillus
+
+*Suillus granulatus* generally lacks the membranous ring and may show glandular droplets when young. *S. grevillei* is associated with larch and is often more yellow-orange. Regional *Suillus* species add further combinations of veil, dots, cap fibers, and host. A missing ring on an old damaged specimen is not evidence for a ringless species, so compare populations and several ages.
+
+Red pores, strong blue staining, gills, or absence of a pine context should trigger reassessment rather than a forced match. Use a current local bolete key and qualified expertise for any food decision.
+
+## Treat the slime as morphology, not a safety test
+
+A naturally viscid cap can remain glossy when fresh; bacterial decay can also produce unpleasant wetness. Evaluate odor, tissue integrity, storage time, discoloration, and provenance together. Do not assume that peeling a cap removes all causes of intolerance or contamination. Food-use traditions and preparation practices vary, and gastrointestinal reactions are reported with many wild mushrooms.
+
+Only expertly confirmed, fresh material should enter a kitchen. Avoid polluted sites, old specimens, unknown mixed collections, and vulnerable diners. Cook thoroughly, retain an uncooked sample, and stop if identity or condition becomes uncertain. Drying and cooking do not neutralize every toxin or correct a mistaken species.
+
+## Document before collecting
+
+Photograph the group, cap sheen, pores, ring, glandular dots, bases, pine evidence, and surrounding vegetation. Note weather because recent rain affects the cap. Collect minimally and lawfully; ectomycorrhizal habitat is more important than filling a basket. For symptoms after a wild meal, contact emergency services or a poison center and retain samples and meal details.
+
+Use the [bolete identification guide](/identification/bolete-identification-guide/) for pore and staining records, the [habitat guide](/identification/mushroom-habitat-identification/) for pine evidence, and the [identification safety checklist](/identification/mushroom-identification-safety-checklist/) before any wild-food discussion.
+
+## Editorial and evidence limits
+
+This stored draft has editorial review only and no named mycologist or clinician. It does not promise edibility from a checklist or recommend transplantation. Before publication, recheck taxonomy, introduced-range records, sources, related links, image disclosure, and local poison guidance while keeping `draft: true`.
+
+## Publication-ready questions to answer from the record
+
+**Does every slimy brown bolete belong to *S. luteus*?** No. Rain alters cap texture and multiple *Suillus* species are viscid. Confirm yellow pores, ring history, glandular dots, pine relationship, spores, and region.
+
+**Can an old specimen lose its ring?** Yes. Damage and expansion can obscure a veil, which is why several ages in one population are more informative than a single mature cap.
+
+**Does peeling the cap make it universally tolerated?** No. Preparation traditions do not eliminate misidentification, spoilage, contamination, allergy, or individual gastrointestinal reactions.
+
+**Why mention plantations?** Pine-associated fungi can travel with planted hosts. That history helps explain occurrence but does not prove identity or authorize moving soil and seedlings.
+
+**What must happen before publication?** Verify introduced-range statements, confirm all linked pages are public, check FAQ visibility and Schema, inspect the accepted second-generation cover rather than the rejected overturned-specimen image, set a deliberate current publish date, and run the complete production build and internal-link audit.
+
+## Example rain-to-dry observation sequence
+
+Photograph a population soon after rain without touching the caps, recording sheen, adhering debris, margin, pore color, ring, and stem dots. If lawful and practical, return after a dry interval and photograph comparable fruit bodies. The purpose is not to prove identity from weather but to show which characters persist when the viscid layer changes.
+
+Use a separate specimen for a section and spore deposit. Time every color observation, record the background used for the deposit, and avoid mixing several species in one packet. A collection label should connect photographs, host evidence, measurements, voucher, and any microscopy. Loose images and an unlabeled dried cap cannot support the same conclusion.
+
+For introduced populations, add plantation age, pine species, nearby nursery or soil movement where known, and local biosecurity rules. Do not publicize sensitive sites or encourage transplantation. These records make the page relevant to ecology and invasion pathways while keeping food advice conservative and subordinate to verified identification.
+
+The release editor should verify that “conditional” edibility is explained rather than used as a recommendation. Keep reaction, specimen condition, preparation tradition, and regional guidance visible together. Check that the ring is described as a character that can be damaged, not a perfect pass/fail test, and that cap slime is never equated with spoilage or safety. These distinctions are the page’s unique value beyond a generic bolete checklist.
+
+Finally, confirm that no internal link points to a draft and that the page does not compete with the general bolete guide. The species page owns the *S. luteus* and pine-plantation intent; the guide owns general pore and staining technique.
 
 ## How to document a find
 
