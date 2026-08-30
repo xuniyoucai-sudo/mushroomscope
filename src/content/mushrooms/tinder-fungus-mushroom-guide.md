@@ -5,14 +5,14 @@ description: "Understand tinder fungus hoof-shaped brackets, perennial pore laye
 keywords: ["tinder fungus", "Fomes fomentarius", "tinder fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-08-31
+draft: false
 featured: false
 coverImage: "../../assets/species/tinder-fungus-editorial-v2.png"
 coverAlt: "Gray hoof-shaped tinder fungus brackets attached to mature birch bark"
 imageCredit: "Original MushroomScope AI editorial image"
-imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
+imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
+relatedEntries: ["mushrooms/artists-conk-mushroom-guide", "mushrooms/birch-polypore-mushroom-guide", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Fomes fomentarius"
     url: "https://www.gbif.org/species/8068867"
@@ -22,6 +22,12 @@ sources:
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
+  - title: "Tomšovský et al. — Fomes fomentarius and F. inzengae in Central Europe"
+    url: "https://link.springer.com/article/10.1007/s11557-023-01928-y"
+  - title: "Peck et al. — Fomes structure as a high-performance material"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946349/"
+  - title: "Cristini et al. — Incipient Fomes decay in beech and linden"
+    url: "https://www.sciencedirect.com/science/article/pii/S0378112724004134"
 faq:
   - question: "Why does tinder fungus form hoof-shaped brackets?"
     answer: "The perennial fruit body adds new pore tissue over successive growing periods while the upper crust weathers and zones. Its profile can therefore preserve several seasons of growth without providing a perfectly countable age."
@@ -136,7 +142,7 @@ Use the [habitat identification guide](/identification/mushroom-habitat-identifi
 
 ## Editorial and safety limits
 
-This stored draft has editorial review only and no named mycologist, archaeologist, arborist, or clinician. It does not recommend ingestion, wound care, tree treatment, or indoor burning. Before publication, recheck taxonomy, host records, fire guidance, sources, internal links, and image disclosure while keeping the page in draft status.
+This guide has editorial review only and no named mycologist, archaeologist, arborist, materials scientist or clinician. It does not recommend ingestion, wound care, tree treatment or indoor burning. The cited phylogenetic work supports a regional distinction between *F. fomentarius* and *F. inzengae*; it does not make host and elevation sufficient for identification elsewhere. The materials paper documents structure and historical material context, not a clinical benefit or a household fire procedure.
 
 ## Publication-ready questions to answer from the record
 
@@ -148,7 +154,7 @@ This stored draft has editorial review only and no named mycologist, archaeologi
 
 **Can historical use justify a supplement claim?** No. Material history and ethnography do not demonstrate clinical identity, dose, purity, efficacy, or safety. Products need their own traceability and evidence.
 
-**What must happen before publication?** Verify every host and historical statement against its cited source, confirm the artist’s-conk link remains public, ensure FAQ Schema mirrors frontmatter, inspect the responsive cover, set a deliberate current publish date without inventing expert review, and complete the full production build.
+**Why can two similar conks need molecular work?** Recent Central European research separated *F. fomentarius* and *F. inzengae* using ITS data alongside ecology and morphology. A host or elevation clue can guide comparison, but it cannot substitute for the full regional evidence set.
 
 ## Example tree-side observation record
 
@@ -158,7 +164,7 @@ If the site is visited again, use the same camera direction and measurement poin
 
 For a museum or craft context, add provenance and permission, preparation method, and whether the object is modern experimental amadou or an archaeological artifact. These categories must not be blended. Clear provenance is what keeps the page about a specific fungus and material history rather than a collection of romantic but unverifiable claims.
 
-The final release should also distinguish organism, fruit body, decayed wood, processed amadou, smoke, extract, and retail powder. Evidence about one material cannot be silently transferred to another. Captions must say whether an image is generated editorial context, a documented field specimen, or an artifact. This vocabulary check prevents the historical section from implying clinical efficacy and prevents the tree section from implying that a visible bracket alone establishes immediate hazard.
+The page distinguishes organism, fruit body, decayed wood, processed amadou, smoke, extract and retail powder. Evidence about one material cannot be silently transferred to another. Captions must say whether an image is generated editorial context, a documented field specimen or an artifact. This vocabulary check prevents the historical section from implying clinical efficacy and prevents the tree section from implying that a visible bracket alone establishes immediate hazard.
 
 ## A non-destructive conk record
 
@@ -182,5 +188,8 @@ For a tree-risk observation, distinguish fungal identity from structural assessm
 2. National Center for Biotechnology Information. [*Fomes fomentarius* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Fomes+fomentarius). Lineage and nomenclature checkpoint within the perennial polypores.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+5. Tomšovský M, et al. [Ecological, morphological and phylogenetic survey of *Fomes fomentarius* and *F. inzengae*](https://link.springer.com/article/10.1007/s11557-023-01928-y). *Mycological Progress.* 2023. Regional host, elevation and ITS-supported species boundaries.
+6. Peck M, et al. [The complex structure of *Fomes fomentarius* represents an architectural design for high-performance ultralightweight materials](https://pmc.ncbi.nlm.nih.gov/articles/PMC9946349/). *Science Advances.* 2023. Fruit-body layers, material properties and historical material context.
+7. Cristini V, et al. [Incipient decay in beech and linden](https://www.sciencedirect.com/science/article/pii/S0378112724004134). *Forest Ecology and Management.* 2024;566:122101. Controlled evidence that mechanical effects depend on fungus–wood combinations, not bracket appearance alone.
 
-*Editorial status: no named mycologist reviewed this draft. Recheck host range, regional conk comparisons and tree-risk wording before release.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 31, 2026; no named mycologist, archaeologist, arborist, materials scientist or clinician reviewed this page. Recheck host range, regional conk comparisons and tree-risk wording before acting on a real specimen or tree.*
