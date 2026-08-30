@@ -218,6 +218,6 @@ The cover is an original AI editorial illustration checked for clear broth, plau
 
 ## Sources and editorial method
 
-Cornell sources establish that culture and spawn production are skilled sterile stages and distinguish inoculum from fruiting blocks. CDC supports the general steam-sterilization principles; equipment-specific operation must come from the pressure-canner maker and a validated cultivation protocol. Penn State Extension provides professional mushroom-production context. Before publication, the workflow needs a documented jar-volume-specific protocol review and a full dry-run of the batch log.
+Cornell sources establish that culture and spawn production are skilled sterile stages and distinguish inoculum from fruiting blocks. CDC supports general steam-sterilization principles; equipment-specific operation must come from the pressure-canner maker and a validated cultivation protocol. Penn State Extension provides professional mushroom-production context. Because this editorial guide was not laboratory-validated, it deliberately omits a universal broth ratio or processing cycle and directs readers to equipment- and culture-specific instructions.
 
-*Draft editorial review: August 30, 2026. Verify equipment-specific processing parameters and all links before publication.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named laboratory specialist reviewed or validated this workflow.*

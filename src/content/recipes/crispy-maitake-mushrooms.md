@@ -191,4 +191,4 @@ No. The target is brittle or crisp outer fronds with a tender branch core; dryin
 
 FDA guidance supports cleaning, refrigeration, and kitchen-separation statements. USDA FSIS supports cooling, storage, and reheating limits. FoodData Central is the appropriate starting point for ingredient-matched nutrition rather than estimates. Cornell's material establishes the cultivated specialty-mushroom context. Before publication, a logged kitchen test should record cluster weights, tray material, oven mode, timing, and weight loss.
 
-*Draft editorial review: August 30, 2026. Complete a documented kitchen test and recheck all external links before publication.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*

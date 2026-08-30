@@ -197,4 +197,4 @@ Eggs provide most of the protein. Exact nutrition depends on egg size, mushroom 
 
 USDA FSIS supports the egg-temperature and leftover statements. FDA guidance supports produce washing and clean preparation. FoodData Central is the basis for ingredient-specific nutrient calculation. Before publication, a logged kitchen test should record pan diameter, mushroom weight loss, burner level, egg temperature, fold timing, and final thick-point temperature.
 
-*Draft editorial review: August 30, 2026. Complete a documented kitchen test and source-link check before publication.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*

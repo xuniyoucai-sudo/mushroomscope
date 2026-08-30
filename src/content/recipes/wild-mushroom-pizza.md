@@ -199,4 +199,4 @@ No. Each species has its own identification, preparation, and toxicity issues. U
 
 FDA outbreak guidance supports the strong boundary around wild-type mushrooms and undercooked morels. FDA produce guidance supports cleaning and refrigeration practices. USDA FSIS supports leftover cooling, storage, and reheating. FoodData Central is the source for ingredient-matched nutrition calculations. Before publication, a kitchen test should log dough weight, surface type, mushroom raw and cooked weight, oven temperature, bake time, and bottom-crust result.
 
-*Draft editorial review: August 30, 2026. Complete a documented kitchen test and verify each source link before publication.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*

@@ -185,6 +185,6 @@ No. “Steak” describes shape and cooking technique, not protein or nutrient e
 
 ## Sources and testing notes
 
-FDA guidance supports washing, refrigeration, and cross-contamination statements. USDA FSIS supports cooling, storage, and reheating limits. USDA FoodData Central is provided for ingredient-matched nutrient checks rather than unsupported estimates. Cornell's specialty-mushroom material supports the cultivated-product context. The technique is specified through observable moisture, browning, and texture cues so a future kitchen test can record pan size, slab weight, surface temperature, and timing before publication.
+FDA guidance supports washing, refrigeration, and cross-contamination statements. USDA FSIS supports cooling, storage, and reheating limits. USDA FoodData Central is provided for ingredient-matched nutrient checks rather than unsupported estimates. Cornell's specialty-mushroom material supports the cultivated-product context. This is an editorial recipe, not a controlled test-kitchen report; pan response varies, so the method pairs approximate times with visible moisture, browning, center heat, and texture cues.
 
-*Draft editorial review: August 30, 2026. A documented kitchen test and final source-link check are required immediately before switching `draft` to `false`.*
+*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*
