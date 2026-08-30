@@ -16,23 +16,23 @@ relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mus
 sources:
   - title: "GBIF — Suillus luteus"
     url: "https://www.gbif.org/species/7777157"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Suillus luteus"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Suillus+luteus"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Slippery jack be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Slippery jack safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Slippery jack grow?"
-    answer: "A pine-associated mycorrhizal bolete, often introduced with plantations. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Slippery jack?"
-    answer: "The expected deposit is olive brown., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Slippery jack be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "Which features distinguish Suillus luteus from ringless Suillus species?"
+    answer: "Look for the combined pattern of a very viscid brown cap, yellow pores, glandular dots on the upper stem, a membranous ring and association with compatible pines. No single feature is sufficient."
+  - question: "Does a slippery cap prove a mushroom is slippery jack?"
+    answer: "No. Moisture makes many caps slick, while dry weather can make Suillus luteus look less viscid. Check the pore surface, veil-derived ring, stem dots, host and regional species set."
+  - question: "Why are slippery jacks common around introduced pine plantations?"
+    answer: "The ectomycorrhizal fungus can move with compatible planted pines and establish where both partners and suitable conditions occur. A record outside its native range should therefore include plantation history."
+  - question: "Can peeling the cap make an unidentified slippery jack safe?"
+    answer: "No. Removing the skin changes texture but does not correct a mistaken identification or eliminate every cause of gastrointestinal illness. Local identification and conservative food guidance remain necessary."
+  - question: "Can Suillus luteus be grown without a pine tree?"
+    answer: "It is not an ordinary saprotrophic block crop. Its life cycle depends on a living pine-root partnership, so indoor substrate colonization alone is not a reliable cultivation method."
 scientificName: "Suillus luteus"
 commonNames: ["Slippery jack"]
 externalIds: { gbif: "7777157" }
@@ -79,20 +79,20 @@ similarSpecies:
 
 ## Identification overview
 
-Brown very slimy caps, yellow pores, a pale ring, and association with two-needled pines. Yellow pore layer rather than gills; pores darken with age. Pale stem with glandular dots and a membranous ring. Pale yellow flesh that changes little when cut. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A olive brown. spore deposit is supporting evidence, never a species verdict.
+Slippery jack is built around a combined field pattern: a brown cap with a peelable gelatinous skin, yellow pores rather than gills, a membranous ring left by the partial veil, glandular dots above the ring and a nearby compatible pine. Wet caps can look lacquered, whereas dry specimens may retain only a tacky surface. Photograph the ring from several angles before it tears, then record pores, full stem, cut flesh and an olive-brown spore deposit.
 
 ## Habitat and season
 
-A pine-associated mycorrhizal bolete, often introduced with plantations. The documented range represented here includes Europe and Asia and introduced worldwide. Typical substrates or settings include soil beneath pines and pine plantations. Fruiting records commonly occur in August, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
+The fungus is ectomycorrhizal with pines and has traveled widely with planted hosts. That history makes roadside shelterbelts, young plantations and landscaped pines relevant habitat, but the nearest tree still needs to be identified rather than assumed. Fruit bodies often follow cool wet periods; a calendar month without rainfall, host and locality context has little diagnostic value.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+The relevant ecological question is which pine can support the mycorrhiza. Photograph needles in countable bundles, cones or bark where available and show the mushroom's position within the root zone. In introduced areas, record whether the site is a plantation, shelterbelt or landscape planting.
 
 ## Similar species
 
 - **Suillus granulatus — lacks a ring and has glandular droplets when young.**
 - **Suillus grevillei — associated with larch and usually more yellow-orange.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Ring presence separates useful groups within *Suillus* only when the veil has been observed before it collapses. Compare *S. granulatus* and other local ringless taxa using pore droplets, glandular dots, cap fibers and host. Photographing young and mature specimens prevents a lost ring from becoming a false absence.
 
 ## Food and safety context
 
@@ -102,7 +102,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Slippery jack cannot be treated like an oyster mushroom grown on dead plant material. Its compatible pine partner, root colonization, soil community and outdoor establishment are integral to the life cycle. Inoculating an unknown wild bolete into a garden neither confirms the species nor creates a traceable food crop.
 
 ## Combine cap, pores, ring, and pine
 
@@ -162,19 +162,19 @@ The release editor should verify that “conditional” edibility is explained r
 
 Finally, confirm that no internal link points to a draft and that the page does not compete with the general bolete guide. The species page owns the *S. luteus* and pine-plantation intent; the guide owns general pore and staining technique.
 
-## How to document a find
+## A rain-to-dry slippery jack record
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Record rainfall and photograph the cap sheen without adding water.
+2. Identify the associated pine from needles, cones or bark rather than proximity alone.
+3. Document young veil, mature ring, yellow pores and glandular dots at close range.
+4. Compare the same cap after surface drying and note what texture remains.
+5. Retain an olive-brown spore record and use a regional *Suillus* key for resolution.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Suillus luteus species record](https://www.gbif.org/species/7777157). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+1. Global Biodiversity Information Facility. [Suillus luteus species record](https://www.gbif.org/species/7777157). Name and occurrence data supporting its broad introduced distribution with pines.
+2. National Center for Biotechnology Information. [*Suillus luteus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Suillus+luteus). Lineage checkpoint for separating *Suillus* from superficially similar boletes.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial status: no named mycologist reviewed this draft. Recheck the local *Suillus* set, introduced range and food-safety guidance before release.*

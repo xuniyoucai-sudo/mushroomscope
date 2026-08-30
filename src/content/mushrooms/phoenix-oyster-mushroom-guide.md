@@ -16,23 +16,23 @@ relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushroo
 sources:
   - title: "GBIF — Pleurotus pulmonarius"
     url: "https://www.gbif.org/species/2526548"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Pleurotus pulmonarius"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pleurotus+pulmonarius"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Phoenix oyster mushroom be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Phoenix oyster mushroom safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Phoenix oyster mushroom grow?"
-    answer: "A warm-season hardwood decomposer and cultivated oyster species. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Phoenix oyster mushroom?"
-    answer: "The expected deposit is white to pale lilac., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Phoenix oyster mushroom be cultivated at home?"
-    answer: "Authenticated commercial culture can be cultivated with a proven supplier method; keep clean batch records and discard suspect material."
+  - question: "How does Phoenix oyster differ from the common oyster mushroom?"
+    answer: "Phoenix oyster is a warm-fruiting Pleurotus pulmonarius concept, often pale and relatively thin-fleshed. Pleurotus ostreatus is commonly treated as a cooler-fruiting complex, but morphology overlaps and difficult records may require microscopy or DNA."
+  - question: "Does a white oyster mushroom found in summer have to be Pleurotus pulmonarius?"
+    answer: "No. Cap color and season vary with weather, strain and geography. Confirm hardwood attachment, decurrent gills, flesh, spore deposit, regional range and the complete comparison set."
+  - question: "What substrate is used for cultivated Phoenix oysters?"
+    answer: "Authenticated strains are commonly produced on prepared lignocellulosic materials such as straw or supplemented hardwood sawdust. Water, treatment, inoculation and fruiting conditions must follow the culture supplier's method."
+  - question: "Why can Phoenix oyster mushrooms develop long stems and small caps?"
+    answer: "Fresh-air exchange is one possible factor, but temperature, humidity, light, crowding, genetics and harvest timing can produce overlapping symptoms. Change and document one variable at a time."
+  - question: "Can this guide confirm a wild Phoenix oyster is edible?"
+    answer: "No. A webpage and AI editorial image cannot clear a wild collection. Use a qualified local identifier and reject specimens from uncertain substrates, contaminated sites, mixed clusters or poor condition."
 scientificName: "Pleurotus pulmonarius"
 commonNames: ["Phoenix oyster mushroom"]
 externalIds: { gbif: "2526548" }
@@ -79,20 +79,20 @@ similarSpecies:
 
 ## Identification overview
 
-Pale cream to gray fan-shaped caps in warm-season clusters with white decurrent gills. White to cream gills descend a short stem. Short lateral pale stem, sometimes more developed than in P. ostreatus. White, tender when young, becoming tougher with age. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white to pale lilac. spore deposit is supporting evidence, never a species verdict.
+Phoenix oyster forms overlapping fans with pale cream, buff or gray caps and crowded pale gills running down a short eccentric stem. Young margins are inrolled; expanded caps become flatter and the flesh loses tenderness with age. Record a whole cluster because attachment, crowding and the range of developmental stages carry more information than an isolated cap. A white to pale lilac spore deposit supports the record but does not separate every pale *Pleurotus*.
 
 ## Habitat and season
 
-A warm-season hardwood decomposer and cultivated oyster species. The documented range represented here includes temperate and subtropical regions. Typical substrates or settings include hardwood and straw and supplemented sawdust. Fruiting records commonly occur in May, June, July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
+In the wild, the species concept is associated with dead or declining hardwood and tends to fruit in warmer conditions than the familiar *P. ostreatus* concept. Cultivated strains occur far outside natural occurrence records, so a garden log or discarded block is not evidence of a native population. Record the tree, whether the wood is standing or fallen, and whether buried roots could explain an apparently terrestrial cluster.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+For this oyster, ecology begins at the attachment. Show whether multiple fans share one buried base, grow from exposed hardwood, or emerge from a cultivation block. Photograph bark or end grain when present, note nearby host evidence, and distinguish a naturally fallen log from discarded inoculated material.
 
 ## Similar species
 
 - **Pleurotus ostreatus — often a cooler-season, darker oyster; separation can require ecology or DNA.**
 - **Pleurocybella porrigens — thin white conifer-associated shelves.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+The practical comparison set includes other pale *Pleurotus*, conifer-associated angel wings, and locally occurring wood-fruiting gilled fungi. Warm weather narrows a hypothesis but does not close it. Closely related oyster collections may need microscopic measurements, a retained culture or sequence data when an exact name matters.
 
 ## Food and safety context
 
@@ -102,7 +102,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-Commercial cultivation is practical with authenticated spawn and species-appropriate plant material. Follow the supplier’s strain-specific temperatures and hygiene process; internet-wide set points cannot replace those instructions. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Phoenix oyster is a practical crop when spawn identity and strain instructions are traceable. Record substrate dry mass, water addition, heat treatment and inoculation rate rather than copying a universal recipe. During fruiting, evaluate cluster form together with measured temperature and fresh-air exchange. Quarantine blocks with unplanned fruit bodies, sour odor, colored growth or insect damage.
 
 ## Define the Phoenix oyster intent
 
@@ -156,19 +156,19 @@ The log should distinguish observation from interpretation. “Longer stems than
 
 At editorial release, summarize only parameters supported by the cited method or the culture supplier. Do not present one home batch as a controlled trial, claim superior yield without comparable dry substrate, or describe an AI image as crop evidence. This page is ready for scheduled publication only after a final editor confirms those boundaries remain intact.
 
-## How to document a find
+## A Phoenix oyster field record
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Frame the entire overlapping cluster and the exact hardwood attachment.
+2. Record date, recent temperature pattern, wood condition and evidence for the host.
+3. Photograph cap surfaces, decurrent gills and eccentric stems across several ages.
+4. Measure representative caps and document a pale spore deposit on contrasting surfaces.
+5. Compare the record with regional *Pleurotus* treatments; retain material when species-level resolution matters.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Pleurotus pulmonarius species record](https://www.gbif.org/species/2526548). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+1. Global Biodiversity Information Facility. [Pleurotus pulmonarius species record](https://www.gbif.org/species/2526548). Accepted-name and mapped occurrence context for the warm-season species concept.
+2. National Center for Biotechnology Information. [*Pleurotus pulmonarius* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pleurotus+pulmonarius). Lineage records used to check its placement within *Pleurotus*.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial status: no named mycologist reviewed this draft. Recheck the local *Pleurotus* concept, culture guidance and poison-response contacts before release.*

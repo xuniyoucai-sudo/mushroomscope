@@ -16,23 +16,23 @@ relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mus
 sources:
   - title: "GBIF — Pseudohydnum gelatinosum"
     url: "https://www.gbif.org/species/5249353"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Pseudohydnum gelatinosum"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pseudohydnum+gelatinosum"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Jelly tooth fungus be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Jelly tooth fungus safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Jelly tooth fungus grow?"
-    answer: "A wood-decaying jelly fungus on well-rotted conifer wood. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Jelly tooth fungus?"
-    answer: "The expected deposit is white., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Jelly tooth fungus be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "What feature gives jelly tooth fungus its name?"
+    answer: "Its fruit body is gelatinous and translucent, while the lower fertile surface bears dense, short, soft teeth. The combination matters because many jelly fungi lack teeth and many toothed fungi are firm rather than gelatinous."
+  - question: "Where should the attachment of Pseudohydnum gelatinosum be photographed?"
+    answer: "Photograph the point where each lobe joins the wood, plus bark remnants and a wider view of the log. Moss or deeply decayed buried wood can otherwise hide its conifer-wood ecology."
+  - question: "Can jelly tooth shrink until it is difficult to recognize?"
+    answer: "Yes. Dry weather can collapse and darken gelatinous fruit bodies; rain can restore a more translucent form. Photographs before drying are especially important for a voucher record."
+  - question: "Is jelly tooth the same kind of tooth fungus as hedgehog mushrooms?"
+    answer: "No. A toothed fertile surface evolved in multiple fungal lineages. Jelly tooth is a gelatinous wood dweller in Auriculariales, whereas Hydnum species are firm, fleshy, soil-fruiting mycorrhizal mushrooms."
+  - question: "Does an edible label make a photographed jelly tooth safe to eat?"
+    answer: "No. The label assumes correct identity and does not assess locality, substrate contamination, specimen condition or individual sensitivity. This page cannot provide edible clearance."
 scientificName: "Pseudohydnum gelatinosum"
 commonNames: ["Jelly tooth fungus"]
 externalIds: { gbif: "5249353" }
@@ -78,20 +78,20 @@ similarSpecies:
 
 ## Identification overview
 
-Translucent gray-white fan- or tongue-shaped gelatinous caps with soft white teeth underneath. Short soft teeth cover the lower fertile surface. Short lateral gelatinous attachment. Clear to gray gelatinous flesh with little odor. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white. spore deposit is supporting evidence, never a species verdict.
+The diagnostic starting combination is a translucent gray to brownish gelatinous lobe with a dense lower surface of short white teeth. Lobes may be fan-shaped, tongue-shaped or irregular and attach laterally to wood. Photograph naturally overturned specimens when possible; flipping every lobe can damage the colony. A white deposit is difficult to observe on ordinary paper and is supporting evidence rather than a one-step identification.
 
 ## Habitat and season
 
-A wood-decaying jelly fungus on well-rotted conifer wood. The documented range represented here includes Europe and Asia and North America. Typical substrates or settings include rotted conifer logs and stumps. Fruiting records commonly occur in August, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
+Jelly tooth is documented chiefly from well-rotted conifer logs and stumps across northern temperate regions. Advanced decay can erase bark and make the host uncertain, so distinguish a confirmed conifer from a nearby-tree guess. Moist autumn weather often makes fruit bodies conspicuous, but rainfall, elevation and local climate are more informative than a fixed month list.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+The attachment and decay stage are central evidence. Show the lobe emerging from wood, any remaining bark and enough of the log to evaluate whether it is coniferous. If the substrate is too decomposed to identify, record it as uncertain rather than assigning the nearest standing tree as host.
 
 ## Similar species
 
 - **Tremella species — gelatinous lobes without a toothed fertile surface.**
 - **Hydnum species — firm fleshy tooth fungi growing from soil rather than gelatinous wood dwellers.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Jelly fungi must be compared by surface anatomy as well as shape. A smooth *Tremella*-like lobe lacks the dense soft teeth; a *Hydnum* tooth surface belongs to firm flesh and a terrestrial fruit body. Weathered material can erase both distinctions, which is a reason to leave it unnamed rather than rely on an image match.
 
 ## Food and safety context
 
@@ -101,7 +101,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Jelly tooth is not supported by the predictable home-block methods used for commercial oysters. A culture experiment would need authenticated material, documented conifer wood, moisture control and a research purpose; a bag of colonized sawdust does not prove identity or food suitability. Do not transfer wild tissue into a food-growing area.
 
 ## Confirm the unusual texture-and-teeth combination
 
@@ -165,19 +165,19 @@ Before release, verify that “jelly,” “tooth,” and “conifer wood” app
 
 The final editor should also test the page at mobile width so the translucent subject is not lost to an overly dark crop. Alt text must describe visible structure without asserting identity certainty, while the image note retains the AI and non-identification disclosure.
 
-## How to document a find
+## A jelly tooth voucher sequence
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Begin with the whole decayed log and any host-identification evidence.
+2. Capture upper lobes and naturally visible lower teeth before handling.
+3. Record dimensions, translucency, resilience, recent rainfall and drying state.
+4. Link any lawful voucher to pre-drying photographs because the form changes markedly when dry.
+5. Use a regional jelly-fungus key and microscopy when teeth or substrate are ambiguous.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Pseudohydnum gelatinosum species record](https://www.gbif.org/species/5249353). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+1. Global Biodiversity Information Facility. [Pseudohydnum gelatinosum species record](https://www.gbif.org/species/5249353). Nomenclature and geographic occurrence context for the species complex.
+2. National Center for Biotechnology Information. [*Pseudohydnum gelatinosum* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pseudohydnum+gelatinosum). Placement within Auriculariales, separate from fleshy *Hydnum* tooth fungi.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial status: no named mycologist reviewed this draft. Recheck regional *Pseudohydnum* limits, conifer-host evidence and emergency contacts before release.*

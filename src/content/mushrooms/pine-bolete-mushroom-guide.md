@@ -16,23 +16,23 @@ relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mus
 sources:
   - title: "GBIF — Boletus pinophilus"
     url: "https://www.gbif.org/species/5954949"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Boletus pinophilus"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Boletus+pinophilus"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Pine bolete be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Pine bolete safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Pine bolete grow?"
-    answer: "A mycorrhizal bolete associated mainly with pine and other conifers. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Pine bolete?"
-    answer: "The expected deposit is olive brown., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Pine bolete be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "How does pine bolete differ from porcini in the broad sense?"
+    answer: "Boletus pinophilus is one member of the porcini or edulis complex, characterized in its core range by a reddish-brown cap, stout reticulate stem and conifer association. Names and species limits vary regionally, so the broad market term porcini is not a precise identification."
+  - question: "What should be recorded on the underside of a pine bolete?"
+    answer: "Record pore color, pore size, bruising after a timed interval and any insect damage. Young pores are pale and mature toward yellow-olive; gills would rule out a bolete identification."
+  - question: "Does finding a bolete under pine prove it is Boletus pinophilus?"
+    answer: "No. Several boletes associate with pines. Confirm the cap, reticulate stem, pore development, flesh reactions, geography and regional key rather than using the host alone."
+  - question: "Why is pine bolete not an ordinary home-growing species?"
+    answer: "It is ectomycorrhizal and depends on a living tree-root partnership. Producing mycelium in culture is not equivalent to establishing that partnership and reliably forming mushrooms."
+  - question: "Can this page confirm a pine bolete is safe to eat?"
+    answer: "No. Bolete comparisons are regional and specimen condition also matters. Obtain qualified local confirmation and never use cap color, a phone image or the absence of blue staining as edible clearance."
 scientificName: "Boletus pinophilus"
 commonNames: ["Pine bolete"]
 externalIds: { gbif: "5954949" }
@@ -79,20 +79,20 @@ similarSpecies:
 
 ## Identification overview
 
-Robust reddish-brown cap, white then yellow-olive pores, and a thick reticulate stem. Fine pores mature from white to yellow and olive, without gills. Bulbous pale to brownish stem with a raised net pattern. White firm flesh that generally does not blue strongly. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A olive brown. spore deposit is supporting evidence, never a species verdict.
+A typical pine bolete record combines a robust reddish- to chestnut-brown cap, a fine pore surface that changes from whitish to yellow-olive, and a thick pale stem carrying raised netlike reticulation. Cut flesh is usually white and lacks the dramatic rapid blue reaction seen in some other boletes, but absence of blue is not a safety test. Photograph several ages, the complete stem base, pore surface and a timed cut reaction. An olive-brown spore deposit only supports the wider bolete assessment.
 
 ## Habitat and season
 
-A mycorrhizal bolete associated mainly with pine and other conifers. The documented range represented here includes Europe and Asia. Typical substrates or settings include conifer forest soil and pine-associated soil. Fruiting records commonly occur in June, July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
+This is an ectomycorrhizal mushroom linked mainly with pines and other conifers in its established Eurasian range. The fruit body rises from soil, but the feeding relationship is with living roots rather than leaf litter. Record which tree species are close enough to be plausible partners, forest age, elevation and soil conditions; plantation records and imported market names should not be treated as proof of a local wild species.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Because this bolete fruits from soil, the missing attachment is a living root partnership rather than buried wood. Map nearby pines and other conifers, photograph needles and bark when host identity is defensible, and note whether several fruit bodies trace the root zone. Host evidence supports—but never proves—the species name.
 
 ## Similar species
 
 - **Boletus edulis — typically paler brown and associated with several hosts.**
 - **Rubroboletus species — some poisonous boletes have red pores and blue staining.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Members of the *Boletus edulis* complex overlap strongly. Compare cap tone, reticulation extent, pore development, flesh reaction, host and geography as a bundle, then use the current regional treatment. Bitter or red-pored boletes introduce different characters, but simplistic “no red and no blue” rules are not edible tests.
 
 ## Food and safety context
 
@@ -102,7 +102,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Pine bolete depends on ectomycorrhiza with living tree roots, making a sterile sawdust block the wrong biological model. Research propagation must document both partners, root colonization and years of field conditions; mycelial growth alone is not successful mushroom cultivation. Home growers seeking a reliable crop should choose a saprotrophic species instead.
 
 ## Define the pine bolete concept
 
@@ -162,19 +162,19 @@ This comparison also protects search intent. The page should answer how *B. pino
 
 When editing the release, review every heading against the paragraph that follows it. “Pine association,” “pore maturation,” and “reticulation” are precise; “secrets,” “ultimate test,” and “guaranteed edible” are not. Confirm that the regional range is not presented as exhaustive and that records outside the stated core are evaluated under current local taxonomy. This final pass turns a descriptive draft into a cautious species account rather than a universal porcini shortcut.
 
-## How to document a find
+## A pine bolete comparison record
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the fruit body in place with candidate host trees and ground cover.
+2. Excavate the complete stem base and record reticulation from apex to lower stem.
+3. Capture pores at young and mature stages, then time any cut or bruise reaction.
+4. Record cap and stem measurements, odor without tasting, and an olive-brown deposit.
+5. Resolve the collection with a regional *Boletus* key rather than a market-name comparison.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Boletus pinophilus species record](https://www.gbif.org/species/5954949). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+1. Global Biodiversity Information Facility. [Boletus pinophilus species record](https://www.gbif.org/species/5954949). Accepted-name and Eurasian occurrence context used to limit geographic claims.
+2. National Center for Biotechnology Information. [*Boletus pinophilus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Boletus+pinophilus). Nomenclatural checkpoint for this pine-associated member of the *B. edulis* group.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial status: no named mycologist reviewed this draft. Recheck the regional porcini complex, host range and poison-response information before publication.*

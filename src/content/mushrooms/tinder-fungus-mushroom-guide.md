@@ -16,23 +16,23 @@ relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mus
 sources:
   - title: "GBIF — Fomes fomentarius"
     url: "https://www.gbif.org/species/8068867"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Fomes fomentarius"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Fomes+fomentarius"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Tinder fungus be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Tinder fungus safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Tinder fungus grow?"
-    answer: "A long-lived wood-decayer and pathogen of birch, beech, and other hardwoods. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Tinder fungus?"
-    answer: "The expected deposit is white., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Tinder fungus be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "Why does tinder fungus form hoof-shaped brackets?"
+    answer: "The perennial fruit body adds new pore tissue over successive growing periods while the upper crust weathers and zones. Its profile can therefore preserve several seasons of growth without providing a perfectly countable age."
+  - question: "Which trees commonly host Fomes fomentarius?"
+    answer: "Birch and beech are prominent hosts in much of its range, with additional hardwood associations varying geographically. Record the actual tree and whether it is living, standing dead or fallen."
+  - question: "How is tinder fungus different from horse hoof fungus lookalikes?"
+    answer: "Compare crust hardness and zoning, pore size and color, internal context, attachment, host, geography and microscopic characters. A gray hoof outline alone overlaps several perennial polypores."
+  - question: "What is amadou?"
+    answer: "Amadou is a processed fibrous material traditionally prepared from the internal context of certain brackets, especially Fomes fomentarius. Historical use does not establish a safe modern food, medical or fire-making procedure."
+  - question: "Does a tinder fungus bracket mean a tree will fall immediately?"
+    answer: "No. A bracket indicates established decay but does not by itself measure remaining wood strength or predict timing of failure. Trees near people or structures require assessment by a qualified arborist."
 scientificName: "Fomes fomentarius"
 commonNames: ["Tinder fungus"]
 externalIds: { gbif: "8068867" }
@@ -79,20 +79,20 @@ similarSpecies:
 
 ## Identification overview
 
-Perennial hoof-shaped brackets with gray zoned crusts and a brown pore surface. Fine pores cover the lower surface and add a new layer annually. No stem; attached broadly to wood. Tough corky trama, unsuitable as food. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white. spore deposit is supporting evidence, never a species verdict.
+Tinder fungus produces a hard, broadly attached bracket that often develops a hooflike profile. The upper crust is gray and concentrically zoned; the lower surface carries fine pores, with fresh growth paler than old weathered tissue. Internally, a hard crust overlies brown fibrous context and stacked tube layers. Photograph the host, side profile, lower pore surface and attachment. A white spore deposit may collect below an active bracket but is not a stand-alone identification.
 
 ## Habitat and season
 
-A long-lived wood-decayer and pathogen of birch, beech, and other hardwoods. The documented range represented here includes Europe and Asia and North America. Typical substrates or settings include standing hardwood and fallen hardwood. Fruiting records commonly occur in January, February, March, April, May, June, July, August, September, October, November, December, but latitude, elevation, rainfall, and host condition shift the calendar.
+The perennial brackets persist through the year on living, standing-dead and fallen hardwoods. Birch and beech are especially important hosts across much of the documented range, but host frequency changes by region. Because the visible conk is only the reproductive structure, record crown condition, wounds and wood defects without claiming the bracket reveals the exact extent or mechanical consequence of internal decay.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+For a perennial conk, the tree is part of the specimen record. Identify the host when bark, buds or leaves allow it; record living, standing-dead or fallen condition and the bracket's height and orientation. Do not cut into a living tree merely to expose internal layers.
 
 ## Similar species
 
 - **Phellinus species — often darker and differently textured perennial brackets.**
 - **Ganoderma applanatum — flatter brackets with a white markable pore surface.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Several perennial polypores converge on a gray hoof form. Compare pore density, crust cracking and zoning, internal context and tube layers, host and region. *Fomitopsis pinicola*, *Phellinus* species and old *Ganoderma* brackets differ in combinations that a single side-view photograph may hide.
 
 ## Food and safety context
 
@@ -102,7 +102,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Tinder fungus is a long-lived hardwood decayer, not a beginner food crop. Laboratory culture can study growth or material properties, but intentionally inoculating landscape trees would create decay risk and is outside an ordinary home-growing workflow. Historical amadou preparation is likewise not evidence of edible cultivation.
 
 ## Read the hoof as a perennial structure
 
@@ -160,19 +160,19 @@ For a museum or craft context, add provenance and permission, preparation method
 
 The final release should also distinguish organism, fruit body, decayed wood, processed amadou, smoke, extract, and retail powder. Evidence about one material cannot be silently transferred to another. Captions must say whether an image is generated editorial context, a documented field specimen, or an artifact. This vocabulary check prevents the historical section from implying clinical efficacy and prevents the tree section from implying that a visible bracket alone establishes immediate hazard.
 
-## How to document a find
+## A non-destructive conk record
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the complete tree and bracket position before moving close.
+2. Record host evidence, tree condition, bracket height, dimensions and orientation.
+3. Capture crust zones, margin, lower pores and broad attachment without prying the conk off.
+4. Note old versus fresh pore tissue and any white deposit beneath active fruiting.
+5. Refer tree-risk questions to an arborist and species questions to a regional polypore key.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Fomes fomentarius species record](https://www.gbif.org/species/8068867). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+1. Global Biodiversity Information Facility. [Fomes fomentarius species record](https://www.gbif.org/species/8068867). Accepted-name and distribution context for the tinder-fungus concept.
+2. National Center for Biotechnology Information. [*Fomes fomentarius* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Fomes+fomentarius). Lineage and nomenclature checkpoint within the perennial polypores.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial status: no named mycologist reviewed this draft. Recheck host range, regional conk comparisons and tree-risk wording before release.*
