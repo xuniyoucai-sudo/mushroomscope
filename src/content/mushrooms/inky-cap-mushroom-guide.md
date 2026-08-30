@@ -1,118 +1,222 @@
 ---
-title: "Coprinopsis atramentaria: Common inky cap Species Guide"
-seoTitle: "Common inky cap (Coprinopsis atramentaria) Species Guide"
-description: "Learn Common inky cap identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
-keywords: ["common inky cap", "Coprinopsis atramentaria", "common inky cap identification"]
+title: "Common Inky Cap: Alcohol Interaction, Habitat, and Lookalikes"
+seoTitle: "Common Inky Cap Identification and Alcohol Risk"
+description: "Identify common inky cap by smooth gray clustered caps, buried-wood ecology, black deliquescence, and its important delayed alcohol interaction."
+keywords: ["common inky cap", "Coprinopsis atramentaria", "inky cap alcohol interaction", "common inkcap identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
+coverImage: "../../assets/species/inky-cap-mushroom-editorial-v2.png"
+coverAlt: "AI editorial illustration of smooth gray common inky caps clustered beside a decaying hardwood stump"
+imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageNote: "AI-generated editorial illustration; not a voucher photograph or sufficient evidence for identification, edibility, or alcohol safety."
 draft: true
 featured: false
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
+relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors"]
 sources:
   - title: "GBIF — Coprinopsis atramentaria"
     url: "https://www.gbif.org/species/5242740"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Coprinopsis atramentaria"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Coprinopsis+atramentaria"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
-    url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Common inky cap be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Common inky cap safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Common inky cap grow?"
-    answer: "A decomposer from buried wood, stumps, and disturbed soil. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Common inky cap?"
-    answer: "The expected deposit is black., but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Common inky cap be cultivated at home?"
-    answer: "It is not a simple beginner crop; use authenticated commercial material and species-specific professional guidance rather than wild tissue."
+  - question: "What does common inky cap look like?"
+    answer: "It usually forms dense clusters of smooth gray to gray-brown bell-shaped caps with radial grooves, pale hollow stems, crowded gills, and margins that blacken and dissolve."
+  - question: "Why is alcohol dangerous with common inky cap?"
+    answer: "The species is associated with a coprine syndrome in which alcohol consumed around the mushroom exposure can trigger flushing, racing heart, palpitations, warmth, and other symptoms."
+  - question: "How long can the alcohol interaction remain relevant?"
+    answer: "NAMA reports reactions when alcohol was consumed as much as five days after eating inky caps. This page does not provide individualized clearance or a guaranteed safe interval."
+  - question: "How is common inky cap different from shaggy mane?"
+    answer: "Common inky cap has smooth gray clustered bells, often from buried wood; shaggy mane begins as a tall white cylindrical cap covered with conspicuous upturned scales."
+  - question: "Can common inky cap be safely identified online for food?"
+    answer: "No. Regional lookalikes, mixed clusters, developmental change, alcohol exposure, contaminants, and individual health factors require conservative in-person expertise."
 scientificName: "Coprinopsis atramentaria"
-commonNames: ["Common inky cap"]
+synonyms: ["Coprinus atramentarius"]
+commonNames: ["Common inky cap", "Common inkcap", "Tippler's bane"]
 externalIds: { gbif: "5242740" }
-taxonomy:
-  kingdom: Fungi
-  phylum: Basidiomycota
-  class: Agaricomycetes
-  order: Agaricales
-  family: Psathyrellaceae
-  genus: Coprinopsis
+taxonomy: { kingdom: Fungi, phylum: Basidiomycota, class: Agaricomycetes, order: Agaricales, family: Psathyrellaceae, genus: Coprinopsis }
 identification:
-  summary: "Gray-brown clustered caps with radial grooves that dissolve into black ink as spores mature. Crowded gills turn gray, then black, and deliquesce. Smooth pale hollow stem without a persistent ring."
-  keyFeatures: ["Gray-brown clustered caps with radial grooves that dissolve into black ink as spores mature.", "Crowded gills turn gray, then black, and deliquesce.", "Smooth pale hollow stem without a persistent ring.", "Black."]
+  summary: "A clustered decomposer with smooth gray-brown bell caps, radial grooves, crowded gills that darken and dissolve, pale hollow stems, black spores, and buried-wood ecology."
+  keyFeatures: ["Dense gray-brown clusters", "Smooth radially grooved bell caps", "Gills turn gray then black", "Black deliquescent margins", "Growth from stumps, roots, or buried wood"]
 appearance:
-  cap: "Gray-brown clustered caps with radial grooves that dissolve into black ink as spores mature."
-  hymenium: "Crowded gills turn gray, then black, and deliquesce."
-  stem: "Smooth pale hollow stem without a persistent ring."
-  flesh: "Thin pale flesh that rapidly breaks down."
+  cap: "Ovoid to bell-shaped, smooth gray-brown with a darker center and fine radial grooves, expanding briefly before the margin blackens and dissolves."
+  hymenium: "Crowded gills, pale when young, then gray and black, free to narrowly attached, progressively deliquescent."
+  stem: "Pale, smooth, hollow, without a persistent ring or volva, often packed tightly with neighboring stems."
+  flesh: "Thin and pale, rapidly lost as the cap self-digests."
   sporePrint: "Black."
 habitat:
-  summary: "A decomposer from buried wood, stumps, and disturbed soil."
-  regions: ["Europe", "Asia", "North America"]
-  substrates: ["buried wood", "stumps", "disturbed soil"]
+  summary: "A saprotroph fruiting from stumps, roots, buried hardwood, disturbed soil, gardens, and compacted urban ground."
+  regions: ["Europe", "Asia", "North America", "temperate regions elsewhere"]
+  substrates: ["buried wood", "deciduous stumps", "root zones", "disturbed soil", "garden ground"]
 season:
-  summary: "Fruiting timing varies with geography, weather, elevation, substrate, and host condition."
+  summary: "Can fruit from spring through autumn after moisture, with local timing shaped by climate and substrate."
   months: ["April", "May", "June", "September", "October", "November"]
 edibility:
   status: conditional
-  notes: "This database label is context, not remote clearance of a wild specimen; identity, preparation, spoilage, contamination, and individual reaction matter."
+  notes: "Historical food use is overshadowed by a clinically important alcohol interaction and identification uncertainty; this guide does not recommend consumption."
 toxicity:
   level: high
-  notes: "Risk includes misidentification and individual reaction. Consult current local toxicology guidance before any food decision."
+  notes: "Coprine-associated alcohol reactions can occur when alcohol is consumed around the exposure; NAMA notes reactions even days later."
 nutrition:
-  summary: "No species-specific nutrient value is asserted without a matched laboratory record; composition varies with material, substrate, water content, maturity, and preparation."
+  summary: "No nutrient values are presented because they do not address the central toxicology boundary and vary with material and preparation."
 growingDifficulty:
   level: not-cultivated
-  notes: "Cultivation assessment assumes authenticated culture and a documented species-specific method."
+  notes: "It is not a recommended beginner food crop; use established cultivated species instead."
 similarSpecies:
+  - name: "Coprinus comatus"
+    slug: "mushrooms/shaggy-mane-mushroom-guide"
+    differences: "Tall white cylindrical young caps with conspicuous shaggy scales rather than smooth gray clustered bells."
   - name: "Coprinellus micaceus"
-    differences: "smaller honey-brown clusters with mica-like veil grains."
-  - name: "Coprinopsis picacea"
-    differences: "contrasting black-and-white veil patches and different ecology."
+    differences: "Smaller honey-brown clusters, often with mica-like veil grains when fresh, and a different toxicology context."
+  - name: "Coprinopsis romagnesiana and allies"
+    differences: "Can overlap closely; cap veil, microscopic traits, ecology, and regional keys may be required."
 ---
 
-## Identification overview
+Common inky cap has two inseparable search intents: how to recognize the mushroom and why alcohol changes its risk. Treating it as merely another edible-looking ink cap hides the most important fact. *Coprinopsis atramentaria* is associated with a coprine syndrome in which alcohol around the exposure can provoke flushing, palpitations, racing heart, warmth, headache, and other symptoms.
 
-Gray-brown clustered caps with radial grooves that dissolve into black ink as spores mature. Crowded gills turn gray, then black, and deliquesce. Smooth pale hollow stem without a persistent ring. Thin pale flesh that rapidly breaks down. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A black. spore deposit is supporting evidence, never a species verdict.
+This page therefore does not offer a “safe cooking” recipe or a universal waiting period. It explains the field profile, close comparisons, and the toxicology boundary so a reader knows when to stop.
 
-## Habitat and season
+## The characteristic clustered profile
 
-A decomposer from buried wood, stumps, and disturbed soil. The documented range represented here includes Europe and Asia and North America. Typical substrates or settings include buried wood and stumps and disturbed soil. Fruiting records commonly occur in April, May, June, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
+Fruit bodies commonly appear in dense troops with stems pressed together. Young caps are egg-shaped to elongated bells, smooth gray or gray-brown, and darker at the center. Fine radial grooves become more obvious as caps expand. Mature margins blacken and liquefy.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Clusters often seem to grow from soil but connect to buried roots or timber. Photograph the whole group before separating it. Growth habit is much less clear after twenty similar stems are placed in a basket.
 
-## Similar species
+## Smooth cap rather than shaggy scales
 
-- **Coprinellus micaceus — smaller honey-brown clusters with mica-like veil grains.**
-- **Coprinopsis picacea — contrasting black-and-white veil patches and different ecology.**
+The cap surface is comparatively smooth, sometimes with fine fibrils or limited veil remnants, but it does not carry the conspicuous upturned white scales of shaggy mane. Moisture can make it slightly glossy; drying can lighten the outer cap.
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Color alone is weak. Gray-brown bell caps occur in several decomposer genera. Combine surface texture with cluster density, radial striation, gill progression, black spores, and the wood relationship.
 
-## Food and safety context
+## Gill change and deliquescence
 
-Common inky cap has preparation-dependent or risk-sensitive use reports. Because reactions, confusing species, or special hazards matter, this page does not recommend experimenting with a wild collection. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
+Crowded gills begin pale, turn gray, and then black as spores mature. The cap margin digests itself, producing black liquid that helps release spores. This change can progress quickly after collection.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+Document young, middle-aged, and dissolving specimens. A black puddle cannot reveal the original cap texture, veil, or gill attachment. An entirely old collection may be recognizable as an ink-cap group without supporting a species-level identification.
 
-## Cultivation context
+## Stem and base characters
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+The pale stem is smooth to finely fibrous, hollow, and usually lacks a persistent ring. There is no loose sac-like volva. Closely packed stems may curve outward as the cluster expands.
 
-## How to document a find
+Lift the base with attached substrate where permitted. Look for dark decayed wood, roots, or a stump below the soil. Never trim a white mushroom's base before dangerous comparisons have been considered.
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+## Black spores are necessary but not specific
 
-## References
+A mature cap can produce a black spore deposit. Use a cap that has darkened but not liquefied completely. The result supports an ink-cap hypothesis, but multiple related taxa have black spores.
 
-1. Global Biodiversity Information Facility. [Coprinopsis atramentaria species record](https://www.gbif.org/species/5242740). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
-3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+Microscopic spore size, shape, germ pore, cystidia, and cap-veil features may be needed within difficult groups. A field guide should state that limit rather than inflate a black print into certainty.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+## Buried wood explains “soil” clusters
+
+Common inky cap is a decomposer associated with stumps, roots, buried hardwood, gardens, path edges, and disturbed urban ground. A cluster beside a removed tree may follow the old root system for years.
+
+Record whether a tree was recently removed, which hardwoods are nearby, and whether mushrooms trace a line or arc. Lawn treatment, road splash, pet use, and industrial history also matter if anyone proposes food use—though this page does not recommend it.
+
+## Development can be recorded over one day
+
+Photograph a safe patch at fixed intervals without disturbing it. Young gray bells may expand and blacken within hours under warm moist conditions. This time series shows how one troop can look like several different mushrooms.
+
+Developmental evidence is especially useful for separating a smooth common inky cap from a prematurely labeled “shaggy mane.” It also explains why transported specimens arrive in poor condition.
+
+## The coprine-alcohol interaction
+
+NAMA describes an Antabuse-like syndrome associated with *Coprinopsis atramentaria*. Alcohol consumption can be followed by tachycardia, palpitations, tingling, warmth, flushing, headache, heavy limbs, and salivation. The mushroom meal and alcohol do not need to occur at the same moment.
+
+NAMA notes that alcohol as much as five days after eating inky caps has triggered reactions. That observation is not permission to assume a precise five-day cutoff for every person. Exposure amount, identification, metabolism, medications, underlying conditions, and alcohol sources vary.
+
+## Hidden alcohol sources complicate advice
+
+Alcohol may occur in beverages, cooking extracts, sauces, medicines, or other products. A reader cannot be given individualized clearance through a species article. The conservative editorial response is to avoid consuming this mushroom and seek current professional guidance after an exposure.
+
+Do not intentionally “test” the interaction. A previous uneventful meal does not establish safety for a later collection, particularly when identification may differ.
+
+## Symptoms require prompt professional advice
+
+If symptoms occur after eating a wild mushroom, contact local emergency services or a poison center promptly. Report the mushroom and alcohol timeline. Keep uncooked specimens, trimmings, photographs, packaging, and meal leftovers for professional identification.
+
+Do not self-diagnose coprine syndrome and assume every symptom will pass. Chest symptoms, fainting, breathing difficulty, severe vomiting, confusion, or any worsening condition require urgent assessment.
+
+## Shaggy mane is visually and chemically separate
+
+Shaggy mane, *Coprinus comatus*, starts as a tall white cylinder covered in shaggy upturned scales. Common inky cap starts as a smoother gray-brown bell and usually forms tighter clusters from woody substrates. Both can yield a dark deposit, so use the [mushroom spore-color guide](/identification/mushroom-spore-colors/) as one documented character rather than treating blackening tissue as a complete identification.
+
+Common-name overlap should never transfer an alcohol claim. NAMA lists shaggy mane among mushrooms with other reported alcohol-associated reactions but distinguishes the classic coprine syndrome. Conservative advice should acknowledge uncertainty rather than promise safety.
+
+## Mica cap comparison
+
+Mica caps, *Coprinellus micaceus*, are usually smaller and honey-brown. Fresh dry caps may carry sparkling veil grains resembling mica, although rain removes them. They also cluster on or near wood and deliquesce, making ecology alone insufficient.
+
+Photograph cap granules before rain or handling, gill color by age, stem surface, and substrate. Species in these groups may require microscopy, and mixed fruitings on one stump are possible.
+
+## Closely related smooth inky caps
+
+Names such as *Coprinopsis romagnesiana* and allied taxa may overlap in cap color and cluster form. Veil development, cap scales, spores, and regional taxonomy matter. A broad *C. atramentaria* group identification can be more defensible than a precise label based on one photo.
+
+Do not turn ambiguity into false certainty because toxicology is inconvenient. If a smooth clustered inky cap cannot be resolved, the alcohol boundary should remain conservative.
+
+## A field-record sequence
+
+1. Photograph the entire cluster and nearby stump or tree history.
+2. Record exact substrate, land use, date, weather, and region.
+3. Photograph clean young cap surfaces and radial grooves.
+4. Capture pale, gray, and black gills at different ages.
+5. Preserve complete stems and bases from representative specimens.
+6. Make a black spore deposit before caps dissolve.
+7. Use microscopy and a regional key when close smooth ink caps remain plausible.
+
+The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) helps record missing evidence and prevents food use from driving the name.
+
+## Why this guide does not recommend eating it
+
+Historical reports may label common inky cap conditionally edible without alcohol. That phrasing can understate delayed interaction, hidden alcohol sources, carcinogenicity concerns discussed by NAMA, close lookalikes, and individual variability. The user value here is a clear avoidance boundary, not a recipe.
+
+Cooking does not remove every mushroom toxin or solve identification. A clean habitat and fresh cap do not neutralize coprine-associated risk.
+
+## Observation and ecological value
+
+The species is useful for studying decomposition, buried root systems, and rapid cap development. A recurring garden cluster can be mapped and photographed without being eaten. Note whether fruiting follows an old stump footprint or appears after soil disturbance.
+
+Leave enough specimens to complete spore release and support insects. Do not open dissolving material on kitchen surfaces.
+
+## Cultivation is not a beginner food project
+
+Although the fungus is saprotrophic, multiplying it for food would magnify the identification and toxicology problem. Beginners should choose authenticated species with established cultivation and handling standards.
+
+The [beginner growing guide](/growing/mushroom-growing-beginners/) provides safer project comparisons. Never clone an unidentified inky cap into grain intended for food production.
+
+## Image and editorial limits
+
+The cover is an original AI editorial illustration checked for smooth gray clustered caps, radial grooves, woody substrate, pale stems, natural scale, and distinction from shaggy mane. It is not a voucher image and cannot determine identity or alcohol risk.
+
+Review status is editorial. No named toxicologist or clinician reviewed this draft, and no passage should be read as diagnosis or treatment advice.
+
+## Frequently asked questions
+
+### Does boiling remove the alcohol interaction?
+
+This guide makes no detoxification claim. Cooking is not a reliable way to erase the species' toxicology boundary.
+
+### Is one drink enough to trigger symptoms?
+
+Individual exposure and response vary. Do not test a threshold; contact a poison center or clinician after a concerning exposure.
+
+### Can common inky cap grow without visible wood?
+
+Yes. Roots and timber may be buried beneath soil or turf, so document tree and stump history.
+
+### Are black gills proof of common inky cap?
+
+No. Many ink-cap relatives develop black gills and deliquesce. Cap veil, cluster form, substrate, spores, region, and microscopy matter.
+
+### Can an app assess alcohol risk from a photo?
+
+No. It cannot verify identity, dose, hidden alcohol exposure, medications, or individual health factors.
+
+## Sources and editorial method
+
+GBIF and NCBI support the taxonomic framework. NAMA directly supports the coprine syndrome, symptom pattern, and delayed-alcohol boundary. FDA supports general handling statements for verified produce but does not convert this species into a recommended food.
+
+*Draft editorial review: August 30, 2026. Recheck toxicology wording, accepted taxonomy, and emergency contacts immediately before publication.*
