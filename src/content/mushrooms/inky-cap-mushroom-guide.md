@@ -133,6 +133,16 @@ Alcohol may occur in beverages, cooking extracts, sauces, medicines, or other pr
 
 Do not intentionally “test” the interaction. A previous uneventful meal does not establish safety for a later collection, particularly when identification may differ.
 
+## Why the reaction can outlast the mushroom meal
+
+Coprine is discussed as a precursor whose metabolite interferes with aldehyde dehydrogenase, an enzyme involved in alcohol metabolism. When that pathway is inhibited, acetaldehyde can accumulate after alcohol exposure and produce an Antabuse-like pattern. This mechanism explains why the question is not simply whether mushroom and alcohol were swallowed together. It does not provide a home method for measuring residual risk in an individual.
+
+An exposure history should cover more than the obvious drink served with dinner. Record the mushroom meal date and amount, every later alcoholic beverage or alcohol-containing preparation, symptom onset, heart rate if safely available, medicines, and relevant health conditions. Preserve the collection evidence. Do not delay poison-center or medical advice while trying to calculate a personal clearance time from a general article.
+
+The absence of symptoms after one exposure has several possible explanations: the mushroom may have been different, the dose may have varied, alcohol timing or amount may have differed, or the person may simply not have reacted on that occasion. None validates the next meal. Conversely, flushing and palpitations have other causes, so a clinician should evaluate the complete situation rather than accepting a self-assigned mushroom syndrome.
+
+This is also why the page keeps *Coprinopsis atramentaria* separate from the entire ink-cap category. Common names and the shared habit of deliquescence do not prove identical chemistry. Toxicology statements should follow a defensible species determination, while unresolved clustered gray ink caps retain the more conservative avoidance boundary.
+
 ## Symptoms require prompt professional advice
 
 If symptoms occur after eating a wild mushroom, contact local emergency services or a poison center promptly. Report the mushroom and alcohol timeline. Keep uncooked specimens, trimmings, photographs, packaging, and meal leftovers for professional identification.
