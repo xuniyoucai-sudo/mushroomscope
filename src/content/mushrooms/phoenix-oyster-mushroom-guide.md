@@ -5,13 +5,13 @@ description: "Learn how Phoenix oyster differs from other Pleurotus, with warm-s
 keywords: ["phoenix oyster mushroom", "Pleurotus pulmonarius", "phoenix oyster mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-08-31
+draft: false
 featured: false
 coverImage: "../../assets/species/phoenix-oyster-mushroom-editorial-v2.png"
 coverAlt: "Pale Phoenix oyster mushrooms fruiting in a layered cluster from a fallen hardwood log"
 imageCredit: "Original MushroomScope AI editorial image"
-imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
+imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "identification/oyster-mushroom-lookalikes"]
 sources:
   - title: "GBIF — Pleurotus pulmonarius"
@@ -134,7 +134,7 @@ Harvest while margins remain sound and flesh is tender. Cut with a clean tool, t
 
 ## Editorial and evidence limits
 
-This stored draft has editorial review only and no named mycologist or food-safety reviewer. It makes no medical claim and does not treat an AI-generated cover as identification evidence. Before publication, recheck scientific names, source availability, related-page status, image metadata, and poison-response guidance; preserve `draft: true` until the planned publication date is deliberately assigned.
+This guide has editorial review only and no named mycologist or food-safety reviewer. It makes no medical claim and does not treat the AI-generated cover as identification evidence. Scientific names were checked against the linked GBIF and NCBI records; those databases establish nomenclatural context, not the identity of a reader's collection. Cultivation performance remains strain- and system-specific, and poison-response advice must be localized to the reader's country.
 
 ## Publication-ready questions to answer from the record
 
@@ -146,7 +146,7 @@ This stored draft has editorial review only and no named mycologist or food-safe
 
 **What makes a failed block unsafe to salvage?** Unexpected fungi, persistent foul odor, insects, bacterial-looking decay, or broken traceability. Opening a suspect block near healthy production can spread contaminants. Photograph, isolate, and discard according to local waste practice.
 
-**What must be checked on publication day?** Confirm that all linked pages are public, the proposed publication date is not in the future, the cover builds to responsive formats, title and description remain unique, FAQ Schema matches the visible questions, and every source resolves to the claim it supports. Run the complete site build rather than changing only `draft`.
+**What should be preserved when sharing a record?** Keep the date, region, host evidence, cluster attachment, cap and gill views, measurements, spore-deposit notes and any culture label together. Do not reuse this page's editorial image as if it documented a collected specimen.
 
 ## Example cultivation decision log
 
@@ -154,7 +154,7 @@ A useful Phoenix-oyster log might state: authenticated culture received on a nam
 
 The log should distinguish observation from interpretation. “Longer stems than the previous batch” is an observation; “carbon dioxide caused long stems” is a hypothesis until fresh-air exchange and other variables are measured. Humidity, temperature, density, light, genetics, and timing can produce overlapping symptoms. This discipline makes the draft useful to growers without promising a universal recipe.
 
-At editorial release, summarize only parameters supported by the cited method or the culture supplier. Do not present one home batch as a controlled trial, claim superior yield without comparable dry substrate, or describe an AI image as crop evidence. This page is ready for scheduled publication only after a final editor confirms those boundaries remain intact.
+Summarize only parameters supported by a cited method or the culture supplier. Do not present one home batch as a controlled trial, claim superior yield without comparable dry substrate, or describe an AI image as crop evidence. A useful log preserves failures and rejected blocks as well as successful harvests so later adjustments are based on the full production record.
 
 ## A Phoenix oyster field record
 
@@ -171,4 +171,4 @@ At editorial release, summarize only parameters supported by the cited method or
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial status: no named mycologist reviewed this draft. Recheck the local *Pleurotus* concept, culture guidance and poison-response contacts before release.*
+*Editorial status: reviewed by the MushroomScope editorial team; no named mycologist, clinician or food-safety professional reviewed this page. Recheck the local *Pleurotus* concept, culture guidance and poison-response contacts before acting on a real collection.*

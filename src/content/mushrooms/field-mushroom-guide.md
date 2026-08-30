@@ -6,6 +6,8 @@ keywords: ["field mushroom", "Agaricus campestris", "field mushroom identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
+updatedDate: 2026-08-31
+revisionSummary: "Added measurable field characters, grassland ecology, regional limits, and a staged Agaricus comparison workflow."
 draft: false
 featured: false
 coverImage: "../../assets/species/field-mushroom-editorial-v2.png"
@@ -77,22 +79,25 @@ similarSpecies:
     differences: "pale-gilled, white-spored, and potentially deadly."
 ---
 
-## Identification overview
+## Identify the meadow-mushroom character sequence
 
-White smooth caps, free gills that mature pink to chocolate brown, and a short ringed stem without a volva. Free gills change from pink to dark chocolate brown. White stem with a fragile ring and no sack-like volva. White, sometimes faintly pinking, with a mild mushroom odor. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A dark chocolate brown spore deposit is supporting evidence, never a species verdict.
+Treat *Agaricus campestris* as a sequence of changing characters, not simply as a white mushroom in grass. In the Missouri Department of Conservation account, the cap is 1–4 inches (about 2.5–10 cm) wide, curved when young and nearly flat at maturity; the crowded free gills move from light pink through chocolate to nearly blackish brown. Its short stem is listed at 1–2 inches (about 2.5–5 cm), with a delicate ring that can disappear. Those measurements describe Missouri material, not a worldwide identification key, but they give a field record testable proportions instead of adjectives alone.
 
-## Habitat and season
+Photograph at least two ages before disturbing the group. Show the intact grassland setting, cap surface, genuinely free gill attachment, full stem and undisturbed base, then make a lengthwise section. Record whether the flesh changes and whether the stem base or cap edge stains rapidly yellow. A blackish- to chocolate-brown spore deposit supports an *Agaricus* hypothesis; it does not resolve the species. A missing ring on an old specimen is less informative than a present ring on a younger one, while a missing base makes the record unsafe for comparison with pale *Amanita*.
 
-A saprotroph of unfertilized or lightly managed grassland. The documented range represented here includes Europe and Asia and North America and other temperate regions. Typical substrates or settings include pasture and lawns and meadows. Fruiting records commonly occur in May, June, July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
+## Read grassland ecology at the scale of the fruiting arc
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Field mushroom is a soil saprotroph of lawns, meadows and pasture rather than a wood-decayer or tree-root symbiont. The fruit bodies may appear scattered, crowded or in arcs as the underground mycelium expands through suitable organic matter. An arc is ecological context, not a species character: many unrelated grassland fungi form rings. Map the whole arc, note turf management and photograph the point where each stem enters soil. Buried wood, a tree root or a compost-rich edge should widen the comparison set.
 
-## Similar species
+Season must be localized. Missouri records emphasize July–September, while the broader site data span May–October because latitude, rainfall, soil temperature and land management shift fruiting. GBIF maps occurrence records, but mapped points reflect collecting effort and name usage as well as biological range; they should not be read as proof that a specimen belongs to the species. Record recent rain, mowing, grazing, fertilizer or fungicide use, roadside exposure and nearby trees. These details help both identification and a separate contamination assessment.
 
-- **Agaricus xanthodermus — poisonous, yellows strongly at the base and often smells phenolic.**
-- **White Amanita species — pale-gilled, white-spored, and potentially deadly.**
+## Separate three different comparison problems
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+- **Yellow-staining *Agaricus*:** *A. xanthodermus* and regional relatives may yellow strongly at the stem base or cap margin and produce a phenolic, ink-like or hospital-disinfectant odor. Weak staining or odor does not clear a specimen.
+- **Pale *Amanita*:** destroying-angel species retain white mature gills and a white spore deposit and may have a saclike volva. A buried or broken base can conceal the most consequential character.
+- **Other grassland agarics:** several brown-spored lawn mushrooms overlap in size, color or ring condition. Species-level separation may require microscopic spore measurements and a regional key.
+
+These are different tests: gill maturation and spore color establish a broad group; base structure screens a dangerous pale-mushroom problem; staining, odor and microscopic features divide species within *Agaricus*. No single result substitutes for the others. The possible comparison set changes by region, and some separations require microscopy or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
 
 ## Food and safety context
 
@@ -100,9 +105,9 @@ Field mushroom has a documented food-use context when the organism is correctly 
 
 For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
 
-## Cultivation context
+## Distinguish field mushroom from the cultivated button crop
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Field mushroom and the supermarket button, cremini and portobello crop all belong to *Agaricus*, but the commercial crop is generally *A. bisporus*. A market resemblance does not make a lawn collection the escaped form of a familiar food. This page therefore does not turn grassland ecology into a home-growing recipe. Anyone seeking a controlled crop should begin with authenticated commercial culture and the relevant species method, not tissue from a wild collection. The [cremini species guide](/mushrooms/cremini-mushroom-guide/) explains the button–cremini–portobello developmental relationship without merging that cultivated-food intent into this field-identification page.
 
 ## How to document a find
 
