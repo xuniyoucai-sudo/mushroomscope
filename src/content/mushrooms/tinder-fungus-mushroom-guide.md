@@ -168,6 +168,14 @@ The final release should also distinguish organism, fruit body, decayed wood, pr
 4. Note old versus fresh pore tissue and any white deposit beneath active fruiting.
 5. Refer tree-risk questions to an arborist and species questions to a regional polypore key.
 
+## Read pore layers without counting “tree rings”
+
+A vertical section through a mature bracket may show stacked tube layers produced during successive growth periods. Those layers are valuable structural evidence, but they are not automatically one perfectly countable year each. Growth can be interrupted, layers can merge, insects can remove tissue, and the bracket may be damaged or partly resorbed. Record layer thickness and continuity rather than converting every visible boundary into an exact age.
+
+The active pore surface also changes through the season. Fresh pore tissue may be pale before weathering toward brown or gray, while old sterile surfaces accumulate dirt, algae, and abrasion. Photograph the lowest fertile surface square-on with a scale, then take a side profile showing the newest tube layer. A detached old conk cannot reveal whether the photographed pores were actively producing spores.
+
+For a tree-risk observation, distinguish fungal identity from structural assessment. *Fomes fomentarius* indicates established white rot, yet bracket number and size do not measure the remaining load-bearing shell. Record bracket height, trunk side, cavities, cracks, crown condition, targets, and recent weather without probing or cutting a public tree. A qualified arborist integrates those observations with tree mechanics; a mushroom guide cannot predict failure timing.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Fomes fomentarius species record](https://www.gbif.org/species/8068867). Accepted-name and distribution context for the tinder-fungus concept.

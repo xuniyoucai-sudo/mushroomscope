@@ -170,6 +170,14 @@ When editing the release, review every heading against the paragraph that follow
 4. Record cap and stem measurements, odor without tasting, and an olive-brown deposit.
 5. Resolve the collection with a regional *Boletus* key rather than a market-name comparison.
 
+## Map reticulation instead of marking it present or absent
+
+Stem reticulation is a raised network, not a printed color pattern. On pine bolete it may be strongest near the apex and less obvious lower down, while soil, abrasion, insect feeding, and age can conceal it. Photograph the upper, middle, and basal stem with raking light. Record the network color relative to the underlying surface and whether it forms fine meshes or coarse elongated cells.
+
+Pore development should be documented on more than one age class. Young tubes begin pale and compact, then lengthen and shift toward yellow and olive as spores mature. Note whether pressure or cutting produces an immediate, delayed, faint, or absent color reaction, specifying the tissue tested. “Does not blue” is never edible clearance: reaction intensity varies and other regional boletes can share pale flesh.
+
+The name *Boletus pinophilus* is most defensible when morphology, conifer association, geography, and a current regional treatment agree. The broad commercial word porcini may combine several members of the *B. edulis* complex and dried slices can lose cap, stem, pore, and host evidence. Keep market authentication separate from field identification, and do not infer a precise species from package imagery or a reddish cap alone.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Boletus pinophilus species record](https://www.gbif.org/species/5954949). Accepted-name and Eurasian occurrence context used to limit geographic claims.

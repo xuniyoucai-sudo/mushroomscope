@@ -170,6 +170,14 @@ Finally, confirm that no internal link points to a draft and that the page does 
 4. Compare the same cap after surface drying and note what texture remains.
 5. Retain an olive-brown spore record and use a regional *Suillus* key for resolution.
 
+## Interpret the partial veil across development
+
+Young *Suillus luteus* has a partial veil spanning the cap margin and stem. As the cap expands, that membrane tears and leaves a ring that can collapse, adhere to the stem, or become difficult to see after rain and handling. Photograph unopened buttons beside mature fruit bodies and capture the ring from several angles. An absent-looking ring on one old mushroom is weaker evidence than the developmental sequence of the troop.
+
+The stem above and below the ring can provide different information. Glandular dots are often most informative on the upper stem, while the lower surface may be obscured by soil, needles, or slime transferred from the cap. Clean only a small area for documentation and keep the base intact. Compare dot color, density, ring position, pore attachment, and any bruising under neutral light rather than relying on a glossy cap.
+
+Introduced pine plantations complicate range assumptions. A record far outside the fungus’s presumed native distribution may still be plausible where compatible pines and nursery soil moved together. Note pine needle arrangement, plantation age, landscaping history, and whether fruit bodies follow individual root zones. This biogeographic context supports a hypothesis but does not replace regional keys or microscopy within difficult *Suillus* groups.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Suillus luteus species record](https://www.gbif.org/species/7777157). Name and occurrence data supporting its broad introduced distribution with pines.

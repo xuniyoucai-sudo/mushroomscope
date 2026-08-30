@@ -220,6 +220,14 @@ Commercial methods exist, but authenticated culture and species-specific substra
 
 Do not assume so. It may contain debris or contaminants; follow the product's preparation instructions.
 
+## Separate outer hairs from the fertile inner surface
+
+An ear-shaped lobe has two non-equivalent faces. The outer, sterile face of *Auricularia cornea* can be finely hairy or velvety, while the inward-facing fertile surface is smoother to wrinkled. Photograph both at the same magnification and include the rolled margin connecting them. Backlighting may show translucency but can hide hairs, so add an oblique-light frame that reveals surface relief.
+
+Hair length and density can matter in species work, yet they are difficult to judge from a phone photograph and may require microscopy. Water, abrasion, maturity, and drying alter their appearance. Spore dimensions, basidia, internal hyphae, geography, and molecular evidence may be needed when cultivated or traded material lacks reliable origin. The field name should remain at genus level when the evidence does not support *A. cornea*.
+
+Commercial traceability begins before rehydration. Retain the package, lot, country of origin, scientific name if supplied, ingredient list, best-by date, and seller. Photograph a representative dry piece, weigh the portion, note soak time and water temperature, and photograph the expanded material. These records describe product behavior and handling; they do not independently authenticate the species or support medical claims.
+
 ## Sources and editorial method
 
 GBIF and NCBI support taxonomy and occurrence context. FDA supports verified-product handling. NAMA supports conservative response to unknown mushroom exposures. The guide separates scientific species identity from overlapping commerce terms and avoids unsupported health claims.

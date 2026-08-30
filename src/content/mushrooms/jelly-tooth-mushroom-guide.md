@@ -173,6 +173,14 @@ The final editor should also test the page at mobile width so the translucent su
 4. Link any lawful voucher to pre-drying photographs because the form changes markedly when dry.
 5. Use a regional jelly-fungus key and microscopy when teeth or substrate are ambiguous.
 
+## Use a hydration sequence as morphological evidence
+
+Gelatinous fungi can change more dramatically with weather than firm mushrooms. Photograph the same colony after rain, during surface drying, and—without manipulating it—after rewetting in the field. Record lobe thickness, translucency, margin curl, tooth visibility, attachment, and color. This sequence can explain why a dry dark scrap and a fresh translucent fan belong to one colony without treating rehydration as proof of species.
+
+The teeth deserve a true underside view. They should be soft, short projections covering the fertile surface rather than gills, pores, folds, or crystals on decaying wood. Use side lighting and a scale, and photograph where the teeth stop near the attachment. Moss, water droplets, and shallow depth of field can imitate texture, so retain several frames at different focus distances instead of one dramatic macro.
+
+Substrate identification can remain uncertain on advanced rot. Conifer bark, branching pattern, resin traces, adjacent trees, forestry records, and wood anatomy may each help, but a moss-covered log should not be labeled confidently from color. State “decayed conifer wood suspected” when that is the evidence level. A correct uncertainty label is more useful than forcing the habitat to match the expected species.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Pseudohydnum gelatinosum species record](https://www.gbif.org/species/5249353). Nomenclature and geographic occurrence context for the species complex.
