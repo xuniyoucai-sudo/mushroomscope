@@ -6,7 +6,8 @@ keywords: ["Pleurotus ostreatus","oyster mushroom","mushroom identification","mu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-09-01
+revisionSummary: "Reframed oyster identification around species-versus-market labels, added substrate and fruiting diagnostics, and separated food evidence from extract claims."
 draft: false
 featured: false
 coverImage: "../../assets/species/oyster-mushroom.jpg"
@@ -15,8 +16,8 @@ imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["growing/grow-oyster-mushrooms-home", "recipes/garlic-butter-oyster-mushrooms", "identification/mushroom-gill-types"]
 sources:
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Pleurotus ostreatus"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pleurotus+ostreatus"
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"
   - title: "Penn State Extension — Mushroom Food Safety"
@@ -77,15 +78,15 @@ similarSpecies:
     differences: "Orange, gilled wood-decayers that are poisonous; color, growth form, and other characters must be evaluated."
 ---
 
-## Introduction
+## Separate a named oyster crop from a wild oyster-shaped cluster
 
 *Pleurotus ostreatus* is a wood-decaying basidiomycete known for layered clusters of oyster-shaped caps. It is both an ecologically important decomposer and a major cultivated food. The name “oyster mushroom,” however, is also applied to several Pleurotus species. A market label therefore identifies a product group more reliably than it proves a species-level determination.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This is a species account, not a remote identification or medical consultation. A retail label may reliably identify a cultivated food crop without proving that a wild lookalike is *P. ostreatus*. Conversely, a wild shelf cluster cannot be cleared for eating because its caps resemble a supermarket oyster. Keep lot and culture records for a crop; keep whole-specimen, wood, region, and underside records for a wild observation.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. The [habitat identification guide](/identification/mushroom-habitat-identification/) shows how to record wood and host evidence without guessing from the nearest tree. Do not taste an unidentified mushroom.
 
-## Identification
+## Read decurrent gills, attachment, and wood together
 
 Look for laterally attached caps growing in shelves, pale gills that descend the attachment, white flesh, and a white to faintly lilac spore deposit. Cap color is variable and influenced by strain and temperature. A cluster may have almost no visible stems. Accurate field identification also records the wood, season, odor, texture, and nearby trees; photographs of the cap alone omit several decisive characters.
 
@@ -105,7 +106,7 @@ Observe multiple fruit bodies at different stages. Immature specimens may concea
 - **Pleurocybella porrigens:** A thin white conifer-associated species; substrate and structure differ, and casual comparison is unsafe.
 - **Omphalotus species:** Orange, gilled wood-decayers that are poisonous; color, growth form, and other characters must be evaluated.
 
-The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
+The comparison list is not exhaustive. *Pleurotus ostreatus*, *P. pulmonarius*, and other members of the genus can overlap in market language while differing in ecology, season, morphology, and sometimes laboratory characters. Geographic checklists and local keys matter because the candidate set changes by continent and habitat. Apps can organize observations, but their suggestions remain hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local identifier who can inspect the whole material.
 
 ## Scientific Classification
 
@@ -121,7 +122,7 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 
 Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
 
-## Habitat
+## Map hardwood decay without treating season as proof
 
 In nature the fungus digests lignocellulose in dead or weakened wood, commonly hardwood. Cultivators reproduce that role with straw, hardwood pellets, sawdust blocks, or logs. Fruiting bodies are only the temporary reproductive structures; most of the organism is mycelium within the substrate. Never harvest from treated lumber, roadside waste, or contaminated industrial sites because decomposer mushrooms can contact environmental pollutants.
 
@@ -131,9 +132,11 @@ Habitat is part of the identification, not decorative background. Record whether
 
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
 
-## Growing Guide
+## Choose a crop system before setting a fruiting room
 
-Use a verified commercial culture and a tested substrate process. Straw is commonly chopped, hydrated, pasteurized, cooled, and inoculated; supplemented sawdust generally needs more rigorous sterilization. Incubate according to the strain supplier, then provide indirect light, high humidity, and abundant fresh air. Long stems and small caps often indicate excess carbon dioxide. Harvest clusters while margins remain tender, and keep the growing area clean between flushes.
+Use a verified commercial culture and a tested substrate process. Straw is commonly chopped, hydrated, pasteurized, cooled, and inoculated; supplemented sawdust generally needs more rigorous sterilization. Those are different production systems, not interchangeable recipes: moisture measurement, heat treatment, supplementation, bag geometry, and contamination risk change together. The [home oyster growing guide](/growing/grow-oyster-mushrooms-home/) covers a beginner workflow; this page explains why a species label alone does not set a universal temperature or yield.
+
+Incubate according to the strain supplier, then provide indirect light, high humidity, and sufficient fresh air. Long stems with small caps can indicate excess carbon dioxide, but cramped clusters, low humidity, temperature, light, substrate density, and harvest timing can also change form. Record batch, substrate, room temperature, relative humidity, air exchange observations, first-pin date, and flush weights before altering one variable at a time. Harvest clusters while margins remain tender, and keep the growing area clean between flushes.
 
 ### A safe cultivation workflow
 
@@ -146,17 +149,17 @@ Use a verified commercial culture and a tested substrate process. Straw is commo
 
 Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
 
-## Health Benefits
+## Keep food composition separate from extracts and mechanisms
 
 Oyster mushrooms are nutritious foods, not medicines. Food-composition data support their contribution of fiber, protein, and several micronutrients. Laboratory studies of beta-glucans, lovastatin-like compounds, or antioxidant activity can help researchers form hypotheses, but they do not justify promising cholesterol control, cancer treatment, or immune enhancement from an ordinary serving. Human outcomes depend on dose, preparation, population, and study quality.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+For food questions such as whether mushrooms provide fiber or protein, the [mushroom nutrition guide](/health/mushroom-nutrition-guide/) compares ordinary food portions across mushrooms. Nutrient values still vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
 
 Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
 
 Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
 
-## Safety
+## Cook cultivated food, and keep wild and occupational risks distinct
 
 Cook before routine consumption and introduce a new mushroom in a modest portion. Gastrointestinal intolerance and allergy can occur. Heavy occupational spore exposure has been associated with respiratory sensitization, so frequent indoor growers should ventilate fruiting rooms and consider appropriate respiratory protection. For wild collections, obtain in-person confirmation from a qualified local identifier; pale shelf fungi and orange Omphalotus species cannot be ruled out by an app photograph.
 
@@ -173,4 +176,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Editorial review: September 1, 2026. No named mycologist, cultivation specialist, clinician, or dietitian reviewed this page. Scientific names and public-health recommendations should be rechecked at every substantive update.*

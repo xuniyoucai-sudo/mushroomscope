@@ -5,12 +5,12 @@ description: "Document beefsteak fungus by its red tongue-shaped brackets, separ
 keywords: ["beefsteak fungus", "Fistulina hepatica", "beefsteak mushroom identification", "oak bracket fungus"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
+publishDate: 2026-09-01
 coverImage: "../../assets/species/beefsteak-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two red tongue-shaped beefsteak fungus brackets attached to an old oak trunk"
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/dryads-saddle-mushroom-guide", "mushrooms/artists-conk-mushroom-guide", "identification/mushroom-habitat-identification", "identification/mushroom-identification-safety-checklist"]
 sources:
@@ -191,4 +191,12 @@ Water content, pigment, surface wear, tube development, microbes, and insects ch
 
 Use local common names as search aids, then anchor records to a scientific name and evidence. Food-like metaphors do not describe taxonomy or safety.
 
-*Draft editorial review: August 31, 2026. Recheck taxonomic databases, regional host records, live source URLs, and local poison-response contacts before publication.*
+## References
+
+1. Global Biodiversity Information Facility. [*Fistulina hepatica* occurrence and taxonomy record](https://www.gbif.org/species/2531012). Used as a geographic-occurrence checkpoint, not as a complete regional identification key.
+2. National Center for Biotechnology Information. [*Fistulina hepatica* Taxonomy Browser](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Fistulina+hepatica). Current lineage and name checkpoint.
+3. U.S. Department of Agriculture Forest Products Laboratory. [Wood Handbook](https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf). General limits on inferring wood performance from one visible feature.
+4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency-response context; not a substitute for clinical care.
+5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). Handling context for already verified food material.
+
+*Editorial review: September 1, 2026. No named mycologist, arborist, clinician, or chef reviewed this page. Taxonomic databases, regional host records, source URLs, and local poison-response contacts should be rechecked at every substantive update.*
