@@ -6,7 +6,8 @@ keywords: ["Ganoderma lingzhi","reishi","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-29
+updatedDate: 2026-09-02
+revisionSummary: "Added a source-by-source lingzhi nomenclature audit, separated labels from voucher-backed identity, and tightened regional conk and tree-risk boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/reishi-mushroom.jpg"
@@ -25,6 +26,10 @@ sources:
     url: "https://www.mycobank.org/"
   - title: "PubMed — Ganoderma systematic review and meta-analysis"
     url: "https://pubmed.ncbi.nlm.nih.gov/40510787/"
+  - title: "NCBI Taxonomy — Ganoderma lingzhi"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1233435"
+  - title: "Re-examination of Ganoderma sichuanense and cultivated Lingzhi"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051598/"
 faq:
   - question: "Can this mushroom be identified from a photograph?"
     answer: "No. A photograph can support documentation, but a defensible identification of Ganoderma lingzhi also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone."
@@ -133,6 +138,14 @@ Taxonomy is a working scientific framework, not a permanent label. The European 
 
 Database records should preserve the name used by a cited paper, its culture or voucher identifier, geographic origin, and publication date. Silently relabeling older *G. lucidum* experiments as *G. lingzhi* creates false precision. The same rule applies to supplements: fruit body versus mycelium, strain, substrate, extraction solvent, and batch testing are part of the identity of the tested material.
 
+### Treat G. lingzhi and G. sichuanense as an active nomenclature record
+
+The name problem did not end when *G. lingzhi* was published. NCBI currently lists *Ganoderma lingzhi* as a species name and links it to the 2012 clarification of cultivated lingzhi. A later re-examination of type material concluded that the cultivated lineage should instead use the older name *G. sichuanense*, with *G. lingzhi* treated as a later synonym. These records are evidence of a nomenclatural decision trail, not permission to choose whichever label makes a product sound more precise.
+
+For a new observation, record the database and date behind the accepted name. For an older paper, preserve the paper's original binomial and add a separate interpretation note. For a retail product, copy the exact label, lot, manufacturer, country of origin, declared plant or fungal part, and test certificate without upgrading “reishi” to a voucher-backed species. This three-column approach—reported name, current interpretation, material evidence—keeps taxonomy from silently changing the organism tested.
+
+Sequence data also need provenance. A bare ITS match can inherit an incorrectly named reference, and a percentage identity without alignment coverage, reference voucher, and phylogenetic context does not settle a difficult species complex. When the species claim matters, retain the raw sequence accession, marker, laboratory, reference set, and the specialist determination alongside morphology and origin.
+
 ## Hardwood association, root contact, and tree-safety context
 
 Ganoderma fungi decay wood and can fruit near stumps, roots, and the bases of trees. A conk may indicate internal decay, so do not damage it or linger beneath structurally unsafe trees. Commercial cultivation uses logs or sterilized hardwood formulations. Growers manipulate oxygen and carbon dioxide to favor antlers or broad conks, then dry material carefully to limit microbial deterioration.
@@ -142,6 +155,8 @@ Ganoderma fungi decay wood and can fruit near stumps, roots, and the bases of tr
 Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. A conk that seems terrestrial may be attached to a buried root. Note fruit-body height, orientation, number, and whether shelves emerge singly or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
 
 The host record also has a different purpose from the species name. Wood-decay fungi can reveal internal decay, but a fruit body alone does not quantify failure risk. Do not cut, probe, or remove conks from a living tree to conduct an amateur safety test. If the tree could strike a person, building, road, or utility, use a qualified arborist who can evaluate the whole tree and site.
+
+Do not transfer a tree-risk statement from one *Ganoderma* species, host, or region to every glossy conk. Forest guidance often addresses locally important species such as artist's conk or hemlock varnish shelf, not cultivated East Asian lingzhi. The defensible field record separates the conk identification from the structural assessment: document host, root flare, wounds, conk position, recurring fruiting, crown condition, targets, and recent site disturbance, then leave risk rating and any removal decision to the qualified assessor.
 
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
 
@@ -208,5 +223,7 @@ Those three records answer different questions. Combining them into one generic 
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. Jafari A, et al. [The Nutritional Significance of Ganoderma lucidum on Human Health: a GRADE-assessed systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40510787/). *Food Science & Nutrition.* 2025.
+6. NCBI Taxonomy. [Ganoderma lingzhi, Taxonomy ID 1233435](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1233435). Current database record with a nomenclature disclaimer and linked taxonomic literature.
+7. Yao Y-J, et al. [Re-Examination of the Holotype of Ganoderma sichuanense and a Clarification of the Identity of Chinese Cultivated Lingzhi](https://pmc.ncbi.nlm.nih.gov/articles/PMC10051598/). Type-material and phylogenetic reassessment; used to explain the later-synonym interpretation rather than to relabel older studies silently.
 
-*Last editorial review: August 29, 2026. This page received editorial review only; no named mycologist or clinical expert reviewed it. Scientific names, product regulation, and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: September 2, 2026. This page received editorial review only; no named mycologist or clinical expert reviewed it. Scientific names, product regulation, and public-health recommendations should be rechecked at every substantive update.*

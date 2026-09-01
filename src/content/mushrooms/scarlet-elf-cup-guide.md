@@ -5,12 +5,12 @@ description: "Document scarlet elf cups by red cup shape, pale outer surface, bu
 keywords: ["scarlet elf cup", "Sarcoscypha", "scarlet cup fungus", "red cup fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
+publishDate: 2026-09-02
 coverImage: "../../assets/species/scarlet-elf-cup-editorial-v2.png"
 coverAlt: "AI editorial image of scarlet red cup fungi attached to a mossy fallen hardwood branch in spring woodland"
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a voucher photograph or identification key."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/black-trumpet-mushroom-guide", "identification/mushroom-cap-shapes", "identification/mushroom-habitat-identification", "identification/mushroom-photo-checklist"]
 sources:
@@ -201,4 +201,11 @@ Outer texture and hairs can guide microscopic sampling, and the pale exterior is
 
 An app may suggest the genus, but it cannot measure mature spores or reliably evaluate outer-hair form from a general photograph.
 
-*Draft editorial review: August 31, 2026. Recheck current regional keys, taxonomic records, live sources, and poison-response contacts before publication.*
+## References
+
+1. GBIF Secretariat. [Sarcoscypha coccinea, species 8156721](https://www.gbif.org/species/8156721). Taxonomic and occurrence-record checkpoint; a database record does not identify the photographed cups.
+2. National Center for Biotechnology Information. [Taxonomy Browser: Sarcoscypha coccinea](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Sarcoscypha+coccinea). Lineage and linked sequence-record context; specialist literature remains necessary for nomenclature.
+3. GBIF Secretariat. [Sarcoscypha austriaca, species 8689016](https://www.gbif.org/species/8689016). Separate close-species record used to keep the *S. coccinea* comparison explicit.
+4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). General exposure-response context; symptoms require medical or poison-center assessment rather than online species matching.
+
+*Last editorial review: September 2, 2026. This page received editorial review only; no named mycologist or clinician reviewed it. Recheck current regional keys, taxonomic records, and poison-response contacts before relying on the record.*
