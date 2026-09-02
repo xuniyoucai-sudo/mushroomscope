@@ -5,12 +5,12 @@ description: "Document Geastrum triplex by its split outer rays, central spore s
 keywords: ["collared earthstar", "Geastrum triplex", "earthstar fungus identification", "earthstar mushroom"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
+publishDate: 2026-09-03
 coverImage: "../../assets/species/collared-earthstar-editorial-v2.png"
 coverAlt: "AI editorial image of three collared earthstars with split rays and central spore sacs on woodland litter"
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated field context, not a voucher photograph or identification evidence."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/puffball-mushroom-guide", "identification/mushroom-stem-features", "identification/mushroom-spore-colors", "identification/mushroom-season-guide"]
 sources:
@@ -207,4 +207,11 @@ A mature sac can puff spores when compressed or struck. Avoid destructive demons
 
 Often it can retain useful mouth, sac, ray, and microscopic characters, but weathering may erase key surfaces. Photograph fresh stages whenever available.
 
-*Draft editorial review: August 31, 2026. Recheck species concepts, regional keys, source URLs, and poison-response guidance before publication.*
+## References
+
+1. Global Biodiversity Information Facility. [*Geastrum triplex* species record](https://www.gbif.org/species/2554367). Current backbone name, classification, synonyms, and occurrence context.
+2. National Center for Biotechnology Information. [NCBI Taxonomy Browser: *Geastrum triplex*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Geastrum+triplex). Independent lineage and nomenclature checkpoint.
+3. Global Biodiversity Information Facility. [*Geastrum* genus record](https://www.gbif.org/species/2525056). Genus-level diversity and occurrence context used to avoid treating one earthstar form as species proof.
+4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative response guidance for an uncertain wild-fungus exposure.
+
+*Editorial review: September 3, 2026. Taxonomy, regional keys, source URLs, and poison-response guidance should be rechecked at every substantive update. No named mycologist or clinician reviewed this article.*
