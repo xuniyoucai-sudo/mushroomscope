@@ -1,12 +1,12 @@
 ---
-title: "Macrolepiota procera: Parasol mushroom Species Guide"
-seoTitle: "Parasol mushroom (Macrolepiota procera) Species Guide"
-description: "Learn Parasol mushroom identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
+title: "Parasol Mushroom: Stem Pattern, Ring, Spores, and Lookalikes"
+seoTitle: "Parasol Mushroom: Stem, Ring, Spores, Lookalikes"
+description: "Document a parasol candidate using cap development, free gills, a movable ring, snakeskin stem pattern, intact base, spores, habitat, and regional lookalikes."
 keywords: ["parasol mushroom", "Macrolepiota procera", "parasol mushroom identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
-updatedDate: 2026-08-24
+updatedDate: 2026-09-04
 draft: false
 featured: false
 coverImage: "../../assets/species/parasol-mushroom-editorial-v2.png"
@@ -17,8 +17,12 @@ relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mus
 sources:
   - title: "GBIF — Macrolepiota procera"
     url: "https://www.gbif.org/species/8914748"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "NCBI Taxonomy Browser — Macrolepiota procera"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Macrolepiota+procera"
+  - title: "Missouri Department of Conservation — Green-Spored Lepiota"
+    url: "https://mdc.mo.gov/discover-nature/field-guide/green-spored-lepiota"
+  - title: "Lehmann and Khazan — Chlorophyllum molybdites poisoning review"
+    url: "https://pubmed.ncbi.nlm.nih.gov/1406900/"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -28,8 +32,8 @@ faq:
     answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
   - question: "Is wild Parasol mushroom safe to eat?"
     answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Parasol mushroom grow?"
-    answer: "A grassland and open woodland saprotroph. Regional records and host associations should be checked before applying this summary to a local collection."
+  - question: "Which habitat details matter for a parasol record?"
+    answer: "Record grassland, pasture, verge or woodland-edge setting, nearby trees, turf treatment, road exposure, region, and whether fruit bodies are solitary, scattered, or arranged in an arc or ring."
   - question: "What is the spore print of Parasol mushroom?"
     answer: "The expected deposit is white, but print color overlaps among fungi and cannot confirm this species by itself."
   - question: "Can Parasol mushroom be cultivated at home?"
@@ -147,11 +151,59 @@ Taxonomy note: large parasol-like mushrooms are treated differently across moder
 
 Photograph a deposit on adjoining light and dark nonabsorbent surfaces in neutral light and keep it linked to the complete specimen. Greenish mature spores are a critical warning in regions with Chlorophyllum molybdites. Spore color still must agree with the movable ring, patterned stem, free gills, intact base, habitat, and a current regional key.
 
+## Follow the cap from drumstick to open parasol
+
+A useful record includes more than one developmental stage. A young *Macrolepiota procera* candidate may resemble a tall drumstick: the cap is still closed around the upper stem while the stalk has already elongated. As expansion continues, the pale cap surface breaks into brown scales around a darker, comparatively smooth central umbo. A mature cap becomes broadly convex and then nearly flat. Rain can wash or flatten scales, and drought can crack the surface, so the arrangement of scales and the persistent central disc are more informative than a single color label.
+
+Photograph the cap edge as well as its center. The margin can retain fragments from the partial veil, but those fragments are not equivalent to a universal veil or a cup at the base. Measure several fruit bodies rather than treating large size as proof: stature supports a parasol-group hypothesis, while stem ornamentation, ring structure, gill attachment, spore color, and geography do the separating work. An overhead photograph hides nearly all of those characters.
+
+## Test the ring and stem pattern without damaging the specimen
+
+The tall stem should be documented from the cap attachment to the swollen base. On a developed true-parasol candidate, the lower stem surface commonly shows contrasting brown zigzags or broken bands over a paler ground—the often-described snakeskin pattern. Photograph that pattern in diffuse light before handling, because mud, rubbing, and an overexposed phone image can erase the contrast. A smooth-looking stem in a poor photograph is missing evidence, not evidence of smoothness.
+
+The substantial ring is commonly described as double-edged and movable on a mature stem. Demonstrate mobility only with gentle pressure after photographing its upper and lower surfaces; do not tear a young veil merely to make the character appear. Record whether the ring slides freely, remains partly attached, or has collapsed. Ring mobility is supportive but not a food-safety test, because other large lepiotoid mushrooms can also carry prominent rings.
+
+Recover the base intact. *M. procera* can have a bulbous enlargement, but a bulb is not the membranous cup or sac associated with some *Amanita*. Dig beside the stem rather than pulling upward, photograph soil still attached, and then clean one side enough to show the base structure. If the base is missing, the observation cannot safely exclude high-consequence comparisons.
+
+## Separate free gills from a mature spore deposit
+
+The gills of a parasol candidate are crowded, pale and free: they stop short of the stem rather than running down it. Photograph the underside square-on and include the gap around the stem. Young green-spored lepiotas also begin with pale gills, which is why immature gill color must not be used to clear a lawn specimen. The Missouri Department of Conservation describes *Chlorophyllum molybdites* gills as white at first and gray-green to darker as spores mature.
+
+For a deposit, use a mature cap and place portions over adjoining black and white nonabsorbent surfaces. Cover it against drafts, note elapsed time, and examine the deposit in neutral daylight. A white deposit supports *Macrolepiota procera*; a gray-green or green deposit redirects the record toward *C. molybdites*. A weak or absent deposit is inconclusive. Sterile or immature material may fail to show the expected color, a limitation also emphasized in the clinical review of *C. molybdites* poisoning.
+
+## Compare the lawn lookalike before discussing food
+
+*Chlorophyllum molybdites* deserves a deliberate comparison because it produces large, scaled, ringed mushrooms in lawns and managed grassy places. Mature greenish spores are a powerful separating character, but waiting for green gills is unsafe: young fruit bodies can remain white-gilled. Note lawn irrigation, warm weather, mowing, fairy-ring growth and disturbed soil, then pair habitat with spore deposit, stem ornamentation, bruising, ring form and local range.
+
+This is not a minor upset-stomach footnote. Published case reports and reviews document severe vomiting, diarrhea and abdominal pain after *C. molybdites* ingestion, sometimes requiring hospital care. Cooking is not a dependable correction for a mistaken identity. If a collection lacks a mature deposit or the full stem and base, stop the food discussion rather than filling gaps with cap resemblance.
+
+The *Chlorophyllum rhacodes* complex presents a different problem. Shaggy cap scales, staining flesh, a less characteristically snakeskin-patterned stem and regional taxonomic treatments can separate candidates, but names and species boundaries differ between field guides. Record a fresh cross-section through cap and stem, timing any reddish or orange staining instead of writing only “bruised.” Microscopy or regional expert review may still be necessary.
+
+Small *Lepiota* species should not be forced through a large-parasol checklist. Their size, ring structure and stem ornamentation differ, and some contain dangerous toxins. Likewise, any sac, cup, patches suggestive of a universal veil, or uncertain buried base requires an *Amanita*-focused assessment. One matching parasol feature cannot overrule a contradictory high-risk feature.
+
+## Map habitat, management, and geographic limits
+
+True parasol records are associated with open woodland, edges, meadows, pasture and other grassy ground rather than growth directly from visible wood. A field note should distinguish old unimproved grassland from irrigated lawn, recently laid turf, roadside verge, grazed pasture and woodland opening. Include nearby tree cover, recent mowing, fertilizers or herbicides, pet activity, livestock, road spray and any contaminated fill. Those details affect both identification context and whether material would be appropriate to handle as food even after expert confirmation.
+
+Do not export a European species concept unchanged to every continent. GBIF occurrence maps are evidence of submitted records, not automatic verification of a specimen or proof that every mapped name reflects the same modern concept. In North America and other regions with abundant *C. molybdites* or related *Macrolepiota* and *Chlorophyllum*, a current regional key and experienced local identifier are especially important. Save photographs, measurements and a dried voucher when lawful and useful; geographic coordinates can be reduced in public records to protect sensitive sites.
+
+## Why cultivation claims need strain-level evidence
+
+Unlike familiar indoor oyster production, parasol cultivation is not standardized as a reliable beginner block crop. A seller's “parasol spawn” label is not enough to establish species identity, fruiting performance or food suitability. A defensible cultivation report would identify the authenticated culture, substrate composition, treatment method, inoculation rate, incubation temperature, fruiting trigger, contamination history and voucher or sequence evidence. Without those records, a failed bag says little about the biology of *M. procera*.
+
+For home growers interested primarily in a dependable food crop, the [beginner mushroom-growing guide](/growing/mushroom-growing-beginners/) explains why species with established commercial strains and repeatable fruiting systems are a better starting point. For field observations, use the [stem-features guide](/identification/mushroom-stem-features/) to document rings, ornamentation and bases consistently. These links support separate growing and identification tasks; they do not turn a parasol candidate into an approved edible specimen.
+
+## Editorial evidence boundary
+
+This page received editorial review, not review by a named clinical toxicologist or professional field mycologist. It organizes observable characters and cites taxonomy, government field information and clinical toxicology literature. It cannot identify a specimen remotely. For symptoms after any wild-mushroom exposure, contact local emergency services or a poison center promptly and retain uncooked material, trimmings, photographs and timing details for professional assessment.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Macrolepiota procera species record](https://www.gbif.org/species/8914748). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
+2. National Center for Biotechnology Information. [NCBI Taxonomy Browser — Macrolepiota procera](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Macrolepiota+procera). Independent lineage and nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+5. Missouri Department of Conservation. [Green-Spored Lepiota](https://mdc.mo.gov/discover-nature/field-guide/green-spored-lepiota). Mature gill and spore color, lawn habitat, and poisonous status of *Chlorophyllum molybdites*.
+6. Lehmann, P. F., and Khazan, U. [Mushroom poisoning by Chlorophyllum molybdites in the Midwest United States](https://pubmed.ncbi.nlm.nih.gov/1406900/). Clinical cases, gastrointestinal syndrome, distribution, and the limitation of sterile material.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 4, 2026. No named clinical expert or field mycologist reviewed this page. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*

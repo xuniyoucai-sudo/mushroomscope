@@ -1,16 +1,16 @@
 ---
 title: "Snow Fungus: Tremella fuciformis Cultivation and Market Guide"
 seoTitle: "Snow Fungus Cultivation, Products, and Evidence"
-description: "Understand snow fungus identity, white gelatinous folds, fungal-host cultivation, dried-product handling, nutrition limits, and separation from wood and cloud ears."
+description: "Understand snow fungus identity, gelatinous folds, fungal-host cultivation, dried-product handling, nutrition limits, and separation from wood and cloud ears."
 keywords: ["snow fungus", "Tremella fuciformis", "silver ear mushroom", "white fungus cultivation"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
+publishDate: 2026-09-04
 coverImage: "../../assets/species/snow-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two white translucent snow fungus rosettes fruiting from hardwood-sawdust cultivation bags"
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated cultivation context, not a photograph of a tested batch or identification evidence."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/wood-ear-mushroom-guide", "growing/mushroom-substrate-guide", "growing/mushroom-growing-beginners", "health/mushroom-nutrition-guide"]
 sources:
