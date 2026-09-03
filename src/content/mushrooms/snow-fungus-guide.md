@@ -24,6 +24,10 @@ sources:
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
   - title: "FDA — Dietary Supplements"
     url: "https://www.fda.gov/food/dietary-supplements"
+  - title: "Ma et al. — Transformation of Tremella fuciformis and Annulohypoxylon stygium"
+    url: "https://pubmed.ncbi.nlm.nih.gov/32450030/"
+  - title: "Sun et al. — Tissue cultivation of Tremella fuciformis primordia"
+    url: "https://pubmed.ncbi.nlm.nih.gov/41831148/"
 faq:
   - question: "Is snow fungus the same as wood ear fungus?"
     answer: "No. Snow fungus forms pale frilly gelatinous rosettes and has a distinct biology, while commercial wood and cloud ears are usually brown Auricularia species."
@@ -125,7 +129,7 @@ Pressure equipment can cause severe burns and mechanical injury. Do not improvis
 
 Separate dirty substrate preparation from cooled-bag inoculation. Clean surfaces, minimize traffic and drafts, sanitize gloved hands appropriately, and expose bags only as long as needed. Label every unit with batch, culture, substrate, and date using codes that remain legible after incubation.
 
-The host and Tremella inoculation sequence can be strain- and method-specific. This draft does not invent a universal ratio. A grower should follow authenticated supplier instructions or a validated protocol and change one documented variable at a time.
+The host and Tremella inoculation sequence can be strain- and method-specific. This guide does not invent a universal ratio. A grower should follow authenticated supplier instructions or a validated protocol and change one documented variable at a time.
 
 ## Record colonization as observations, not color confidence
 
@@ -179,7 +183,7 @@ Human evidence must match the exact product and claim. “Contains a studied pol
 
 A capsule or extract adds identity, concentration, contaminants, adulteration, dose, interactions, and manufacturing questions. Look for a complete ingredient list, scientific name, part or culture material, extraction details, lot number, and independent identity and contaminant testing.
 
-FDA explains that supplements are regulated differently from drugs. A snow-fungus supplement should not replace diagnosis, prescribed treatment, vaccination, surgery, or evidence-based care. This draft has editorial review only and no named clinician.
+FDA explains that supplements are regulated differently from drugs. A snow-fungus supplement should not replace diagnosis, prescribed treatment, vaccination, surgery, or evidence-based care. This article has editorial review only and no named clinician.
 
 ## Distinguish snow fungus from cloud and wood ears
 
@@ -198,11 +202,11 @@ Cloud-ear terminology varies across markets, while the published [wood ear guide
 7. Define harvest, trimming, yield, drying, and packaging endpoints.
 8. Retain batch samples and correction records where appropriate.
 
-This system makes the guide useful without publishing a false universal recipe.
+This system makes the guide useful without presenting a false universal recipe.
 
 ## Evidence and image boundaries
 
-GBIF and NCBI support taxonomic checkpoints. USDA supports food-composition method discipline, while FDA sources support produce handling and supplement-regulation boundaries. None of those sources verifies a home culture or endorses a disease claim.
+GBIF and NCBI support taxonomic checkpoints. USDA supports food-composition method discipline, while FDA sources support produce handling and supplement-regulation boundaries. A 2020 transformation study documents the established dependence of fruit-body formation on the companion fungus *Annulohypoxylon stygium* in natural and conventional artificial cultivation. A 2026 study reports an important narrower exception: isolated primordia were maintained and differentiated without that companion under the study's tissue-culture conditions. That result does not turn ordinary spawn or home cultivation into a partner-free universal method.
 
 The cover is original AI editorial cultivation context, checked for white translucent frilly rosettes, separate bag openings, plausible substrate, clean but non-clinical setting, clarity, and no readable text or watermark. It is not a tested batch photograph. No named mycologist, grower, food scientist, dietitian, or clinician reviewed this draft.
 
@@ -228,4 +232,14 @@ Expansion reflects structure and water uptake but does not alone establish ident
 
 No such conclusion follows from this guide. Food, cosmetic ingredients, purified compounds, and clinical treatments require separate product-specific evidence.
 
-*Draft editorial review: August 31, 2026. Recheck fungal-partner taxonomy, production literature, food-handling guidance, and all live sources before publication.*
+## References
+
+1. Global Biodiversity Information Facility. [*Tremella fuciformis* species record](https://www.gbif.org/species/5237434). Taxonomic backbone and occurrence context.
+2. National Center for Biotechnology Information. [NCBI Taxonomy Browser: *Tremella fuciformis*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Tremella+fuciformis). Independent lineage and nomenclature checkpoint.
+3. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference used with dry-versus-rehydrated and serving-basis limits.
+4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General washing, handling, and refrigeration guidance.
+5. U.S. Food and Drug Administration. [Dietary Supplements](https://www.fda.gov/food/dietary-supplements). Regulatory boundary between supplement products and approved drugs.
+6. Ma X, et al. [Efficient Transformation of the White Jelly Mushroom *Tremella fuciformis* and Its Companion Fungus *Annulohypoxylon stygium*](https://pubmed.ncbi.nlm.nih.gov/32450030/). *International Journal of Medicinal Mushrooms*. 2020. Companion-fungus dependence in natural and conventional artificial fruiting, plus authenticated-strain research context.
+7. Sun Y, Pan S, Zhou J. [Tissue cultivation conditions and transcriptome analysis of *Tremella fuciformis* primordia for industrial production purposes](https://pubmed.ncbi.nlm.nih.gov/41831148/). *World Journal of Microbiology and Biotechnology*. 2026. Primordium tissue-culture exception and its defined experimental conditions.
+
+*Publication-readiness review: September 3, 2026. Keep `draft: true` until the actual publication run updates publishDate and repeats live-source, image, duplicate, build, and production checks. No named mycologist, grower, food scientist, dietitian, or clinician reviewed this article.*
