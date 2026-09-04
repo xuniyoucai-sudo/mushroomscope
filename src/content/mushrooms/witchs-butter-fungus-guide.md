@@ -5,12 +5,12 @@ description: "Document witch's butter by yellow gelatinous folds, wet-to-dry cha
 keywords: ["witch's butter fungus", "Tremella mesenterica", "yellow jelly fungus", "witches butter identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
+publishDate: 2026-09-05
 coverImage: "../../assets/species/witchs-butter-editorial-v2.png"
 coverAlt: "AI editorial image of translucent yellow witch's butter jelly fungus growing from a rain-darkened hardwood branch"
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/wood-ear-mushroom-guide", "mushrooms/birch-polypore-mushroom-guide", "identification/mushroom-habitat-identification", "identification/mushroom-photo-checklist"]
 sources:
@@ -189,7 +189,7 @@ Label wet and dry measurements separately and record the interval since rain. If
 
 GBIF and NCBI provide taxonomic and occurrence checkpoints. The GBIF *Peniophora* record frames the host-fungus group but does not prove the host of an individual collection. NAMA supports conservative emergency communication.
 
-The cover is an original AI editorial image. It was checked for translucent yellow folded lobes, direct hardwood emergence, wet bark, natural light, realistic scale, clarity, and absence of text or watermark. It is not proof of host fungus, microscopy, or species. No named mycologist or clinician reviewed this draft.
+The cover is an original AI editorial image. It was checked for translucent yellow folded lobes, direct hardwood emergence, wet bark, natural light, realistic scale, clarity, and absence of text or watermark. It is not proof of host fungus, microscopy, or species. No named mycologist or clinician reviewed this page; its review status is editorial.
 
 ## Frequently asked field questions
 
@@ -213,4 +213,11 @@ Sometimes a thin crust is visible, but species identification commonly needs mic
 
 Evidence about a compound, a different yellow jelly species, or a commercial extract cannot be transferred to a field collection of unresolved identity.
 
-*Draft editorial review: August 31, 2026. Recheck taxonomy, host-fungus literature, source URLs, and regional poison-response guidance before publication.*
+## References
+
+1. [GBIF — *Tremella mesenterica*](https://www.gbif.org/species/11945016)
+2. [NCBI Taxonomy Browser — *Tremella mesenterica*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Tremella+mesenterica)
+3. [GBIF — *Peniophora*](https://www.gbif.org/species/2513703)
+4. [North American Mycological Association — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/)
+
+*Editorial review: September 5, 2026. Taxonomy, host-fungus boundaries, source URLs, identification limits, and poison-response wording were checked. Corrections can be sent through the site contact page.*
