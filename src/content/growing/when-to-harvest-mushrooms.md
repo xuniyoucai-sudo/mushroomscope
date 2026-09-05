@@ -5,7 +5,8 @@ keywords: ["when to harvest cultivated mushrooms", "mushroom cultivation", "home
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-06
+revisionSummary: "Added a measured maturity scorecard, Cornell-supported shiitake and lion's mane thresholds, and separate quality, safety, and second-flush decisions."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/grow-shiitake-logs"]
@@ -20,6 +21,10 @@ sources:
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+  - title: "Cornell Small Farms — Harvesting Shiitake"
+    url: "https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/6-harvesting-shiitake/"
+  - title: "Cornell Small Farms — Post-Harvesting Handling"
+    url: "https://smallfarms.cornell.edu/resources/harvest-to-market-guide/post-harvesting-handling/"
 faq:
   - question: "Is when to harvest cultivated mushrooms suitable for beginners?"
     answer: "This guide rates the method easy. A reputable ready-to-fruit block is simpler than preparing sterile cultures or supplemented substrate."
@@ -89,6 +94,24 @@ Pinkish tones can occur during development or from environmental stress, while y
 Shiitake harvest timing is commonly judged by how far the cap has opened, the condition of the margin, and the firmness of the fruit body. A partly unrolled margin is often preferred for texture and shelf life, whereas fully flattened caps may be suitable for immediate use but can be more delicate. Strain and market preference matter, and a block may produce mushrooms of different sizes at the same stage.
 
 Do not confuse cracked decorative surface patterns with spoilage; some shiitake develop patterned caps under certain conditions. Evaluate odor, firmness, underside condition, and the health of the block as a whole. Use the [shiitake log guide](/growing/grow-shiitake-logs/) when working with authenticated outdoor logs, where weather and fruiting cadence differ from indoor blocks.
+
+Cornell's log-production guidance makes the maturity test more reproducible: gills should be visible and the outer cap edge slightly curled under, rather than tightly closed or already flat. It reports a typical 7–10 days from shocking to harvest for log-grown shiitake, with colder conditions slowing development. That interval belongs to the documented log system; it should not be copied to an indoor block of another strain. Record the shock date, daily cap-margin stage, air temperature, and harvest date so the timing becomes a batch observation instead of a universal promise.
+
+## Turn maturity into a measured batch decision
+
+A photograph labeled “ready” is useful only when its viewpoint, scale, and culture are known. Build a short maturity series for each authenticated strain. Photograph the same cluster at a fixed distance at least once per day as it approaches harvest, and record the traits that actually changed: cap-edge position for oysters and shiitake, tooth development and color for lion's mane, attachment firmness, surface moisture, and visible defects. Keep environmental readings beside the observation rather than treating them as substitutes for morphology.
+
+For lion's mane, Cornell's post-harvest guide gives a practical production reference: teeth about 1 cm long and hanging downward. Treat that as a documented commercial cue, not a taxonomic rule or an exact threshold for every strain. A dense, white, firm fruit with downward teeth may be at a useful quality stage; yellowing, drying, softening, or branchy growth still needs to be interpreted alongside the supplier's strain guidance and the recorded fruiting environment.
+
+For oyster mushrooms, track the proportion of the cluster whose cap margins remain rolled, have just flattened, or have turned upward. The cluster can pass its best handling window while a few inner pins remain small. For shiitake, record gill visibility and the margin as tightly curled, slightly curled, level, or upturned. These ordinal stages are more repeatable than “small,” “medium,” and “large,” and they let a grower compare shelf quality and yield without pretending that size alone measures maturity.
+
+Separate three decisions in the record:
+
+1. **Maturity:** Does the authenticated crop match the intended stage for immediate cooking, short storage, sale, or drying?
+2. **Quality:** Is it firm, clean, acceptably shaped, and free of excessive drying, bruising, insects, or mechanical damage?
+3. **Safety:** Is the culture provenance intact, the block free from unexplained growth or odor, and the handling history acceptable?
+
+A crop can be mature but poor in quality, or visually attractive but unsafe because its identity or handling record is broken. Harvest timing cannot repair a failed safety decision. Keeping the three judgments separate also prevents a flat shiitake cap or upturned oyster margin from being mislabeled “contamination” when it may simply be beyond the preferred market stage.
 
 ## Decide whether to harvest, wait, or isolate
 
@@ -165,3 +188,5 @@ A checklist should improve consistency without pretending that all strains behav
 1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)
 2. [Penn State Extension — Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety)
 3. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
+4. [Cornell Small Farms — Harvesting Shiitake](https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/6-harvesting-shiitake/)
+5. [Cornell Small Farms — Post-Harvesting Handling](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/post-harvesting-handling/)

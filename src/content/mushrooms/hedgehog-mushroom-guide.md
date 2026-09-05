@@ -5,12 +5,12 @@ description: "Identify hedgehog mushrooms by soft downward teeth, irregular buff
 keywords: ["hedgehog mushroom", "Hydnum repandum", "hedgehog mushroom identification", "toothed mushroom"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-06
 coverImage: "../../assets/species/hedgehog-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale buff hedgehog mushrooms with soft downward teeth in mossy woodland"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
 imageNote: "AI-generated editorial illustration; not a voucher photograph or sufficient evidence for identification or edibility."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
 sources:
@@ -207,8 +207,13 @@ You may recognize a tooth-bearing group, but region, cap, stem, base, ecology, s
 
 Both have tooth-like fertile structures, but they belong to different ecological and taxonomic groups. Lion's mane grows on wood in branching masses; *Hydnum* forms cap-and-stem fruit bodies from soil with tree partners.
 
-## Sources and editorial method
+## References
 
 GBIF and NCBI support the accepted-name and lineage framework. NAMA supports conservative poisoning response, while FDA supports handling of verified food products. Claims about close species are deliberately bounded where regional keys, microscopy, or DNA are required.
 
-*Draft editorial review: August 30, 2026. Recheck taxonomy, regional distribution, and poison-response contacts before publication.*
+1. [GBIF — *Hydnum repandum*](https://www.gbif.org/species/6327318). Used for the accepted-name concept and occurrence-record framework; individual records still require their own quality review.
+2. [NCBI Taxonomy Browser — *Hydnum repandum*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Hydnum+repandum). Used to cross-check the taxonomic lineage, not as a field-identification key.
+3. [North American Mycological Association — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Used for the conservative poisoning-response boundary.
+4. [U.S. Food and Drug Administration — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Used only for handling verified food products, not wild-specimen identification.
+
+*Editorial review: September 6, 2026. No named mycologist, toxicologist, dietitian, or clinician reviewed this page. Recheck taxonomy, regional distribution, and local poison-response contacts at every substantive update.*
