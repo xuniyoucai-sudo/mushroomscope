@@ -5,12 +5,14 @@ description: "Identify common inky cap by smooth gray clustered caps, buried-woo
 keywords: ["common inky cap", "Coprinopsis atramentaria", "inky cap alcohol interaction", "common inkcap identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
+publishDate: 2026-09-08
 coverImage: "../../assets/species/inky-cap-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of smooth gray common inky caps clustered beside a decaying hardwood stump"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial illustration; not a voucher photograph or sufficient evidence for identification, edibility, or alcohol safety."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors"]
 sources:
@@ -225,8 +227,11 @@ No. Many ink-cap relatives develop black gills and deliquesce. Cap veil, cluster
 
 No. It cannot verify identity, dose, hidden alcohol exposure, medications, or individual health factors.
 
-## Sources and editorial method
+## References
 
-GBIF and NCBI support the taxonomic framework. NAMA directly supports the coprine syndrome, symptom pattern, and delayed-alcohol boundary. FDA supports general handling statements for verified produce but does not convert this species into a recommended food.
+1. Global Biodiversity Information Facility. [*Coprinopsis atramentaria* species record](https://www.gbif.org/species/5242740). Used to check the accepted name and occurrence-record context; a database record does not identify a reader's specimen.
+2. National Center for Biotechnology Information. [Taxonomy Browser: *Coprinopsis atramentaria*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Coprinopsis+atramentaria). Used for the current taxonomic lineage and synonym check.
+3. North American Mycological Association. [Mushroom Poisoning Syndromes: Coprine](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Direct support for the implicated species, symptom pattern, delayed alcohol interaction, and NAMA's conservative avoidance advice.
+4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling context for verified produce; it does not establish identity or make common inky cap a recommended food.
 
-*Draft editorial review: August 30, 2026. Recheck toxicology wording, accepted taxonomy, and emergency contacts immediately before publication.*
+*Editorial review: September 8, 2026. No named toxicologist or clinician reviewed this page. Recheck toxicology wording, accepted taxonomy, and emergency contacts at every substantive revision.*
