@@ -6,8 +6,8 @@ keywords: ["field mushroom", "Agaricus campestris", "field mushroom identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-08-31
-revisionSummary: "Added measurable field characters, grassland ecology, regional limits, and a staged Agaricus comparison workflow."
+updatedDate: 2026-09-09
+revisionSummary: "Replaced generic identification templates with a field-specific Agaricus evidence matrix, developmental sequence, site-history protocol, and regional name limits."
 draft: false
 featured: false
 coverImage: "../../assets/species/field-mushroom-editorial-v2.png"
@@ -117,33 +117,25 @@ Field mushroom and the supermarket button, cremini and portobello crop all belon
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
-## Use this guide as a field-record framework
-
-For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. The safest field record gives equal weight to what is absent: no volva, no white mature gills, no strong phenolic odor, and no rapid chrome-yellow staining at the base. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
-
-Before any local use decision, separate three questions that are often blended together. First, does the collection belong to the broad morphological group described here? Second, does the local region actually support the species name used in the title, or is a related regional species more likely? Third, even if the identification is correct, is the material fresh, uncontaminated, legally collected, and appropriate for the intended use? Those questions require different evidence, and a weak answer to any one of them should stop a food or cultivation decision.
-
-Photograph the specimen before handling, then document the underside, base or attachment, surrounding habitat, and a clean cross-section. For wood-associated fungi, include the host or substrate and whether the wood is living, dead, buried, or processed. For grassland or soil-fruiting fungi, include nearby trees, turf treatment, roadsides, livestock areas, and any potential contamination source. Do not rely on color alone; rain, sun exposure, age, frost, insects, and camera white balance can change the apparent palette enough to mislead a comparison.
-
-The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
-
-## Record the key field characters
-
-Field mushroom identification rests on a careful Agaricus workflow. Start with habitat: open pasture, meadow, or lightly managed grassland is more supportive than woodland duff or rich compost piles. Then document free gills that begin pinkish and mature toward chocolate brown, a short ringed stem, and the absence of a volva at the base. A dark brown spore deposit is important because white-gilled, white-spored mushrooms can include dangerous Amanita species. Always photograph the complete base before trimming or cleaning.
-
-The most important lookalike screen is for yellow-staining Agaricus and pale Amanita species. Check the stem base and cap margin for rapid chrome-yellow staining, especially after rubbing or cutting, and note any phenolic, inky, or chemical odor. Mild mushroom odor is only supporting evidence, not proof. White Amanita species may have white mature gills and a volva, but a buried base can hide decisive structures if the mushroom is pulled carelessly. When the base is missing, the specimen is not adequately documented for food decisions.
-
-Although field mushroom has a familiar culinary reputation, modern lawns and fields introduce contamination questions. Avoid roadsides, sprayed turf, industrial edges, livestock waste concentrations, and sites with unknown chemical history. Mature gills, insect damage, waterlogging, and decay also affect quality. A useful published observation explains why the specimen is placed in Agaricus, why yellow-stainer and Amanita concerns were addressed, and why the habitat fits. That level of detail teaches safer reasoning and prevents the article from becoming a short edible-mushroom checklist.
-
-## Build a field record before applying a species name
+## Build an Agaricus evidence matrix before applying a species name
 
 The common name is useful for searching, but it is not an identification method. *Agaricus campestris* is the current name used by the [GBIF species record](https://www.gbif.org/species/5243458); a name record tells readers what taxon is being discussed, not what a particular collection is. Start with an intact, mature specimen and a second specimen at a different stage. A button can hide its gills and a very old cap can conceal a ring, so one photograph rarely supplies the details that matter.
 
 For a learning record, photograph the whole group in place, then the cap, gills, full stem, and undisturbed base. Add a size reference only after those views are secured. Note whether the gills are genuinely free of the stem and whether their colour moves from pinkish to dark brown as spores mature. The Missouri Department of Conservation describes meadow mushroom gills as free and changing from light pink to dark brown or nearly black, with a dark spore print; its account is a helpful feature checklist, not permission to eat a collection. Compare that sequence with [our guide to gill attachment](/identification/mushroom-gill-types/) and record uncertainty rather than forcing a match.
 
+Use a four-column field matrix rather than a list of attractive matches. In the first column, record characters expected for the field-mushroom concept: open grassland, free gills, a pink-to-brown gill sequence, dark-brown spores, a fragile ring, and no volva. In the second, record contradictions such as persistent white gills, a white deposit, a saclike base, vivid basal yellowing, or a phenolic odor. The third column contains missing observations; the fourth states what could resolve them, such as returning for a younger stage, making a print, or consulting a local key. Missing evidence is not negative evidence.
+
 The site also matters. Field mushrooms are associated with open grass and pasture, while a collection from deep woodchip, a compost pile, or inside woodland asks for a wider comparison. Record recent turf treatment, proximity to roads or industrial land, grazing, and any unusual odour or staining. Those notes do two jobs: they make a later identification discussion more useful, and they keep an apparent species name from being mistaken for a food-safety assessment.
 
-## Use lookalikes as a safety screen, not a shortcut
+## Follow the developmental sequence, not a single specimen
+
+A young field mushroom can keep its gills hidden behind the partial veil, while an old specimen may have lost the ring and flattened its cap. Photographing several ages turns those apparent inconsistencies into a sequence. The useful sequence is closed pale cap and intact veil, opening cap with pink free gills, then a flatter cap with chocolate-brown fertile surface. A collection that never shows that progression needs a different explanation.
+
+Measure cap width, stem length, and stem thickness on at least three fruit bodies. The Missouri account's 1–4 inch cap and 1–2 inch stem are a regional reference, not universal cutoffs. Ratios can still expose a poor comparison: a persistently tall, slender mushroom with a structured basal cup tells a different story from a short-stemmed grassland *Agaricus*. Record rain and drying because wet caps can look darker and old gills can approach black.
+
+Make staining observations repeatable. Note the exact site tested—cap edge, cut flesh, or stem base—the time to first color, the strongest color reached, and whether it fades. “No yellow” written ten minutes after handling is not equivalent to observing a freshly cut base for the first minute. Odor records should name the tissue and stage too; crushing the stem base may reveal a phenolic odor that was not obvious from an intact cap.
+
+## Use lookalikes as separate safety screens
 
 The two comparisons below are reasons to pause. They are not a two-step key and they do not exhaust regional possibilities.
 
@@ -159,6 +151,18 @@ Pale mushrooms are not interchangeable. The Missouri field guide specifically co
 
 A dark brown deposit supports an Agaricus-type hypothesis and is useful when paired with free gills and an intact base. It cannot resolve every Agaricus species, rule out every local lookalike, or overcome a contradictory habitat. Make the print from a mature cap on contrasting paper, label it with date and collection, and keep the cap with its own notes. Our [spore-print guide](/identification/how-to-make-spore-print/) explains the mechanics. Do not use a print to decide that a mixed basket is safe: each collection needs its own complete record.
 
+## Audit the grassland before discussing food use
+
+“Pasture” is not one exposure category. A lightly managed meadow, a dog-exercise lawn, a roadside verge, a recently treated sports field, and a livestock concentration area may all grow similar-looking mushrooms but present different contamination histories. Record land use, recent pesticide or fertilizer application, runoff, road distance, grazing, and visible waste. These observations cannot prove chemical safety; they can identify reasons not to collect.
+
+The fruiting pattern can also clarify ecology. Mark the positions of several caps on a sketch or phone map. An expanding arc across turf supports a soil saprotroph, whereas a tight cluster above buried roots or wood should prompt a substrate check. Carefully expose only enough soil at one base to see whether it is attached to buried material, then restore the site. Nearby trees should be recorded even though field mushroom is not treated here as a mycorrhizal species, because tree-associated lookalikes can fruit through grass.
+
+## Keep the regional species boundary visible
+
+The name *Agaricus campestris* has a long history and broad reported distribution. A GBIF map aggregates records made under that name across different dates, methods, and taxonomic standards. It is useful for finding records and institutions, but its points do not convert a local photograph into a verified species. The Queensland Mycological Society sheet is likewise evidence for a documented regional concept, not a universal key.
+
+When a local guide divides the field-mushroom complex more narrowly, keep the record at genus or group level until its microscopic or molecular requirements are met. Spore dimensions, cheilocystidia, pileipellis structure, and DNA may matter in difficult collections. A public observation should state which key was used, the region it covers, and which required characters were unavailable. That restraint preserves a useful record instead of forcing an internationally familiar name onto regional material.
+
 ## Food context: separate identity, condition, and exposure
 
 Some field guides list *A. campestris* as edible, but that label belongs to an accurately identified organism in a particular context. It does not evaluate the mushroom in a reader's hand. Three separate questions must all have a solid answer: is the identification supported by a complete specimen and local expertise; is the site and material suitable for food; and is the person consuming it able to tolerate it? Cooking does not turn a toxic lookalike into food, and it does not solve spoilage or environmental contamination.
@@ -173,9 +177,9 @@ A good checklist entry includes both positive and negative evidence. Positive ev
 
 For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
 
-Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
+Keep a dated record even when no specimen is collected. For this grassland *Agaricus*, preserve the stage sequence, free-gill view, intact base, staining times, odor location, print color, site-management history, and the regional key consulted. Repeated observations after rain and drying are more informative than repeating the same cap photograph.
 
-Taxonomy note: field Agaricus names can be applied broadly in older sources, so local keys, gill maturity, staining behavior, and base structure should all be reviewed before publication.
+Taxonomy note: field *Agaricus* names can be applied broadly in older sources, so local keys, gill maturity, staining behavior, and base structure should all be reviewed before publication. This page has editorial review only and has not been checked by a named field mycologist or toxicologist.
 
 ## References
 

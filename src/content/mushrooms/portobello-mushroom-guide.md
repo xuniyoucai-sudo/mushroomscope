@@ -5,12 +5,12 @@ description: "Learn what makes a portobello the mature Agaricus bisporus stage, 
 keywords: ["portobello mushrooms", "portobello nutrition", "how to cook portobello mushrooms", "portobello vs cremini"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-09
 coverImage: "../../assets/species/portobello-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of three fresh mature portobello caps, including one showing dark brown gills, on a kitchen worktable"
 imageCredit: "Original AI editorial image created for MushroomScope"
 imageNote: "AI-generated food-editorial image; not a tested batch, nutrition measurement, or evidence for identifying wild Agaricus."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "health/mushroom-nutrition-guide", "recipes/grilled-portobello-burgers"]
 sources:
