@@ -5,8 +5,8 @@ keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-20
-revisionSummary: "Added a fiber-claim comparison method tied to food form and serving basis, clarified how to separate meal-level nutrition from concentrated products, and retained conservative medical boundaries."
+updatedDate: 2026-09-09
+revisionSummary: "Added a direct fiber-versus-protein answer, practical label comparison steps, and clearer limits on interpreting a mushroom serving as a nutrient claim."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "health/mushroom-supplements-guide", "health/mushrooms-gut-health"]
@@ -65,6 +65,16 @@ Mushrooms are often described with a string of favorable nutrient words: low cal
 It is also worth separating a whole food from a single constituent. A meal that includes mushrooms brings water, texture, flavor, and whatever other ingredients were used. Adding mushrooms to a salty, creamy, or highly processed dish does not make the whole recipe nutritionally equivalent to a simple mushroom preparation. For meal-level context, see the [mushroom risotto guide](/recipes/mushroom-risotto/) and adapt portions and ingredients to the dietary pattern rather than chasing one nutrient in isolation.
 
 Vitamin D requires especially careful reading. Some mushrooms may have vitamin D values affected by ultraviolet exposure, while others may not. The [mushrooms and vitamin D guide](/health/mushrooms-vitamin-d/) explains why the species, treatment, and actual label matter. The NIH fact sheet is useful for the broader role and intake context of vitamin D, but it does not convert any mushroom product into a replacement for clinical advice or prescribed treatment.
+
+## Are mushrooms fiber or protein?
+
+Both terms can describe parts of a mushroom food, but they answer different nutrition questions. Culinary mushrooms contain some protein and can contribute dietary fiber, yet neither statement says that mushrooms are nutritionally interchangeable with a high-protein food or a high-fiber staple. The useful answer begins with the exact species, preparation state, and serving size on the package or in a comparable USDA entry.
+
+For example, fresh mushrooms contain substantial water. A label may therefore show modest grams of protein and fiber per serving even though the same food looks more concentrated after drying or cooking. Do not compare a spoonful of powder with a plate of fresh mushrooms by weight and call one “better”: first compare the stated serving, total calories, protein, total dietary fiber, sodium, and any added ingredients.
+
+Use mushrooms for their flavor and variety alongside foods that suit the meal's actual goal. If protein is the priority, assess the full meal's protein sources; if fiber is the priority, assess total dietary fiber across vegetables, legumes, whole grains, fruit, and the mushroom portion. The [mushrooms and gut health guide](/health/mushrooms-gut-health/) discusses why a fiber-containing food does not by itself establish a digestive-health outcome.
+
+This distinction also prevents a category error in product marketing. A capsule, beverage blend, or mycelium-on-grain powder may use the word “mushroom,” but its protein and fiber can come from a different material or from added ingredients. Read the full label and use the [supplement evidence guide](/health/mushroom-supplements-guide/) when the product is not an ordinary culinary food.
 
 ## Compare fiber claims by food form and serving basis
 

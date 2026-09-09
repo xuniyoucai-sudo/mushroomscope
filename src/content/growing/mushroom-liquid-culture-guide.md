@@ -5,12 +5,12 @@ description: "Learn liquid culture as a controlled inoculum workflow: broth desi
 keywords: ["mushroom liquid culture", "liquid culture recipe", "test mushroom liquid culture"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-09
 coverImage: "../../assets/growing/mushroom-liquid-culture-editorial-v2.png"
 coverAlt: "AI editorial illustration of two clear liquid-culture jars with white mycelial wisps on a clean workbench"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
-imageNote: "AI-generated editorial illustration; not a laboratory record. Appearance alone cannot establish that a culture is uncontaminated."
-draft: true
+imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated editorial context, not a laboratory record; appearance alone cannot establish that a culture is uncontaminated."
+draft: false
 featured: false
 relatedEntries: ["growing/mushroom-grain-spawn-guide", "growing/sterilize-mushroom-substrate", "growing/mushroom-contamination-guide"]
 sources:
@@ -220,4 +220,11 @@ The cover is an original AI editorial illustration checked for clear broth, plau
 
 Cornell sources establish that culture and spawn production are skilled sterile stages and distinguish inoculum from fruiting blocks. CDC supports general steam-sterilization principles; equipment-specific operation must come from the pressure-canner maker and a validated cultivation protocol. Penn State Extension provides professional mushroom-production context. Because this editorial guide was not laboratory-validated, it deliberately omits a universal broth ratio or processing cycle and directs readers to equipment- and culture-specific instructions.
 
-*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named laboratory specialist reviewed or validated this workflow.*
+## References
+
+1. Cornell Small Farms. [Indoor Production](https://smallfarms.cornell.edu/resources/indoor-production/). Commercial cultivation and sterile-production context.
+2. Cornell Small Farms. [Seven Stages of Cultivation](https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/2-seven-stages-of-cultivation/). Distinguishes culture, spawn, and later production stages.
+3. Penn State Extension. [Mushroom resources](https://extension.psu.edu/forage-and-food-crops/mushrooms). Professional mushroom-production context.
+4. U.S. Centers for Disease Control and Prevention. [Steam Sterilization](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/steam-sterilization.html). General pressure-steam principles; not a home canner cycle.
+
+*Editorial status: reviewed by the MushroomScope editorial team on September 9, 2026; no named laboratory specialist reviewed or validated this workflow.*
