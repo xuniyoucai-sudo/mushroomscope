@@ -5,12 +5,12 @@ description: "Roast maitake into crisp-edged clusters with controlled sizing, sp
 keywords: ["crispy roasted maitake", "roasted maitake mushrooms", "maitake recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-10
 coverImage: "../../assets/recipes/crispy-maitake-mushrooms-editorial-v2.png"
 coverAlt: "AI editorial illustration of browned maitake clusters with crisp frilled edges on a dark sheet pan"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
 imageNote: "AI-generated editorial illustration; not a photograph of a tested batch. Use the written browning and tenderness cues."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/maitake-mushroom-guide", "recipes/air-fryer-mushrooms", "recipes/sauteed-mushrooms-recipe"]
 sources:
@@ -187,7 +187,7 @@ Brush it on during the last few minutes or use it in a finishing oil. Grated gar
 
 No. The target is brittle or crisp outer fronds with a tender branch core; drying the entire piece removes the useful contrast.
 
-## Sources and editorial method
+## References
 
 FDA guidance supports cleaning, refrigeration, and kitchen-separation statements. USDA FSIS supports cooling, storage, and reheating limits. FoodData Central is the appropriate starting point for ingredient-matched nutrition rather than estimates. Cornell's material establishes the cultivated specialty-mushroom context. Before publication, a logged kitchen test should record cluster weights, tray material, oven mode, timing, and weight loss.
 

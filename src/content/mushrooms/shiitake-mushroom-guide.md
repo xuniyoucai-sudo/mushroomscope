@@ -6,8 +6,8 @@ keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom gro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-31
-revisionSummary: "Separated cultivated provenance from wild identification, added log-versus-block variables, and strengthened dermatitis and evidence boundaries."
+updatedDate: 2026-09-10
+revisionSummary: "Added developmental measurements, East Asian market-name boundaries, substrate evidence, and a shiitake-specific cooking method."
 draft: false
 featured: false
 coverImage: "../../assets/species/shiitake-mushroom.jpg"
@@ -102,6 +102,12 @@ A typical cultivated fruit body has a convex brown cap with whitish veil remnant
 
 Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
 
+### Record a developmental series, not one ideal cap
+
+Shiitake changes enough during expansion that one “textbook” photograph can mislead. On a cultivated block, mark three fruit bodies and measure cap width at the same time each day. Record when the margin changes from tightly inrolled to nearly level, when pale veil remnants stretch or disappear, and when the crowded cream gills become fully exposed. The familiar white cracking pattern is influenced by strain and humidity; it is neither required nor diagnostic.
+
+For a wild collection, pair those measurements with the diameter and condition of the woody attachment, whether fruit bodies share one buried piece of wood, and the exact gill attachment visible in a longitudinal section. Preserve one mature cap for a deposit and, where lawful, dry a documented voucher. This sequence separates stable structures from weather damage and gives a local specialist more evidence than a close-up of the cap alone.
+
 ### Similar species
 
 - **Lentinula species:** Related taxa may be separated by geography, morphology, and molecular data.
@@ -134,11 +140,23 @@ Habitat is part of the identification, not decorative background. Record whether
 
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
 
+### Keep shiitake, xiang gu and culture labels attached to evidence
+
+Shiitake is a Japanese market name now used internationally; Chinese retail labels may use *xiang gu* for fragrant mushroom or *dong gu* for a winter-style grade. These commercial terms describe products and traditions, not a field character that establishes species. Retain the name printed on a package, country of origin, producer, lot, and scientific-name declaration rather than translating every brown cultivated mushroom into *Lentinula edodes*.
+
+Scientific databases place *L. edodes* in an East Asian context, while related *Lentinula* occur elsewhere. A commercial block fruiting on another continent is evidence of cultivation at that address, not evidence that the species is native or naturalized there. A credible locality claim needs a wild substrate, collection record, identifier, date, and preferably a deposited specimen or sequence linked to that record.
+
 ## Choose a log system or a sawdust-block system deliberately
 
 For a small outdoor project, obtain regionally appropriate hardwood logs and authenticated shiitake spawn. Record tree species, log diameter, felling and inoculation dates, spawn type, hole pattern and sealing material. Keep logs shaded and protected from severe drying without wrapping them into stagnant conditions. Colonization takes many months, so a calendar copied from a different climate or log diameter is not a reliable endpoint. The separate [shiitake log-growing guide](/growing/grow-shiitake-logs/) covers drilling, sealing and yard layout; this page keeps the focus on species provenance and the choice between log and block systems.
 
 Supplemented sawdust is a different production system rather than a faster version of the same recipe. Dry substrate mass, water addition, supplement fraction, bag geometry, heat treatment, inoculation rate, incubation temperature and strain all interact. Blocks demand stronger contamination control and clear separation between clean inoculation and fruiting waste. Compare yields only against recorded dry substrate mass; fresh bag weight hides differences in water and packaging.
+
+### Interpret host and substrate at the correct scale
+
+“On oak” is incomplete evidence. In log culture, record the tree species, whether the wood was living when cut, bark condition, log diameter, felling-to-inoculation interval, and moisture history. Competing fungi can enter through damaged bark or old cut surfaces. In a sawdust block, the fruit body is attached to a manufactured mixture; hardwood species, particle size, supplement, water addition, bag geometry, and heat-treatment schedule all belong to the substrate record.
+
+Wild observations require the same discipline. A mushroom emerging beside a tree may be attached to buried wood from a different species. Expose only enough of the base to document the connection, then restore the site. Do not infer a host from the nearest canopy tree, and do not use a cultivated hardwood preference as proof of a wild association.
 
 ### A safe cultivation workflow
 
@@ -168,6 +186,12 @@ Thorough cooking is important. The clinical review by Stephany and colleagues de
 That reaction is distinct from immediate allergy, ordinary gastrointestinal intolerance and foodborne illness. Breathing difficulty, facial swelling or collapse requires emergency care. Dried mushrooms still need clean rehydration, prompt cooking and refrigeration if held. Never extrapolate the familiar appearance of a cultivated shiitake cap to a wild brown mushroom growing on wood.
 
 General food practice still applies: source cultivated mushrooms from reputable producers, transport them cool, wash hands and utensils, prevent contact with raw animal foods, and cook with clean equipment. Cooking can reduce microbial risk and improve digestibility, but it cannot make a poisonous species safe and may not destroy every toxin or environmental contaminant.
+
+### Use a two-stage pan method for dense caps
+
+Fresh shiitake caps contain enough water that a crowded pan can steam them before browning. Trim the fibrous stems for stock, slice caps to a consistent thickness, and begin in a broad pan with enough space for vapor to escape. Let released moisture cook away before adding final fat and aromatic ingredients; this prevents garlic or butter from scorching while the mushroom is still shedding water. Continue until the pieces are hot and cooked through rather than judging doneness from surface color alone.
+
+Dried shiitake behave differently. Rehydrate them with clean water under controlled time and temperature, remove grit, and cook the softened caps thoroughly. If the soaking liquid is used for flavor, strain it and bring it into the cooked preparation promptly; it is not a shelf-stable broth. This culinary mechanism belongs on the species guide because shiitake’s fibrous stems, dried-product market, and dermatitis boundary create decisions that a generic sautéing paragraph does not capture.
 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
