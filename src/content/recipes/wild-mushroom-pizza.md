@@ -5,12 +5,12 @@ description: "Build a crisp wild mushroom pizza using verified cultivated mushro
 keywords: ["wild mushroom pizza", "mixed mushroom pizza", "mushroom pizza recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-11
 coverImage: "../../assets/recipes/wild-mushroom-pizza-editorial-v2.png"
 coverAlt: "AI editorial illustration of a thin-crust pizza topped with browned cremini, oyster, and maitake mushrooms"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
 imageNote: "AI-generated editorial illustration; not a tested pizza photograph. The depicted mushrooms represent verified commercial products, not foraged specimens."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/oyster-mushroom-guide", "mushrooms/maitake-mushroom-guide"]
 sources:
@@ -195,8 +195,13 @@ Hot mushrooms emit steam directly onto raw dough. A brief spread on a plate shed
 
 No. Each species has its own identification, preparation, and toxicity issues. Use only verified food mushrooms and species-specific guidance.
 
-## Sources and editorial method
+## References
 
-FDA outbreak guidance supports the strong boundary around wild-type mushrooms and undercooked morels. FDA produce guidance supports cleaning and refrigeration practices. USDA FSIS supports leftover cooling, storage, and reheating. FoodData Central is the source for ingredient-matched nutrition calculations. Before publication, a kitchen test should log dough weight, surface type, mushroom raw and cooked weight, oven temperature, bake time, and bottom-crust result.
+FDA outbreak guidance supports the strong boundary around wild-type mushrooms and undercooked morels. FDA produce guidance supports cleaning and refrigeration practices. USDA FSIS supports leftover cooling, storage, and reheating. FoodData Central is the reference for ingredient-matched nutrition work. This editorial recipe has not been independently kitchen-tested; a future test should log dough weight, surface type, mushroom raw and cooked weight, oven temperature, bake time, and bottom-crust result rather than implying a result from the cover image.
 
-*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*
+1. U.S. Food and Drug Administration. [Investigation of Illnesses: Morel Mushrooms](https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-morel-mushrooms-may-2023). Supports the warning about raw or undercooked morels and the need for verified mushroom identity.
+2. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Supports produce washing, separation and refrigeration practices.
+3. USDA Food Safety and Inspection Service. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety). Supports the two-hour refrigeration, three-to-four-day storage and reheating guidance.
+4. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Reference for future ingredient-matched nutrition calculations; no nutrient claim is inferred from the cover image.
+
+*Editorial status: reviewed by the MushroomScope editorial team on September 11, 2026; no named chef or test kitchen independently validated this recipe.*

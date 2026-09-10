@@ -6,8 +6,8 @@ keywords: ["Pleurotus ostreatus","oyster mushroom","mushroom identification","mu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-01
-revisionSummary: "Reframed oyster identification around species-versus-market labels, added substrate and fruiting diagnostics, and separated food evidence from extract claims."
+updatedDate: 2026-09-11
+revisionSummary: "Added a temperate P. ostreatus evidence boundary, developmental cluster record, wood-position tests, crop-interface diagnostics, and cooking decisions tied to cluster anatomy."
 draft: false
 featured: false
 coverImage: "../../assets/species/oyster-mushroom.jpg"
@@ -100,6 +100,12 @@ Look for laterally attached caps growing in shelves, pale gills that descend the
 
 Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
 
+### Build a developmental cluster record
+
+Do not reduce a cluster to one mature cap. Photograph the youngest rolled margins, mid-stage shells and oldest flattened caps in the same frame, then repeat the underside view. In a coherent *P. ostreatus* cluster, the gills should continue down the short lateral attachment across those stages; a central stem, sharply ending gills or a different fruiting surface changes the candidate set. Record whether caps arise from one fused base or several points along the wood, because a cropped photograph can make scattered fruit bodies appear clustered.
+
+Cap color is weak when separated from temperature, light and strain. Cool-grown cultivated crops may be dark gray while other authenticated crops are tan, and aging margins can bleach. A useful record therefore treats color as a dated, white-balanced observation and gives more weight to the gill attachment, flesh, growth architecture and substrate. If a specimen is destined for microscopy or sequencing, connect every image and note to the same voucher identifier.
+
 ### Similar species
 
 - **Pleurotus pulmonarius:** A closely related pale oyster species; separation may require ecology, microscopy, or DNA.
@@ -130,6 +136,12 @@ In nature the fungus digests lignocellulose in dead or weakened wood, commonly h
 
 Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
 
+### Test the apparent wood connection
+
+A shelf growing at soil level may emerge from a buried root, stump or log. Clear loose litter only when permitted and photograph the attachment before disturbing it. “On soil” and “on wood” support different comparisons, so uncertainty should remain explicit when the connection cannot be seen. Also record bark, end grain and nearby tree evidence separately: naming the nearest standing tree as the host is not defensible when roots and fallen wood overlap.
+
+The core name on this page is the temperate *P. ostreatus* concept represented by the cited taxonomy record. Pale warm-season oysters may instead be treated as *P. pulmonarius* or another regional lineage, and North American versus European name use is not perfectly interchangeable. This boundary matters for a species record but usually matters less for a correctly labeled cultivated food package. Preserve collection country, date and the authority used rather than backfilling a species name from the English word “oyster.”
+
 Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
 
 ## Choose a crop system before setting a fruiting room
@@ -149,6 +161,12 @@ Incubate according to the strain supplier, then provide indirect light, high hum
 
 Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
 
+### Diagnose the fruiting interface before changing the room
+
+The bag opening determines where evaporation and oxygen exposure occur. A compact side slit concentrates a cluster; stripping away the entire bag exposes more substrate, increases drying area and can scatter pins. Before changing humidity or fan settings, record cut shape, cut area, block orientation and distance from the air outlet. Compare blocks from the same inoculation lot at the same developmental time, since a better-looking cluster on a different strain is not a controlled comparison.
+
+Read morphology as a response pattern rather than a one-symptom recipe. Long stems and small caps can be consistent with elevated carbon dioxide, but a shelf-edge airflow gradient is stronger evidence than one odd cluster. Cracked or leathery margins point toward excessive drying, while persistent surface droplets show wetting without proving that room relative humidity is adequate. The [pinning and fruiting conditions guide](/growing/mushroom-fruiting-conditions/) explains the room variables; the species record here supplies the oyster-specific fan-shaped endpoint.
+
 ## Keep food composition separate from extracts and mechanisms
 
 Oyster mushrooms are nutritious foods, not medicines. Food-composition data support their contribution of fiber, protein, and several micronutrients. Laboratory studies of beta-glucans, lovastatin-like compounds, or antioxidant activity can help researchers form hypotheses, but they do not justify promising cholesterol control, cancer treatment, or immune enhancement from an ordinary serving. Human outcomes depend on dose, preparation, population, and study quality.
@@ -167,6 +185,12 @@ General food practice still applies: source cultivated mushrooms from reputable 
 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
+### Match the cut to the cluster anatomy
+
+Treat a cultivated cluster as two textures. The thin cap and outer gill-bearing edges lose water quickly and can brown in broad contact with a hot pan; the fused base is denser and may remain chewy. Trim only the compressed substrate-bearing portion, then tear the remaining cluster along its natural seams so the pieces expose flat surfaces without shredding the caps. Crowding turns released water into a steaming bath, so cook in batches when the pan cannot hold one loose layer.
+
+Salt timing is a texture decision, not a universal prohibition. Early salt can draw moisture into the pan, which is useful if the cook allows that liquid to evaporate before browning; later salt makes the dry-browning stage easier to see. Finish only after the liquid has cleared and the thickest attachment pieces are hot and tender. This mechanism distinguishes a species guide from the site's recipe pages: the [garlic-butter oyster method](/recipes/garlic-butter-oyster-mushrooms/) provides quantities and timing, while this section explains why cluster geometry changes the method.
+
 
 ## References
 
@@ -176,4 +200,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 
-*Editorial review: September 1, 2026. No named mycologist, cultivation specialist, clinician, or dietitian reviewed this page. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Editorial review: September 11, 2026. No named mycologist, cultivation specialist, clinician, or dietitian reviewed this page. Scientific names and public-health recommendations should be rechecked at every substantive update.*
