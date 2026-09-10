@@ -5,12 +5,12 @@ description: "Document Amanita using veils, complete stem bases, free gills, whi
 keywords: ["Amanita identification", "Amanita volva", "Amanita veil", "death cap identification safety"]
 category: identification
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-10
 coverImage: "../../assets/identification/amanita-identification-editorial-v2.png"
 coverAlt: "AI editorial illustration of varied Amanita-like mushrooms showing white gills, a skirt ring, cap patches, and two forms of basal veil remnants"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
-imageNote: "AI-generated genus-level editorial illustration; not a voucher photograph, universal Amanita template, or sufficient evidence for identification or edibility."
-draft: true
+imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated genus-level editorial context, not a voucher photograph, universal Amanita template, or sufficient evidence for identification or edibility."
+draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/poisonous-mushroom-warning-signs"]
 sources:
@@ -230,4 +230,11 @@ Different species can fruit together. Separation preserves the relationship betw
 
 CDC MMWR reports support the severity, delayed-risk, regional-misidentification, and prompt-response boundaries. NAMA supports syndrome distinctions and expert identification context. GBIF supports the genus taxonomic framework. This guide emphasizes evidence preservation and stopping rules rather than edible identification.
 
-*Draft editorial review: August 30, 2026. Recheck current public-health advice, poison-center access, taxonomy, and all source links before publication.*
+## References
+
+1. Centers for Disease Control and Prevention. [Amanita Species Mushroom Poisonings — Northern California, November 2025–March 2026](https://www.cdc.gov/mmwr/volumes/75/wr/mm7520a2.htm). Public-health evidence for delayed amatoxin risk, visual misidentification limits, and immediate poison-control response.
+2. Centers for Disease Control and Prevention. [Health Care Utilization and Outcomes Associated with Accidental Poisonous Mushroom Ingestions — United States, 2016–2018](https://www.cdc.gov/mmwr/volumes/70/wr/mm7010a1.htm). National accidental-ingestion context.
+3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Syndrome context; not a substitute for emergency care.
+4. Global Biodiversity Information Facility. [*Amanita* genus record](https://www.gbif.org/species/2519278). Taxonomic and occurrence-data checkpoint, not a regional key.
+
+*Editorial review: September 10, 2026. No named toxicologist, clinician, or taxonomist reviewed this page. Recheck public-health advice, poison-center access, taxonomy, and source links before acting on a real specimen.*

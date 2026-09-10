@@ -5,7 +5,8 @@ keywords: ["mushroom allergy symptoms", "mushroom intolerance", "mushroom allerg
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-10
+revisionSummary: "Added an exposure-first triage record, clarified the difference between a food reaction and a wild-mushroom poisoning response, and strengthened product traceability limits."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/fruiting-body-vs-mycelium", "identification/mushroom-identification-safety-checklist"]
@@ -101,6 +102,14 @@ Do not intentionally repeat exposure to improve the record. A clinician may use 
 
 Unnecessary avoidance can reduce diet variety and obscure the cause. Any elimination and reintroduction plan should be proportionate to risk and supervised when allergy is possible.
 
+## Keep food-reaction and wild-mushroom response records separate
+
+A packaged cultivated product and an unknown foraged mushroom call for different records. For a food-reaction assessment, preserve the package, lot code, ingredient list, preparation, portion, and other foods in the meal. This helps a clinician consider mushroom material, co-ingredients, storage, and other explanations without deciding the cause from symptoms alone.
+
+For a possible wild-mushroom ingestion, the priority is poison-control or emergency guidance, not an allergy-style elimination plan. Preserve uncooked specimens, cooked remnants, photographs, location, time eaten, and everyone exposed when safe; do not sort fragments into guessed species or retry a bite. The [wild mushroom safety guide](/identification/mushroom-identification-safety-checklist/) explains why a photo cannot turn an unknown specimen into a safe food decision.
+
+The same person can have only one of these scenarios, or neither. A rash after a restaurant dish is not evidence of toxin exposure; delayed gastrointestinal illness after an unidentified wild meal is not evidence of allergy. The exposure history directs the next professional conversation, while this page deliberately stops short of diagnosis.
+
 ## Consider inhalation and skin exposure separately
 
 Growers and processors may encounter spores, substrate dust, molds, cleaning chemicals, and wet environments. Cough, wheeze, nasal symptoms, eye irritation, or dermatitis may relate to one or several of these exposures rather than to eating cooked mushrooms.
@@ -140,3 +149,5 @@ If a clinician identifies a different ingredient, preparation problem, or non-al
 3. [Ali and Smith — *Agaricus bisporus* mushroom anaphylaxis: A case report and review of the literature](https://pubmed.ncbi.nlm.nih.gov/39282616/)
 4. [Del Santo et al. — Occupational allergic IgE-mediated disease from *Boletus edulis*: case report](https://pubmed.ncbi.nlm.nih.gov/16983976/)
 5. [Poison Control — Food poisoning: Symptoms, treatment, and causes](https://www.poison.org/articles/food-poisoning)
+
+*Editorial review: September 10, 2026. No named allergist, clinician, toxicologist, or occupational-health specialist reviewed this page. Emergency guidance and product records should be rechecked at every substantive update.*
