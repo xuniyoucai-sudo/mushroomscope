@@ -5,12 +5,12 @@ description: "Make lion's mane mushroom steaks with a dry sear, gentle pressing,
 keywords: ["lion's mane mushroom steaks", "how to cook lion's mane", "lion's mane steak recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-12
 coverImage: "../../assets/recipes/lion-s-mane-mushroom-steaks-editorial-v2.png"
 coverAlt: "AI editorial illustration of two golden seared lion's mane mushroom steaks with lemon-herb butter"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
 imageNote: "AI-generated editorial illustration; not a photograph of a tested batch. Follow the written doneness and food-safety cues."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "growing/grow-lion-s-mane-home", "recipes/sauteed-mushrooms-recipe"]
 sources:
@@ -183,8 +183,8 @@ It may release more water and have a softer structure. Thaw under refrigeration,
 
 No. “Steak” describes shape and cooking technique, not protein or nutrient equivalence. Use USDA FoodData Central entries that match the actual ingredients for dietary calculations.
 
-## Sources and testing notes
+## References
 
 FDA guidance supports washing, refrigeration, and cross-contamination statements. USDA FSIS supports cooling, storage, and reheating limits. USDA FoodData Central is provided for ingredient-matched nutrient checks rather than unsupported estimates. Cornell's specialty-mushroom material supports the cultivated-product context. This is an editorial recipe, not a controlled test-kitchen report; pan response varies, so the method pairs approximate times with visible moisture, browning, center heat, and texture cues.
 
-*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*
+*Editorial status: reviewed by the MushroomScope editorial team on September 12, 2026; no named chef or test kitchen independently validated this recipe.*

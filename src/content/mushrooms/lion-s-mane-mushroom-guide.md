@@ -5,7 +5,7 @@ keywords: ["Hericium erinaceus","lion's mane","mushroom identification","mushroo
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-09-12
 draft: false
 featured: false
 coverImage: "../../assets/species/lions-mane-mushroom.jpg"
@@ -14,23 +14,25 @@ imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["growing/grow-lion-s-mane-home", "health/lion-s-mane-benefits-evidence", "identification/how-to-identify-mushrooms"]
 sources:
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+  - title: "GBIF — Hericium erinaceus"
+    url: "https://www.gbif.org/species/2536821"
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"
-  - title: "Penn State Extension — Mushroom Food Safety"
-    url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety"
+  - title: "Cornell Small Farms — Lion's Mane Production Guide"
+    url: "https://smallfarms.cornell.edu/projects/mushrooms/"
+  - title: "Spelman et al. — Hericium erinaceus systematic review"
+    url: "https://pubmed.ncbi.nlm.nih.gov/40959699/"
 faq:
-  - question: "Can this mushroom be identified from a photograph?"
-    answer: "No. A photograph can support documentation, but a defensible identification of Hericium erinaceus also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone."
-  - question: "Is it safe to eat?"
-    answer: "lion's mane is an established food when it comes from a reputable cultivated source and is stored and cooked properly. Individual allergy or intolerance is still possible. A wild specimen needs independent expert confirmation."
-  - question: "Can beginners grow it?"
-    answer: "The database rates cultivation as moderate. Beginners should use authenticated spawn or a reputable ready-to-fruit block, follow the supplier's temperature and hygiene instructions, and discard cultures showing unexplained mold colors or foul odors."
-  - question: "Does it have proven health benefits?"
-    answer: "It has nutritional or research interest, but that wording must not be converted into a treatment claim. Laboratory findings do not prove clinical benefit, and human evidence must match the exact species, preparation, dose, and outcome."
-  - question: "How should it be stored?"
-    answer: "Refrigerate fresh cultivated mushrooms promptly in breathable food-safe packaging and use them while sound. Keep dried material sealed, dry, and away from heat. Follow local recall notices and discard spoiled or contaminated products."
+  - question: "Is every white pom-pom mushroom lion's mane?"
+    answer: "No. Compactness, branching pattern, tooth placement, attachment, host, maturity, and region all matter. Several Hericium species and unrelated tooth fungi can look similar in a cropped photograph."
+  - question: "Does yellow color mean lion's mane is poisonous?"
+    answer: "Yellowing can accompany age, drying, bruising, or cultivation stress; it is not a toxicity test. Reject spoiled commercial product and never use color alone to decide whether a wild specimen is edible."
+  - question: "Can lion's mane grow from conifer wood?"
+    answer: "Hericium erinaceus is principally associated with hardwood. A conifer report deserves careful rechecking of both the tree and fungus, including buried or mixed wood and a different toothed species."
+  - question: "Why did a lion's mane grow block make coral-like branches?"
+    answer: "Restricted fresh-air exchange is a common contributor, but strain, opening geometry, humidity, evaporation, and temperature can also change form. Compare with authenticated supplier examples and change one recorded variable at a time."
+  - question: "Is culinary lion's mane proven to improve memory?"
+    answer: "No. A cultivated food serving is not equivalent to the defined powders or extracts used in small human studies, and current evidence does not establish prevention or treatment of cognitive disease."
 scientificName: "Hericium erinaceus"
 commonNames: ["lion's mane","bearded tooth mushroom","pom-pom mushroom"]
 taxonomy:
@@ -76,37 +78,37 @@ similarSpecies:
     differences: "Many have teeth, but growth form, substrate, spore characters, and texture differ."
 ---
 
-## Introduction
+## What makes lion’s mane a distinct Hericium species guide
 
-*Hericium erinaceus* produces a distinctive white fruit body covered with hanging teeth, giving rise to the name lion’s mane. It is cultivated as food and heavily marketed as a cognitive-health supplement. Those two uses require different standards of evidence. A cooked mushroom can be discussed as food; claims about memory, mood, nerves, or disease require controlled human trials on a defined preparation.
+*Hericium erinaceus* forms a compact white fruit body whose fertile surface is made of downward-pointing teeth. It has no ordinary cap, gills, or pores. That architecture separates the first identification question—“is this a toothed wood fungus?”—from the harder question of which *Hericium* species and whether a particular specimen is fit for any use.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This page focuses on the organism: its form, hardwood ecology, regional naming limits, and cultivation biology. The [home-growing guide](/growing/grow-lion-s-mane-home/) covers a block-based production workflow, while the [lion’s mane evidence review](/health/lion-s-mane-benefits-evidence/) evaluates human health claims. Those pages should not be collapsed into the species account because identification, crop management, and clinical evidence answer different searches.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+## Read the fruit body from attachment to tooth tip
 
-## Identification
+Begin at the wood. A typical mature lion’s mane is attached through a short, concealed base and expands into one dense, largely unbranched mass. Numerous soft teeth hang from the exposed surfaces. Fresh tissue is white; cream or pale yellow often appears with age, drying, handling, or poor fruiting conditions. The interior is solid and white rather than hollow or composed of many separate coral branches.
 
-A mature specimen forms one compact, largely unbranched mass with many pendant spines. Young tissue is white; aging tissue may cream or yellow. The teeth lengthen as the fruit body matures and carry the spore-producing surface. Closely related Hericium species may branch more extensively. Field records should include the host tree, attachment, whole growth form, tooth length, color changes, and a spore print.
+### Use a developmental sequence, not one perfect photograph
 
-### Macroscopic characters
+Very young growth may look like a rounded white cushion before its teeth extend. During expansion, lobes can make the outline irregular, but the fruit body should retain a compact core. At useful maturity the teeth are conspicuous and hang downward. An old body may yellow, shrink, become tough, collect debris, or lose its clean outline. Cultivated bodies exposed to excessive carbon dioxide can become unusually branched, so malformed crop photographs are weak field references.
 
-- **Cap or upper surface:** No conventional cap; the fruit body forms a rounded to irregular white mass.
-- **Fertile surface:** The fertile surface covers numerous hanging, unbranched teeth or spines.
-- **Stem or attachment:** A short hidden base attaches the single compact mass to wood.
-- **Flesh:** White, solid yet tender when young, yellowing and becoming tougher with age.
-- **Spore print:** White.
+A defensible record includes a scale beside the whole body, a close view of the teeth, the attachment point, the cut interior when lawful collection is appropriate, and the host or substrate. Record color in neutral daylight. A white spore deposit is compatible with *Hericium*, but white spores occur in many unrelated fungi and cannot confirm the species.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+### Measure the features that actually separate forms
 
-### Similar species
+“White and shaggy” is a search description, not a diagnosis. Note whether the body has one compact core or a repeatedly branching framework; whether teeth descend from the main mass or line many slender branches; the approximate tooth length on mature portions; and whether several bodies arise independently or share a base. Weather-damaged material may need microscopy, sequence data, or a specialist’s regional key.
 
-- **Hericium americanum:** Typically develops a more branched structure with teeth on branches; geography and microscopic evidence matter.
-- **Hericium coralloides:** Usually coral-like and repeatedly branched rather than one compact pom-pom.
-- **Other tooth fungi:** Many have teeth, but growth form, substrate, spore characters, and texture differ.
+The mushroom’s silhouette also changes with viewpoint. A side photograph can hide a branched back, and a close crop can remove the attachment and host. That is why this page cannot confirm a wild specimen—or its edibility—from an uploaded image.
 
-The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
+## Separate lion’s mane from its closest lookalikes
 
-## Scientific Classification
+North American *Hericium americanum* usually produces a branched body with long teeth arising from the branches. *Hericium coralloides* is more openly and repeatedly branched, with teeth distributed along the branch system. The [coral tooth guide](/mushrooms/coral-tooth-mushroom-guide/) shows why “coral-shaped” and “toothed” must be documented separately rather than treated as interchangeable common names.
+
+Other toothed fungi may form caps or shelves with spines only underneath. Still others grow from soil and incorporate buried wood, creating a false impression of terrestrial growth. Pale coral fungi such as *Ramaria* and *Clavulina* branch but do not carry a surface of hanging teeth. These distinctions are structural; color alone is especially weak because many young fungi are white or cream.
+
+Regional naming matters. Older field guides, market labels, and internet photographs may apply lion’s mane broadly to several *Hericium* forms. A North American observation should not inherit a European name merely because the outline looks familiar. Use a current local key and preserve the name and identification method attached to any cited specimen record.
+
+## Taxonomy and name boundaries
 
 | Rank | Name |
 | --- | --- |
@@ -118,58 +120,80 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 | Genus | *Hericium* |
 | Species | *Hericium erinaceus* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+GBIF currently treats *Hericium erinaceus* as an accepted species and provides a backbone for occurrence records. A database match is not independent verification of every uploaded observation: coordinates can be imprecise, names can reflect older concepts, and citizen-science records vary in documentation quality. For research notes, save the database name, record identifier, access date, geography, and original determiner instead of copying a map as proof of local occurrence.
 
-## Habitat
+## Hardwood ecology is part of the evidence
 
-Lion’s mane grows from hardwood, sometimes emerging from a wound or internal decay in a standing tree and sometimes from fallen wood. Its presence can indicate decayed wood, so observers should not stand beneath unsafe limbs. Conservation status differs among countries and regions. Photographing and recording a wild specimen may be more appropriate than collecting it, especially where it is uncommon or legally protected.
+Lion’s mane is a wood-decaying fungus associated with broadleaf trees. Wild bodies can emerge from wounds or cavities on living trees, from dead sections of a standing trunk, or from fallen hardwood. The visible mushroom may therefore signal internal decay. Observe standing specimens from a position clear of unstable limbs, and do not probe a hazardous tree merely to expose an attachment.
 
-**Known range represented here:** Europe, Asia, North America, with regional Hericium relatives, cultivated worldwide. **Typical substrates:** hardwood logs, sterilized supplemented hardwood sawdust. Wild fruiting usually occurs from late summer through autumn, varying with climate; indoor crops are year-round.
+Host reporting should be specific but honest. Record whether the wood is living, dead, standing, or fallen; photograph bark, leaves, buds, or nearby retained twigs; and state “unidentified hardwood” when tree evidence is insufficient. A confident fungal name paired with a guessed host creates false ecological precision. The same principle applies to wood that is buried or heavily decomposed.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+Fruiting is commonly noticed from late summer into autumn in temperate regions, but rainfall, temperature, latitude, tree condition, and local lineage all shift timing. An August-to-November range is a planning aid, not an identification character. Repeated observations of the same tree are more informative than forcing one date into a universal season chart.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+Wild collection rules and conservation status vary by jurisdiction. Photographing a scarce population, leaving young bodies to mature, and recording the substrate can provide more value than removing every fruit body. Obtain landowner permission and check protected-area rules before collection.
 
-## Growing Guide
+## Why cultivation produces different-looking mushrooms
 
-Commercial growers usually inoculate sterilized supplemented hardwood blocks. After full colonization, a slit or opening directs fruiting. High humidity prevents the teeth from drying, but repeated direct misting can discolor or damage the fruit body. Excess carbon dioxide may create deformed, coral-like growth. Clean airflow, diffuse light, and a stable temperature appropriate to the culture are more reliable than a universal schedule.
+Commercial lion’s mane is commonly grown from authenticated culture on sterilized, supplemented hardwood-based blocks. The bag opening creates a fruiting interface: it limits exposed area, retains moisture in the block, and directs where the body forms. A large opening can encourage several small bodies and faster drying; a small side opening can concentrate growth but still requires enough fresh air around it.
 
-### A safe cultivation workflow
+Carbon dioxide, humidity, evaporation, temperature, light, and strain act together. Insufficient fresh-air exchange often yields elongated or coral-like growth rather than a compact pom-pom. Dry air can brown tooth tips before the body finishes expanding. Direct water collecting on the surface can discolor or damage tissue even when room humidity is inadequate. These symptoms are diagnostic clues, not universal prescriptions; compare them with the culture supplier’s expected morphology and stage-specific settings.
 
-1. **Choose verified material.** Buy spawn or a fruiting block from a specialist supplier that identifies the culture and provides strain-specific parameters.
-2. **Match the substrate.** Use hardwood logs or sterilized supplemented hardwood sawdust only through a proven recipe. Moisture and heat treatment must suit the method.
-3. **Separate clean and dirty work.** Clean tools and surfaces, wash hands, label every batch, and keep finished fruiting areas away from substrate preparation waste.
-4. **Monitor colonization.** Healthy appearance depends on the species and culture. Do not assume every white growth is the intended fungus; odor and unexpected pigments are warning signs.
-5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
-6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
+For a meaningful crop record, log the culture and supplier, substrate formula, wet block mass, inoculation and full-colonization dates, bag cut, room conditions, first visible primordia, harvest date, fresh yield, and abnormalities. Photograph the same opening at a consistent scale. That record makes a second batch comparable and is more useful than copying an unexplained humidity number from another strain.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+Use only food-compatible, untreated substrate ingredients and sound cultures. A fruiting block with unexpected colored mold, foul odor, slime, insects, or an unrecognized fruit body should be isolated and discarded according to supplier guidance. Resemblance to lion’s mane does not authenticate contaminated output.
 
-## Health Benefits
+## Harvest quality and kitchen use
 
-Small human studies and systematic reviews have examined cognition, mood, stress, and sleep, while laboratory work investigates hericenones, erinacines, and polysaccharides. The evidence remains too limited and product-specific to conclude that lion’s mane prevents dementia, regenerates nerves in patients, or treats depression. Fruiting-body foods, mycelial biomass, and concentrated extracts are not interchangeable. Supplement labels may also differ in species verification and active constituents.
+Cultivated bodies intended for food are generally harvested while white to cream, firm, and well formed, before extensive yellowing, drying, or softness. Cornell’s production materials provide commercial context, but exact timing remains strain- and system-dependent. A clean knife can remove the body without tearing deeply into the block. Cool the harvest promptly in breathable food-safe packaging.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+The branched internal tissue releases moisture during cooking and can take on browned edges when it is given enough pan contact. Thick compact pieces can be cut into slabs; loose lobes are better separated along natural seams. The [lion’s mane mushroom steak recipe](/recipes/lion-s-mane-mushroom-steaks/) uses a dry-pan phase before fat is added so evaporation and browning are treated as separate jobs. “Steak” describes the cut and technique, not nutritional equivalence to meat.
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+USDA FoodData Central can support ingredient-specific comparisons when an appropriate entry exists, but composition varies with culture, substrate, water content, maturity, and cooking. Do not transfer a value from a powder or generic mushroom entry to a fresh cultivated serving without stating the mismatch.
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+## Keep food, supplement, and clinical claims separate
 
-## Safety
+Fresh cooked lion’s mane, dried fruit-body powder, mycelium grown on grain, and concentrated extracts are different materials. A study of one cannot establish the composition, dose, or effect of another. The 2025 systematic review by Spelman and colleagues found a limited, heterogeneous body of human evidence alongside preclinical work. It does not establish lion’s mane as a treatment or prevention for dementia, depression, nerve injury, cancer, or another disease.
 
-Cook cultivated fruit bodies and start with a modest serving. Avoid use if a mushroom allergy is known. Supplements deserve extra caution: discuss them with a clinician during pregnancy, before surgery, or when taking medicines, because interaction and long-term safety data are incomplete. Seek urgent help for breathing difficulty or facial swelling. A person with neurological symptoms should obtain medical evaluation rather than replacing care with a mushroom product.
+Readers evaluating a supplement should look for the scientific name, fungal part, extraction details, serving amount, lot identity, contaminant testing, and manufacturer contact information. A ratio such as “10:1” does not by itself prove identity, purity, bioavailability, or equivalence to a trial preparation. New cognitive, mood, sensory, or motor symptoms require clinical assessment rather than self-treatment with a mushroom product.
 
-General food practice still applies: source cultivated mushrooms from reputable producers, transport them cool, wash hands and utensils, prevent contact with raw animal foods, and cook with clean equipment. Cooking can reduce microbial risk and improve digestibility, but it cannot make a poisonous species safe and may not destroy every toxin or environmental contaminant.
+MushroomScope’s health material is editorially reviewed and has no named clinician reviewer. The dedicated evidence page explains individual trials and product-matching limits; this species page states only the boundary necessary to prevent a taxonomy or food description from becoming a medical promise.
 
-Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
+## Safety boundaries for food and field observations
 
+Use cultivated lion’s mane sold as food when cooking from a web recipe. A wild white toothed fungus requires in-person assessment using the entire specimen, substrate, geography, maturity, and—when needed—microscopy or DNA. Cooking does not correct a mistaken identification or remove every environmental contaminant.
+
+People can experience allergy or gastrointestinal intolerance even to established foods. Start with a modest portion if the food is new to you, use clean utensils, prevent cross-contamination, refrigerate promptly, and discard spoiled product. Seek urgent care for breathing difficulty, facial swelling, confusion, persistent severe vomiting, or serious symptoms after mushroom consumption. In the United States, contact Poison Control at 1-800-222-1222; elsewhere use the local poison center or emergency service. Keep a sample and packaging when it is safe to do so.
+
+Supplement exposure raises different questions from a meal, including dose, interactions, contaminants, and duration. Discuss use with a qualified clinician when pregnant, breastfeeding, preparing for surgery, managing a medical condition, or taking medicines. Do not stop prescribed treatment because of a mushroom claim.
+
+## Frequently asked questions
+
+### Is every white pom-pom mushroom lion’s mane?
+
+No. Compactness, branching pattern, tooth placement, attachment, host, maturity, and region all matter. Several *Hericium* species and unrelated tooth fungi can look similar in a cropped photograph.
+
+### Does yellow color mean the mushroom is poisonous?
+
+Yellowing can accompany age, drying, bruising, or cultivation stress; it is not a stand-alone toxicity test. Reject spoiled commercial product and never use color alone to decide whether a wild specimen is edible.
+
+### Can lion’s mane grow from conifer wood?
+
+The species is principally associated with hardwood. A conifer report deserves careful rechecking of both the tree and fungus, including the possibility of buried or mixed wood and a different toothed species.
+
+### Why did a grow block make coral-like branches?
+
+Restricted fresh-air exchange is a common contributor, but strain, opening geometry, humidity, evaporation, and temperature can also change form. Compare the crop with authenticated supplier examples and change one recorded variable at a time.
+
+### Is culinary lion’s mane proven to improve memory?
+
+No. A cultivated food serving is not equivalent to the defined powders or extracts used in small human studies, and current evidence does not establish prevention or treatment of cognitive disease.
 
 ## References
 
-1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
-2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.
-3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.
-4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
-5. Spelman K, et al. [Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review](https://pubmed.ncbi.nlm.nih.gov/40959699/). 2025.
+1. Global Biodiversity Information Facility. [*Hericium erinaceus* species record](https://www.gbif.org/species/2536821). Used for accepted-name and occurrence-context checks; individual records still require evaluation.
+2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Used for ingredient-matched food-composition context rather than product-specific claims.
+3. Cornell Small Farms Program. [Specialty mushroom cultivation resources](https://smallfarms.cornell.edu/projects/mushrooms/). Used for hardwood-block production, harvest, and post-harvest context.
+4. Spelman K, et al. [Benefits, side effects, and uses of *Hericium erinaceus* as a supplement: a systematic review](https://pubmed.ncbi.nlm.nih.gov/40959699/). Used to bound clinical and product-equivalence claims.
+5. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Cross-check for lineage and scientific-name context.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: September 12, 2026. Editorial review only; no named mycologist, clinician, or dietitian reviewed this page.*
