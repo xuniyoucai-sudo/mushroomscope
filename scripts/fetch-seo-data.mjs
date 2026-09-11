@@ -143,12 +143,79 @@ function getBingKey() {
 async function getBing() {
   try {
     const key = getBingKey();
-    const url = new URL("https://ssl.bing.com/webmaster/api.svc/json/GetUserSites");
-    url.searchParams.set("apikey", key);
-    const response = await fetchJson(url);
+    const request = (method, params = {}) => {
+      const url = new URL(`https://ssl.bing.com/webmaster/api.svc/json/${method}`);
+      for (const [name, value] of Object.entries(params)) url.searchParams.set(name, value);
+      url.searchParams.set("apikey", key);
+      return fetchJson(url);
+    };
+    const response = await request("GetUserSites");
     const sites = response.d || [];
     const verified = sites.some((site) => site.Url === bingSite && site.IsVerified);
-    return { status: verified ? "connected" : "site-unavailable", site: bingSite };
+    if (!verified) return { status: "site-unavailable", site: bingSite };
+
+    const [crawl, issues, pages, queries, feeds] = await Promise.all([
+      request("GetCrawlStats", { siteUrl: bingSite }),
+      request("GetCrawlIssues", { siteUrl: bingSite }),
+      request("GetPageStats", { siteUrl: bingSite }),
+      request("GetQueryStats", { siteUrl: bingSite }),
+      request("GetFeeds", { siteUrl: bingSite }),
+    ]);
+    const rowsOf = (result) => result.d || [];
+    const bingDate = (value) => {
+      const milliseconds = Number(String(value || "").match(/\d+/)?.[0]);
+      return Number.isFinite(milliseconds) ? new Date(milliseconds).toISOString().slice(0, 10) : null;
+    };
+    const summarizeTraffic = (rows) => ({
+      rows: rows.length,
+      impressions: rows.reduce((total, row) => total + Number(row.Impressions || 0), 0),
+      clicks: rows.reduce((total, row) => total + Number(row.Clicks || 0), 0),
+      firstDate: bingDate(rows.at(0)?.Date),
+      lastDate: bingDate(rows.at(-1)?.Date),
+    });
+    const crawlRows = rowsOf(crawl);
+    const latestCrawl = crawlRows.at(-1);
+    const issueRows = rowsOf(issues);
+    return {
+      status: "connected",
+      site: bingSite,
+      apiNotice: "Legacy Bing Webmaster JSON endpoint; migrate when the replacement REST API is available for this account.",
+      crawl: {
+        rows: crawlRows.length,
+        latest: latestCrawl ? {
+          date: bingDate(latestCrawl.Date),
+          crawledPages: Number(latestCrawl.CrawledPages || 0),
+          inIndex: Number(latestCrawl.InIndex || 0),
+          inLinks: Number(latestCrawl.InLinks || 0),
+          crawlErrors: Number(latestCrawl.CrawlErrors || 0),
+          blockedByRobotsTxt: Number(latestCrawl.BlockedByRobotsTxt || 0),
+          code2xx: Number(latestCrawl.Code2xx || 0),
+          code4xx: Number(latestCrawl.Code4xx || 0),
+          code5xx: Number(latestCrawl.Code5xx || 0),
+          containsMalware: Number(latestCrawl.ContainsMalware || 0),
+        } : null,
+      },
+      crawlIssues: {
+        count: issueRows.length,
+        byHttpCode: issueRows.reduce((counts, row) => {
+          const code = String(row.HttpCode || "unknown");
+          counts[code] = (counts[code] || 0) + 1;
+          return counts;
+        }, {}),
+      },
+      traffic: {
+        pages: summarizeTraffic(rowsOf(pages)),
+        queries: summarizeTraffic(rowsOf(queries)),
+      },
+      feeds: rowsOf(feeds).map((feed) => ({
+        url: feed.Url,
+        type: feed.Type,
+        status: feed.Status,
+        urlCount: Number(feed.UrlCount || 0),
+        submitted: bingDate(feed.Submitted),
+        lastCrawled: bingDate(feed.LastCrawled),
+      })),
+    };
   } catch (error) {
     return { status: "unavailable", site: bingSite, error: error.message };
   }
