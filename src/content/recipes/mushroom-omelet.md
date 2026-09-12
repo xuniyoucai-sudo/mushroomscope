@@ -5,12 +5,12 @@ description: "Cook a tender mushroom omelet by browning the filling separately, 
 keywords: ["mushroom omelet", "mushroom and herb omelet", "fluffy mushroom omelet"]
 category: recipes
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-13
 coverImage: "../../assets/recipes/mushroom-omelet-editorial-v2.png"
 coverAlt: "AI editorial illustration of a folded golden omelet filled with browned cremini mushrooms and fresh herbs"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
 imageNote: "AI-generated editorial illustration; not a photograph of a tested batch. Use the written egg-doneness and food-safety cues."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "health/cooked-vs-raw-mushrooms"]
 sources:
@@ -193,7 +193,7 @@ Usually not during the main cook. A brief cover can set a stubborn top, but trap
 
 Eggs provide most of the protein. Exact nutrition depends on egg size, mushroom weight, fats, and cheese; use matched FoodData Central entries rather than assuming from the word “mushroom.”
 
-## Sources and editorial method
+## References
 
 USDA FSIS supports the egg-temperature and leftover statements. FDA guidance supports produce washing and clean preparation. FoodData Central is the basis for ingredient-specific nutrient calculation. Before publication, a logged kitchen test should record pan diameter, mushroom weight loss, burner level, egg temperature, fold timing, and final thick-point temperature.
 

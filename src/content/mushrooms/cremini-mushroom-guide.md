@@ -6,7 +6,7 @@ keywords: ["Agaricus bisporus","white button mushroom","mushroom identification"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-21
+updatedDate: 2026-09-13
 draft: false
 featured: false
 coverImage: "../../assets/species/cremini-mushroom.jpg"
@@ -21,17 +21,21 @@ sources:
     url: "https://fdc.nal.usda.gov/"
   - title: "Penn State Extension — Mushroom Food Safety"
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety"
+  - title: "Penn State Extension — Basic Procedures for Agaricus Mushroom Growing"
+    url: "https://extension.psu.edu/basic-procedures-for-agaricus-mushroom-growing"
+  - title: "Morin et al. — Agaricus bisporus genome and adaptation to humic-rich substrates"
+    url: "https://pubmed.ncbi.nlm.nih.gov/23045686/"
 faq:
-  - question: "Can this mushroom be identified from a photograph?"
-    answer: "No. A photograph can support documentation, but a defensible identification of Agaricus bisporus also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone."
-  - question: "Is it safe to eat?"
-    answer: "white button mushroom is an established food when it comes from a reputable cultivated source and is stored and cooked properly. Individual allergy or intolerance is still possible. A wild specimen needs independent expert confirmation."
-  - question: "Can beginners grow it?"
-    answer: "The database rates cultivation as expert. Beginners should use authenticated spawn or a reputable ready-to-fruit block, follow the supplier's temperature and hygiene instructions, and discard cultures showing unexplained mold colors or foul odors."
-  - question: "Does it have proven health benefits?"
-    answer: "It has nutritional or research interest, but that wording must not be converted into a treatment claim. Laboratory findings do not prove clinical benefit, and human evidence must match the exact species, preparation, dose, and outcome."
-  - question: "How should it be stored?"
-    answer: "Refrigerate fresh cultivated mushrooms promptly in breathable food-safe packaging and use them while sound. Keep dried material sealed, dry, and away from heat. Follow local recall notices and discard spoiled or contaminated products."
+  - question: "Are cremini and portobello the same mushroom?"
+    answer: "They are normally brown strains of the same cultivated species, Agaricus bisporus, sold at different stages. Cremini are compact; portobellos are allowed to open and expand."
+  - question: "Are white button mushrooms the same species too?"
+    answer: "Yes. Standard white button mushrooms are also Agaricus bisporus, generally from pale cultivated strains. Color strain and harvest maturity are separate variables."
+  - question: "Do portobello gills need to be removed?"
+    answer: "No for safety when the mushroom is a sound, verified cultivated product. Remove them only when a recipe benefits from a paler sauce, a cleaner cavity, or less loose gill material."
+  - question: "Can grocery cremini teach me to identify wild Agaricus?"
+    answer: "They demonstrate developmental features such as free pink-to-brown gills and a partial veil, but they cannot establish that a wild collection is Agaricus bisporus or edible. Regional lookalikes and the complete stem base require in-person assessment."
+  - question: "Why is button-mushroom cultivation harder than an oyster kit?"
+    answer: "The crop depends on conditioned compost, a managed spawn run, a casing layer, and coordinated climate changes. That sequence is more complex than fruiting an already-colonized block."
 scientificName: "Agaricus bisporus"
 commonNames: ["white button mushroom","cremini mushroom","baby bella","portobello"]
 taxonomy:
@@ -77,25 +81,27 @@ similarSpecies:
     differences: "Young closed Amanita buttons may conceal white gills and a volva; never identify a wild button by cap color alone."
 ---
 
-## Introduction
+## One cultivated species, three market forms
 
-*Agaricus bisporus* is the species behind three familiar grocery names. White button and brown cremini are harvested while the cap is still compact; portobello is allowed to mature until the cap expands and the dark gills are exposed. Recognizing that continuity prevents a common misconception that these are unrelated mushrooms. It also makes this species an unusually useful model for learning how maturity changes mushroom appearance.
+*Agaricus bisporus* is the cultivated species sold most often as white button, cremini, baby bella, and portobello. Those labels combine two variables that shoppers commonly confuse: strain color and harvest maturity. White buttons usually come from pale strains and are picked while closed. Cremini usually come from brown strains at a similarly compact stage. [Portobellos](/mushrooms/portobello-mushroom-guide/) are mature, open-capped brown-strain mushrooms. A cremini does not become a different species when its veil breaks; it becomes the market form called portobello.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+That continuity explains why the three forms share a mild *Agaricus* aroma yet behave differently in a pan. As the cap expands, its gills become exposed, the cap-to-stem ratio changes, and the broad surface becomes suitable for stuffing or grilling. The mature form is not automatically more nutritious, safer, or more intensely flavored per gram. Water loss, product strain, UV treatment, storage, and cooking can matter more than the name printed on the tray.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+This page separates cultivated-food decisions from wild identification. A grocery label backed by a traceable producer is provenance evidence. A brown mushroom growing in a lawn is not “cremini” because it resembles one. Wild *Agaricus* identification requires the intact stem base, odor, staining response, gill development, spore deposit, habitat, geography, and a current regional key.
 
-## How button, cremini, and portobello stages differ
+## How button, cremini, and portobello differ at the counter
 
-The grocery labels describe familiar forms of *Agaricus bisporus*, but they are not a substitute for a species identification. White buttons are usually sold with a compact, closed cap. Cremini (also called baby bella) are brown mushrooms commonly sold before the cap has opened widely. Portobellos are the larger, open-cap form of a brown *A. bisporus* product, so the darker mature gills are exposed. A brown cap, a wide cap, or dark gills by themselves do not identify a wild mushroom; many unrelated species can share one or more of those characters.
+White buttons have a pale cap and are generally harvested before the partial veil opens. Cremini are brown-capped cultivated mushrooms sold at a comparable closed or partly closed stage. “Baby bella” is a retail synonym, not a separate taxon. Portobellos are allowed to expand; the veil opens, the dark lamellae are visible, and the cap becomes a broad cooking surface.
 
 For cooking, the useful distinction is mostly structural. Closed buttons and cremini have less exposed gill surface and are convenient for quick sautéing, soups, sauces, and even-sized slices. A mature portobello has a broad cap that can be roasted whole, grilled, or used as a filling vessel; remove the stem only when a recipe calls for it, not as a safety step. The two related recipe methods, [stuffed portobello mushrooms](/recipes/stuffed-portobello-mushrooms/) and [grilled portobello burgers](/recipes/grilled-portobello-burgers/), apply to cultivated market mushrooms, not to a lookalike found outdoors.
 
-When comparing packages, check condition before choosing a stage: the mushrooms should be sound, without a strong off odor, slime, widespread mold, or unexplained discoloration. Package weight, moisture loss, and the cut size a recipe needs can matter more than a claim that one stage is inherently more nutritious or safer. USDA FoodData Central provides food-composition reference values, but individual products and cooked servings vary with variety, water content, and preparation.
+Choose the form by geometry and condition. Closed mushrooms give regular slices and contain the gills during handling. Open portobellos provide more cap area but may carry loose dark gill material into a pale sauce. Sound mushrooms feel firm and dry rather than slippery, with no sour odor or spreading mold. A few veil fragments or minor cap scales can be normal; wet collapse and strong off odors are not.
 
-## Identification
+For moisture-sensitive dishes, weigh the usable portion rather than counting caps. Two packages with the same label can differ in cap size and water loss. USDA FoodData Central is appropriate for representative nutrient estimates, but its entries are not laboratory results for a particular carton.
 
-A cultivated specimen normally has a smooth white or brown cap, crowded gills that progress from pink through brown to dark chocolate, a central stem with a ring, and a brown spore print. The gills are free from the stem. Mature portobellos are broad and open, while buttons can be nearly spherical. Color alone is not diagnostic, because cultivated strains differ and wild Agaricus species overlap strongly in appearance.
+## Cultivated morphology through development
+
+A young cultivated fruit body begins as a compact button with the cap margin tucked toward the stem. The partial veil covers the gills, then tears as the cap expands and can leave a ring around the upper stem. Gills start pale pink, deepen through brown, and become dark chocolate as spores mature. They remain free from the stem rather than running down it. A mature cap is broad and flattened; it does not acquire a cup-like volva at the stem base.
 
 ### Macroscopic characters
 
@@ -105,15 +111,15 @@ A cultivated specimen normally has a smooth white or brown cap, crowded gills th
 - **Flesh:** White and firm, sometimes bruising pale pink or brown; mild mushroom aroma.
 - **Spore print:** Dark chocolate brown.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+In a production tray, adjacent buttons can show several stages at once: sealed veil, stretched veil, first tear, and fully exposed gills. That series is more informative than a single idealized specimen because it shows which traits change with age. The site's cover image documents a cultivated brown crop in casing and one overturned mushroom with pink-brown gills; it is visual context, not a field-identification plate.
 
-### Similar species
+### Why a wild lawn mushroom is a different problem
 
 - **Agaricus campestris:** A wild grassland species; identification requires more than its pink-to-brown gills.
 - **Agaricus xanthodermus:** May yellow strongly at the stem base and can cause gastrointestinal poisoning; odor and bruising must be assessed by an expert.
 - **Amanita species:** Young closed Amanita buttons may conceal white gills and a volva; never identify a wild button by cap color alone.
 
-The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
+The comparison list is deliberately incomplete. In many regions, yellow-staining *Agaricus* can overlap in cap color and stature, and immature *Amanita* can hide decisive features inside an unbroken veil. Digging out the complete stem base matters because cutting it at soil level can remove evidence of a bulb or volval tissue. If consumption is contemplated, obtain in-person confirmation from a qualified local identifier who can examine the intact collection; a supermarket comparison photo is not enough.
 
 ## Scientific Classification
 
@@ -127,50 +133,86 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 | Genus | *Agaricus* |
 | Species | *Agaricus bisporus* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+The species epithet *bisporus* refers to the common two-spored basidia of cultivated material, although reproductive biology is more variable than a retail guide can show. NCBI is useful for checking the current lineage, while a paper's own strain name and voucher information should remain attached to any research claim. “Button mushroom” is too broad to prove that a study used the same strain, maturity, or preparation as a shopper's product.
 
-## Habitat
+## Compost ecology rather than wood decay
 
-Commercial A. bisporus does not need a living tree partner. Growers prepare a selective compost, pasteurize and condition it, inoculate it with grain spawn, and later apply a moist casing layer that supports fruiting. This ecological distinction matters: it is a decomposer adapted to nutrient-rich material. Wild relatives may occur in lawns or pastures, but a supermarket profile must never be used as a shortcut for identifying a wild Agaricus.
+Commercial *A. bisporus* is grown as a secondary decomposer in conditioned compost rather than on a living tree or a simple block of fresh sawdust. Penn State describes a staged process in which straw-rich ingredients are composted, pasteurized and conditioned before spawning. Genome and transcript research likewise shows that the fungus expresses a broad set of enzymes while exploiting humic-rich, partly decomposed material. This helps explain why copying an oyster-mushroom straw-bag method is not a reliable substitute.
 
-**Known range represented here:** Cultivated worldwide, temperate grasslands and compost-rich sites. **Typical substrates:** conditioned mushroom compost, straw and manure compost, casing soil. Commercial crops are produced year-round; outdoor appearances are most frequent in mild, moist weather.
+The casing layer is not simply extra food. It holds and distributes water, supports gas exchange, and provides the physical and microbial interface associated with fruit-body initiation. Commercial recipes often use peat-based casing adjusted with limestone, but the correct material and irrigation schedule depend on the farm system. Waterlogged casing restricts gas exchange; a dry casing cannot supply an expanding flush evenly.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+Commercial crops are produced year-round in climate-controlled rooms, so a January carton and a July carton do not indicate a natural fruiting season. Wild or escaped records in compost-rich ground and grassland belong to a separate ecological observation and require local documentation.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+## Why home cultivation is an advanced project
 
-## Growing Guide
+Button production is technically demanding because the substrate must first become selective enough for the crop. Raw straw and manure are not ready-to-inoculate ingredients. Phase I builds and turns a wetted stack while microbes generate heat; Phase II pasteurizes and conditions the material, including removal of residual ammonia that can damage mushroom mycelium. Only then is verified grain spawn mixed through the compost.
 
-Button production is technically demanding compared with ready-to-fruit oyster kits. Compost temperature, ammonia removal, moisture, casing structure, carbon dioxide, air movement, and sanitation all affect yield. Beginners should use commercially prepared compost and spawn rather than improvising with raw manure. After spawn run, the casing is kept evenly moist without waterlogging. Cooling and fresh-air management encourage pinning, and mushrooms are harvested in successive flushes before quality declines.
+### The crop sequence and its control points
 
-### A safe cultivation workflow
+1. **Condition the compost.** Complete a validated Phase I/II process and confirm that ammonia has cleared; the smell of raw manure is not a readiness test.
+2. **Spawn evenly.** Mix authenticated *A. bisporus* spawn through the cooled compost so colonization does not depend on a few isolated points.
+3. **Manage spawn run.** Record compost temperature, not only room temperature. Active mycelium produces heat and can be damaged if the bed runs above the culture's range.
+4. **Apply casing.** Place an even, moist casing layer over colonized compost. Uneven depth and uneven water storage lead to uneven pin formation.
+5. **Initiate pins.** Coordinate fresh air, temperature, humidity and casing moisture. A single “fruiting temperature” copied without strain and system context is not a complete recipe.
+6. **Water between developmental windows.** Expanding mushrooms draw heavily on casing water, but direct heavy watering on fragile pins can damage quality.
+7. **Harvest by market stage.** Pick closed brown caps for cremini or allow selected caps to expand for portobello. Cool promptly and log yield by flush.
 
-1. **Choose verified material.** Buy spawn or a fruiting block from a specialist supplier that identifies the culture and provides strain-specific parameters.
-2. **Match the substrate.** Use conditioned mushroom compost or straw and manure compost only through a proven recipe. Moisture and heat treatment must suit the method.
-3. **Separate clean and dirty work.** Clean tools and surfaces, wash hands, label every batch, and keep finished fruiting areas away from substrate preparation waste.
-4. **Monitor colonization.** Healthy appearance depends on the species and culture. Do not assume every white growth is the intended fungus; odor and unexpected pigments are warning signs.
-5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
-6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
+Penn State's production outline emphasizes that set points vary by cultivar and operation. For a small grower, prepared spawned compost plus a documented casing protocol is safer and more repeatable than improvising a hot compost process indoors. Stop if the substrate develops unexplained colors, foul odors, pest outbreaks, or unexpected fruit bodies; do not identify contamination by color alone and do not eat a surprise crop.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+## Nutrition claims need a matched food entry
 
-## Health Benefits
+As food, *A. bisporus* contributes fiber, B vitamins, copper, selenium and potassium in amounts that depend on the item and preparation. It is not primarily a high-protein food by serving weight, and the word “mushroom” does not answer a protein-versus-fiber question without a portion. The [mushroom nutrition guide](/health/mushroom-nutrition-guide/) explains how to compare a USDA entry on a 100-gram and normal-serving basis.
 
-As food, A. bisporus contributes micronutrients and fiber while adding relatively little energy. USDA values are food-composition measurements, not proof that eating mushrooms treats disease. Vitamin D content can rise after ultraviolet exposure, so labels and database entries should be checked rather than assuming every package contains the same amount. Research on ergothioneine, beta-glucans, and other constituents is active, but isolated-compound and observational findings do not establish a therapeutic dose or clinical effect.
+Vitamin D is especially easy to misstate. Mushrooms can synthesize vitamin D2 after ultraviolet exposure, but untreated and UV-exposed products should not be treated as nutritionally interchangeable. Check the package and select the corresponding FoodData Central record. Cooking changes water weight and therefore concentration per 100 grams, so raw and cooked rows are not direct claims about nutrient creation or loss.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+Genome studies, cell experiments, isolated compounds and animal feeding studies can explain biological mechanisms, but they do not establish that a serving of cremini prevents or treats disease. Concentrated powders and extracts also have different exposure and quality questions from a cooked grocery mushroom. Keep food-composition claims with the food; evaluate supplement identity, dose and evidence separately in the [supplements guide](/health/mushroom-supplements-guide/).
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+## Food handling and the wild-identification boundary
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+Buy cultivated mushrooms cold and intact, refrigerate them promptly, and discard packages with slime, spreading mold, or a strong sour odor. Brush or rinse under running water immediately before use, then dry if browning matters. Washing does not turn a spoiled product sound. Keep mushrooms and ready-to-eat ingredients away from raw animal foods and follow current recall notices.
 
-## Safety
+People can have an allergy or intolerance even to an established food species. Stop eating and seek appropriate care for significant symptoms. Cooking is useful for texture and routine food handling, but it does not neutralize every wild-mushroom toxin. Never apply supermarket expectations to a lawn specimen or taste an unknown mushroom as a test.
 
-Cook cultivated mushrooms and refrigerate them promptly. Discard specimens that are slimy, strongly off-smelling, moldy, or held outside safe temperature control. People with mushroom allergy should avoid them. Wild Agaricus identification requires local expertise because toxic Agaricus and immature Amanita can be confused with edible forms; never use this page to decide whether a wild mushroom is safe to eat.
+For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after an unidentified wild mushroom, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging and clear photographs if this can be done safely; those records may help professionals, but online comments must not delay care.
 
-General food practice still applies: source cultivated mushrooms from reputable producers, transport them cool, wash hands and utensils, prevent contact with raw animal foods, and cook with clean equipment. Cooking can reduce microbial risk and improve digestibility, but it cannot make a poisonous species safe and may not destroy every toxin or environmental contaminant.
+## Kitchen behavior by market stage
 
-Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
+Cremini slices brown best when their surface moisture can evaporate before the pan is crowded. Salt timing matters less than giving released water somewhere to go. Portobello caps contain broad internal spaces and exposed gills; dry them well, score only if a recipe needs faster heat penetration, and allow enough time for water to leave before adding a wet filling or sauce.
+
+The dark gills are edible on a verified cultivated portobello. Scraping them is a visual or textural choice, not detoxification. Leaving them in produces a darker liquid; removing them sacrifices some mass. Closed buttons are convenient where a pale sauce matters. For a controlled comparison, cook equal trimmed weights at the same thickness rather than comparing one whole portobello with several small buttons.
+
+The new [mushroom omelet method](/recipes/mushroom-omelet/) uses cremini as a separate browned filling so mushroom water does not interfere with tender eggs. [Stuffed portobellos](/recipes/stuffed-portobello-mushrooms/) instead use the mature cap as a vessel. These pages answer cooking-format questions; neither is an identification guide for foraged material.
+
+## A practical label-reading checklist
+
+- **Market name:** button, cremini/baby bella, or portobello describes the intended form.
+- **Producer and lot:** retain the package when investigating a quality problem or recall.
+- **UV treatment:** check whether vitamin D enhancement is stated rather than assuming it.
+- **Net weight and condition:** compare usable mass, dryness and firmness, not cap count alone.
+- **Origin and date marks:** follow the seller's storage direction and local date-label rules.
+- **Prepared products:** seasoning, oil and sodium can change the nutrition profile more than mushroom maturity.
+
+## Frequently asked questions in context
+
+### Are cremini and portobello the same mushroom?
+
+They are normally brown strains of the same cultivated species, *Agaricus bisporus*, sold at different stages. Cremini are compact; portobellos are allowed to open and expand.
+
+### Are white button mushrooms the same species too?
+
+Yes, standard white button mushrooms are also *A. bisporus*, generally from pale cultivated strains. Color strain and harvest maturity are separate variables.
+
+### Do portobello gills need to be removed?
+
+No for safety when the mushroom is a sound, verified cultivated product. Remove them only when a recipe benefits from a paler sauce, a cleaner cavity, or less loose gill material.
+
+### Can grocery cremini teach me to identify wild Agaricus?
+
+They can demonstrate developmental features such as free pink-to-brown gills and a partial veil, but they cannot establish that a wild collection is *A. bisporus* or edible. Regional lookalikes and the complete stem base must be assessed in person.
+
+### Why is button-mushroom cultivation harder than an oyster kit?
+
+The crop depends on conditioned compost, a managed spawn run, a casing layer and coordinated climate changes. That sequence is more complex than fruiting an already-colonized block.
 
 
 ## References
@@ -180,5 +222,7 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
+6. Penn State Extension. [Basic Procedures for Agaricus Mushroom Growing](https://extension.psu.edu/basic-procedures-for-agaricus-mushroom-growing). Phase I/II composting, spawning, casing, pinning, irrigation and harvest sequence.
+7. Morin E, et al. [Genome sequence of the button mushroom *Agaricus bisporus* reveals mechanisms governing adaptation to a humic-rich ecological niche](https://pubmed.ncbi.nlm.nih.gov/23045686/). *Proceedings of the National Academy of Sciences.* 2012. Compost adaptation and substrate-degrading enzyme context.
 
-*Last editorial review: July 31, 2026. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: September 13, 2026. This editorial review was not performed by a named clinician, dietitian, or commercial mushroom grower. Scientific names and public-health recommendations should be rechecked at every substantive update.*
