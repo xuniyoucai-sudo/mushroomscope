@@ -5,7 +5,7 @@ keywords: ["Trametes versicolor","turkey tail","mushroom identification","mushro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-30
+updatedDate: 2026-09-14
 draft: false
 featured: false
 coverImage: "../../assets/species/turkey-tail-mushroom.jpg"
@@ -168,6 +168,22 @@ The USDA Forest Service describes turkey tail as an annual, thin, tough, leather
 For a useful field record, distinguish standing dead wood from a fallen log or cut lumber. Photograph the entire colonized section and the point of attachment, note whether the substrate is hardwood or conifer when that can be established, and record whether caps form shelves, rosettes, or scattered fans. Different fungal individuals meeting within wood may contribute dark zone lines to spalting, but a decorative wood pattern does not identify the fungus that caused it. Host, decay pattern, and cap form remain supporting context.
 
 Cap bands also change with age and weather. Fresh zones may appear sharply brown, tan, gray, blue-gray, or nearly black, while older shelves fade, grow algae, lose hairs, crack, or develop insect damage. Turn the bracket over: true pores are the decisive first separation from smooth or wrinkled *Stereum* fruit bodies commonly called false turkey tail. Then examine pore size, thickness, texture, and microscopic characters with a current regional key. The [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/) provides the documentation workflow; it does not clear a collected specimen for ingestion.
+
+## Build a measured specimen record before choosing a name
+
+The useful unit is a collection, not the most colorful cap in a photograph. Select several fresh shelves from the same connected patch when collecting is permitted. Record cap width, projection from the wood, tissue thickness at the attachment and margin, and the number of pores across a measured millimeter. Note whether the upper surface is genuinely hairy under magnification or merely roughened by algae and weathering. A ruler placed in the frame is more valuable than an unsupported adjective such as “small.”
+
+Next, make a thin vertical section through cap and pore layer. The section shows whether the context is uniformly thin, whether the pore tubes form a distinct layer, and whether the attachment has become unusually thick or crust-like. Photograph the section while fresh because dry tissue can curl and compress. A white spore deposit supports the polypore record but cannot separate *T. versicolor* from every pale-spored bracket.
+
+Microscopy becomes important when a specimen sits near the boundary between *Trametes* species. A regional key may call for spore dimensions, hyphal construction, clamp connections, or skeletal-hypha reactions. Record the key, geographic scope, magnification, mounting medium, and measured range rather than copying a diagnostic number from a page written for another continent. If the result remains ambiguous, preserve a dried voucher and retain its collection code so later sequencing or expert review can refer to the same material.
+
+## Separate a hardwood generalist from a host-specific conclusion
+
+“On wood” is not an adequate habitat record. Photograph bark, end grain, branching pattern, and the entire log before removing a sample. Record whether the wood is standing or fallen, attached to a living tree or fully dead, intact or heavily decayed, shaded or exposed, and naturally fallen or stacked after cutting. Those observations help explain moisture and fruit-body form even when the tree cannot be named.
+
+Turkey tail is widely reported from dead hardwood, but that broad association does not justify guessing a host species from bark alone. Forestry work, landscaping, flood transport, and firewood piles can move branches away from the tree that produced them. Use a host name only when leaves, buds, fruit, wood anatomy, or a qualified identification support it; otherwise retain “dead hardwood” as the honest resolution. This distinction also keeps a cosmopolitan range statement from becoming a claim that every regional observation has been molecularly confirmed.
+
+The fungus causes white rot, a functional description of wood decomposition rather than a field test for species. Pale fibrous decay, zone lines, or softened wood can be produced by interacting fungi and environmental conditions. A decay pattern can support an ecological account, but it cannot replace examination of the fruit body. For broader bracket comparisons, the [how-to-identify mushrooms guide](/identification/how-to-identify-mushrooms/) explains how to keep substrate evidence separate from the final taxonomic conclusion.
 
 ## Preserve a reproducible cultivation and processing record
 

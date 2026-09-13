@@ -5,12 +5,14 @@ description: "Understand cloud ear through Auricularia cornea taxonomy, pale hai
 keywords: ["cloud ear fungus", "Auricularia cornea", "cloud ear mushroom", "cloud ear vs wood ear"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
+publishDate: 2026-09-14
 coverImage: "../../assets/species/cloud-ear-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale tan cloud ear fruit bodies attached laterally to a damp tropical hardwood branch"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial illustration; not a field photograph, herbarium voucher, or sufficient evidence for species identification."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["mushrooms/wood-ear-mushroom-guide", "identification/how-to-identify-mushrooms", "health/cooked-vs-raw-mushrooms"]
 sources:
@@ -228,7 +230,7 @@ Hair length and density can matter in species work, yet they are difficult to ju
 
 Commercial traceability begins before rehydration. Retain the package, lot, country of origin, scientific name if supplied, ingredient list, best-by date, and seller. Photograph a representative dry piece, weigh the portion, note soak time and water temperature, and photograph the expanded material. These records describe product behavior and handling; they do not independently authenticate the species or support medical claims.
 
-## Sources and editorial method
+## References
 
 GBIF and NCBI support taxonomy and occurrence context. FDA supports verified-product handling. NAMA supports conservative response to unknown mushroom exposures. The guide separates scientific species identity from overlapping commerce terms and avoids unsupported health claims.
 
