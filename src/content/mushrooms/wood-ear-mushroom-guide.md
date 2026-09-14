@@ -5,12 +5,14 @@ keywords: ["Auricularia heimuer","wood ear","mushroom identification","mushroom 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-27
+updatedDate: 2026-09-15
 draft: false
 featured: false
 coverImage: "../../assets/species/wood-ear-mushroom.jpg"
 coverAlt: "Reddish-brown ear-shaped Auricularia mushrooms attached to damp hardwood"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "health/mushroom-nutrition-guide", "recipes/mushroom-fried-rice", "health/cooked-vs-raw-mushrooms"]
 sources:
@@ -20,6 +22,10 @@ sources:
     url: "https://fdc.nal.usda.gov/"
   - title: "Penn State Extension — Mushroom Food Safety"
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety"
+  - title: "Frontiers in Microbiology — Research progress of Auricularia heimuer"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9685806/"
+  - title: "FDA — 2020 Salmonella Stanley outbreak linked to dried wood ear mushrooms"
+    url: "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-stanley-wood-ear-mushrooms-dried-fungus-september-2020"
 faq:
   - question: "Can this mushroom be identified from a photograph?"
     answer: "No. A photograph can support documentation, but a defensible identification of Auricularia heimuer also considers substrate, location, developmental stage, underside, spore deposit, odor, texture, and sometimes microscopy or DNA. Never make an edibility decision from an image alone."
@@ -80,9 +86,9 @@ similarSpecies:
 
 *Auricularia heimuer* is one of several *Auricularia* fungi sold as wood ear. It is an important cultivated species in China and international trade, but packaging may simply say black fungus or wood ear. Modern DNA-based studies have shown why the old practice of calling nearly every ear-shaped specimen *A. auricula-judae* is inaccurate.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This page follows *A. heimuer* rather than using “wood ear” as if it named one worldwide species. That distinction matters in search results, groceries, cultivation literature, and field records: the same English market label can cover different *Auricularia*, while older papers may use *A. auricula-judae* or another broad name for Chinese material. The page is a species account, not remote identification or medical advice.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+For packaged material, copy the scientific name exactly as printed, then record producer, origin, lot, whether the ears were fresh or dried, and any strain name. For a wild collection, photograph both surfaces, the lateral attachment, and the hardwood before removing anything. Preserve several ears in different hydration states because surface hair, thickness, color, and shape change markedly as an ear dries. Do not taste an unidentified collection.
 
 ## Identification
 
@@ -96,7 +102,7 @@ A. heimuer produces thin brown to blackish ears attached laterally to wood. One 
 - **Flesh:** Thin, rubbery-gelatinous when fresh, hard and shrunken when dry, returning to a flexible texture after soaking.
 - **Spore print:** White.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+Measure several ears across their widest point and record fresh thickness near the attachment and margin. In natural light, photograph the smooth fertile surface separately from the finely hairy outer surface; backlighting can reveal translucence but can also exaggerate color. A white spore deposit supports placement among pale-spored jelly fungi, yet species separation may still require hair and spore measurements or sequence data. A dry fragment paired with the field notes is more useful than photographs alone.
 
 ### Similar species
 
@@ -104,7 +110,7 @@ Observe multiple fruit bodies at different stages. Immature specimens may concea
 - **Auricularia cornea:** Another cultivated and tropical-subtropical Auricularia whose market name may overlap.
 - **Exidia species:** Jelly fungi that are usually more irregular or cushion-like rather than distinctly ear-shaped.
 
-The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
+The practical comparison begins with structure. *A. cornea* can share the food label and is especially relevant to warm-region products; European records are more likely to use *A. auricula-judae* in its narrower sense. *Exidia* usually forms brainlike, cushionlike, or irregular masses without the same paired smooth and hairy ear surfaces. Geography narrows the candidate set but cannot replace microscopic or molecular evidence. Consumption decisions require known cultivated provenance or examination by a qualified local identifier.
 
 ## Scientific Classification
 
@@ -118,7 +124,7 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 | Genus | *Auricularia* |
 | Species | *Auricularia heimuer* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+The name *A. heimuer* was established for the major Chinese cultivated black wood ear after phylogenetic work separated it from the European-centered *A. auricula-judae* concept. A 2022 cultivation review treats *A. heimuer* as a distinct Chinese production species and illustrates how historical naming complicates literature searches. When citing an experiment, retain the organism name, strain or voucher, and accession reported by the authors; do not relabel ambiguous “*A. auricula*” material after the fact.
 
 ## Habitat
 
@@ -126,9 +132,9 @@ The fungus decomposes hardwood. Farms use inoculated logs or prepared sawdust ba
 
 **Known range represented here:** China and East Asia, cultivated worldwide, related Auricularia species occur globally. **Typical substrates:** hardwood logs, sterilized sawdust bags, dead hardwood branches. Wild fruiting follows moist weather in suitable climates; cultivation is scheduled across the year.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+For a possible *A. heimuer* record, “on wood” is insufficient. Record the tree if it can be identified independently, whether the branch is dead, weakened, standing, or fallen, bark condition, diameter, and how much of the wood is shaded. Photograph ears emerging along cracks or wounds before rain alters them. East Asian occurrence and hardwood association support context; neither proves a species because several *Auricularia* share the same decay niche.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+Collect only where permitted and retain the host evidence. A useful voucher pairs a small mature ear with a field number, date, coordinates kept at an appropriate privacy level, host notes, and images of both surfaces. Dry it promptly rather than sealing wet jelly tissue in plastic, where decomposition can erase the very texture and surface characters being documented. Leave enough material for continued observation and spore production.
 
 ## Growing Guide
 
@@ -143,7 +149,7 @@ Use authenticated spawn intended for the local production method. Outdoor logs r
 5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
 6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+Cultivation records should identify the *A. heimuer* culture, spawn lot, hardwood formulation, dry and wet weights, heat-treatment cycle, inoculation date, slit pattern, room position, and each flush. The [mushroom batch-record guide](/growing/mushroom-batch-records/) shows how to preserve parent-child links from culture through harvest. Reject chemically treated wood and isolate bags with unexpected colors, odors, or fruit bodies; resemblance to the intended ear crop does not authenticate a contaminated batch.
 
 ### Separate log and bag decisions
 
@@ -175,19 +181,19 @@ No named clinician or mycologist has reviewed this guide. Its status is editoria
 
 Wood ear adds fiber and texture to soups, stir-fries, and salads that are subsequently cooked. Laboratory reports about polysaccharides, anticoagulant activity, lipids, or glucose are not a basis for self-treatment. Dried and fresh nutrition figures cannot be compared gram for gram without accounting for water. Concentrated extracts may have pharmacology and quality-control issues unlike a normal culinary portion.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+The most defensible nutrition statement depends on the product form. One hundred grams of dried wood ear is mostly a dry ingredient and cannot be compared directly with 100 grams after soaking, when absorbed water dominates the weight. Use the exact FoodData Central entry and serving state, and treat fiber and mineral values as representative rather than a certificate for a package. Strain, substrate, trimming, drying, rehydration, and serving size all change the comparison.
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+Much of the *Auricularia* literature isolates polysaccharides, changes extraction chemistry, or tests cell and animal systems. Those studies characterize materials and possible mechanisms; they do not show that a serving of rehydrated *A. heimuer* treats cancer, diabetes, clotting disorders, or cardiovascular disease. Even a human result would need matching species authentication, preparation, dose, comparator, duration, and clinically meaningful outcome before it could support a food claim.
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+An *A. heimuer* supplement needs more evidence than a wood-ear picture on the label. Look for a Latin binomial, plant or fungal part, extraction solvent, actual amount per serving, lot identity, and independent testing for identity and contaminants. “10:1” does not report a validated active dose, and “polysaccharide” can include analytically different fractions. Do not substitute an extract for diagnosis, prescribed treatment, surgery, vaccination, or established cancer care.
 
 ## Safety
 
 Rehydrate dried wood ear in clean cold water under refrigeration when soaking is prolonged, then cook it; do not leave it for many hours at warm room temperature. Discard soaking liquid and any product with an abnormal odor, slime, or mold. People taking anticoagulants or preparing for surgery should ask a clinician before using concentrated extracts. Wild jelly fungi should be confirmed locally, and collection from polluted wood should be avoided.
 
-General food practice still applies: source cultivated mushrooms from reputable producers, transport them cool, wash hands and utensils, prevent contact with raw animal foods, and cook with clean equipment. Cooking can reduce microbial risk and improve digestibility, but it cannot make a poisonous species safe and may not destroy every toxin or environmental contaminant.
+Foodborne risk is not theoretical for dried wood ear. FDA investigated a 2020 multistate *Salmonella Stanley* outbreak linked to imported dried fungus and advised throwing away recalled product; reconstitution was not a rescue step for recalled lots. For non-recalled dried ears, follow current package and public-health directions, use clean equipment, keep prolonged soaking refrigerated, and heat the reconstituted mushrooms thoroughly. Cooking does not correct a wrong species identification or environmental contamination.
 
-Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
+Discard dried ears with insects, moisture damage, mold, or an abnormal odor, and discard a soak that became warm for an extended period. People at higher risk from foodborne illness should follow their clinician's and local authority's advice. After severe gastrointestinal symptoms, breathing difficulty, confusion, jaundice, or illness following an unidentified wild mushroom, contact emergency services or a poison center immediately and retain the package or specimen for investigators.
 
 
 ## References
@@ -197,5 +203,7 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
+6. Sun S, et al. [Research progress of *Auricularia heimuer* on cultivation physiology and molecular biology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9685806/). *Frontiers in Microbiology.* 2022. Species history, cultivation biology, and nomenclatural context.
+7. U.S. Food and Drug Administration. [Outbreak Investigation of *Salmonella Stanley*: Wood Ear Mushrooms](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-stanley-wood-ear-mushrooms-dried-fungus-september-2020). Historical outbreak and product-handling context; recalled product must be discarded.
 
-*Last editorial review: August 27, 2026. This article received editorial, not named-expert or clinical, review. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: September 15, 2026. This article received editorial, not named-expert or clinical, review. Scientific names and public-health recommendations should be rechecked at every substantive update.*

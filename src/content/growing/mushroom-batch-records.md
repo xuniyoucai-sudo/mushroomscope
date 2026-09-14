@@ -4,8 +4,8 @@ description: "Build mushroom batch records that connect culture, substrate, room
 keywords: ["mushroom batch records", "mushroom farm traceability", "mushroom cultivation log"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
-draft: true
+publishDate: 2026-09-15
+draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-batch-records-editorial-v2.png"
 coverAlt: "Original editorial image of labeled oyster mushroom production bags beside a blank batch record and scanner"
@@ -13,6 +13,7 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial traceability scene; blank tags and records do not represent certification, inspection, or a validated production system."
+relatedEntries: ["growing/mushroom-grain-spawn-guide", "growing/mushroom-substrate-guide", "growing/mushroom-contamination-guide", "growing/mushroom-fruiting-conditions"]
 sources:
   - title: "Cornell Small Farms — Harvest to Market Guide"
     url: "https://smallfarms.cornell.edu/resources/harvest-to-market-guide/"
@@ -31,9 +32,16 @@ faq:
     answer: "No. Photographs add context, but they need dates, batch identifiers, locations, and written observations to be interpretable."
   - question: "How long should records be retained?"
     answer: "Set a retention period from applicable law, customer requirements, product life, and the time needed to investigate recurring problems."
+targetSpecies: ["documented cultivated mushroom cultures", "traceable gourmet mushroom production batches"]
+difficulty: moderate
+methods: ["parent-child lot traceability", "contemporaneous production records", "mock forward and backward reconstruction"]
+substrates: ["hardwood sawdust blocks", "straw batches", "grain spawn", "inoculated logs", "supplier-prepared fruiting blocks"]
+conditions: { colonizationTemperature: "Record the actual room and, when safely measured, substrate temperature with location, time, instrument ID, and the supplier range for the named culture.", fruitingTemperature: "Record the actual fruiting-room and crop-zone readings against the named culture's supplier guidance; do not copy a universal target into the record.", humidity: "Record sensor identity and position, observed surface condition, condensation, and any humidification change without treating relative humidity as proof of food safety.", light: "Record the installed schedule and location only when it is relevant to the named crop and supplier method.", freshAir: "Record ventilation state, sensor position, room events, and crop response; a single carbon-dioxide value does not represent every shelf." }
+timeline: { colonization: "Begin at culture or spawn receipt and retain every parent-child transfer, substrate lot, treatment event, inoculation time, location, and observation.", fruiting: "Record the move or trigger into fruiting, room and rack location, each environmental change, pinning observation, flush, harvest, and disposition.", total: "Close the record only after every unit is harvested, held, transferred, sampled, composted, returned, or discarded and the final quantities reconcile." }
+equipment: ["durable unique batch labels", "supplier and culture records", "unit-aware batch form or controlled spreadsheet", "checked clocks and measurement instruments", "camera with scale and batch identifier", "backup and restoration method"]
+contaminationRisks: [{ name: "Breaking lineage between culture, spawn, substrate, and harvest", prevention: "Assign unique IDs before work begins and record every split, pool, transfer, and disposition without recycling identifiers." }, { name: "Editing observations after the outcome is known", prevention: "Make contemporaneous entries, preserve the original value during corrections, and record who changed it, when, and why." }, { name: "Treating a clean-looking bag as proof of identity or safety", prevention: "Keep observation separate from interpretation, isolate abnormal batches, and do not use appearance to authenticate a culture or clear food." }]
+steps: [{ title: "Define the batch boundary", instruction: "Write which culture, substrate mix, processing load, inoculation session, and units belong together before assigning a durable unique ID." }, { title: "Link every parent and child", instruction: "Connect culture to spawn, spawn to substrate, substrate to fruiting batch, and every harvest lot to all contributing production units." }, { title: "Record the process as performed", instruction: "Capture actual amounts, units, times, equipment, operators, locations, measurements, deviations, and contemporaneous observations rather than copying the planned recipe." }, { title: "Close every unit with a disposition", instruction: "Reconcile harvest, hold, sample, transfer, compost, return, and discard quantities so no material simply disappears from the record." }, { title: "Test reconstruction", instruction: "Select one harvest and trace backward to every input, then select one input and trace forward to every affected unit; document dead ends and repair the system." }]
 ---
-
-# Mushroom Batch Records: Build Traceability From Culture to Harvest
 
 A mushroom batch record is a chain of evidence, not a diary of whatever seemed interesting that day. It connects the source culture to spawn, substrate ingredients, processing, inoculation, rooms, observations, harvests, disposition, and corrective actions. When the chain is complete, a grower can answer which units shared an input, which conditions changed, and which product was sold or discarded. When the chain is incomplete, a clean-looking bag or a strong harvest cannot repair the missing history.
 
@@ -121,7 +129,7 @@ No. Photographs add context, but they need dates, batch identifiers, locations, 
 
 Set a retention period from applicable law, customer requirements, product life, and the time needed to investigate recurring problems.
 
-## Sources and editorial boundaries
+## References
 
 1. [Cornell Small Farms — Harvest to Market Guide](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/)
 2. [FDA — Traceability Rule overview](https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-records-certain-foods)
