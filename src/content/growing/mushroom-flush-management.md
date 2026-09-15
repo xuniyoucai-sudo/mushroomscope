@@ -4,8 +4,8 @@ description: "Manage mushroom flushes with defined harvest windows, block condit
 keywords: ["mushroom second flush", "mushroom flush management", "when to retire mushroom block"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
-draft: true
+publishDate: 2026-09-16
+draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-flush-management-editorial-v2.png"
 coverAlt: "Original editorial image showing oyster mushroom blocks at rest, pinning, and mature later-flush stages"
@@ -13,6 +13,7 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial stage illustration; block appearance alone cannot establish safety, contamination status, or a universal re-fruiting schedule."
+relatedEntries: ["growing/when-to-harvest-mushrooms", "growing/store-homegrown-mushrooms", "growing/mushroom-contamination-guide", "growing/mushroom-fruiting-conditions"]
 sources:
   - title: "Penn State Extension — Mushroom production and harvesting"
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting"
@@ -31,9 +32,16 @@ faq:
     answer: "Later flushes often have fewer remaining resources and different water balance, but the pattern varies and cannot diagnose a problem by itself."
   - question: "When should a block be retired?"
     answer: "Retire it according to predefined safety, quality, time, space, and economic criteria rather than waiting indefinitely for another mushroom."
+targetSpecies: ["supplier-authenticated cultivated mushroom blocks", "oyster mushroom production blocks", "other species with protocol-defined later flushes"]
+difficulty: moderate
+methods: ["consistent flush-window records", "protocol-specific rest and rehydration", "block-day and saleable-yield review"]
+substrates: ["supplier-prepared fruiting blocks", "hardwood sawdust blocks", "straw-based production blocks"]
+conditions: { colonizationTemperature: "Use the authenticated culture supplier's range and record crop-zone conditions; a later flush does not reset an incomplete or suspect colonization history.", fruitingTemperature: "Use the named species and strain protocol, recording actual crop-zone temperature rather than copying a universal later-flush value.", humidity: "Manage room humidity and block-surface condition without persistent droplets, pooling, or unmeasured water additions.", light: "Maintain the named crop's protocol-defined diffuse-light schedule and record material deviations.", freshAir: "Use species- and stage-specific ventilation while observing crop form and surface drying at block level." }
+timeline: { colonization: "Confirm the first crop and block history are complete before defining a rest interval.", fruiting: "Record first-harvest close, rest or rehydration, re-entry to fruiting, pinning, every later harvest, and quality disposition.", total: "Close the block record at the predefined safety, quality, time, space, or economic retirement point." }
+equipment: ["durable block or batch identifiers", "dated harvest and quality record", "checked scale", "crop-zone environmental sensors", "clean protocol-approved rehydration equipment"]
+contaminationRisks: [{ name: "Keeping suspect blocks for one more flush", prevention: "Isolate and retire blocks that meet predefined contamination, pest, odor, leakage, or structural-failure triggers." }, { name: "Unmeasured rehydration", prevention: "Use only the named block protocol, record water source, time, mass change, and drainage, and avoid damaged units." }, { name: "Mixing old and new production traffic", prevention: "Separate later-flush blocks spatially or by workflow and clean tools and surfaces between groups." }]
+steps: [{ title: "Close the current harvest", instruction: "Record harvest window, saleable and discarded mass, damage, and block condition using the same definitions as the earlier crop." }, { title: "Apply the exit screen", instruction: "Remove units that meet safety, pest, structural, quality, or capacity retirement criteria before any re-fruiting step." }, { title: "Rest or rehydrate by protocol", instruction: "Follow the authenticated supplier or tested species-and-format method and record actual timing, water handling, and conditions." }, { title: "Return eligible blocks to fruiting", instruction: "Record room, rack, date, crop-zone conditions, pin onset, aborts, development, and harvest quality." }, { title: "Evaluate room-time value", instruction: "Compare later saleable yield with block-days, labor, sanitation, utilities, and the opportunity cost of a new batch, then close every unit with a disposition." }]
 ---
-
-# Mushroom Flush Management: Decide When to Rest, Refruit, or Retire a Block
 
 A flush is a wave of mushroom production, but the boundary is partly operational: it depends on how harvests are grouped and when the grower considers the next production period to begin. “Second flush” therefore does not guarantee a particular day, weight, or quality. Species, strain, substrate, block size, first-harvest damage, water balance, room conditions, and the supplier’s method all shape what happens next.
 
@@ -129,10 +137,12 @@ Later flushes often have fewer remaining resources and different water balance, 
 
 Retire it according to predefined safety, quality, time, space, and economic criteria rather than waiting indefinitely for another mushroom.
 
-## Sources and editorial boundaries
+## References
 
 1. [Penn State Extension — Mushroom production and harvesting](https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting)
 2. [Cornell Small Farms — Indoor Production](https://smallfarms.cornell.edu/resources/indoor-production/)
 3. [Cornell Small Farms — Harvest to Market Guide](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/)
+
+## Editorial boundaries
 
 These sources support indoor-production and harvest context, but they do not establish a universal rest, soaking, or re-fruiting schedule. MushroomScope has not had this flush-management draft reviewed by a named cultivation or food-safety professional. Follow the authenticated culture or block supplier’s method, isolate suspect material, and obtain qualified local advice when product or worker safety is involved.
