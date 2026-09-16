@@ -5,12 +5,14 @@ description: "Document jelly tooth fungus by its translucent lobes, toothed unde
 keywords: ["jelly tooth fungus", "Pseudohydnum gelatinosum", "jelly tooth fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-09-16
+draft: false
 featured: false
 coverImage: "../../assets/species/jelly-tooth-mushroom-editorial-v2.png"
 coverAlt: "Translucent gray jelly tooth fungi with fine white teeth on a decayed conifer log"
 imageCredit: "Original MushroomScope AI editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
 sources:

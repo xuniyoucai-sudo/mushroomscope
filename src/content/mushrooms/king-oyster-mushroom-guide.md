@@ -1,11 +1,11 @@
 ---
-title: "Pleurotus eryngii: King Oyster Mushroom Species Guide"
-description: "Explore Pleurotus eryngii identification, ecology, controlled cultivation, nutrition, safe preparation, similar species, and evidence-based FAQs."
+title: "King Oyster Mushroom: Pleurotus eryngii Ecology and Cultivation"
+description: "Understand king oyster morphology, Mediterranean plant associations, controlled crop shaping, dense-stem cooking, food evidence, and wild-identification limits."
 keywords: ["Pleurotus eryngii","king oyster mushroom","mushroom identification","mushroom growing guide"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-26
+updatedDate: 2026-09-16
 draft: false
 featured: false
 coverImage: "../../assets/species/king-oyster-mushroom.jpg"
@@ -152,15 +152,19 @@ King oysters are less forgiving than basic straw-grown oysters. Producers normal
 
 Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
 
-## Health Benefits
+### Crop shape records must include air, position, and thinning
 
-King oyster is best described through food composition and culinary function. It contributes fungal fiber, micronutrients, and savory flavor, and its texture can help diversify plant-forward meals. Studies of extracts or purified polysaccharides are not equivalent to eating cooked mushrooms. There is no established clinical basis for presenting a normal serving as treatment for high cholesterol, diabetes, cancer, or immune disorders.
+King oyster morphology is deliberately managed. Record bag or bottle opening, rack position, number of retained pins, crop-zone temperature and humidity, ventilation state, and cap-to-stem proportions at harvest. A long stem can be a desired market form, but the same shape cannot prove that carbon dioxide was correct: crowding, strain, light, block geometry, and measurement position also contribute.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+Compare batches with the same grading rule. Weigh saleable stems and caps together unless the market actually separates them, and record trim rather than hiding it inside gross yield. A high biological-efficiency number can coexist with cracked caps, soft bases, or poor shelf life. The [batch-record guide](/growing/mushroom-batch-records/) provides a traceable structure, while the [flush-management guide](/growing/mushroom-flush-management/) separates later yield from the shelf time used to obtain it.
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+## Interpret king oyster food data by product form
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+King oyster is a high-moisture food, so fresh weight and dry weight answer different questions. A database entry per 100 grams of raw mushroom cannot be transferred directly to a sautéed portion that has lost water and absorbed oil. Match the species or product name, raw or cooked state, edible portion, and serving mass before comparing protein, fiber, sodium, or energy.
+
+The thick stem also changes the plate without creating a special clinical effect. It supplies firm texture and savory flavor that can replace some volume of a more energy-dense ingredient, but that recipe substitution—not an isolated mushroom compound—determines the finished meal. USDA FoodData Central provides reference values for sampled foods; it is not a certificate for a particular farm, strain, or package.
+
+Extract, polysaccharide, cell-culture, and animal studies should not be narrated as benefits of a cooked serving. A concentrated test material may differ in identity, solvent, dose, and composition. This page therefore makes no claim that king oyster treats cholesterol, diabetes, cancer, infection, or immune disorders. The [nutrition guide](/health/mushroom-nutrition-guide/) explains how to compare matched food records without converting composition into a medical promise.
 
 ## Dense stems need a different cooking decision
 
@@ -187,4 +191,4 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 4. Schoch CL, et al. [NCBI Taxonomy: a comprehensive update on curation, resources and tools](https://pubmed.ncbi.nlm.nih.gov/32761142/). *Database (Oxford).* 2020.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 
-*Substantive update: August 26, 2026. Added plant-associated eryngii-complex ecology, separated cultivated morphology from wild identification, and added a mechanism-based dense-stem cooking section. Editorial review only; no named clinician or mycologist reviewed this page.*
+*Substantive update: September 16, 2026. Added crop-shape batch variables, flush economics, matched product-form nutrition interpretation, and clearer separation between food and extract evidence. Editorial review only; no named clinician or mycologist reviewed this page.*
