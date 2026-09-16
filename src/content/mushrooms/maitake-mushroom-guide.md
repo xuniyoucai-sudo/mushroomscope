@@ -5,7 +5,7 @@ keywords: ["Grifola frondosa","maitake","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-08
+updatedDate: 2026-09-17
 draft: false
 featured: false
 coverImage: "../../assets/species/maitake-mushroom.jpg"
@@ -183,6 +183,12 @@ For a verified cultivated cluster, trim the dense substrate-bearing base, separa
 
 Treat wild-collection uncertainty and supplement uncertainty as separate safety paths. After illness from an unidentified rosette, preserve uncooked material, photographs, location and meal timing, and contact a poison center or emergency service promptly; breathing difficulty, confusion, fainting or severe persistent symptoms need urgent care. Before using a concentrated maitake product with glucose-lowering, blood-pressure, anticoagulant or immune-modifying treatment, ask a clinician or pharmacist to review the exact label rather than relying on a species reputation.
 
+
+## Record one rosette as a measurable event
+
+A maitake observation becomes more useful when the rosette is treated as one time-stamped biological event rather than a generic “large cluster.” Record the tree species if it can be established independently, whether the fruit body arises at the trunk flare or from a buried root, the straight-line distance to the trunk, and whether other rosettes occur around the same root zone. Photograph the whole cluster with a scale before handling it, then record the width of representative spoon-shaped caps, pore surface, branching core, odor, bruising response, and any insect or decay damage. A return visit can show whether the same rosette expanded, darkened, collapsed, or was replaced by a separate emergence.
+
+This record separates three claims that are often blurred together. The fruit body can support a morphological identification; the tree and root position support an ecological interpretation; neither alone proves the condition or structural safety of the tree. A repeated fruiting location may justify assessment by a qualified local arborist, especially where a mature tree could strike people or property, but a web photograph cannot quantify root loss. For identification methodology, use the [mushroom photo checklist](/identification/mushroom-photo-checklist/) and retain uncropped habitat images alongside close views.
 
 ## References
 

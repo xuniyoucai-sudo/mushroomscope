@@ -4,8 +4,8 @@ description: "Place and verify temperature, humidity, and carbon-dioxide sensors
 keywords: ["mushroom grow room sensors","humidity sensor calibration","mushroom CO2 meter"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
-draft: true
+publishDate: 2026-09-17
+draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-grow-room-sensors-editorial-v2.png"
 coverAlt: "Original editorial image illustrating mushroom grow-room sensors: placement, calibration, and logs"
@@ -13,6 +13,7 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial workflow illustration; not proof of sterility, calibration, identity, or guaranteed yield."
+relatedEntries: ["growing/mushroom-growing-temperature", "growing/mushroom-fruiting-conditions", "growing/mushroom-batch-records", "growing/mushroom-contamination-guide"]
 sources:
   - title: "NIST Calibration Services"
     url: "https://www.nist.gov/calibrations"
@@ -31,9 +32,16 @@ faq:
     answer: "Carbon-dioxide concentration can differ sharply between a breathing cluster, a stagnant corner, and exhaust air. Mount a crop-control sensor where representative air moves past it without receiving a direct jet."
   - question: "Temperature needs air and substrate context?"
     answer: "Air temperature does not equal substrate core temperature. Colonizing blocks generate metabolic heat, and wet-bulb effects near fog can cool a probe."
+targetSpecies: ["cultivated gourmet mushroom crops", "oyster mushroom fruiting blocks", "shiitake production blocks"]
+difficulty: moderate
+methods: ["crop-zone sensor mapping", "reference checks", "location-coded environmental logging"]
+substrates: ["hardwood sawdust blocks", "straw blocks", "supplier-prepared fruiting blocks"]
+conditions: { colonizationTemperature: "Measure room air and representative substrate cores separately, record the instrument and location, and compare only with guidance for the named culture.", fruitingTemperature: "Map crop-zone air temperature across racks and operating states rather than relying on one room-average display.", humidity: "Keep probes out of direct fog and condensation, record surface observations, and verify drift against an appropriate reference procedure.", light: "Record fixture schedule and sensor shading when light or radiant heating could change the local reading.", freshAir: "Place carbon-dioxide sensors in representative moving air at crop height, then map gradients near clusters, doors, supply air, and exhaust." }
+timeline: { colonization: "Commission and label instruments before loading a room, then compare air and selected substrate readings through the heat-producing colonization period.", fruiting: "Map empty and loaded conditions, log door and ventilation events, verify instruments on a schedule, and review crop response alongside readings.", total: "Retain location maps, reference checks, adjustments, alarms, environmental logs, and crop observations for the full batch record." }
+equipment: ["location-coded temperature and humidity loggers", "appropriate carbon-dioxide sensor", "manufacturer-specified reference or verification device", "rack and airflow map", "time-synchronized batch log"]
+contaminationRisks: [{ name: "Condensation or direct fog wets a probe", prevention: "Move the sensor out of the spray path, follow its environmental rating, document the event, and verify response before trusting subsequent readings." }, { name: "A single sensor hides rack gradients", prevention: "Map upper, middle, lower, edge, center, supply, and return positions under representative loaded conditions." }, { name: "Unverified drift drives unsafe control changes", prevention: "Schedule documented reference checks and investigate disagreement before adjusting ventilation, heating, cooling, or humidification." }]
+steps: [{ title: "Define the control question", instruction: "Write which crop stage, location, variable, and decision each measurement will support." }, { title: "Map representative locations", instruction: "Survey rack heights, edges, centers, doors, supply paths, exhaust paths, and loaded crop zones with checked loggers." }, { title: "Install and label instruments", instruction: "Give every device and location a stable identifier, protect probes from direct water, and synchronize clocks." }, { title: "Verify before control", instruction: "Compare each instrument with an appropriate reference or documented cross-check and record deviations without silently rewriting raw values." }, { title: "Review readings with crop observations", instruction: "Interpret trends alongside batch, airflow, condensation, substrate temperature, door, cleaning, and harvest records." }]
 ---
-
-# Mushroom Grow-Room Sensors: Placement, Calibration, and Logs
 
 ## Measure the crop zone, not the room average
 
@@ -129,7 +137,7 @@ Carbon-dioxide concentration can differ sharply between a breathing cluster, a s
 
 Air temperature does not equal substrate core temperature. Colonizing blocks generate metabolic heat, and wet-bulb effects near fog can cool a probe.
 
-## Sources and further reading
+## References
 
 1. [NIST Calibration Services](https://www.nist.gov/calibrations)
 2. [OSHA Carbon Dioxide](https://www.osha.gov/chemicaldata/183)

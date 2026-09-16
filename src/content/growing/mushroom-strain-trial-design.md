@@ -4,8 +4,8 @@ description: "Design a mushroom strain trial with a defined question, replicated
 keywords: ["mushroom strain trial", "compare mushroom strains", "mushroom cultivation experiment"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-31
-draft: true
+publishDate: 2026-09-17
+draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-strain-trial-editorial-v2.png"
 coverAlt: "Original editorial image of two groups of oyster mushroom blocks arranged for a small comparative strain trial"
@@ -13,6 +13,7 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial trial scene; visible crop differences are illustrative and do not establish strain performance or experimental results."
+relatedEntries: ["growing/mushroom-batch-records", "growing/mushroom-substrate-guide", "growing/mushroom-grain-spawn-guide", "growing/mushroom-growing-temperature"]
 sources:
   - title: "Cornell Small Farms — The Science of DIY Mushroom Substrates"
     url: "https://smallfarms.cornell.edu/2025/04/the-science-of-diy-mushroom-substrates/"
@@ -31,9 +32,16 @@ faq:
     answer: "No. Individual bags vary, and selective attention to an exceptional unit is not a reliable comparison."
   - question: "Should failed bags be excluded?"
     answer: "Report failures and predefined exclusions separately; removing inconvenient outcomes after seeing results biases the comparison."
+targetSpecies: ["authenticated cultivated mushroom strains", "oyster mushroom production cultures", "shiitake production cultures"]
+difficulty: expert
+methods: ["randomized replicated blocks", "predefined measurements", "blind quality grading"]
+substrates: ["one documented substrate batch", "matched hardwood sawdust blocks", "matched straw production units"]
+conditions: { colonizationTemperature: "Use the same documented incubation system for all randomized units and record rack position, time, and deviations rather than assigning each strain a different environment.", fruitingTemperature: "Fruit comparison units contemporaneously in randomized blocks and interpret any strain result only within the tested temperature pattern.", humidity: "Apply the same verified humidification procedure and record condensation and crop observations so a room gradient is not mistaken for a strain effect.", light: "Hold fixture, schedule, distance, and rack exposure constant or include the known gradient as a blocking factor.", freshAir: "Map and record ventilation and crop-zone carbon dioxide across blocks; do not compare strains placed systematically near different air paths." }
+timeline: { colonization: "Record inoculation, each observation, contamination or exclusion, and time to a predefined colonization endpoint for every experimental unit.", fruiting: "Record induction, pinning, harvest time, flush, grade, defects, and disposition using rules written before results are known.", total: "Complete the prespecified comparison, retain all failures, repeat across an independent batch, and run a limited operational pilot before scale-up." }
+equipment: ["authenticated and legally obtained cultures", "uniquely labeled replicated units", "randomization schedule", "location map", "checked scale and environmental loggers", "predefined grading sheet"]
+contaminationRisks: [{ name: "Culture identity or starting material differs", prevention: "Authenticate, label, and propagate comparison cultures with documented, equivalent starting generations and handling." }, { name: "Rack or week effects masquerade as strain effects", prevention: "Run contemporaneous randomized blocks and record known gradients and time effects." }, { name: "Failures are removed after results are seen", prevention: "Write exclusion rules before inoculation and report every unit, exclusion, contamination, and disposition." }]
+steps: [{ title: "Write one decision question", instruction: "Define the crop, production system, response variables, practical decision size, and conclusion the trial can support." }, { title: "Standardize starting material", instruction: "Verify culture identity and use comparable generation, inoculum, substrate batch, bag size, and processing." }, { title: "Randomize replicated blocks", instruction: "Assign labeled units across known rack, airflow, and time gradients without grouping a strain in one favored position." }, { title: "Measure by predefined rules", instruction: "Record yield, time, quality, labor, failure, and environmental context without changing definitions after seeing outcomes." }, { title: "Repeat before scale-up", instruction: "Report uncertainty and operational constraints, repeat an independent batch, then test the candidate in a limited production pilot." }]
 ---
-
-# Mushroom Strain Trial Design: Compare Cultures Without Fooling Yourself
 
 A strain trial asks whether a culture performs differently under a defined production system. It does not ask which strain is universally “best.” A strain that excels on one substrate, bag size, temperature pattern, or harvest standard may behave differently after any of those conditions change. Good trial design makes the local question narrow enough to answer and the record complete enough to reveal alternative explanations.
 
@@ -127,7 +135,7 @@ No. Individual bags vary, and selective attention to an exceptional unit is not 
 
 Report failures and predefined exclusions separately; removing inconvenient outcomes after seeing results biases the comparison.
 
-## Sources and editorial boundaries
+## References
 
 1. [Cornell Small Farms — The Science of DIY Mushroom Substrates](https://smallfarms.cornell.edu/2025/04/the-science-of-diy-mushroom-substrates/)
 2. [NIST/SEMATECH e-Handbook — Design of Experiments](https://www.itl.nist.gov/div898/handbook/pri/pri.htm)

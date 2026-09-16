@@ -6,6 +6,7 @@ keywords: ["saffron milk cap", "Lactarius deliciosus", "saffron milk cap identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
+updatedDate: 2026-09-17
 draft: false
 featured: false
 coverImage: "../../assets/species/saffron-milk-cap-editorial-v3.jpg"
@@ -145,6 +146,16 @@ Keep a dated record even when no specimen is collected. A useful record includes
 Taxonomy note: orange milkcap names vary with host tree and region, so pine association, latex behavior, and staining should be checked against current local treatments.
 
 Use the GBIF record as a taxonomic starting point, then compare the entire observation with a current regional treatment. A name, a vivid cap color, or one orange latex photograph cannot settle a food decision when host evidence, mature gills, or local species boundaries are missing.
+
+## Read latex and staining as a timed sequence
+
+For a milk cap, “orange latex” is only the first observation. Note the color immediately after a clean gill cut, then photograph the same injury after several minutes and again later. Record whether latex is abundant or scant, whether it changes independently, and whether the gills and flesh develop green patches where handled. Temperature, age, dryness, and prior damage can reduce visible latex, so a dry specimen does not become identifiable by cap color alone. Keep the cap surface, gill attachment, stem pits or scrobicules, hollowing, odor, and spore deposit in the same record.
+
+The saffron milk cap name is also used for a regional complex rather than one universally interchangeable market item. European treatments commonly center *Lactarius deliciosus*, while similar orange-latex taxa associated with planted or native pines occur elsewhere. A useful determination therefore includes location and the pine partner, not just a photograph of concentric orange zones. If a precise species name matters, preserve a voucher and consult current regional keys or a local mycological specialist; older field names may not reflect later molecular boundaries.
+
+## Separate ecological evidence from eating decisions
+
+Mycorrhizal association explains why these fungi appear with living pines and why block cultivation methods used for oyster mushrooms do not transfer directly. It does not establish edibility. Food decisions require a locally verified species, lawful collection, sound condition, and awareness that individual tolerance varies. Green staining is a known feature in this group, but no single color reaction clears a specimen for the table. The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) provides a separate decision boundary for observations that remain incomplete.
 
 ## References
 
