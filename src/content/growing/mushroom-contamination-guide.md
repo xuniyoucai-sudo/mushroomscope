@@ -98,7 +98,7 @@ The [pasteurization versus sterilization guide](/growing/sterilize-mushroom-subs
 
 ## Keep clean and suspect work apart
 
-Build the routine around direction: work with known-clean cultures before any questionable material, and never carry tools or gloves from a suspect batch back to a clean area without resetting. Penn State’s sanitation guidance for mushroom growing and packing environments is written for commercial operations, but its core logic is relevant at small scale: control places that can harbor contamination, keep cleaning routines systematic, and avoid cross-contact between areas.
+Build the routine around direction: work with known-clean cultures before any questionable material, and never carry tools or gloves from a suspect batch back to a clean area without resetting. Penn State’s sanitation guidance for mushroom growing and packing environments is written for commercial operations, but its core logic is relevant at small scale: control places that can harbor contamination, keep cleaning routines systematic, and avoid cross-contact between areas. The [grow-room sanitation guide](/growing/mushroom-grow-room-sanitation/) turns that logic into separate debris removal, cleaning, label-directed sanitizing, verification, and room-release records.
 
 This does not require pretending a home grow room is a commercial clean room. It does require reducing unnecessary handling, keeping surfaces cleanable, storing cultures as instructed, and keeping a simple record. If your setup cannot do that reliably, a purchased ready-to-fruit block is often the safer learning step.
 

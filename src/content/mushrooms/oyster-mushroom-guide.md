@@ -6,13 +6,15 @@ keywords: ["Pleurotus ostreatus","oyster mushroom","mushroom identification","mu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-11
-revisionSummary: "Added a temperate P. ostreatus evidence boundary, developmental cluster record, wood-position tests, crop-interface diagnostics, and cooking decisions tied to cluster anatomy."
+updatedDate: 2026-09-18
+revisionSummary: "Replaced generic templates with Pleurotus-complex, cluster measurement, wood-connection, crop-interface, and product-form boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/oyster-mushroom.jpg"
 coverAlt: "Overlapping gray oyster mushroom clusters growing on a fallen hardwood log"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["growing/grow-oyster-mushrooms-home", "recipes/garlic-butter-oyster-mushrooms", "identification/mushroom-gill-types"]
 sources:
@@ -98,7 +100,7 @@ Look for laterally attached caps growing in shelves, pale gills that descend the
 - **Flesh:** White, firm when young, with a mild fungal aroma; tougher with age.
 - **Spore print:** White to pale lilac-gray.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+Record an oyster cluster from tight primordia through expanded caps. Measure cap width, stem position, stem length, flesh thickness, and how far the gills descend; photograph the common base and the wood connection before detaching it. Color can shift from dark gray to tan with strain, temperature, age, and light, while crowded or carbon-dioxide-stressed cultivated clusters can exaggerate stems. A pale lilac-gray deposit supports the record but does not identify every pleurotoid mushroom.
 
 ### Build a developmental cluster record
 
@@ -126,7 +128,7 @@ The comparison list is not exhaustive. *Pleurotus ostreatus*, *P. pulmonarius*, 
 | Genus | *Pleurotus* |
 | Species | *Pleurotus ostreatus* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+The *Pleurotus ostreatus* complex has been applied broadly in cultivation and field reporting, and common “oyster” labels also cover *P. pulmonarius*, *P. columbinus*, *P. eryngii*, and other crops. Preserve the culture label, supplier, accession if available, geography, and method used by each source. Do not silently assign a blue, summer, phoenix, or king-oyster product to *P. ostreatus* because the package uses the family resemblance.
 
 ## Map hardwood decay without treating season as proof
 
@@ -134,7 +136,7 @@ In nature the fungus digests lignocellulose in dead or weakened wood, commonly h
 
 **Known range represented here:** Europe, North America, temperate Asia, cultivated worldwide. **Typical substrates:** hardwood logs, pasteurized straw, supplemented hardwood sawdust. Wild fruiting is often associated with cool, wet periods, while controlled cultivation is possible throughout the year.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+For a wild oyster record, trace the cluster to exposed or buried wood and document whether the host is standing dead, fallen, wounded but living, or processed timber. Bark, leaves, buds, end grain, and site history can support a host name; a cluster apparently emerging from soil may actually connect to a buried root. Moist cool weather often favors fruiting, but a cultivated escape or irrigated landscape can break a simple seasonal rule.
 
 ### Test the apparent wood connection
 
@@ -142,7 +144,7 @@ A shelf growing at soil level may emerge from a buried root, stump or log. Clear
 
 The core name on this page is the temperate *P. ostreatus* concept represented by the cited taxonomy record. Pale warm-season oysters may instead be treated as *P. pulmonarius* or another regional lineage, and North American versus European name use is not perfectly interchangeable. This boundary matters for a species record but usually matters less for a correctly labeled cultivated food package. Preserve collection country, date and the authority used rather than backfilling a species name from the English word “oyster.”
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+Leave part of a fresh oyster cluster attached so the substrate and developmental sequence remain available to other observers and for spore dispersal. When collecting is permitted, retain the common base, representative caps, a section through cap and stem, and a dried voucher with the host record. Dense urban or roadside fruiting also requires a contamination-history decision separate from taxonomic identification.
 
 ## Choose a crop system before setting a fruiting room
 
@@ -159,7 +161,7 @@ Incubate according to the strain supplier, then provide indirect light, high hum
 5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
 6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+Oyster cultivation changes with substrate and container. Straw particle length and pasteurization, hardwood particle distribution and supplementation, bag filter, block density, slit geometry, shelf loading, crop-zone carbon dioxide, humidity, and air speed can all change cluster form. Keep those variables in the batch record, isolate green growth or sour odor, and never treat an unexpected fruit body as the intended *Pleurotus* crop based on shape alone.
 
 ### Diagnose the fruiting interface before changing the room
 
@@ -173,9 +175,9 @@ Oyster mushrooms are nutritious foods, not medicines. Food-composition data supp
 
 For food questions such as whether mushrooms provide fiber or protein, the [mushroom nutrition guide](/health/mushroom-nutrition-guide/) compares ordinary food portions across mushrooms. Nutrient values still vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+Oyster-mushroom research spans edible servings, dried powders, isolated polysaccharides, fermentation materials, cell assays, and animal models. Results belong to the tested material, dose, comparator, and population. A mechanistic result about a purified fraction cannot establish that a dinner serving prevents disease, and nutrient values for raw cultivated caps cannot be transferred unchanged to dried powder or a substrate-containing mycelial product.
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+An oyster supplement should state the *Pleurotus* species, culture or identity method, fungal part, residual substrate, extraction process, serving mass, lot, and contaminant results. Generic “oyster mushroom complex” language cannot show equivalence to a cited preparation. Keep supplement decisions separate from the culinary page and from occupational spore exposure, which depends on room concentration and work practice rather than an oral serving.
 
 ## Cook cultivated food, and keep wild and occupational risks distinct
 

@@ -6,13 +6,15 @@ keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom gro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-10
-revisionSummary: "Added developmental measurements, East Asian market-name boundaries, substrate evidence, and a shiitake-specific cooking method."
+updatedDate: 2026-09-18
+revisionSummary: "Replaced generic templates with shiitake-specific development, East Asian range, system variables, dermatitis, and preparation boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/shiitake-mushroom.jpg"
 coverAlt: "Brown-capped shiitake mushrooms fruiting from an inoculated hardwood log"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["growing/grow-shiitake-logs", "recipes/shiitake-noodle-stir-fry", "health/mushroom-nutrition-guide"]
 sources:
@@ -84,7 +86,7 @@ similarSpecies:
 
 *Lentinula edodes* is the cultivated hardwood mushroom sold globally as shiitake. For a packaged crop, the producer, lot, culture name, substrate and cold-chain history provide evidence that a photograph cannot. A wild brown cap on wood presents the opposite problem: the market name supplies no provenance, and similar color or cap cracking cannot establish identity. Keep those two workflows separate from the first observation.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This page treats shiitake as *Lentinula edodes* tied to an East Asian wild ecology or an authenticated cultivated culture. It does not use “brown cap on wood” as an identification shortcut, and it separates a grocery crop, a log-grown batch, lentinan research, raw-shiitake dermatitis, and a supplement label. Each of those contexts requires different evidence.
 
 A cultivated record should preserve the package or spawn label, harvest date, storage temperature and whether the crop came from a log or sawdust block. A wild record should show the complete hardwood attachment, cap, gills, stem base and several ages, together with region and host evidence; the [habitat identification guide](/identification/mushroom-habitat-identification/) explains how to document a host without treating the nearest tree as proof. Do not taste an unidentified mushroom. The species guide organizes those observations; it cannot convert a wild specimen into food clearance.
 
@@ -100,7 +102,7 @@ A typical cultivated fruit body has a convex brown cap with whitish veil remnant
 - **Flesh:** White, firm, aromatic, with a pronounced savory odor when cooked or dried.
 - **Spore print:** White.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+Document shiitake from closed button through expanded cap. Record the pale fibrillose veil remnants or scaling on the brown cap, crowded pale gills, short central-to-eccentric fibrous stem, attachment to hardwood, and changes after handling. Older caps flatten and split, gills darken or spot, and cultivated strains vary; a white spore deposit supports the record but cannot turn an unknown wild brown mushroom into shiitake.
 
 ### Record a developmental series, not one ideal cap
 
@@ -128,7 +130,7 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 | Genus | *Lentinula* |
 | Species | *Lentinula edodes* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+The familiar name *Lentinus edodes* persists in older cultivation and medical literature, while current databases generally place shiitake in *Lentinula*. Record the name used by the source, culture accession or commercial strain, and identification method. This matters when a trial tested purified lentinan from a defined production system rather than ordinary cooked caps or an unspecified “shiitake complex.”
 
 ## Distinguish East Asian range from worldwide cultivation
 
@@ -136,9 +138,9 @@ Shiitake is a white-rot decomposer of hardwood. Traditional log cultivation dril
 
 **Known range represented here:** China, Japan, Korea and other parts of East Asia, while commercial cultivation occurs worldwide. Those are not interchangeable statements. A shiitake block discarded in Europe or North America does not demonstrate a native wild population. **Typical production substrates:** suitable hardwood logs and heat-treated hardwood sawdust blocks. Log crops often fruit after seasonal temperature changes, rain or deliberate soaking; controlled blocks can fruit outside that outdoor calendar.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+Wild *L. edodes* belongs to East Asian hardwood forests, commonly associated in cultivation literature with oak and related broadleaf logs. Worldwide fruiting on inoculated logs, sawdust blocks, garden wood, or discarded substrate is cultivation evidence, not proof of a native range. Record whether the wood was deliberately inoculated, stacked, drilled, plugged, bagged, or moved before interpreting the site as wild habitat.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+At a suspected wild East Asian site, document host, forest type, wood condition, attachment, developmental series, and a retained voucher under local rules. Outside that range, first investigate cultivation escape, inoculated landscape logs, and transported wood. Do not publish precise coordinates for a sensitive population, and do not remove every cap from a log merely to demonstrate that several sizes were present.
 
 ### Keep shiitake, xiang gu and culture labels attached to evidence
 
@@ -167,7 +169,7 @@ Wild observations require the same discipline. A mushroom emerging beside a tree
 5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
 6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+Shiitake log and supplemented-sawdust systems should not share one generic schedule. Log diameter, bark integrity, tree species, felling and inoculation interval, spawn type, stacking, moisture, strain, and seasonal forcing govern a log cycle; particle size, supplementation, bag geometry, sterilization, browning, block temperature, and fruiting-room exposure govern a block. Record the system explicitly and reject any unit with an unexpected fruit body or unresolved contamination.
 
 ## Keep food composition, purified lentinan and supplements separate
 
@@ -175,9 +177,9 @@ Shiitake is a culinary ingredient with measurable nutrients. Lentinan, a purifie
 
 The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package. For cross-species food comparisons rather than shiitake identification, use the [mushroom nutrition guide](/health/mushroom-nutrition-guide/).
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+Shiitake evidence must be matched to its material. Cell and animal experiments with isolated compounds can propose mechanisms; trials of lentinan or another defined preparation address that intervention; and food-composition data describe a measured serving. None of those designs establishes that a retail powder reproduces the preparation or that eating shiitake treats cancer, infection, cholesterol, or another condition.
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+A shiitake supplement needs the scientific name, fungal part, substrate disclosure, extraction solvent, input and final mass, serving size, lot, and identity and contaminant testing. “10:1” without starting-material quality or final analytical data is not a potency result. Raw or undercooked shiitake also has a separate dermatitis risk; supplement marketing must not blur that food reaction with evidence for a purified research preparation.
 
 ## Cook shiitake and recognize the dermatitis boundary
 

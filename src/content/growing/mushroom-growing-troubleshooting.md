@@ -105,7 +105,7 @@ Use photographs with similar framing and neutral light. Automatic phone enhancem
 | Pin and cluster development | Which recorded condition changed before the response? | One shape diagnoses carbon dioxide, humidity, or temperature. |
 | Harvest and later flush | Were maturity, clean handling, cooling, and the supplier's next-cycle instructions followed? | A completed first flush makes all later material safe. |
 
-This stage check prevents a fruiting solution from being applied to a colonization question. It also keeps a post-harvest storage issue from being misread as evidence that the cultivation substrate was contaminated.
+This stage check prevents a fruiting solution from being applied to a colonization question. It also keeps a post-harvest storage issue from being misread as evidence that the cultivation substrate was contaminated. When the crop is healthy but initiation is delayed, use the [pinning conditions guide](/growing/mushroom-pinning-conditions/) to map readiness, bag openings, and shelf-specific patterns before changing the room.
 
 ## Read common patterns as questions
 
@@ -147,7 +147,7 @@ For breathing difficulty, severe irritation, injury, or illness, end exposure an
 
 ## Harvest and storage are part of troubleshooting
 
-Do not label a crop failure “contamination” when the issue may be harvest handling. Use clean hands or tools and clean containers. North Carolina's produce-safety guidance calls out cleaning of harvest equipment and avoiding standing water; it also notes that mushrooms are commonly refrigerated after harvest to slow dehydration and spoilage.
+Do not label a crop failure “contamination” when the issue may be harvest handling. Use clean hands or tools and clean containers. North Carolina's produce-safety guidance calls out cleaning of harvest equipment and avoiding standing water; it also notes that mushrooms are commonly refrigerated after harvest to slow dehydration and spoilage. For recurring room-level failures, the [grow-room sanitation guide](/growing/mushroom-grow-room-sanitation/) distinguishes cleaning evidence from sanitizer contact time and final release verification.
 
 For a home kitchen, the FDA advises refrigerating perishable food promptly and keeping the refrigerator at or below **40°F / 4°C**. Follow the culture supplier's storage direction, avoid questionable reduced-oxygen packaging, and discard food that has been held unsafely or shows spoilage. See [when to harvest mushrooms](/growing/when-to-harvest-mushrooms/) for crop-stage observations; food-safety decisions remain separate from visual maturity.
 

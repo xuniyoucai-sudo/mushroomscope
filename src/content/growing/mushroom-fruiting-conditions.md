@@ -84,7 +84,7 @@ For a first crop, a ready-to-fruit block plus the supplier’s instructions is t
 
 ### Humidity: preserve a suitable surface without creating standing water
 
-Humidity affects evaporation from pins and fruit bodies, but a humidity reading is only one part of the picture. The supplier’s guidance for the exact culture comes first. If the surface looks dry, verify that the culture is healthy and that airflow is not stripping moisture away before adding water. Avoid turning the block, tray, or enclosure into a wet reservoir; standing water can damage quality and complicate sanitation.
+Humidity affects evaporation from pins and fruit bodies, but a humidity reading is only one part of the picture. The supplier’s guidance for the exact culture comes first. If the surface looks dry, verify that the culture is healthy and that airflow is not stripping moisture away before adding water. Avoid turning the block, tray, or enclosure into a wet reservoir; standing water can damage quality and complicate sanitation. For initiation-stage diagnosis, the [pinning conditions guide](/growing/mushroom-pinning-conditions/) separates culture readiness, opening geometry, crop-zone readings, surface wetness, and spatial failure patterns.
 
 Use a hygrometer to track change over time, not to chase a number copied from another species. Note where it sits, whether the room was recently vented, and whether your water method changed. A reading from across the room is not automatically the microclimate at the fruiting surface.
 

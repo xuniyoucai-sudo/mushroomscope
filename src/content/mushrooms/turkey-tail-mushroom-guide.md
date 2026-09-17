@@ -5,12 +5,15 @@ keywords: ["Trametes versicolor","turkey tail","mushroom identification","mushro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-14
+updatedDate: 2026-09-18
+revisionSummary: "Replaced generic species templates with turkey-tail-specific pore, context, host, voucher, cultivation, and preparation boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/turkey-tail-mushroom.jpg"
 coverAlt: "Thin zoned turkey tail brackets overlapping on fallen hardwood"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "health/turkey-tail-benefits-evidence", "health/mushroom-supplements-guide"]
 sources:
@@ -86,9 +89,9 @@ similarSpecies:
 
 *Trametes versicolor* earns its common name from thin, concentrically banded caps that resemble a turkey’s tail. It is widespread on dead hardwood and important in decomposition. The species is also marketed in extracts, especially products described as PSK or PSP. Those defined preparations, whole dried conks, mycelial powders, and unverified online products are not equivalent.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This species account treats “turkey tail” as a name that must be earned by underside pores, cap-hair texture, thin context, and a regional key. It does not use colorful zoning alone, and it keeps a wild bracket, an authenticated culture, a dried conk, PSK, PSP, and a retail extract as separate materials. That separation is essential because neither a photograph nor a product label can answer all of those identity questions.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+A defensible turkey-tail record starts with the entire colonized stick or log section, not a detached photogenic fan. Photograph the cap zones, attachment, and pore surface at the same collection code; count pores across a measured millimeter; note whether the cap hairs remain visible under magnification; and preserve several ages from one connected patch when collection is permitted. Do not taste an unidentified bracket, and do not expose a sensitive site merely to document it online.
 
 ## Identification
 
@@ -102,7 +105,7 @@ True turkey tail combines a strongly zoned, finely hairy upper surface with a di
 - **Flesh:** Thin, flexible to leathery, and too tough for normal culinary use.
 - **Spore print:** White.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+Fresh expanding turkey-tail margins may be pale and sharply zoned while old shelves bleach, host algae, lose hairs, or acquire insect holes. Measure cap projection, thickness at the base and margin, and pore density on several shelves. A vertical section should show the thin context and distinct tube layer; a white deposit supports the record but does not distinguish *T. versicolor* from every other pale-spored polypore.
 
 ### Similar species
 
@@ -110,7 +113,7 @@ Observe multiple fruit bodies at different stages. Immature specimens may concea
 - **Trametes ochracea:** Can share zoned caps; pore, color, thickness, and microscopic features help separate it.
 - **Other Trametes species:** Many thin polypores require close pore and microscopic examination.
 
-The comparison list is not exhaustive. Geographic checklists and local keys matter because the set of possible lookalikes changes by continent and habitat. Apps can organize observations, but their suggestions should be treated as hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local expert who can inspect the whole specimen.
+The first comparison question is structural: a smooth or wrinkled fertile surface points away from *Trametes* toward *Stereum*, regardless of how convincing the bands look. The second is within porous brackets, where *T. ochracea* and regional *Trametes* require cap texture, thickness, pore measurements, spores, and sometimes hyphal or sequence evidence. A phone image can route a specimen to that comparison; it cannot inspect the pore layer or authenticate material for ingestion.
 
 ## Scientific Classification
 
@@ -124,7 +127,7 @@ The comparison list is not exhaustive. Geographic checklists and local keys matt
 | Genus | *Trametes* |
 | Species | *Trametes versicolor* |
 
-Taxonomy is a working scientific framework, not a permanent label. DNA studies can reveal that an old name covered several lineages or that market material was identified under a name used in a broad historical sense. Database records should therefore preserve the scientific name used by a cited paper and its date, rather than silently updating a study organism to a newer name.
+Older literature and products may use *Coriolus versicolor* or *Polyporus versicolor*. Preserve that reported name beside the accepted name and record how the material was authenticated. A clinical paper using a defined preparation under an historical name cannot automatically validate a modern capsule labeled only “turkey tail,” and a sequence record cannot repair missing voucher or manufacturing provenance after the fact.
 
 ## Habitat
 
@@ -132,9 +135,9 @@ This white-rot fungus breaks down lignin and cellulose in dead wood and occurs a
 
 **Known range represented here:** cosmopolitan in temperate and many subtropical regions. **Typical substrates:** dead hardwood, hardwood logs, sterilized hardwood sawdust. Persistent fruit bodies may be seen much of the year, with fresh growth favored by moist mild conditions.
 
-Habitat is part of the identification, not decorative background. Record whether wood is hardwood or conifer, alive or dead, standing or fallen, and visibly exposed or buried. Note whether fruit bodies grow singly, in shelves, or from a common base. Weather, latitude, elevation, and local tree communities can shift the fruiting window, so calendar months are orientation rather than a guarantee.
+Turkey tail is primarily a white-rot decomposer of dead hardwood. Record whether the substrate is a stump, fallen branch, slash, stored log, or worked timber; whether bark and leaves support a host identification; and whether shelves occur along one decay column or in several separated patches. Fresh growth after moist weather is more informative than a calendar label because persistent annual brackets can remain visible long after active expansion.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+Because one colonized log can carry many overlapping shelves, abundance in a photograph is not a reason to strip the substrate. With permission, take only enough connected material to show cap, tubes, context, and attachment, then leave fresh margins and woody habitat in place. A voucher should include collection code, date, coordinates held at an appropriate privacy level, host resolution, photographs, and the dried tissue actually examined.
 
 ## Growing Guide
 
@@ -149,7 +152,7 @@ Turkey tail can be grown on hardwood logs or prepared sawdust, but a wellness pr
 5. **Initiate fruiting deliberately.** Temperature, humidity, light, oxygen, and carbon dioxide interact. Follow the culture supplier rather than copying one universal number.
 6. **Harvest and cool promptly.** Use clean tools, avoid saturating fruit bodies, refrigerate culinary crops, and document yield and abnormalities.
 
-Home cultivation is not a substitute for food-safety controls. Heat treatment reduces competing organisms but does not make poor handling harmless. Never use chemically treated wood, unknown agricultural waste, or visibly contaminated substrate for food production. If a block produces an unexpected mushroom, do not eat it based on resemblance to the intended crop.
+Cultivated turkey tail should begin with an authenticated culture and a documented hardwood recipe. Record wood species, particle distribution, supplementation, dry and added-water mass, container filter, heat cycle, inoculum lot, colonization temperature, fruiting exposure, and drying endpoint. Reject unexpected pigments, odors, insects, or unplanned fruit bodies; a later hot-water extraction is not a validated correction for contaminated substrate or misidentified culture.
 
 ## Separate the species guide from the benefits evidence page
 
