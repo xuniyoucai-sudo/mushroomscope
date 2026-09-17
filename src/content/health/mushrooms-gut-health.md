@@ -128,7 +128,7 @@ Yes, cooked mushrooms can still contribute food fiber and nutrients. Cooking als
 
 ### Can mushrooms cause digestive symptoms?
 
-Yes. Some people experience gas, bloating, nausea, allergy, or intolerance. Stop eating a suspect food and seek care for severe or persistent symptoms.
+Yes. Some people experience gas, bloating, nausea, allergy, or intolerance. Stop eating a suspect food and seek care for severe or persistent symptoms. The [mushroom allergy and reaction guide](/health/mushroom-allergy-intolerance/) separates urgent allergic signs, foodborne illness, wild-mushroom exposure, and a non-emergency symptom record for a clinician.
 
 ## Separate digestive symptoms from microbiome claims
 

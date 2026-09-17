@@ -93,7 +93,7 @@ Record serving size, servings per container, ingredient amount, percent Daily Va
 
 Check sodium, sugars, caffeine, herbs, vitamins, minerals, and added compounds in blends. A product marketed primarily as a mushroom formula may derive much of its physiological effect or interaction risk from another ingredient.
 
-Verify allergen statements and the capsule material. People avoiding animal-derived gelatin, gluten, soy, or particular grains need to inspect the entire product rather than the front label.
+Verify allergen statements and the capsule material. People avoiding animal-derived gelatin, gluten, soy, or particular grains need to inspect the entire product rather than the front label. If symptoms followed a capsule, powder, or blend, preserve the exact label and lot rather than assuming the named mushroom was responsible; the [mushroom allergy and reaction guide](/health/mushroom-allergy-intolerance/) explains the exposure record and urgent warning signs.
 
 ## Ask for lot-specific identity and contaminant testing
 

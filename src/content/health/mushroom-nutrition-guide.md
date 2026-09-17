@@ -1,12 +1,12 @@
 ---
-title: "Mushroom Nutrition: Calories, Protein, Fiber, and Vitamins"
-description: "Mushrooms can contribute fiber, protein, B vitamins, minerals, and flavor, but composition varies by species, growing conditions, and preparation."
+title: "Mushroom Nutrition: Fiber, Protein, Calories, and Vitamins"
+description: "Are mushrooms a source of fiber or protein? Compare calories, fiber, protein, vitamins, food forms, serving sizes, and preparation without overstating benefits."
 keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushroom nutrition", "evidence review"]
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-09
-revisionSummary: "Added a direct fiber-versus-protein answer, practical label comparison steps, and clearer limits on interpreting a mushroom serving as a nutrient claim."
+updatedDate: 2026-09-17
+revisionSummary: "Put the fiber-versus-protein answer first, added a like-for-like serving comparison workflow, and aligned the guide with real nutrition queries without turning composition into a health claim."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "health/mushroom-supplements-guide", "health/mushrooms-gut-health"]
@@ -43,7 +43,9 @@ medicalDisclaimer: "Educational information only. This page does not diagnose, t
 
 ## Key takeaways
 
-**August 2026 editorial note:** For readers comparing mushrooms with health claims, start with ordinary food use first. Pair this nutrition overview with [cooked vs. raw mushrooms](/health/cooked-vs-raw-mushrooms/), [mushrooms and gut health](/health/mushrooms-gut-health/), and [mushrooms and heart health](/health/mushrooms-heart-health/) before treating any single nutrient as a medical claim.
+**Direct answer:** Mushrooms contain both dietary fiber and protein, but an ordinary fresh serving is not usually interchangeable with a high-fiber staple or a concentrated protein food. Fresh mushrooms contain substantial water, so the useful comparison is the product's stated serving against the same form—raw with raw, cooked with cooked, or dried with dried. Check the label or a matching USDA FoodData Central entry rather than assigning one number to every mushroom.
+
+For readers comparing mushrooms with health claims, start with ordinary food use first. Pair this nutrition overview with [cooked vs. raw mushrooms](/health/cooked-vs-raw-mushrooms/), [mushrooms and gut health](/health/mushrooms-gut-health/), and [mushrooms and heart health](/health/mushrooms-heart-health/) before treating any single nutrient as a medical claim.
 
 
 Mushrooms can contribute fiber, protein, B vitamins, minerals, and flavor, but composition varies by species, growing conditions, and preparation. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on food composition and realistic dietary context.
@@ -83,6 +85,12 @@ This distinction also prevents a category error in product marketing. A capsule,
 Use the Nutrition Facts or Supplement Facts panel for the item in hand, including its stated serving size, and use a FoodData Central entry only as broader context for a comparable food and preparation state. Compare total dietary fiber on like-for-like portions, then consider the meal around it. A food can contribute fiber without making a disease-prevention or treatment claim true. This distinction is especially important where a product label shifts from a nutrient statement to promises about digestion, blood sugar, weight, or immunity.
 
 For ordinary meals, adding an identified culinary mushroom can be one way to vary texture and ingredients alongside other fiber-containing foods. For a powder or extract, the relevant questions change: what exactly is the material, how much is served, what else is in the product, and what evidence applies to that exact preparation? The [mushroom supplements guide](/health/mushroom-supplements-guide/) explains why those products should not be treated as interchangeable with a grocery-store mushroom.
+
+### A five-column comparison that prevents misleading numbers
+
+When two sources appear to disagree, place their values in a table with five columns: exact food name, raw/cooked/dried form, stated serving weight, nutrient amount in that serving, and data source or label date. Convert values only after confirming that units and preparation states match. A 100-gram database row is useful for standardized comparison, while the package serving is usually more useful for planning a meal; neither should be silently substituted for the other.
+
+Keep calories, protein, total dietary fiber, sodium, and added ingredients visible together. This avoids declaring a product “higher in fiber” merely because it has been dried, or “higher in protein” because its serving is much larger. For a mixed soup, snack, burger, or powder, separate the mushroom contribution from grains, legumes, isolated fibers, oils, and seasoning whenever the label provides enough information. If it does not, report the uncertainty rather than reverse-engineering a precise mushroom value.
 
 ## Preparation changes the practical comparison
 

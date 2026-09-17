@@ -1,12 +1,12 @@
 ---
-title: "Mushroom Allergy, Other Reactions, and When to Seek Care"
-description: "Understand why symptoms after mushrooms need medical assessment: food allergy, foodborne illness, toxic exposure, and workplace sensitization differ."
+title: "Mushroom Allergy Symptoms, Other Reactions, and Urgent Care"
+description: "Symptoms after mushrooms may reflect allergy, foodborne illness, toxic exposure, or workplace sensitization. Learn emergency signs and what details to record."
 keywords: ["mushroom allergy symptoms", "mushroom intolerance", "mushroom allergic reaction", "mushroom worker respiratory allergy"]
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-10
-revisionSummary: "Added an exposure-first triage record, clarified the difference between a food reaction and a wild-mushroom poisoning response, and strengthened product traceability limits."
+updatedDate: 2026-09-17
+revisionSummary: "Aligned the guide with real allergy queries, added an immediate symptom-and-exposure triage framework, and preserved the boundary between allergy assessment and wild-mushroom poisoning response."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/fruiting-body-vs-mycelium", "identification/mushroom-identification-safety-checklist"]
@@ -43,6 +43,8 @@ medicalDisclaimer: "Educational information only. This page does not diagnose al
 
 ## Start with the safety decision, not the label
 
+**Direct answer:** Hives, swelling, wheeze, vomiting, dizziness, or fainting can occur in a food-allergic reaction, but symptoms alone cannot prove that mushrooms were the trigger. Trouble breathing, throat or tongue swelling, fainting, loss of consciousness, or rapidly worsening symptoms require emergency help. Illness after an unidentified wild mushroom requires prompt poison-control or emergency guidance even when the first symptoms seem gastrointestinal rather than allergic.
+
 Symptoms after eating, touching, or working around mushrooms deserve a careful response, but they do not identify their own cause. A true food allergy, another food hypersensitivity, foodborne illness, toxic exposure from an unknown wild mushroom, and a work-related airborne exposure can overlap in everyday language while requiring very different assessment.
 
 Do not use this page to test a suspected allergy by eating the food again. If there is trouble breathing, throat or tongue swelling, fainting, loss of consciousness, or rapidly worsening symptoms, seek emergency help. The FDA lists these among possible serious food-allergic-reaction symptoms and advises people with a known allergy to stop eating the food, use prescribed emergency medication as appropriate, and seek medical attention.
@@ -54,6 +56,12 @@ Food allergy is an immune response to a food protein. The FDA notes that reactio
 By contrast, nausea, vomiting, diarrhea, fever, or abdominal symptoms can also occur with foodborne illness. The FDA’s foodborne-illness guidance explains that onset and symptoms vary by organism and exposure; a single symptom pattern does not tell you which cause applies. If more than one person became ill after the same meal, save the product details and tell a clinician or local health authority—do not assume the shared food was an allergen.
 
 Unknown wild mushrooms are a separate urgent problem. Toxic mushroom exposure is not made safe by an internet identification, a recipe, or a symptom comparison. If an unknown or wild mushroom may have been eaten, contact local emergency or poison-control services promptly and preserve relevant details only if doing so is safe.
+
+### Match the response to the exposure, not one symptom
+
+The first useful split is the exposure record. For a packaged cultivated food, retain the package, lot code, complete ingredient list, amount, preparation, time eaten, and other foods in the meal. For a restaurant dish, record sauces, stocks, garnishes, shared equipment, alcohol, exercise, and medicines as well as the mushroom description. A reaction attributed to “mushrooms” may instead involve another ingredient, cross-contact, spoilage, or a mixed product, and the record should allow those possibilities to remain open.
+
+For a wild or unidentified mushroom, do not wait for a symptom pattern to resemble an online poisoning chart. Contact the appropriate local service and retain uncooked material, meal remnants, photographs, location, time, estimated amount, and everyone exposed when this can be done safely. For workplace inhalation or skin exposure, record the task, dust or spore conditions, ventilation, protective equipment, cleaning chemicals, onset during the shift, and improvement away from work. These three records lead to different professional assessments and should not be merged into one home diagnosis.
 
 ## What the mushroom-specific evidence does—and does not—show
 
