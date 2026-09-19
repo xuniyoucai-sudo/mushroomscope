@@ -6,6 +6,7 @@ keywords: ["common inky cap", "Coprinopsis atramentaria", "inky cap alcohol inte
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-08
+updatedDate: 2026-09-19
 coverImage: "../../assets/species/inky-cap-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of smooth gray common inky caps clustered beside a decaying hardwood stump"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -111,6 +112,14 @@ A mature cap can produce a black spore deposit. Use a cap that has darkened but 
 
 Microscopic spore size, shape, germ pore, cystidia, and cap-veil features may be needed within difficult groups. A field guide should state that limit rather than inflate a black print into certainty.
 
+## Measure one cluster as a developmental series
+
+A useful record separates change through time from variation between specimens. Mark three to five fruit bodies in one undisturbed cluster and record cap height, widest diameter, margin position, gill color, and the fraction of the rim that has liquefied. Repeat the photographs from the same angle after a fixed interval. Do not combine measurements from different clusters as though they describe one individual.
+
+This series answers practical questions that a detached mature cap cannot. It shows whether grooves were present before expansion, whether the cap opened before deliquescence, and whether every member of the troop followed the same schedule. Include one ruler frame and one wider substrate frame; close-up images without the buried-wood context lose part of the identification evidence.
+
+If the purpose is expert confirmation, retain one young, one intermediate, and one mature specimen separately labeled to the same collection number. A mixed bag of blackening caps destroys the age sequence and makes microscopic measurements harder to connect to the correct macroscopic stage.
+
 ## Buried wood explains “soil” clusters
 
 Common inky cap is a decomposer associated with stumps, roots, buried hardwood, gardens, path edges, and disturbed urban ground. A cluster beside a removed tree may follow the old root system for years.
@@ -156,6 +165,8 @@ Do not self-diagnose coprine syndrome and assume every symptom will pass. Chest 
 Shaggy mane, *Coprinus comatus*, starts as a tall white cylinder covered in shaggy upturned scales. Common inky cap starts as a smoother gray-brown bell and usually forms tighter clusters from woody substrates. Both can yield a dark deposit, so use the [mushroom spore-color guide](/identification/mushroom-spore-colors/) as one documented character rather than treating blackening tissue as a complete identification.
 
 Common-name overlap should never transfer an alcohol claim. NAMA lists shaggy mane among mushrooms with other reported alcohol-associated reactions but distinguishes the classic coprine syndrome. Conservative advice should acknowledge uncertainty rather than promise safety.
+
+The dedicated [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) follows the white scaled cylinder through its expanding and blackening stages. Use that comparison to test cap surface, young outline, growth pattern, and substrate—not to approve either collection for food.
 
 ## Mica cap comparison
 

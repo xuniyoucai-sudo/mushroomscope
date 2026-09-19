@@ -5,12 +5,14 @@ description: "Document pine bolete caps, pores, stem reticulation, pine-associat
 keywords: ["pine bolete", "Boletus pinophilus", "pine bolete identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-09-19
+draft: false
 featured: false
 coverImage: "../../assets/species/pine-bolete-mushroom-editorial-v2.png"
 coverAlt: "Two red-brown pine boletes with thick pale stems among moss and pine needles"
 imageCredit: "Original MushroomScope AI editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial habitat context; not a field photograph or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide"]
 sources:

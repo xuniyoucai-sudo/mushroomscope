@@ -6,6 +6,7 @@ keywords: ["scarlet elf cup", "Sarcoscypha", "scarlet cup fungus", "red cup fung
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-02
+updatedDate: 2026-09-19
 coverImage: "../../assets/species/scarlet-elf-cup-editorial-v2.png"
 coverAlt: "AI editorial image of scarlet red cup fungi attached to a mossy fallen hardwood branch in spring woodland"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -130,6 +131,14 @@ Record recent weather and whether cups are fresh, frost-damaged, or bleached. An
 Photograph canopy and shrub layers, slope, drainage, litter depth, moss, and the position of wood relative to soil. Note whether a branch lies across a wet hollow, stream margin, upland floor, or managed path. These details can explain moisture without claiming that one microhabitat proves a name.
 
 Avoid peeling bark or turning every branch in a productive patch. Cup fungi are small, and repeated disturbance can destroy both material and context.
+
+## Record the wood as carefully as the cup
+
+“Hardwood” is a starting category, not a complete substrate record. Photograph bark that remains, end grain, twig branching, buds or attached leaves when present, and the point where the cup emerges. Record whether the wood is suspended, soil-contacting, waterlogged, or buried; also note diameter and a simple decay class such as firm, softened, or easily fragmented. Do not name a host tree from color alone.
+
+The distinction matters because host associations reported in keys are only useful when the wood identification is credible. A branch lying beneath willow does not automatically belong to willow, and floodwater or garden maintenance can move debris. When the host cannot be resolved, retain “decaying hardwood branch” and preserve photographs that a botanist can revisit.
+
+Link every microscopic preparation to that same collection and wood record. If two red-cup patches occupy different branches, number them separately even when they are only centimeters apart. This prevents a spore measurement from one collection being attached to habitat notes from another and makes a later revision from *S. coccinea* to a close species auditable.
 
 ## Build a microscopy-ready record
 

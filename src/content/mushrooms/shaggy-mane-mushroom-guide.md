@@ -5,12 +5,14 @@ description: "Identify shaggy mane by its tall white scaled cap, free gills that
 keywords: ["shaggy mane mushroom", "Coprinus comatus", "shaggy mane identification", "shaggy ink cap"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-19
 coverImage: "../../assets/species/shaggy-mane-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of white shaggy mane mushrooms progressing from cylindrical caps to black deliquescent margins"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial illustration; not a voucher photograph or sufficient evidence for identification or edibility."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors"]
 sources:
@@ -213,7 +215,7 @@ It can suggest comparisons but cannot verify the base, spores, microscopic trait
 
 Growth pattern, soil disturbance, mixed species, and developmental stages can disappear once fruit bodies are separated.
 
-## Sources and editorial method
+## References
 
 GBIF and NCBI support name and lineage checks. NAMA supports poisoning-syndrome and alcohol-interaction boundaries. FDA supports handling of verified produce. The guide avoids a universal edibility or alcohol promise because identity, reports, and individual circumstances vary.
 

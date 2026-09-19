@@ -6,6 +6,7 @@ keywords: ["collared earthstar", "Geastrum triplex", "earthstar fungus identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-03
+updatedDate: 2026-09-19
 coverImage: "../../assets/species/collared-earthstar-editorial-v2.png"
 coverAlt: "AI editorial image of three collared earthstars with split rays and central spore sacs on woodland litter"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -142,6 +143,14 @@ Landscape mulch can move fungal material beyond an expected natural range. Separ
 Fresh rays are thicker and more flexible, while old fruit bodies become papery, cracked, dirty, and faded. An opened earthstar can persist long after the weather that triggered development. Calendar records should indicate condition.
 
 Late summer and autumn are common in many temperate datasets, but rain and temperature control local emergence. The [season guide](/identification/mushroom-season-guide/) explains how to record phenology without turning a month into proof.
+
+## Test moisture response without forcing the rays
+
+Earthstar comparisons often mention whether rays arch, remain flat, or respond to drying, but a single dry specimen cannot establish that behavior. Photograph the fruit body in place, note recent rain, and record the ray span and height above the litter. Revisit the same marked individual after a natural wetting or drying cycle. Do not soak a protected-site specimen or bend brittle rays by hand.
+
+The observation should distinguish movement from damage. A split through living layered tissue, an old fracture, and a ray that changes curvature with humidity are different records. Measure from the same camera position and include a side view; an overhead photograph can make a strongly arched earthstar look flat. If the rays do not move during one short revisit, report that observation rather than assigning a permanent hygroscopic category.
+
+This moisture record helps separate *Geastrum* structure from the strongly hygroscopic behavior associated with some false earthstars, but it is not a stand-alone name. Sac attachment, mouth construction, outer-layer texture, spores, region, and a current key still control the determination.
 
 ## Build a complete observation sequence
 
