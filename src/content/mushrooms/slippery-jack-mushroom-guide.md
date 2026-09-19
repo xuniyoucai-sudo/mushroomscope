@@ -5,8 +5,8 @@ description: "Recognize slippery jack by its viscid brown cap, yellow pores and 
 keywords: ["slippery jack", "Suillus luteus", "slippery jack identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-15
-draft: true
+publishDate: 2026-09-20
+draft: false
 featured: false
 coverImage: "../../assets/species/slippery-jack-mushroom-editorial-v2.png"
 coverAlt: "Four glossy brown slippery jack boletes growing upright beneath a pine tree"

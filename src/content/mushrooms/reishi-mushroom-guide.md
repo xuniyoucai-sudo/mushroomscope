@@ -6,7 +6,7 @@ keywords: ["Ganoderma lingzhi","reishi","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-02
+updatedDate: 2026-09-20
 revisionSummary: "Added a source-by-source lingzhi nomenclature audit, separated labels from voucher-backed identity, and tightened regional conk and tree-risk boundaries."
 draft: false
 featured: false
@@ -214,6 +214,18 @@ Before using a concentrated product, discuss it with a clinician or pharmacist w
 For a wild observation, preserve host, attachment, upper and pore surfaces, measured dimensions, sectioned context, spore deposit, geography, date, and the key or specialist used. For a cultivated batch, preserve supplier, culture label, substrate, room readings, fruiting form, harvest and drying records. For a study or product claim, add the scientific name actually reported, voucher or strain if available, fruit body versus mycelium, extraction details, dose, comparator, duration, and outcome.
 
 Those three records answer different questions. Combining them into one generic “reishi” label is the central source of confusion this guide is designed to prevent. No website image can bridge missing provenance, and no attractive conk can establish therapeutic quality.
+
+## Read the attachment before assigning a host
+
+A conk beside a trunk may arise from buried roots, a stump remnant, or wood concealed below litter rather than from the visible stem. Photograph the fruit body at site scale, trace its point of attachment without tearing it away, and record every plausible woody substrate. When the conk is on a living tree, note wounds, cavities, crown condition, lean, nearby construction, and other fruit bodies. The fungus record and the tree-risk decision are related, but neither can be inferred from the other alone.
+
+Root-zone fruiting can be especially easy to misreport. A label such as “on soil” erases the woody connection that may distinguish a root-associated *Ganoderma* observation from a truly terrestrial fungus. Add a diagram or several angles showing the nearest trunk, exposed roots, buried wood, and distance. If public safety or property is involved, a qualified arborist should assess the whole tree; the presence or absence of one photographed conk is not a structural inspection.
+
+## Separate annual growth features from decay artifacts
+
+Document the actively growing margin, lacquered upper surface, pore surface, tube layers, and context tissue in the same specimen. Fresh pale pore tissue can darken when bruised or handled, while rain, algae, insects, frost, and age can obscure the surface. Record those changes rather than treating every color as a stable identification character. A section photograph with a scale helps distinguish context from tubes and shows whether damage has removed characters needed by a regional key.
+
+Do not estimate age from size alone. Substrate resources, fruiting position, weather, insect activity, and interrupted growth all affect form. If repeated visits are possible, photograph the same bracket from fixed positions and record dates, margin expansion, pore development, and deterioration. That sequence supports an observation about development; it does not prove extract composition, potency, or clinical value.
 
 
 ## References

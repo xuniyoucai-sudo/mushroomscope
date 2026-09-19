@@ -5,7 +5,7 @@ keywords: ["Hericium erinaceus","lion's mane","mushroom identification","mushroo
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-12
+updatedDate: 2026-09-20
 draft: false
 featured: false
 coverImage: "../../assets/species/lions-mane-mushroom.jpg"
@@ -165,6 +165,18 @@ Use cultivated lion’s mane sold as food when cooking from a web recipe. A wild
 People can experience allergy or gastrointestinal intolerance even to established foods. Start with a modest portion if the food is new to you, use clean utensils, prevent cross-contamination, refrigerate promptly, and discard spoiled product. Seek urgent care for breathing difficulty, facial swelling, confusion, persistent severe vomiting, or serious symptoms after mushroom consumption. In the United States, contact Poison Control at 1-800-222-1222; elsewhere use the local poison center or emergency service. Keep a sample and packaging when it is safe to do so.
 
 Supplement exposure raises different questions from a meal, including dose, interactions, contaminants, and duration. Discuss use with a qualified clinician when pregnant, breastfeeding, preparing for surgery, managing a medical condition, or taking medicines. Do not stop prescribed treatment because of a mushroom claim.
+
+## Diagnose cultivated form with a spatial crop record
+
+When a block produces compact teeth in one position and coral-like branches in another, record the crop as a map rather than assigning one cause to the whole room. Mark shelf, block face, opening orientation, distance from humidification and fresh-air inlets, temperature, relative-humidity sensor location, and the time each photograph was taken. Also retain the strain, substrate, bag density, colonization time, initiation date, and handling history. A room average can conceal a boundary layer around the fruit body, while a single photograph cannot separate strain expression from local environment.
+
+Compare like developmental stages. Early branches may lengthen into a normal toothed mass, while prolonged branching, drying tips, yellowing, or soft tissue can represent different combinations of air exchange, evaporation, age, or handling. Change one documented variable at a time and keep an unchanged comparison group. The [pinning conditions guide](/growing/mushroom-pinning-conditions/) covers readiness and microclimate diagnosis; this species guide supplies the *Hericium* morphology that the crop record should preserve.
+
+## Grade harvest quality separately from biological identity
+
+An authenticated culture may still produce a poor-quality crop. Record mass, tooth length range, color, firmness, aroma, attached substrate, insect damage, bruising, trim loss, and time to cooling for each harvest lot. These fields help distinguish identity from market quality and make later comparisons with the [harvest timing guide](/growing/when-to-harvest-mushrooms/) reproducible. They also prevent a larger but overmature fruit body from being treated automatically as a better result.
+
+For photographs used in public identification material, include the attachment point and more than one side of the fruit body. A clean studio image can illustrate kitchen form but removes the wood relationship and growth architecture needed for a field record. Conversely, a wild photograph may document ecology without establishing food condition, legal collection, or the identity of a packaged supplement.
 
 ## Frequently asked questions
 

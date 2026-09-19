@@ -5,12 +5,12 @@ description: "Understand porcini through Boletus edulis pores, reticulate stems,
 keywords: ["porcini mushrooms", "Boletus edulis", "porcini identification", "porcini lookalikes"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
+publishDate: 2026-09-20
 coverImage: "../../assets/species/porcini-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of two brown porcini with pale pore surfaces and thick reticulate stems on a moist woodland floor"
 imageCredit: "Original AI editorial image created for MushroomScope"
 imageNote: "AI-generated woodland context; not a voucher photograph or sufficient evidence for identification or edibility."
-draft: true
+draft: false
 featured: false
 relatedEntries: ["identification/bolete-identification-guide", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification"]
 sources:

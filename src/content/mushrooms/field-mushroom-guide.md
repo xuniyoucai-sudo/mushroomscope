@@ -6,7 +6,7 @@ keywords: ["field mushroom", "Agaricus campestris", "field mushroom identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-09-09
+updatedDate: 2026-09-20
 revisionSummary: "Replaced generic identification templates with a field-specific Agaricus evidence matrix, developmental sequence, site-history protocol, and regional name limits."
 draft: false
 featured: false
@@ -178,6 +178,18 @@ A good checklist entry includes both positive and negative evidence. Positive ev
 For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
 
 Keep a dated record even when no specimen is collected. For this grassland *Agaricus*, preserve the stage sequence, free-gill view, intact base, staining times, odor location, print color, site-management history, and the regional key consulted. Repeated observations after rain and drying are more informative than repeating the same cap photograph.
+
+## Run staining and odor observations as timed tests
+
+An *Agaricus* note is more useful when it records where a reaction happened and how quickly it developed. Photograph the cap edge and stem base before handling, make a small controlled rub or cut, and record the immediate color beside a second observation several minutes later. Note whether the reaction is confined to damaged tissue, strongest at the base, or absent in the photographed area. “No yellow seen” is weaker than a timed record because lighting, age, handling, and the part tested all affect what an observer can see.
+
+Odor deserves the same discipline. Record whether it was checked at the cap, cut flesh, or stem base and whether it was present before or after bruising. Do not translate a faint or unfamiliar smell into a confident species decision. Phenolic or ink-like descriptions are warnings to investigate yellow-staining relatives, while a pleasant mushroom odor is not evidence that a specimen is edible. Keep odor and staining as separate columns so one impression cannot silently substitute for the other.
+
+## Preserve a collection series without mixing individuals
+
+A developmental series can show the pale-to-pink-to-chocolate gill progression, veil rupture, ring persistence, cap expansion, and changes in staining. Photograph several stages in place, then give every collected specimen its own identifier. Do not combine caps and stems from adjacent fruit bodies: the complete base, gills, and cap must remain linked if the record is to exclude a volva-bearing lookalike or document a staining reaction accurately.
+
+Choose one mature, intact specimen for a labeled spore deposit and retain a younger specimen for veil and gill-stage photographs. Record cap width, stem dimensions, gill attachment, ring position, base shape, and the location of any color change with a scale in frame. If a regional key requires microscopic characters, dry a representative voucher under an appropriate local protocol or work with a mycological group; a phone photograph cannot supply missing spore measurements or tissue structure.
 
 Taxonomy note: field *Agaricus* names can be applied broadly in older sources, so local keys, gill maturity, staining behavior, and base structure should all be reviewed before publication. This page has editorial review only and has not been checked by a named field mycologist or toxicologist.
 
