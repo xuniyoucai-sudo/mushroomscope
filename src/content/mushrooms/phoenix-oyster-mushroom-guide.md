@@ -6,6 +6,7 @@ keywords: ["phoenix oyster mushroom", "Pleurotus pulmonarius", "phoenix oyster m
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-31
+updatedDate: 2026-09-21
 draft: false
 featured: false
 coverImage: "../../assets/species/phoenix-oyster-mushroom-editorial-v2.png"
@@ -165,6 +166,12 @@ Summarize only parameters supported by a cited method or the culture supplier. D
 5. Compare the record with regional *Pleurotus* treatments; retain material when species-level resolution matters.
 
 ## References
+
+### Compare warm-season records without erasing geography
+
+A useful comparison keeps latitude, elevation, host, wood condition, recent temperature pattern, and collection source attached to each observation. “Summer oyster” can describe a seasonal impression, a cultivated trade name, or a tentative field identification; those are not equivalent records. A cluster from a labeled production block supports the supplied culture name only as far as the supplier's traceability does, while a wild hardwood collection still requires regional comparison and may remain at *Pleurotus* species-group level.
+
+For cultivation trials, report biological efficiency only when harvested fresh mass and initial dry substrate mass are both known. Also record discarded clusters and contaminated blocks rather than calculating yield from successful units alone. This separates a genuinely productive warm-season strain from a batch that looked impressive because its failed units disappeared from the denominator.
 
 1. Global Biodiversity Information Facility. [Pleurotus pulmonarius species record](https://www.gbif.org/species/2526548). Accepted-name and mapped occurrence context for the warm-season species concept.
 2. National Center for Biotechnology Information. [*Pleurotus pulmonarius* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pleurotus+pulmonarius). Lineage records used to check its placement within *Pleurotus*.

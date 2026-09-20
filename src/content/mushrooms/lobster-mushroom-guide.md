@@ -6,6 +6,7 @@ keywords: ["lobster mushroom", "Hypomyces lactifluorum", "lobster mushroom ident
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
+updatedDate: 2026-09-21
 draft: false
 featured: false
 coverImage: "../../assets/species/lobster-mushroom-editorial-v2.png"
@@ -157,6 +158,12 @@ Sometimes broad host features remain, but heavy transformation can erase decisiv
 They depend on compatible host mushrooms associated with trees, so woodland soil is the typical context. A market, garden mulch, or landscaped setting removes ecological evidence and requires source verification.
 
 ## References
+
+### Separate parasite coverage from host condition
+
+Record coverage as a visible proportion rather than calling every orange mushroom “fully parasitized.” Photograph the cap, underside, stem base, a clean section, and any area where the original host surface remains. Firm white interior and a continuous orange-red crust describe a different collection from a soft specimen with uncovered gills, insect tunnels, dark wet pockets, or an unidentified second mold. This record does not establish edibility, but it prevents parasite identity, host identity, and spoilage from collapsing into one decision.
+
+Market material needs traceability too. Keep the seller or harvester, harvest region, lot or purchase date, storage temperature, and condition on arrival with the record. The common name may cover regional host–parasite combinations that are not interchangeable. When the underlying host cannot be resolved, state that limit rather than inventing a host species from the transformed shape.
 
 1. Missouri Department of Conservation. [Lobster Mushroom](https://mdc.mo.gov/discover-nature/field-guide/lobster-mushroom). Regional morphology, habitat, season, and food-use context.
 2. National Park Service. [Parasitic Fungi](https://www.nps.gov/mora/learn/nature/parasitic-fungi.htm). Parasite-host biology and educational safety limitation.

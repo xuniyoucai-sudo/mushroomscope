@@ -4,8 +4,8 @@ description: "Compare agar, liquid culture, grain-to-grain, sawdust spawn, and p
 keywords: ["mushroom inoculation methods","agar liquid culture grain spawn"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-21
+draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-inoculation-methods-editorial-v2.png"
 coverAlt: "Original editorial illustration supporting mushroom inoculation methods compared without serving as identification evidence"
@@ -13,6 +13,24 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 reviewStatus: editorial
+imageNote: "Editorial workflow illustration; not proof of sterility, culture identity, or guaranteed yield."
+relatedEntries: ["growing/mushroom-grain-spawn-guide", "growing/mushroom-liquid-culture-guide", "growing/mushroom-contamination-guide", "growing/mushroom-batch-records"]
+targetSpecies: ["oyster mushrooms", "shiitake", "lion's mane"]
+difficulty: moderate
+methods: ["agar transfer", "liquid culture", "grain-to-grain transfer", "sawdust and plug spawn"]
+substrates: ["sterilized grain", "supplemented hardwood sawdust", "pasteurized straw", "hardwood logs"]
+conditions: { colonizationTemperature: "Use the named culture supplier's range and measure substrate as well as room air.", fruitingTemperature: "Move only healthy, traceable colonized material into a species-specific fruiting workflow.", humidity: "Keep receiving material at its validated moisture target without unmeasured inoculum liquid.", light: "Use adequate task light to inspect labels, seals, tools, and contamination.", freshAir: "Perform open sterile transfers in validated still-air or filtered-air conditions." }
+timeline: { colonization: "Record source, receiving lot, inoculation date, recovery, mixing events, holds, and rejection.", fruiting: "Link each crop back to its inoculum lot so yield and contamination remain traceable.", total: "Compare methods only with matched culture, substrate, treatment, inoculum amount, and observation schedule." }
+equipment: ["labeled cultures", "sterile receiving vessels", "validated clean-air workspace", "sterile cooled tools", "batch record"]
+contaminationRisks: [{ name: "Untested liquid culture spreads contamination", prevention: "Plate a sample on agar and quarantine the lot until the result is interpretable." }, { name: "Repeated grain expansion amplifies defects", prevention: "Set an expansion limit and retain every parent-lot relationship." }]
+steps: [{ title: "Define the receiver", instruction: "Record substrate, treatment, moisture, container, and lot." }, { title: "Verify inoculum", instruction: "Confirm source, identity label, lineage, test status, and storage history." }, { title: "Prepare transfer", instruction: "Arrange sterile tools and labels before opening vessels." }, { title: "Apply a measured amount", instruction: "Record wedge count, liquid volume, spawn mass, or plug pattern." }, { title: "Observe and release", instruction: "Track recovery and contamination against a prewritten acceptance rule." }]
+sources:
+  - title: "Cornell Small Farms mushroom cultivation resources"
+    url: "https://smallfarms.cornell.edu/projects/mushrooms/"
+  - title: "Penn State spawning to casing in commercial mushroom production"
+    url: "https://extension.psu.edu/spawning-to-casing-in-commercial-mushroom-production"
+  - title: "CDC steam sterilization guidance"
+    url: "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/steam-sterilization.html"
 faq:
   - question: "Choose the method by the receiving substrate?"
     answer: "Inoculation moves living mycelium into a prepared substrate. The best method is not the fastest in isolation; it is the method that matches the receiving material, equipment, scale, and ability to detect contamination."
@@ -25,8 +43,6 @@ faq:
   - question: "Plug spawn fits outdoor wood?"
     answer: "Separate substrate preparation from inoculation. Sterilized nutrient-rich grain requires stricter aseptic handling than pasteurized low-nutrient bulk material."
 ---
-
-# Mushroom Inoculation Methods Compared
 
 > **Safety scope:** This editorial guide explains evidence and documentation. It cannot confirm that a wild mushroom is edible, and it has no named expert or clinical reviewer.
 
@@ -112,7 +128,7 @@ Grain-to-grain transfer creates many colonized points and rapidly expands a clea
 
 Separate substrate preparation from inoculation. Sterilized nutrient-rich grain requires stricter aseptic handling than pasteurized low-nutrient bulk material.
 
-## Sources and further reading
+## References
 
 - [Authoritative source 1](https://smallfarms.cornell.edu/projects/mushrooms/)
 - [Authoritative source 2](https://extension.psu.edu/spawning-to-casing-in-commercial-mushroom-production)

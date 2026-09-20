@@ -5,7 +5,7 @@ keywords: ["mushroom odor identification", "mushroom smell field notes", "mushro
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-08
-updatedDate: 2026-08-24
+updatedDate: 2026-09-21
 draft: false
 featured: false
 relatedEntries: ["identification/mushroom-photo-checklist", "identification/mushroom-stem-features", "identification/how-to-make-spore-print"]
@@ -134,6 +134,12 @@ The safe response is different from field identification. Do not wait to determi
 For ordinary observation, return the specimen to the field or dispose of it safely after documentation. Keep children and pets from unknown mushrooms. A record that says “identity unresolved” is a successful field note when decisive evidence is missing.
 
 ## References
+
+### Treat odor as a timed observation, not a label
+
+Odor records become more comparable when the observer notes where the sample was smelled, whether tissue was intact or freshly cut, the elapsed time after cutting, ambient temperature, and whether the specimen was wet, chilled, old, or stored in plastic. Smell the intact cap and stem first, then expose a small fresh surface outdoors or in a well-ventilated place. Do not inhale deeply, place tissue in the nose, taste an unknown mushroom, or deliberately smell a decomposed specimen. Write the first neutral description before reading a field-guide phrase; expectations can turn a faint general odor into an imagined “almond” or “anise” match.
+
+Use shared reference materials only as calibration aids. A fresh anise seed, phenolic product label, flour, cucumber peel, or radish can help two observers explain what they mean, but a household comparison does not prove the mushroom produces the same compound. If observers disagree, preserve both descriptions and prioritize the structural, ecological, spore, microscopic, or molecular characters that actually separate the candidate taxa.
 
 1. [Iowa State University Extension — Tips for Collecting and Identifying Mushrooms](https://yardandgarden.extension.iastate.edu/how-to/tips-collecting-and-identifying-mushrooms)
 2. [University of Florida IFAS Extension — Stinkhorn Mushrooms](https://ask.ifas.ufl.edu/publication/PP345)

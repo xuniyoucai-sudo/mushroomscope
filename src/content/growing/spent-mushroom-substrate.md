@@ -4,8 +4,8 @@ description: "Assess spent mushroom substrate for compost, mulch, soil trials, s
 keywords: ["spent mushroom substrate reuse","spent mushroom blocks compost","mushroom substrate disposal"]
 category: growing
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-30
-draft: true
+publishDate: 2026-09-21
+draft: false
 featured: false
 coverImage: "../../assets/growing/spent-mushroom-substrate-editorial-v2.png"
 coverAlt: "Original editorial image for spent mushroom substrate: reuse, compost, and safe disposal"
@@ -13,6 +13,16 @@ imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial illustration; not proof of identity, safety, efficacy, or a guaranteed cultivation result."
+relatedEntries: ["growing/mushroom-flush-management", "growing/mushroom-contamination-guide", "growing/mushroom-substrate-guide", "growing/mushroom-batch-records"]
+targetSpecies: ["oyster mushrooms", "shiitake", "lion's mane"]
+difficulty: easy
+methods: ["lot segregation", "second-flush assessment", "managed composting", "small soil trial"]
+substrates: ["spent straw blocks", "spent hardwood sawdust blocks", "post-crop compost"]
+conditions: { colonizationTemperature: "Not applicable after crop completion; isolate any lot that heats or shows suspect growth.", fruitingTemperature: "Use only a clean traceable block for a planned later flush under the culture supplier's method.", humidity: "Prevent leachate, standing water, anaerobic storage, and uncontrolled dust.", light: "Inspect each lot in adequate light before assigning a destination.", freshAir: "Ventilate staging and keep spores and dust away from clean production." }
+timeline: { colonization: "Preserve the original substrate and contamination history with the lot.", fruiting: "Record flush count, harvest mass, last crop date, and reason production ended.", total: "Record storage, destination, packaging removal, observations, and final disposition." }
+equipment: ["closed labeled containers", "dedicated waste tools", "scale", "appropriate protective equipment", "destination log"]
+contaminationRisks: [{ name: "Suspect blocks are opened in production", prevention: "Seal and remove them without opening, following local waste rules." }, { name: "Plastic enters organic reuse", prevention: "Remove bags, filters, ties, clips, and labels first." }]
+steps: [{ title: "Identify the lot", instruction: "Link material to ingredients, species, flushes, dates, and contamination history." }, { title: "Separate suspect material", instruction: "Isolate foul, moldy, infested, or untraceable blocks." }, { title: "Choose a destination", instruction: "Assign later flush, compost, limited soil trial, or disposal." }, { title: "Remove packaging", instruction: "Separate all plastic and labels before organic reuse." }, { title: "Document outcome", instruction: "Record quantity, destination, observations, and final disposition." }]
 sources:
   - title: "Penn State post-crop substrate guidance"
     url: "https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting"
@@ -33,11 +43,11 @@ faq:
     answer: "Do not use it as feed without qualified, species-specific guidance and compliance with local rules."
 ---
 
-# Spent Mushroom Substrate: Reuse, Compost, and Safe Disposal
-
 ## Spent does not mean sterile or uniform
 
 Spent mushroom substrate is the material remaining after one or more crops, but its composition depends on the original straw, sawdust, compost, manure, supplements, casing, species, treatment, and number of flushes. It still contains organic matter, water, nutrients, mycelium, salts, and microorganisms. That variability prevents one universal instruction to put every block directly into a garden.
+
+Keep the original substrate recipe and treatment record with the outgoing lot; the [substrate guide](/growing/mushroom-substrate-guide/) explains why straw, supplemented sawdust, and compost cannot be treated as interchangeable materials. Link the final destination to the same lot in a [batch record](/growing/mushroom-batch-records/) so a plant response, odor complaint, pest problem, or disposal question can be traced back to its source.
 
 ### Decision point 1: apply spent does not mean sterile or uniform
 
@@ -129,7 +139,7 @@ Yes, remove bags, filters, ties, and labels before an approved organic reuse.
 
 Do not use it as feed without qualified, species-specific guidance and compliance with local rules.
 
-## Sources and further reading
+## References
 
 1. [Penn State post-crop substrate guidance](https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting)
 2. [EPA composting analysis](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=10001375.TXT)
