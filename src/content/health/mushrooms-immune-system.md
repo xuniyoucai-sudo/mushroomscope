@@ -6,14 +6,14 @@ keywords: ["mushrooms immune system", "mushroom beta glucans", "immune support m
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the immune-system article to 1500+ words with clearer evidence grading, product-comparison guidance, food context, and stronger medical safety boundaries."
+updatedDate: 2026-09-22
+revisionSummary: "Separated immune markers from patient outcomes and added a claim-to-evidence audit for named products."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-beta-glucans", "health/mushroom-supplements-guide", "health/turkey-tail-benefits-evidence"]
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-15
+reviewDate: 2026-09-22
 coverImage: "../../assets/health/mushrooms-immune-system-editorial-v2.jpg"
 coverAlt: "Fresh shiitake and oyster mushrooms beside research notes and a magnifying glass on a naturally lit table"
 imageCredit: "Original MushroomScope editorial illustration"
@@ -147,6 +147,24 @@ When reading a new study, write the exact immune marker or clinical endpoint, pr
 ## Report null findings and adverse events
 
 A balanced summary includes outcomes that did not change, withdrawals, side effects, and uncertainty intervals—not only the statistically positive result. If a trial measured many immune markers, an isolated change may be a chance finding. Transparent negative evidence helps prevent “immune support” language from outrunning clinically meaningful data.
+
+## Separate immune markers from outcomes people feel
+
+An immune study can measure cytokines, circulating cell counts, antibody titers, symptom days, laboratory-confirmed infection, hospitalization, quality of life, treatment toxicity, or survival. These endpoints sit at different distances from a patient benefit. A statistically detectable cytokine change does not establish fewer infections, and fewer self-reported symptom days does not establish prevention of a laboratory-confirmed illness.
+
+Before repeating an “immune support” claim, name the endpoint and absolute result. Record how many participants experienced the event in each group, not only a relative percentage. Check whether the endpoint was prespecified, whether many markers were tested, and whether missing participants differed between groups. A result becomes less portable when the trial is small, short, unblinded, or centered on a proprietary preparation that the retail product does not match.
+
+### Cancer-support research is not general wellness evidence
+
+Some mushroom-derived preparations have been studied as adjuncts in particular cancer settings and countries. Those studies involve defined products, treatment regimens, populations, and eras of care. They do not show that a grocery mushroom or an unrelated supplement prevents cancer, replaces oncology treatment, or is safe with every therapy. The [turkey tail evidence review](/health/turkey-tail-benefits-evidence/) keeps preparation, treatment setting, and outcome linked.
+
+People receiving chemotherapy, immunotherapy, transplantation care, or immunosuppressive treatment should not infer that “stimulating” immunity is desirable. Product ingredients, organ function, interactions, and treatment goals require review by the treating team. MushroomScope has no named clinical expert reviewer; this page remains an editorial evidence summary.
+
+## Audit a product claim in five lines
+
+Write down: the exact product material; the human population; the dose and duration; the comparator; and the patient-relevant outcome. Next add adverse events, withdrawals, funding, registration, and whether an independent group replicated the result. If the seller changes fruiting body to mycelium, alters extraction, or uses a blend, the evidence match must be reassessed rather than inherited from the species name.
+
+For ordinary meals, no such audit is needed to enjoy identified culinary mushrooms as food. The audit becomes important when the message shifts to infection prevention, disease treatment, immune modulation, or concentrated supplements. Keep food advice modest and keep medical claims tied to the precise tested exposure.
 
 ## References
 

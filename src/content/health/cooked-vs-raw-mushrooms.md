@@ -5,14 +5,14 @@ keywords: ["cooked vs. raw mushrooms: nutrition and safety", "mushroom nutrition
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
-revisionSummary: "Expanded species-specific raw and cooked comparisons, nutrient interpretation, produce handling, preparation methods, and intolerance guidance."
+updatedDate: 2026-09-22
+revisionSummary: "Added yield-factor nutrition comparisons, method-specific cooking mechanisms, and a symptom-record boundary."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/mushrooms-vitamin-d", "recipes/sauteed-mushrooms-recipe"]
 evidenceLevel: moderate
 reviewStatus: editorial
-reviewDate: 2026-08-24
+reviewDate: 2026-09-22
 coverImage: "../../assets/health/cooked-vs-raw-mushrooms.jpg"
 coverAlt: "Cultivated mushrooms presented raw and cooked for a food preparation comparison"
 imageCredit: "Original MushroomScope editorial illustration"
@@ -125,6 +125,24 @@ Explore related [health evidence guides](/health/) and species context in the [m
 ## Use preparation advice without turning it into treatment
 
 Choosing cooked mushrooms may improve texture or individual tolerance, but it is not a treatment for allergy, digestive disease, or nutrient deficiency. People with recurrent reactions should preserve the species, portion, preparation, and ingredient record for a clinician. Do not conduct a raw-versus-cooked challenge when allergy or poisoning is possible.
+
+## Use a yield factor to avoid false nutrient gains
+
+Weigh a raw batch before cooking and the edible cooked portion afterward. If 300 g raw becomes 180 g cooked, the yield factor is 0.60. A 100 g cooked portion then represents about 167 g of the starting raw mushrooms before accounting for material left in the pan or cooking liquid. Comparing database values per 100 g without this conversion can make water loss look like nutrient creation.
+
+Retention is a separate question. Minerals generally do not evaporate, but they may remain in discarded liquid. Heat-sensitive or water-soluble compounds can change with time, temperature, oxygen, and whether the cooking liquid is eaten. Added oil and salt belong in the finished-dish calculation. For household decisions, weigh ingredients and use a consistent database entry rather than claiming laboratory precision.
+
+### Cooking methods change different variables
+
+Sautéing combines surface heat, evaporation, and added fat; crowding lowers surface temperature and prolongs steaming. Roasting exposes more surface to dry heat, while simmering moves soluble material into broth that may still be consumed. Microwaving uses water already in the food but depends on portion geometry and stirring. Grilling adds intense local heat and can char a marinade before a thick cap becomes evenly tender.
+
+No single method maximizes every compound. Choose a method for the identified species, supplier instructions, safe handling, desired texture, and the whole recipe. UV-exposed vitamin D2 is determined substantially by the starting product and storage, so a cooked-versus-raw comparison should not merge UV-treated and untreated packages.
+
+## Keep a symptom record without performing a challenge
+
+When non-urgent digestive symptoms recur, record the scientific or commercial species, product source, raw weight, cooked weight, method, other ingredients, portion, time eaten, onset, duration, and medicines. Garlic, onion, cream, alcohol, and a large fat load can confound a meal-level observation. Bring the record to an appropriate clinician; it is not a diagnosis.
+
+Do not deliberately repeat exposure after hives, swelling, breathing difficulty, faintness, or a suspected wild-mushroom reaction. Cooking does not reliably remove allergens and cannot detoxify an unknown species. For severe allergic symptoms use emergency services; for a possible poisonous mushroom contact the local poison service or medical facility promptly and retain remaining material when safe.
 
 ## References
 

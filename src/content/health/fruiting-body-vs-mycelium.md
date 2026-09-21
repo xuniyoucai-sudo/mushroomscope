@@ -5,13 +5,14 @@ keywords: ["fruiting body vs. mycelium: understanding mushroom products", "mushr
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-22
+revisionSummary: "Added a product-material chain, starch and beta-glucan interpretation limits, and a lot-specific evidence worksheet."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/mushroom-beta-glucans", "health/lion-s-mane-benefits-evidence"]
 evidenceLevel: moderate
 reviewStatus: editorial
-reviewDate: 2026-08-24
+reviewDate: 2026-09-22
 coverImage: "../../assets/health/fruiting-body-vs-mycelium.jpg"
 coverAlt: "Mushroom fruiting bodies beside a jar of cultivated mycelium"
 imageCredit: "Original MushroomScope editorial illustration"
@@ -119,6 +120,24 @@ Do not replace prescribed care or delay diagnosis while trying a mushroom produc
 The [supplement buying guide](/health/mushroom-supplements-guide/) provides a broader comparison process, while the [lion's mane evidence review](/health/lion-s-mane-benefits-evidence/) demonstrates why a species name alone does not make products equivalent.
 
 Explore related [health evidence guides](/health/) and species context in the [mushroom encyclopedia](/mushrooms/).
+
+## Trace the material before comparing claims
+
+A useful comparison begins before extraction. Write the production chain as separate fields: authenticated species or strain, growth medium, harvest point, separated or unseparated biomass, drying conditions, extraction solvent, concentration step, carrier, finished serving mass, and lot test. “Fruiting body” fills only one field in that chain. “Mycelium” fills another, and neither term identifies everything that reaches the capsule.
+
+Liquid-culture mycelium can be recovered with relatively little solid growth medium, while solid-state mycelium may be harvested with grain or another substrate. Those are materially different products even when both use the same species name. Fruiting bodies can likewise be sold as whole powder, hot-water extract, alcohol extract, or an extract dried onto a carrier. Compare like with like before comparing a beta-glucan percentage or price per gram.
+
+### Interpret starch and glucan tests conservatively
+
+High alpha-glucan or starch can be consistent with residual grain or an added carrier, but a single number does not identify its source. Low starch does not authenticate species, and high beta-glucan does not establish a clinical effect. Ask for the method, reporting basis, laboratory, lot, and uncertainty. Values reported by dry weight cannot be compared directly with milligrams per serving until serving mass and moisture basis are known.
+
+Some fungal beta-glucans differ in branching, solubility, molecular size, and extraction. A total beta-glucan result therefore does not prove equivalence to the named preparation in a trial. Use the [supplement-label framework](/health/mushroom-supplements-guide/) to keep identity, composition, contamination, and efficacy as separate questions.
+
+## Build a lot-specific evidence worksheet
+
+Place the retail label in one column and the study material in another. Compare scientific name, strain, fruiting body or mycelium, substrate, extraction, marker compounds, daily amount, duration, population, endpoint, and adverse events. Mark a field “not reported” rather than assuming a match. A missing extraction or substrate field is a real evidence gap, not a detail that marketing language can repair.
+
+Then record the current lot number and certificate date. A generic certificate or a paper about the species does not show that the bottle contains the same preparation. This worksheet does not decide whether a supplement is appropriate for a person; it shows how much of the claimed evidence actually travels with the product. Medication, pregnancy, surgery, allergy, and disease questions still belong with a qualified clinician or pharmacist.
 
 ## References
 
