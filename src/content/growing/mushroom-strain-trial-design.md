@@ -87,7 +87,7 @@ Environmental readings need time and location. The [fruiting conditions guide](/
 
 Gross fresh mass, saleable mass, days to harvest, room occupancy, contamination, aborts, labor, and quality answer different questions. Use the same trimming, weighing, and flush window for both strains, following the maturity boundaries in the [harvest timing guide](/growing/when-to-harvest-mushrooms/).
 
-A culture may produce more total mass but require an extra flush and additional room days. Another may yield less but produce a consistent grade preferred by customers. Keep the dimensions separate until the decision stage rather than combining them into an undocumented “performance score.”
+A culture may produce more total mass but require an extra flush and additional room days. Another may yield less but produce a consistent grade preferred by customers. Keep the dimensions separate until the decision stage rather than combining them into an undocumented “performance score.” Use the [yield and biological-efficiency protocol](/growing/mushroom-yield-biological-efficiency/) to keep dry-mass denominators, harvest boundaries, and room-day comparisons consistent.
 
 ## Predefine exclusions and keep every failure visible
 

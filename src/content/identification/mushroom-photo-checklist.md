@@ -89,7 +89,7 @@ Use raking side light to reveal scales, fibrils, wrinkles, pits, viscid layers, 
 
 ## Document bruising and cut surfaces with timed images
 
-When a regional key calls for bruising or staining, photograph the untouched feature first. Make a small controlled scratch or cut with a clean tool, note the exact location, and take timed images immediately and after defined intervals. Keep lighting consistent. “Turned blue” without a time, starting color, and tissue location is incomplete.
+When a regional key calls for bruising or staining, photograph the untouched feature first. Make a small controlled scratch or cut with a clean tool, note the exact location, and take timed images immediately and after defined intervals. Keep lighting consistent. “Turned blue” without a time, starting color, and tissue location is incomplete; the [mushroom bruising guide](/identification/mushroom-bruising-reactions/) provides a repeatable field record and group-specific limits.
 
 Cut one representative specimen lengthwise through cap, stem, and base when collection is allowed. Photograph internal chambers, flesh thickness, larval damage, color zones, latex, and any change after exposure. Do not taste an unidentified mushroom. Avoid placing the face close to a specimen to smell it; waft cautiously only when an expert key requires odor and stop if irritation occurs.
 

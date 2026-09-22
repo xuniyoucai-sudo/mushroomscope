@@ -6,6 +6,7 @@ keywords: ["snow fungus", "Tremella fuciformis", "silver ear mushroom", "white f
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-04
+updatedDate: 2026-09-23
 coverImage: "../../assets/species/snow-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two white translucent snow fungus rosettes fruiting from hardwood-sawdust cultivation bags"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -147,7 +148,7 @@ Harvest criteria should include rosette expansion, lobe thickness, color, firmne
 
 Fresh snow fungus contains substantial water. Report fresh harvest mass alongside starting dry substrate mass and moisture method. Compare batches only when trimming rules and harvest stage match. Dry product yield requires a documented drying endpoint and final water activity or moisture target appropriate to the process.
 
-A high wet weight can reflect water rather than greater dry matter. The site’s yield-and-biological-efficiency draft will eventually cover the calculation workflow, but it must remain unpublished until its own review is complete.
+A high wet weight can reflect water rather than greater dry matter. Use the published [yield and biological-efficiency workflow](/growing/mushroom-yield-biological-efficiency/) to define dry inputs, trim, saleable grade, flush window, and companion-culture convention before comparing batches.
 
 ## Dry and package with traceability
 
@@ -160,6 +161,16 @@ Record dryer load, temperature profile, time, final mass, packaging lot, seal ch
 Follow package instructions where available. Use potable cool water in a clean container, allow enough time for the center to soften, then inspect every fold. Discard the soaking water, trim hard substrate remnants, rinse as needed, and cook promptly.
 
 Do not hold rehydrated fungus at room temperature for extended periods. Refrigerate if preparation is delayed. FDA produce guidance supports clean water, hands, tools, and refrigeration, but a manufacturer may set more specific instructions.
+
+## Audit a dried retail product before comparing expansion
+
+Expansion ratios are meaningful only when the starting and ending conditions are fixed. Record package identity, lot, country of origin, scientific name as sold, initial dry mass, water volume and temperature, soak duration, drained interval, and final mass. A sample weighed while water is still trapped between folds will appear to “outperform” one drained longer.
+
+Photograph the complete dry sample before soaking. Broken fragments and dense hard centers change apparent volume even when mass is identical. After hydration, separate retained hard substrate, damaged pieces, and foreign material rather than silently including them in edible yield. Report both rehydrated mass and the mass accepted for the recipe.
+
+Color alone does not authenticate a product. Sulfur-like odor, unexpected bleaching, moisture inside the package, insects, mold, or a broken seal warrants rejection or supplier follow-up, not a home experiment to make the material usable. Keep the label and lot if a regulator, retailer, or manufacturer needs a traceable complaint.
+
+For brand comparisons, test more than one package or lot and follow the same water, vessel, temperature, timing, agitation, drain, and scale procedure. Expansion can describe kitchen handling; it does not establish purity, nutrient density, polysaccharide concentration, medicinal potency, or species identity.
 
 ## Use texture intentionally in cooking
 

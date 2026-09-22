@@ -87,7 +87,7 @@ The [fruiting conditions guide](/growing/mushroom-fruiting-conditions/) explains
 
 Record harvest date and time, batch, flush, gross weight, trim, grade, discard, storage location, and the destination of saleable product. Decide whether multiple picks become one harvest lot or separate lots, and use that definition consistently. If product from several cultivation batches is combined, the outgoing lot must retain links to every contributing batch.
 
-Disposition closes the record. Units may be harvested, held, sampled, composted, returned, or discarded. “Gone” is not a status. Document the quantity and reason, especially for suspect material. Never reclassify questionable mushrooms as saleable merely to make yield numbers align with a target.
+Disposition closes the record. Units may be harvested, held, sampled, composted, returned, or discarded. “Gone” is not a status. Document the quantity and reason, especially for suspect material. Never reclassify questionable mushrooms as saleable merely to make yield numbers align with a target. For harvest fields, the [biological-efficiency calculation guide](/growing/mushroom-yield-biological-efficiency/) separates dry substrate, gross harvest, trim, rejects, and saleable mass.
 
 ## Design fields that prevent unit and time ambiguity
 

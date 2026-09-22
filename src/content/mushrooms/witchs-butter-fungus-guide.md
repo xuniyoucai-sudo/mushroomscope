@@ -6,6 +6,7 @@ keywords: ["witch's butter fungus", "Tremella mesenterica", "yellow jelly fungus
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-05
+updatedDate: 2026-09-23
 coverImage: "../../assets/species/witchs-butter-editorial-v2.png"
 coverAlt: "AI editorial image of translucent yellow witch's butter jelly fungus growing from a rain-darkened hardwood branch"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -100,6 +101,16 @@ Look closely for a thin crust fungus on or beneath nearby bark. A *Peniophora* h
 The parasitic interaction distinguishes the ecology from an ordinary saprotrophic jelly. Where permitted, a careful sample can include the jelly, its exact bark attachment, and adjacent crust tissue. Photograph layers before separating anything.
 
 Naming the crust fungus may require its own microscopy. Do not label any nearby paint-like patch *Peniophora* solely because witch’s butter is expected to parasitize that genus.
+
+## Map the interaction across the branch
+
+A close photograph of yellow lobes loses the spatial evidence that makes this fungus ecologically distinctive. Build a branch map before sampling: mark the jelly clusters, visible crust margins, bark cracks, exposed wood, branch ends, and areas without fruit bodies. Photograph the entire branch, then overlapping close frames that preserve those relationships.
+
+The map supports three different claims that should not be collapsed. Direct emergence through bark describes where the jelly fruit body appears. A neighboring crust suggests a candidate host but does not establish its identity. Microscopic or culture evidence can support an interaction only when the samples remain traceable to their exact positions. Merely finding *Peniophora* somewhere on the same fallen limb is not proof that the photographed jelly parasitized that colony.
+
+When a qualified project samples the interaction, assign separate identifiers to jelly tissue, adjacent crust, bark interface, and controls. Photograph each removal point and record distance between samples. Mixed DNA from an interface can contain the jelly fungus, its host, endophytes, yeasts, and environmental contaminants; a sequence list is not automatically a map of biological roles.
+
+Repeated non-destructive visits add evidence unavailable from one collection. The same framed view after rain and after drying can show whether particular lobes re-expand and whether the visible crust boundary changes. It cannot, by itself, prove growth rate or parasitism, but it prevents hydration-driven volume from being reported as new biomass.
 
 ## Track the dry state
 

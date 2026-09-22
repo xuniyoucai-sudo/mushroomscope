@@ -6,6 +6,7 @@ keywords: ["hedgehog mushroom", "Hydnum repandum", "hedgehog mushroom identifica
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-06
+updatedDate: 2026-09-23
 coverImage: "../../assets/species/hedgehog-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale buff hedgehog mushrooms with soft downward teeth in mossy woodland"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -130,6 +131,16 @@ An off-season observation is not automatically wrong, but it deserves stronger d
 Modern work has split traditional hedgehog concepts into multiple species. Some differ in average cap size, hue, tooth length, bruising, spore measurements, host, and distribution, but field overlap can be substantial. A photograph may support *Hydnum* without resolving *H. repandum*.
 
 Do not conceal that gap by calling every small specimen a juvenile or every reddish one weathered. Preserve measurements and habitat notes so microscopy or DNA can be added later. Species-level uncertainty is compatible with a useful genus-level record.
+
+## Measure a collection, not a single photogenic cap
+
+Modern *Hydnum* identification often depends on overlapping characters rather than one dramatic feature. Sample the developmental range in one patch without stripping it. For each permitted fruit body, record cap width, stem length and maximum width, tooth length at a defined position, stem offset, fresh color, and any handling change. The [bruising protocol](/identification/mushroom-bruising-reactions/) helps keep the location and timing of yellowing or orange staining explicit.
+
+Keep measurements attached to individual specimen codes. A 70 mm cap and 5 mm teeth should not be combined with the stem and habitat of a different fruit body to create an imaginary “average mushroom.” Photograph the ruler in the same plane as the feature and retain the original image.
+
+Spore dimensions can matter among close species, but useful measurements require a mature deposit, correctly mounted spores, calibrated optics, a stated number measured, and length-by-width values rather than an unsupported adjective such as “small.” Ornamentation and basidia may require additional preparation. If that evidence is unavailable, stop at the best defensible aggregate or genus name.
+
+Distribution is also evidence with a failure mode. A database point may be old, misidentified, cultivated, georeferenced broadly, or published under a former species concept. Filter occurrence records by geography and date, then read the underlying record before claiming that a lineage occurs locally. A regional monograph or verified herbarium collection generally carries more identification weight than an unreviewed photograph pin.
 
 ## Sarcodon and other darker toothed fungi
 
