@@ -144,6 +144,10 @@ When non-urgent digestive symptoms recur, record the scientific or commercial sp
 
 Do not deliberately repeat exposure after hives, swelling, breathing difficulty, faintness, or a suspected wild-mushroom reaction. Cooking does not reliably remove allergens and cannot detoxify an unknown species. For severe allergic symptoms use emergency services; for a possible poisonous mushroom contact the local poison service or medical facility promptly and retain remaining material when safe.
 
+## Antioxidant comparisons need the same denominator discipline
+
+The [mushroom-antioxidants evidence guide](/health/mushroom-antioxidants/) shows why fresh weight, dry matter, extraction method and human outcomes must remain separate when a cooking article cites ergothioneine or glutathione values.
+
 ## References
 
 1. [USDA FoodData Central](https://fdc.nal.usda.gov/)

@@ -193,6 +193,10 @@ Choose one mature, intact specimen for a labeled spore deposit and retain a youn
 
 Taxonomy note: field *Agaricus* names can be applied broadly in older sources, so local keys, gill maturity, staining behavior, and base structure should all be reviewed before publication. This page has editorial review only and has not been checked by a named field mycologist or toxicologist.
 
+## Continue the grassland Agaricus comparison
+
+Large anise-scented grassland collections require a different comparison path. The [horse mushroom guide](/mushrooms/horse-mushroom-guide/) documents its double ring, timed yellowing and complete-base record without treating those traits as food clearance.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Agaricus campestris* species record](https://www.gbif.org/species/5243458). Taxonomic name and occurrence context.

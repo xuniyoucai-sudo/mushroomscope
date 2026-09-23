@@ -189,6 +189,10 @@ Evidence conclusions should be made one species, preparation, population, and ou
 
 The most responsible conclusion for mushroom supplements as a category is limited: label transparency and testing can reduce some quality uncertainty, but they cannot establish broad effectiveness or individual safety. A trustworthy decision keeps product identity, human evidence, regulation, and personal medical context separate.
 
+## Worked evidence comparisons
+
+The [mushroom-antioxidants evidence guide](/health/mushroom-antioxidants/) separates chemical assays from human outcomes. The [maitake benefits review](/health/maitake-benefits-evidence/) shows how fruiting body, mycelium, powder and extract claims must be matched to the material actually studied.
+
 ## References
 
 1. [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)

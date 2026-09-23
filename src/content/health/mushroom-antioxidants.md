@@ -4,19 +4,19 @@ description: "Understand mushroom antioxidants, laboratory assays, food variabil
 keywords: ["mushroom antioxidants","ergothioneine mushrooms","glutathione mushrooms"]
 category: health
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-24
+draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-30
+reviewDate: 2026-09-24
 coverImage: "../../assets/health/mushroom-antioxidants-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for antioxidants in mushrooms: ergothioneine, glutathione, and evidence"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial context only; the image is not evidence of a health benefit or product endorsement."
-relatedEntries: ["health/mushroom-nutrition-guide","health/mushroom-nutrition-guide","health/cooked-vs-raw-mushrooms"]
+relatedEntries: ["health/mushroom-nutrition-guide","health/cooked-vs-raw-mushrooms","health/mushroom-supplements-guide"]
 sources:
   - title: "Ergothioneine biology review"
     url: "https://pubmed.ncbi.nlm.nih.gov/32051057/"
@@ -39,8 +39,6 @@ evidenceSummary: "Evidence is food- or product-specific and does not support dia
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 ---
 
-# Antioxidants in Mushrooms: Ergothioneine, Glutathione, and Evidence
-
 > **Review status:** Editorial review only. No named physician, dietitian, pharmacist, or other clinical expert independently reviewed this page.
 
 ## Antioxidant content is not a health outcome
@@ -57,7 +55,7 @@ Glutathione is part of cellular redox systems and is measured in some mushrooms.
 
 ### The comparison that matters
 
-Mushrooms contain compounds that can participate in redox chemistry, including ergothioneine, glutathione, phenolic compounds, and micronutrients that support normal metabolism. Measuring one of these in food or a test tube does not show that eating that food prevents disease. The useful comparison keeps species or product, dose, preparation, population, and outcome aligned rather than borrowing certainty from a different exposure.
+Record the material before comparing numbers: species, fruiting body or mycelium, fresh or dry basis, extraction solvent, serving mass, and analytical method. A dry extract reported in milligrams per gram cannot be ranked directly against a fresh cooked serving reported per 100 grams. Even two papers using “total phenolics” may use different standards and extraction conditions. A defensible comparison converts units where possible and labels the remaining mismatches instead of presenting a false leaderboard.
 
 ## Why laboratory antioxidant assays mislead
 
@@ -139,7 +137,7 @@ No simple rule applies; heat, water, time, food form, and the specific compound 
 
 No. Dose, matrix, processing, co-ingredients, and evidence differ.
 
-## Sources and further reading
+## References
 
 1. [Ergothioneine biology review](https://pubmed.ncbi.nlm.nih.gov/32051057/)
 2. [Ergothioneine and cardiometabolic evidence limits](https://pubmed.ncbi.nlm.nih.gov/33806754/)

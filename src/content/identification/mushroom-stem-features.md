@@ -126,6 +126,10 @@ Continue with the [species encyclopedia](/mushrooms/) and other [identification 
 
 Stem features organize a hypothesis but cannot establish food safety. Never eat a wild mushroom based on a ring, volva, hollow stem, color change, or online image match. Seek a qualified local expert who can inspect the complete fresh collection, and keep uncertainty explicit when decisive tissue is absent.
 
+## A complete-stem case study
+
+The [parasol mushroom guide](/mushrooms/parasol-mushroom-guide/) shows why ring mobility, lower-stem zigzags and an excavated base must remain linked to one specimen rather than being inferred from separate photographs.
+
 ## References
 
 1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)

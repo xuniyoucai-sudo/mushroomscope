@@ -145,6 +145,10 @@ No. Animal feeding does not prove human safety, and different species tolerate d
 
 No. Odor can be useful in identification, but pleasant smell is not an edibility test.
 
+## Apply the warning signs to grassland groups
+
+Compare the [horse mushroom record](/mushrooms/horse-mushroom-guide/) with the [parasol mushroom record](/mushrooms/parasol-mushroom-guide/): both require mature spores, intact bases and regional lookalikes, but they use different gill, ring, stem-pattern and staining evidence.
+
 ## References
 
 1. North American Mycological Association. [Mushroom Poisonings](https://namyco.org/interests/toxicology/mushroom-poisonings/).

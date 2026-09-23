@@ -148,6 +148,10 @@ For food, buy identified culinary mushrooms from reputable suppliers, store them
 
 Explore related [health evidence guides](/health/) and species context in the [mushroom encyclopedia](/mushrooms/).
 
+## Related evidence reviews
+
+Compound claims need their own evidence audit. The [mushroom-antioxidants guide](/health/mushroom-antioxidants/) explains why ergothioneine or assay values are not clinical outcomes, while the [maitake benefits review](/health/maitake-benefits-evidence/) separates an ordinary food serving from concentrated maitake extracts.
+
 ## References
 
 1. [USDA FoodData Central](https://fdc.nal.usda.gov/)

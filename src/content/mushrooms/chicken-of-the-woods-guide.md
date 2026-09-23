@@ -156,6 +156,10 @@ It may be an aged *Laetiporus*, but fading makes identification harder and the m
 
 Record whether the shelves grow from a living tree, stump, log, or buried wood and verify the host when possible. Condition, region, and host influence the lookalike and food discussion, while age changes tenderness dramatically. Even a plausible sulfur shelf needs complete local confirmation; cooking cannot correct a mistaken species or contaminated collection.
 
+## Compare a red, soft annual bracket
+
+The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) provides a contrasting polypore record built around pale pores, separable tubes, reddish context and oak or sweet-chestnut attachment rather than sulfur-yellow shelves.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Laetiporus sulphureus* species record](https://www.gbif.org/species/9072021). Taxonomic placement and nomenclature.

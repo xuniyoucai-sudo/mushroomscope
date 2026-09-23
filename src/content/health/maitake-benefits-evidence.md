@@ -4,12 +4,12 @@ description: "Separate maitake food nutrition from extract research, with practi
 keywords: ["maitake mushroom benefits","Grifola frondosa evidence","maitake nutrition"]
 category: health
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-24
+draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-30
+reviewDate: 2026-09-24
 coverImage: "../../assets/health/maitake-benefits-evidence-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for maitake mushroom benefits: food, extracts, and evidence"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -39,8 +39,6 @@ evidenceSummary: "Evidence is food- or product-specific and does not support dia
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 ---
 
-# Maitake Mushroom Benefits: Food, Extracts, and Evidence
-
 > **Review status:** Editorial review only. No named physician, dietitian, pharmacist, or other clinical expert independently reviewed this page.
 
 ## Bottom line: maitake is food, not a proven therapy
@@ -57,7 +55,7 @@ Food composition databases describe sampled products rather than a guaranteed va
 
 ### The comparison that matters
 
-Maitake, Grifola frondosa, is both a cultivated food and an ingredient in powders and extracts. Those uses cannot be collapsed into one evidence claim. The useful comparison keeps species or product, dose, preparation, population, and outcome aligned rather than borrowing certainty from a different exposure.
+Build an exposure record before applying a study: authenticated *Grifola frondosa*, fruiting body or cultured mycelium, carrier material, extraction solvent and ratio, beta-glucan method, daily amount, and treatment duration. A sautéed cluster, whole powder, and branded fraction have different matrices and doses. If a label omits fungal part or extract specifications, the paper-to-product match cannot be established even when both use the word maitake.
 
 ## Human studies remain product-specific
 
@@ -137,7 +135,7 @@ Look for species, fungal part, extract method, amount, other ingredients, lot in
 
 People using medicines, preparing for surgery, pregnant or breastfeeding, or managing cancer, immune, liver, kidney, or glucose conditions should ask a qualified clinician.
 
-## Sources and further reading
+## References
 
 1. [Maitake systematic review](https://pubmed.ncbi.nlm.nih.gov/19476741/)
 2. [USDA FoodData Central](https://fdc.nal.usda.gov/)

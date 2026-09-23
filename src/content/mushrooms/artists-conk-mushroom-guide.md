@@ -159,6 +159,10 @@ Begin with a broad label such as “perennial *Ganoderma*-like bracket.” Confi
 
 If the record is being published, state the confidence level and the evidence still missing. A responsible caption might say that the observation is consistent with artist's conk but requires microscopy for separation from a regional relative. That wording retains educational value without implying a certainty that the available evidence cannot support. Never use an editorial illustration, bruising test, or automated image match as the sole basis for a food or health decision.
 
+## Contrast perennial and soft annual brackets
+
+The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates how a soft annual bracket with separable tubes differs from a woody perennial conk with layered tube years.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Ganoderma applanatum species record](https://www.gbif.org/species/2549834). Taxonomic backbone and occurrence context.

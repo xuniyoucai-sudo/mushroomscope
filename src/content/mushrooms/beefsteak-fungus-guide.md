@@ -6,9 +6,12 @@ keywords: ["beefsteak fungus", "Fistulina hepatica", "beefsteak mushroom identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-01
+updatedDate: 2026-09-24
 coverImage: "../../assets/species/beefsteak-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two red tongue-shaped beefsteak fungus brackets attached to an old oak trunk"
 imageCredit: "Original MushroomScope AI editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
 draft: false
 featured: false
@@ -169,6 +172,14 @@ GBIF and NCBI support the accepted-name and lineage checkpoints. Host and season
 
 The cover is original AI-generated editorial habitat context. It was checked against natural-light MushroomScope references for red tongue-shaped brackets, pale pores, oak attachment, crop, clarity, and absence of text or watermark. It is not a voucher specimen. No named mycologist, arborist, clinician, or chef reviewed this draft.
 
+## Read the separate tubes as a mechanical character
+
+A clean vertical slice through a permitted specimen reveals why beefsteak fungus differs from many woody brackets. Its short tubes are individually separable rather than fused into a single corky layer, and the young context is soft and streaked rather than concentrically zoned wood. Photograph the slice beside a scale before drying. In an old, insect-damaged bracket this feature can collapse, so a poor section is missing evidence rather than a negative character.
+
+Track color and exudate by age and location. Young upper surfaces may release reddish droplets, while mature material darkens and becomes tougher; neither “bleeding” nor a red cap is unique. Record the pore surface, tube layer, attachment and internal context from the same fruit body. Orange-yellow shelving with sulfur-colored pores redirects the comparison toward chicken-of-the-woods, while a hard perennial bracket with layered tubes requires a different polypore key.
+
+Host evidence should include more than the nearest tree name. Photograph the exact attachment at an oak or sweet-chestnut base, note whether it emerges from a wound, stump, exposed root or apparently bare soil over buried wood, and record previous pruning or decay cavities. *Fistulina hepatica* is associated with brown rot, but one fruiting does not quantify remaining sound wood or predict failure. Repeat photographs can document recurrence; only a site inspection by a qualified arborist can assess structural risk.
+
 ## Frequently asked field questions
 
 ### Is reddish liquid unique to this species?
@@ -199,4 +210,4 @@ Use local common names as search aids, then anchor records to a scientific name 
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency-response context; not a substitute for clinical care.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). Handling context for already verified food material.
 
-*Editorial review: September 1, 2026. No named mycologist, arborist, clinician, or chef reviewed this page. Taxonomic databases, regional host records, source URLs, and local poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 24, 2026. This revision added separate-tube anatomy, age-linked exudate records and attachment-scale host documentation. No named mycologist, arborist, clinician, or chef reviewed this page.*

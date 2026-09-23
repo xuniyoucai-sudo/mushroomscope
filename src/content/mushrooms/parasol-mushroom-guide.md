@@ -6,12 +6,14 @@ keywords: ["parasol mushroom", "Macrolepiota procera", "parasol mushroom identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
-updatedDate: 2026-09-04
+updatedDate: 2026-09-24
 draft: false
 featured: false
 coverImage: "../../assets/species/parasol-mushroom-editorial-v2.png"
 coverAlt: "Tall parasol mushroom in grass with a scaled pale cap, brown central umbo, movable-looking ring, and snakeskin-patterned stem"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/poisonous-mushroom-warning-signs"]
 sources:
@@ -88,44 +90,36 @@ Very large umbrella-like cap with brown scales, free pale gills, and a tall snak
 
 ## Habitat and season
 
-A grassland and open woodland saprotroph. The documented range represented here includes Europe and Asia and Africa and introduced elsewhere. Typical substrates or settings include grassland soil and woodland edges and pasture. Fruiting records commonly occur in July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
-
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+A parasol candidate should arise from soil in grassland, pasture, a woodland opening, or an edge rather than directly from a log. Record mowing, irrigation, grazing, recent turf installation and nearby trees because managed warm-season lawns disproportionately raise the *Chlorophyllum molybdites* comparison. European records do not establish that the same species concept applies to a lookalike photographed on another continent. Fruiting often clusters in late summer and autumn, but rain and local climate shift the calendar.
 
 ## Similar species
 
 - **Chlorophyllum molybdites — poisonous, often green-spored, and common in warm lawns.**
 - **Chlorophyllum rhacodes group — flesh stains and taxonomy differ.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Add *Amanita* whenever the base is missing or shows a cup, sac, concentric collaring, or other universal-veil material. Add small *Lepiota* species when stature is modest rather than assuming every scaled cap belongs to a large edible group. Regional keys may require microscopy for spore dimensions, germ-pore form and pileipellis structure. An image-recognition result cannot substitute for those observations.
 
 ## Food and safety context
 
 Parasol mushroom has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+Green-spored parasol poisoning commonly produces marked gastrointestinal symptoms. If vomiting, diarrhea, abdominal pain, confusion, breathing difficulty, or any symptom follows a wild-mushroom meal, contact local emergency services or a poison center promptly. Keep uncooked caps and stems, cooking scraps, photographs, meal timing and a list of everyone exposed for professional assessment.
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Reliable home production of *Macrolepiota procera* is not established like commercial oyster or shiitake block culture. A defensible cultivation report needs an authenticated strain, inoculum history, soil or compost composition, moisture and temperature records, fruiting observations and a retained voucher. A bag sold under a common name is not proof of species identity or food suitability.
 
-## How to document a find
+## How to document a parasol candidate
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the fairy ring, troop or solitary fruit body in its managed-grassland or woodland-edge setting.
+2. Excavate one complete stem base and photograph any bulb, collar, sac or adhering veil material.
+3. Record cap diameter, stem height, free-gill gap, ring construction, stem zigzags and timed staining from a fresh section.
+4. Make a mature deposit across black and white surfaces; record white, cream, gray-green or green in neutral light.
+5. Compare the entire record with a current regional key and a qualified local identifier before any food discussion.
 
 ## Use a complete field record
 
-For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Large lawn or woodland parasol-like mushrooms require extra caution because green-spored and staining lookalikes can be common. The ring, stem pattern, gill attachment, staining, and spore color all matter. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
-
-Before any local use decision, separate three questions that are often blended together. First, does the collection belong to the broad morphological group described here? Second, does the local region actually support the species name used in the title, or is a related regional species more likely? Third, even if the identification is correct, is the material fresh, uncontaminated, legally collected, and appropriate for the intended use? Those questions require different evidence, and a weak answer to any one of them should stop a food or cultivation decision.
-
-Photograph the specimen before handling, then document the underside, base or attachment, surrounding habitat, and a clean cross-section. For wood-associated fungi, include the host or substrate and whether the wood is living, dead, buried, or processed. For grassland or soil-fruiting fungi, include nearby trees, turf treatment, roadsides, livestock areas, and any potential contamination source. Do not rely on color alone; rain, sun exposure, age, frost, insects, and camera white balance can change the apparent palette enough to mislead a comparison.
-
-The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
+Treat every observation as a linked specimen record. Give the photographed fruit body an identifier, keep cap and stem measurements from that individual together, and label the spore deposit with the same identifier. A white deposit from one specimen cannot resolve a second green-spored individual collected from the same lawn. Photograph the ring before moving it and the stem surface before soil or handling obscures the zigzag pattern.
 
 ## Check the key field characters
 
@@ -139,11 +133,7 @@ Food use should be conservative even where true parasol mushrooms are establishe
 
 Use this checklist to decide whether an observation is strong enough for learning, not whether it is safe to eat. For Parasol mushroom, the record is stronger when these points are answered in writing: tall patterned stem and movable ring are documented; spore color has been checked when food use is discussed; green-spored and staining lookalikes are considered; complete base is visible. If one of these points is missing, mark the identification as tentative and collect more evidence before comparing it with food, cultivation, or supplement information.
 
-A good checklist entry includes both positive and negative evidence. Positive evidence explains what matches the species profile. Negative evidence explains what dangerous or common alternatives were ruled out and why. For example, a note that says "found on wood" is weak by itself, while a note that describes the exact wood, visible attachment, fertile surface, spore context, and excluded lookalikes is much stronger. This distinction matters because many mushroom mistakes happen when a field note records only the attractive matching feature and ignores the contradictory details.
-
-For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
-
-Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
+Negative evidence must name the specific alternative and the contradicting observation. “Large scaled cap” supports several genera; “mature white deposit, strongly patterned lower stem, movable double ring and no red staining” is more discriminating, while still requiring regional review. Conversely, a green deposit, smooth stem, pronounced red-orange cut flesh, or a saclike base should stop the *M. procera* hypothesis rather than being explained away.
 
 Taxonomy note: large parasol-like mushrooms are treated differently across modern field guides, so regional names and older cookbook labels should be checked against current local keys before publication or collection use.
 

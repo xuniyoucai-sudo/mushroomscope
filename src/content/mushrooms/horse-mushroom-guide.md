@@ -6,12 +6,14 @@ keywords: ["horse mushroom", "Agaricus arvensis", "horse mushroom identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
-updatedDate: 2026-09-03
+updatedDate: 2026-09-24
 draft: false
 featured: false
 coverImage: "../../assets/species/horse-mushroom-editorial-v2.png"
 coverAlt: "White horse mushrooms in short pasture grass, including an upturned cap with mature brown free gills and a substantial ring"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-spore-colors"]
 sources:
@@ -179,6 +181,14 @@ GBIF supports the current backbone name and occurrence context. First Nature sup
 
 No named mycologist or clinician reviewed this article. Its language remains editorial and deliberately conservative. Regional species concepts, toxicology advice, and emergency contacts should be checked against current local sources before use.
 
+## Build an Agaricus collection series, not a single-specimen verdict
+
+Large grassland *Agaricus* can change quickly after emergence. Link at least three stages from the same fruiting patch: a closed specimen showing veil attachment, a partly opened specimen exposing ring construction, and a mature specimen with dark chocolate-brown gills. Record cap diameter, stem length, base width and gill color for each individual. This separates developmental change from differences between two species sharing the same pasture.
+
+Time reactions on a fresh longitudinal cut. Note the first color at 15 seconds, the strongest color by two minutes and any fading after ten minutes at the cap margin, central flesh and stem base separately. Horse mushroom candidates may show slow yellowing and an anise-like odor, whereas intense chrome yellow at the base paired with an inky or phenolic odor increases concern for the yellow-stainer group. Neither reaction is an edibility test; the complete base, ring, mature gills, habitat and regional species set still have to agree.
+
+Pasture history can resolve apparent contradictions. Record whether the site is old grazed grassland, fertilized amenity turf, a stable margin or newly imported topsoil, plus recent rain and mowing. A fruit body beside a tree is not automatically mycorrhizal, and a lawn occurrence does not distinguish horse mushroom from hazardous *Agaricus* lookalikes. Preserve one lawful dried voucher with the field photographs when a regional expert needs microscopy or sequencing.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Agaricus arvensis species record](https://www.gbif.org/species/5243403). Taxonomic backbone and occurrence context.
@@ -188,4 +198,4 @@ No named mycologist or clinician reviewed this article. Its language remains edi
 5. First Nature. [*Agaricus arvensis*, Horse Mushroom](https://www.first-nature.com/fungi/agaricus-arvensis.php). European field characters, measurements, double-ring structure, season, ecology, odor, spores, and yellow-stainer comparison.
 6. North American Mycological Association. [The Mycophile 47(4)](https://namyco.org/wp-content/uploads/2023/07/The-Mycophile-47.4-July-August-2006.pdf). Section Xanthodermatei context: phenolic odors, yellow discoloration, global distribution, and toxicity range.
 
-*Last editorial review: September 3, 2026. Substantive revision replaced generic field-profile templates with species-specific ring anatomy, timed staining, odor, grassland ecology, yellow-stainer exclusion, measurement, and evidence boundaries. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Last editorial review: September 24, 2026. This revision added a linked developmental series, timed tissue-specific reactions and pasture-history controls. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*

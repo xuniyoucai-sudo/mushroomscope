@@ -190,6 +190,10 @@ A maitake observation becomes more useful when the rosette is treated as one tim
 
 This record separates three claims that are often blurred together. The fruit body can support a morphological identification; the tree and root position support an ecological interpretation; neither alone proves the condition or structural safety of the tree. A repeated fruiting location may justify assessment by a qualified local arborist, especially where a mature tree could strike people or property, but a web photograph cannot quantify root loss. For identification methodology, use the [mushroom photo checklist](/identification/mushroom-photo-checklist/) and retain uncropped habitat images alongside close views.
 
+## Keep the health-evidence intent separate
+
+This page documents the organism, host and morphology. The separate [maitake benefits evidence review](/health/maitake-benefits-evidence/) evaluates preparation-specific studies and label matching without turning a species observation into a treatment claim.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
