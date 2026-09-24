@@ -4,12 +4,12 @@ description: "Review mushrooms, carbohydrate quality, meal context, glucose stud
 keywords: ["mushrooms blood sugar","mushrooms diabetes evidence","mushroom glucose studies"]
 category: health
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-25
+draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-30
+reviewDate: 2026-09-25
 coverImage: "../../assets/health/mushrooms-blood-sugar-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for mushrooms and blood sugar: food evidence without treatment claims"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -38,8 +38,6 @@ faq:
 evidenceSummary: "Evidence is food- or product-specific and does not support diagnosis, treatment, or guaranteed outcomes."
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 ---
-
-# Mushrooms and Blood Sugar: Food Evidence Without Treatment Claims
 
 > **Review status:** Editorial review only. No named physician, dietitian, pharmacist, or other clinical expert independently reviewed this page.
 
@@ -89,9 +87,7 @@ A practical food experiment changes one meal variable at a time, keeps the carbo
 
 ## Claims the current evidence cannot support
 
-Evidence does not justify saying mushrooms reverse diabetes, replace medication, guarantee stable glucose, or make a high-carbohydrate meal harmless. It is reasonable to describe plain mushrooms as a low-energy ingredient that can add texture and displace some higher-energy ingredients. The [nutrition evidence hub](/health/mushroom-nutrition-guide/) explains why that dietary role is different from a therapeutic claim.
-
-## A reader's evidence worksheet
+Evidence does not justify saying mushrooms reverse diabetes, replace medication, guarantee stable glucose, or make a high-carbohydrate meal harmless. It is reasonable to describe plain mushrooms as a low-energy ingredient that can add texture and displace some higher-energy ingredients. The [nutrition guide](/health/mushroom-nutrition-guide/) explains food-level comparisons, while the [nutrition evidence hub](/hubs/mushroom-nutrition-evidence/) maps the broader evidence questions.
 
 ## Separate ingredient displacement from a mushroom-specific effect
 
@@ -109,8 +105,6 @@ Glucose evidence audit: write the claim in one sentence without words such as su
 
 Glucose-product matching: photograph the full label and retain its lot number. Compare every ingredient with the paper rather than matching only the mushroom name. Ask what the control received and whether participants could guess their assignment. Look for preregistration and whether the reported primary outcome matches the registered one. A single study can inform a decision, but reliability grows through consistent results, appropriate methods, clinically meaningful endpoints, and independent replication.
 
-## Frequently asked questions
-
 ## A meal-planning example without a therapeutic promise
 
 Suppose a usual dinner contains a large refined-grain portion, a creamy sauce, and little vegetable volume. A revised plate might use a smaller grain portion, cooked mushrooms and non-starchy vegetables for volume, and a clearly planned protein source. If post-meal glucose differs, the result belongs to the combined changes. It does not prove that mushrooms actively lowered glucose, and another person may respond differently.
@@ -120,6 +114,8 @@ To learn from the comparison, keep the grain type and measured portion consisten
 Restaurant meals are harder to compare because sauces, starches, and oil are not measured. Descriptions such as grilled or vegetable-rich do not reveal added sugar or portion. Asking for sauce on the side and noting the complete dish can make interpretation more useful, but the purpose is practical management, not perfect self-experimentation.
 
 Mushroom supplements require a separate risk assessment. Concentrated fractions may be marketed using animal glucose results, and combining them with treatment can create unpredictable changes or distract from proven care. The evidence gap is not solved by calling a product food-based. Species identity, extraction, dose, contaminants, interactions, and human outcomes still need evaluation.
+
+## Frequently asked questions
 
 ### Do mushrooms lower blood sugar?
 
@@ -141,7 +137,7 @@ Their structures and evidence differ, so effects should not be assumed equivalen
 
 Keep portions and measurement timing consistent, record the full recipe, and interpret patterns with a qualified diabetes professional.
 
-## Sources and further reading
+## References
 
 1. [American Diabetes Association Standards of Care](https://diabetesjournals.org/care/issue/49/Supplement_1)
 2. [USDA FoodData Central](https://fdc.nal.usda.gov/)

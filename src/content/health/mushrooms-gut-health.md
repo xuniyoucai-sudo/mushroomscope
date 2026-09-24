@@ -78,7 +78,7 @@ For practical eating, the better question is whether mushrooms help you build a 
 
 Gut-friendly foods are still individual. A small serving of cooked mushrooms may be comfortable for one person and unpleasant for another. Texture, fat level, garlic, onion, wheat, dairy, or spicy sauces in the same meal can also be the true trigger, so avoid blaming or crediting the mushroom without looking at the whole dish.
 
-If you are experimenting, start with a modest portion of one familiar cultivated mushroom, cooked simply, and note your response. Do not introduce several new mushroom foods or supplements at once. People with persistent abdominal pain, blood in stool, unexplained weight loss, fever, or recurring severe symptoms should seek medical care rather than self-testing foods.
+If you are experimenting, start with a modest portion of one familiar cultivated mushroom, cooked simply, and note your response. Do not introduce several new mushroom foods or supplements at once. People with persistent abdominal pain, blood in stool, unexplained weight loss, fever, or recurring severe symptoms should seek medical care rather than self-testing foods. Intentional weight questions require a different evidence frame; the [mushrooms and weight-management review](/health/mushrooms-weight-management/) focuses on substitution, energy density and realistic follow-up without presenting mushrooms as treatment.
 
 ## Building a gut-aware mushroom meal
 

@@ -5,6 +5,8 @@ keywords: ["mushroom pinning conditions","mushroom primordia","initiate mushroom
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-18
+updatedDate: 2026-09-25
+revisionSummary: "Added species-specific initiation signatures, crop-zone dew-point interpretation, and a controlled failed-pinning diagnostic sequence."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-pinning-conditions-editorial-v2.png"
@@ -136,6 +138,26 @@ No. Chilling is species-, strain-, and workflow-specific.
 ### Why do pins abort?
 
 Drying, wetness, temperature stress, poor air exchange, contamination, pests, or weak substrate can contribute.
+
+## Compare initiation signatures instead of copying one climate recipe
+
+Pinning is a developmental transition, not a switch controlled by one humidity number. An oyster block exposed through a side slit presents a small vertical evaporation front; a top-fruiting king oyster bottle presents a broad collared surface; a shiitake block may require maturation and browning before its outer bag is removed; lion's mane commonly forms through a deliberately limited opening. The same room reading therefore acts on four different boundary layers. A useful record names the culture, block format, opening shape and initiation event before it records room conditions.
+
+For oyster mushrooms, note whether primordia form evenly along the cut, only at its upper edge, or under intact plastic elsewhere. Pins escaping beneath the bag suggest that light, oxygen or evaporation is stronger at an unintended seam. For lion's mane, coral-like branching at the opening can be a fresh-air clue, while multiple hidden fruits under the bag often point to excess openings or delayed fruiting setup. King oyster morphology is deliberately managed toward a different cap-to-stem balance, so an oyster rule such as “more air always means better caps” cannot simply be transferred.
+
+Shiitake requires another record altogether. Mark the end of visible colonization, the start and extent of surface browning, any rest period specified for the strain, bag removal, soaking or temperature cue, and the date of first primordia. If a block was initiated before its documented maturation stage, changing the fogger does not correct the missing biological readiness. The [shiitake log guide](/growing/grow-shiitake-logs/) describes the separate cadence of outdoor logs; log shocking and indoor sawdust-block initiation should not be merged into one schedule.
+
+## Read surface moisture with temperature and airflow
+
+Relative humidity describes air at the sensor, not the amount of water on a primordium. Warm humid air that meets a cooler block can approach its dew point and condense even while a wall-mounted sensor looks acceptable. Conversely, a high room reading does not prevent a fast local air jet from drying the cut face. Record room temperature, block-surface or near-surface temperature where practical, sensor location, fan cycle, fog cycle and visible surface state at the same timestamp.
+
+Use a small descriptive scale that can be repeated: dry/matte, faintly hydrated, glistening without droplets, discrete droplets, or pooling. Add a photograph from the same angle. The purpose is not to declare one category universally correct; it is to connect a change in the crop-zone water film with subsequent pin formation, bacterial blotch risk, drying or abortion for that culture. The [grow-room sensor guide](/growing/mushroom-grow-room-sensors/) explains placement and calibration, while the [substrate hydration guide](/growing/mushroom-substrate-hydration/) covers water held inside the block rather than on its fruiting surface.
+
+## Diagnose a failed pinset in a fixed order
+
+First verify identity, batch history and healthy colonization. Second check whether the species-specific maturation event was completed. Third inspect the opening geometry and crop surface. Fourth review synchronized temperature, humidity, air-exchange and light records. Fifth compare shelf position and neighboring blocks from the same lot. This order prevents a room-wide adjustment from hiding a single under-colonized block, sealed slit or failed culture.
+
+When only one block fails, compare its mass loss, bag seal, substrate appearance and inoculation history with its siblings. When one shelf fails, inspect airflow shadowing, fog impingement, heat stratification and light obstruction. When the entire room fails, verify instruments and schedules before changing set points. Make one bounded correction, define what improvement should appear and by when, and preserve an unchanged comparison when the crop and food-safety plan allow it. Record the result in the [batch-record workflow](/growing/mushroom-batch-records/) so a plausible story becomes a testable production observation.
 
 ## References
 

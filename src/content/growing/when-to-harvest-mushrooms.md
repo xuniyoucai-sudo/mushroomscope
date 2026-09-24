@@ -5,8 +5,8 @@ keywords: ["when to harvest cultivated mushrooms", "mushroom cultivation", "home
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-06
-revisionSummary: "Added a measured maturity scorecard, Cornell-supported shiitake and lion's mane thresholds, and separate quality, safety, and second-flush decisions."
+updatedDate: 2026-09-25
+revisionSummary: "Replaced generic cultivation templates with species-specific harvest windows, cooling-delay records, and a measured first-versus-second-flush quality comparison."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/grow-shiitake-logs"]
@@ -51,7 +51,7 @@ steps: [{ title: "Verify the culture", instruction: "Use authenticated spawn and
 
 Harvest timing depends on species and intended use; prioritize supplier guidance, clean handling, and prompt cooling. This guide covers a conservative home workflow for oyster mushrooms, shiitake, lion's mane using colonized fruiting substrate. Exact parameters depend on the strain and supplier; universal temperature or humidity numbers can be misleading.
 
-The lowest-risk starting point is a reputable ready-to-fruit block. More advanced substrate preparation increases the consequences of poor heat treatment, moisture measurement, or clean technique. Keep written batch records so troubleshooting is based on evidence.
+For harvest training, a reputable ready-to-fruit block provides a known culture and supplier maturity cues. Retain the label and photograph the same cluster daily as its cap margin, teeth or veil changes. That sequence is more useful than comparing the crop with an unrelated internet image.
 
 Harvest is a quality decision rather than a single calendar date. Species, strain, block size, temperature, fresh-air exchange, and intended market all change the useful window. A supplier may describe a typical number of days, but the fruit bodies in front of you are the stronger cue. Record both the predicted window and the observed morphology so the next flush can be planned from the actual culture rather than from a generic internet schedule.
 
@@ -59,9 +59,7 @@ This page concerns authenticated cultivated mushrooms. It does not provide a met
 
 ## Materials and preparation
 
-Use authenticated spawn, food-production-grade substrate, clean water, cleanable tools, labels, and a fruiting area that can exchange air without exposing living spaces to excessive spores. Do not use treated lumber, unknown waste, visibly contaminated material, or unidentified wild cultures.
-
-Match the treatment to the material. Pasteurization and sterilization are not interchangeable. Supplemented substrates generally demand tighter control than low-nutrient materials. Follow an established method from an extension source or culture supplier.
+Prepare the harvest station for the crop actually being removed: a tray that supports a wide oyster cluster, a clean knife for lion's mane, or shallow containers that do not crush shiitake caps. Keep the block identifier with the tray so fruit from an isolated or questionable batch cannot be mixed into a sound lot.
 
 Before the expected harvest window, prepare a clean food-safe tray, clean hands or gloves appropriate to the workflow, a clean knife if the supplier recommends cutting, labels, and breathable or otherwise appropriate produce packaging. Make refrigerator space in advance. Trying to locate containers while mature mushrooms sit warm encourages bruising and delayed cooling.
 
@@ -123,15 +121,9 @@ Use a three-way decision rather than assuming every visible fruit should be eate
 
 Environmental defects do not automatically make a crop unsafe, but they can overlap with contamination. A dry edge, elongated stem, or small cap should prompt a review of fruiting conditions. A foul odor or spreading mold requires a different response. The [contamination guide](/growing/mushroom-contamination-guide/) explains conservative stop conditions.
 
-## Cultivation workflow
+## Record the decision at cluster level
 
-1. Record culture identity, supplier, lot, substrate, hydration method, and date.
-2. Prepare and cool substrate without recontaminating it.
-3. Inoculate using the cleanliness level required by the method.
-4. Incubate inside the supplier’s range and inspect without unnecessary opening.
-5. Isolate batches with unexpected color, slime, stalled wet zones, insects, or foul odor.
-6. Initiate fruiting only after healthy colonization, then balance humidity with fresh air.
-7. Harvest with clean hands or tools and refrigerate edible crops promptly.
+Assign each harvest a block ID, flush number and cluster position. For oysters, record the dominant cap-margin stage and whether the cluster was removed intact. For lion's mane, record tooth development, color and firmness. For shiitake, record gill exposure, cap-margin position and stem firmness. These fields explain quality variation more directly than a generic statement that the room was “ready.”
 
 ## Remove the crop without damaging the block
 
@@ -143,9 +135,7 @@ Weigh the untrimmed and sale- or kitchen-ready crop separately if yield tracking
 
 ## Fruiting and troubleshooting
 
-Temperature, humidity, light, oxygen, and carbon dioxide interact. More misting cannot correct poor air exchange, and more ventilation can dry a block. Observe the fruit-body response and make one controlled change at a time. Long stems, small caps, cracking, yellowing, or stalled pins are clues—not diagnoses by themselves.
-
-Never taste a suspect culture. Cleaning visible mold from the surface does not demonstrate that a food crop is safe. Separate the batch and follow supplier or local disposal guidance. Commercial producers must also follow applicable food-safety regulations.
+Interpret defects against the crop's location and maturity record. Long oyster stems on the sheltered side of a rack, cracked shiitake caps nearest a dry inlet, or yellow lion's mane at the oldest positions suggest different corrective trials. A suspect odor, slime or unexplained growth is a stop-and-isolate event rather than a reason to extend the harvest window.
 
 ### If caps flatten sooner than expected
 
@@ -182,6 +172,18 @@ Keep spent substrate out of production areas while deciding how to dispose of it
 Before picking, confirm the culture identity, maturity cues, block health, clean tools, clean tray, and available cold storage. During picking, avoid crushing, separate questionable material, and record weight and observations. After picking, trim cleanly, package, cool, label, clean the space, and schedule the next inspection or supplier-directed rest.
 
 A checklist should improve consistency without pretending that all strains behave identically. Revise it when the supplier changes, a new species is introduced, or records reveal a repeated issue. Compare one variable at a time—such as observation frequency or airflow—rather than treating a single successful flush as proof that every parameter was optimal.
+
+## Measure the cooling delay, not only the picking time
+
+The useful post-harvest clock begins when tissue is detached, not when it reaches the refrigerator. Record harvest completion, trimming completion, packaging and the time the package enters validated cold storage. A large warm cluster packed tightly can retain heat; a refrigerator air display does not show how quickly the center of that package cooled. Commercial operations should validate their own process under applicable food-safety rules, while home growers can at least avoid leaving harvested mushrooms on a warm counter during cleanup.
+
+Compare packaging only within a matched crop. Note package type, fill mass, condensation, bruising, odor and usable mass after a fixed interval. Perforation or breathable packaging can manage moisture differently from a sealed warm container, but the correct system depends on temperature control, product and intended storage time. Do not infer safety from appearance alone, and discard mushrooms with spoilage signs according to local guidance.
+
+## Compare flushes without confusing mass and quality
+
+A second flush may differ in cluster count, individual size, maturity synchrony and trimming loss. Record gross harvested mass, clean usable mass and days from rehydration or rest to first harvest. Dividing usable mass by block or dry-substrate basis answers a different question from reporting the single largest cluster. Keep these denominators visible when deciding whether waiting for another flush is worthwhile.
+
+Also record what ended the observation: the planned number of flushes, declining quality, contamination, pests, block breakdown or a supplier-defined limit. A late cluster should not be served merely to improve cumulative yield. The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) explains yield denominators; this page keeps the maturity and handling decision separate from production accounting.
 
 ## References
 

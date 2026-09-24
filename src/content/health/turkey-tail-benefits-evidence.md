@@ -5,16 +5,19 @@ keywords: ["turkey tail clinical research", "Trametes versicolor PSK", "turkey t
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-05
+updatedDate: 2026-09-25
+revisionSummary: "Added an evidence-transfer boundary for PSK-era trials, a treatment-era applicability check, and a product-lot decision record for oncology discussions."
 draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-24
-coverImage: "../../assets/health/turkey-tail-benefits-evidence.jpg"
-coverAlt: "Turkey tail mushroom and unbranded extract beside systematic review papers"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
+reviewDate: 2026-09-25
+coverImage: "../../assets/health/turkey-tail-benefits-evidence-editorial-v2.png"
+coverAlt: "AI-assisted editorial still life of turkey tail brackets, an unbranded extract bottle, and a closed research notebook"
+imageCredit: "Original MushroomScope AI-assisted editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
+imageNote: "AI-assisted editorial illustration; no pictured material is authenticated and the visual is not evidence of safety, efficacy, or medical benefit."
 relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "health/mushroom-supplements-guide", "health/mushroom-beta-glucans"]
 sources:
   - title: "National Cancer Institute — Mushrooms (PDQ®): Turkey Tail and PSK"
@@ -164,6 +167,20 @@ Use this short sequence when a turkey-tail claim cites a study:
 3. **Check the study design.** Look for randomization, comparison group, follow-up, attrition, and whether the result has been replicated.
 4. **Compare the retail product cautiously.** If its identity and manufacture do not match the paper, do not infer equivalence.
 5. **Keep care decisions with the clinical team.** A citation is not an individualized safety review.
+
+## Audit evidence transfer with four explicit gates
+
+Before a turkey-tail claim reaches a patient-facing conclusion, it should pass four separate gates. The **identity gate** asks whether the intervention was PSK, PSP, another named extract, whole fruiting body, mycelial material, or an incompletely described product. The **protocol gate** checks dose, route, duration and manufacturing standardization. The **clinical-context gate** checks cancer type and stage, surgery, concurrent regimen and treatment era. The **outcome gate** separates survival or progression from laboratory markers, symptoms and exploratory endpoints.
+
+A claim that fails one gate is not repaired by strength at another. A randomized adjunct trial cannot authenticate a retail powder; a certificate for contaminants cannot demonstrate clinical benefit; a mechanistic beta-glucan paper cannot determine compatibility with immunotherapy. This framework is intentionally stricter than matching the words “turkey tail,” because the shared common name is the easiest part of the evidence chain and the least informative about equivalence.
+
+For an older trial, record the exact comparator and background therapy before asking whether the result applies now. Changes in staging, supportive care and systemic treatment can alter both baseline risk and the incremental effect of an adjunct. The appropriate conclusion may be that a study remains historically informative but is not directly transferable to a present regimen. That is a useful evidence judgment, not a dismissal of the paper.
+
+## Keep a lot-specific decision record
+
+A clinical conversation is more productive when it concerns the exact container rather than a product category. Photograph the front label, Supplement Facts panel, other ingredients, warnings, lot and expiration information. Record the proposed amount, start date, reason for use, cited study and every prescription, over-the-counter medicine and supplement already taken. If the seller cites PSK or PSP, ask for evidence that the lot's identity, composition and dose match that preparation; an extraction ratio or total-polysaccharide number alone does not establish the match.
+
+The record should also state the decision and owner: avoid, defer pending more information, or use only under the treating team's plan. If use proceeds, document what outcome is being monitored, the review date and the stop conditions. New rash, gastrointestinal symptoms, laboratory changes or treatment changes should be evaluated without informal stop-and-rechallenge experiments. The published [mushroom supplement guide](/health/mushroom-supplements-guide/) explains the broader product-risk process, while the [mushroom photo checklist](/identification/mushroom-photo-checklist/) shows why field images cannot authenticate a supplement ingredient or establish edibility.
 
 ## References
 

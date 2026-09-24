@@ -145,7 +145,7 @@ Before buying for an immune or digestive claim, compare the wording with our evi
 
 ## Consider interactions before starting
 
-Dietary supplements can affect medication absorption or metabolism, bleeding, blood pressure, blood sugar, immune pathways, anesthesia, and laboratory results. Risk depends on the complete formula, dose, medicines, conditions, and timing.
+Dietary supplements can affect medication absorption or metabolism, bleeding, blood pressure, blood sugar, immune pathways, anesthesia, and laboratory results. Risk depends on the complete formula, dose, medicines, conditions, and timing. For glucose-specific claims, the [mushrooms and blood sugar review](/health/mushrooms-blood-sugar/) shows why an extract trial cannot be transferred to dinner—or used to change diabetes medicine.
 
 Discuss the exact label with a clinician or pharmacist before use if taking prescription medicines, preparing for surgery, receiving cancer or immune therapy, or managing liver, kidney, bleeding, allergy, or autoimmune conditions. People who are pregnant or breastfeeding and children also need individualized guidance because evidence is often limited.
 

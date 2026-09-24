@@ -92,7 +92,7 @@ Cooking generally changes many compounds simultaneously. It can lower some, conc
 
 ## Use a controlled comparison at home
 
-To compare preparation rather than two different products, start with one package and divide similar mushrooms by weight. Cook portions without changing multiple variables: for example, dry sauté one and roast one with the same measured oil and salt. Record cooked weight, time, texture, and portion actually eaten.
+To compare preparation rather than two different products, start with one package and divide similar mushrooms by weight. Cook portions without changing multiple variables: for example, dry sauté one and roast one with the same measured oil and salt. Record cooked weight, time, texture, and portion actually eaten. If the question is metabolic rather than culinary, keep the complete plate visible: the [blood-sugar evidence guide](/health/mushrooms-blood-sugar/) explains why sauce, starch, activity, medication and measurement timing prevent a mushroom-only conclusion, and the [weight-management evidence guide](/health/mushrooms-weight-management/) separates recipe energy density from a mushroom-specific effect.
 
 This exercise can reveal water loss and preference, but it is not a nutrient assay or medical experiment. Do not use symptoms from an informal test to diagnose an allergy. Stop eating and obtain medical advice if reactions occur.
 

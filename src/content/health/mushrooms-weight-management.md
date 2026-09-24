@@ -4,12 +4,12 @@ description: "Assess mushroom calories, satiety, food substitution, trial design
 keywords: ["mushrooms weight management","mushrooms weight loss evidence","mushroom satiety"]
 category: health
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-25
+draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-30
+reviewDate: 2026-09-25
 coverImage: "../../assets/health/mushrooms-weight-management-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for mushrooms for weight management: satiety, substitution, and evidence"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -38,8 +38,6 @@ faq:
 evidenceSummary: "Evidence is food- or product-specific and does not support diagnosis, treatment, or guaranteed outcomes."
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 ---
-
-# Mushrooms for Weight Management: Satiety, Substitution, and Evidence
 
 > **Review status:** Editorial review only. No named physician, dietitian, pharmacist, or other clinical expert independently reviewed this page.
 
@@ -141,7 +139,7 @@ No. Satiety varies and depends on the complete meal, portion, protein, fiber, te
 
 People with unintentional loss, eating disorders, pregnancy, growth needs, frailty, major illness, or medication-sensitive conditions need individualized care.
 
-## Sources and further reading
+## References
 
 1. [USDA FoodData Central](https://fdc.nal.usda.gov/)
 2. [NIDDK: Choosing a safe and successful weight-loss program](https://www.niddk.nih.gov/health-information/weight-management/choosing-a-safe-successful-weight-loss-program)
