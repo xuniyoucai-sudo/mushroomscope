@@ -6,6 +6,7 @@ keywords: ["velvet shank", "Flammulina velutipes", "velvet shank identification"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
+updatedDate: 2026-09-26
 draft: false
 featured: false
 coverImage: "../../assets/species/velvet-shank-mushroom-editorial-v3.png"
@@ -166,6 +167,24 @@ A good checklist entry includes both positive and negative evidence. Positive ev
 For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
 
 Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
+
+## Measure a developmental series, not the best-looking cap
+
+Record at least three intact fruit bodies from the same cluster when collecting is legal: a young cap, an expanded cap, and an older specimen. Measure cap width, total stem length, the length of the darkened lower zone, gill attachment, and any ring-like tissue before handling abrades the stem. Note whether the cap was viscid while fresh or merely wet from rain. These observations show how the amber cap flattens and how the lower stem becomes progressively darker and velvety; they are more diagnostic than a single saturated color value.
+
+Keep clusters from different logs separate. A shared stump can support more than one gilled species, and mixing loose caps destroys the link between spores, stem features, and substrate. Make a spore deposit from a cap whose full stem and source cluster remain documented. A pale deposit supports further comparison with *Flammulina*, while a rusty-brown deposit forces the collection away from that hypothesis; neither result by itself clears food use.
+
+## Resolve the name at the regional level
+
+The name *Flammulina velutipes* has historically covered collections that modern regional treatments may divide or interpret differently. A field page should not imply that every cool-season, dark-stemmed *Flammulina* worldwide is the same biological species. Preserve locality, host, measurements, photographs, and—when expert work warrants it—a dried voucher. Microscopy or sequence data may be needed when a regional key separates closely related taxa that overlap in visible characters.
+
+Host documentation should distinguish wood genus when possible, living wounds from dead trunks, exposed logs from buried roots, and natural wood from landscape mulch. Cool-season fruiting is supportive but not exclusive: local temperature, freeze-thaw cycles, rainfall, and elevation shift timing. Repeated observations at a marked log can reveal whether clusters recur from the same wound and how cap texture changes through frost and thaw.
+
+## Do not transfer cultivated-enoki expectations to a wild cluster
+
+Commercial enoki form reflects controlled light, carbon dioxide, temperature, and production practices. Long pale stems and tiny caps from a package are not a visual standard for a woodland collection. Conversely, a wild amber cluster does not inherit the identity or food safety of a labeled retail product. The [cultivated enoki guide](/mushrooms/enoki-mushroom-guide/) addresses production and food handling; this page addresses field documentation and dangerous wood-growing comparisons.
+
+For every wild cluster, make the deadly *Galerina* boundary explicit. Preserve the lower stem, look for a ring or ring zone without assuming its absence is decisive, document mature gill and spore color, and obtain local in-person review. If an unknown mushroom was eaten, keep specimens and meal remnants and contact a poison service promptly rather than waiting for an online verdict.
 
 ## References
 

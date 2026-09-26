@@ -4,12 +4,13 @@ description: "Evaluate medicinal mushroom supplement safety through identity, do
 keywords: ["medicinal mushroom safety","mushroom supplement interactions","mushroom extract side effects"]
 category: health
 author: "MushroomScope Editorial Team"
-publishDate: 2026-07-31
-draft: true
+publishDate: 2026-09-26
+updatedDate: 2026-09-26
+draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-08-30
+reviewDate: 2026-09-26
 coverImage: "../../assets/health/medicinal-mushroom-safety-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for medicinal mushroom safety: products, interactions, and red flags"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -38,8 +39,6 @@ faq:
 evidenceSummary: "Evidence is food- or product-specific and does not support diagnosis, treatment, or guaranteed outcomes."
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 ---
-
-# Medicinal Mushroom Safety: Products, Interactions, and Red Flags
 
 > **Review status:** Editorial review only. No named physician, dietitian, pharmacist, or other clinical expert independently reviewed this page.
 
@@ -139,7 +138,7 @@ Keep the container, lot, ingredient panel, dose, timing, receipt, and symptom re
 
 No. Concentration, processing, dose, co-ingredients, and exposure duration can differ substantially from food.
 
-## Sources and further reading
+## References
 
 1. [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)
 2. [FDA: Mixing medications and supplements](https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health)

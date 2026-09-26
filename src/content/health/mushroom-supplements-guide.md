@@ -51,7 +51,7 @@ This page does not rank brands or recommend a dose. It provides a repeatable way
 
 Common names such as reishi, turkey tail, cordyceps, and lion's mane are not complete ingredient identities. A useful label gives a scientific binomial and uses current enough taxonomy that the material can be traced. Even then, printed identity is a claim until supported by manufacturing controls and appropriate testing.
 
-Species substitutions matter because related fungi are not chemically or clinically interchangeable. A study of one authenticated *Ganoderma* preparation does not validate every product called reishi. Likewise, a blend listing “ten mushrooms” without scientific names and individual amounts is difficult to match to research.
+Species substitutions matter because related fungi are not chemically or clinically interchangeable. A study of one authenticated *Ganoderma* preparation does not validate every product called reishi. The [chaga species guide](/mushrooms/chaga-mushroom-guide/) likewise separates a birch-associated sterile conk from powders and extracts marketed under its common name. A blend listing “ten mushrooms” without scientific names and individual amounts is difficult to match to research.
 
 Look for the full ingredient list, including carriers, flavorings, capsule materials, sweeteners, and proprietary blends. Allergens or interacting ingredients may be present outside the mushroom component.
 
@@ -149,7 +149,7 @@ Dietary supplements can affect medication absorption or metabolism, bleeding, bl
 
 Discuss the exact label with a clinician or pharmacist before use if taking prescription medicines, preparing for surgery, receiving cancer or immune therapy, or managing liver, kidney, bleeding, allergy, or autoimmune conditions. People who are pregnant or breastfeeding and children also need individualized guidance because evidence is often limited.
 
-Do not stop or reduce prescribed treatment to try a mushroom product. Bring the bottle or clear photographs of every label panel, not just the front brand name.
+Do not stop or reduce prescribed treatment to try a mushroom product. Bring the bottle or clear photographs of every label panel, not just the front brand name. The [medicinal mushroom safety guide](/health/medicinal-mushroom-safety/) provides a product-specific interaction, surgery, adverse-event, and stop-rule checklist for that conversation.
 
 ## Avoid changing several products at once
 

@@ -189,6 +189,10 @@ General food practice still applies: source cultivated mushrooms from reputable 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
 
+## Keep cultivated enoki separate from wild velvet shank
+
+Commercial enoki appearance reflects production conditions and does not provide a field-identification shortcut. The [velvet shank guide](/mushrooms/velvet-shank-mushroom-guide/) documents the dark lower stem, cool-season hardwood setting, spore evidence, regional name limits, and the safety boundary with brown-spored wood-growing mushrooms.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

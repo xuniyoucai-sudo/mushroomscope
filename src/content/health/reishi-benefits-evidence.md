@@ -51,7 +51,7 @@ This page therefore does not provide a “best reishi dose” or recommend a bra
 
 ## What researchers mean by reishi
 
-Scientific names matter because older papers, commercial labels, and modern taxonomy do not always use *Ganoderma* names consistently. A product labeled only “reishi mushroom” leaves unanswered which species was used and how its identity was confirmed. The [reishi species guide](/mushrooms/reishi-mushroom-guide/) explains the organism and common naming issues; it is identification context, not evidence that a supplement works.
+Scientific names matter because older papers, commercial labels, and modern taxonomy do not always use *Ganoderma* names consistently. A product labeled only “reishi mushroom” leaves unanswered which species was used and how its identity was confirmed. The [reishi species guide](/mushrooms/reishi-mushroom-guide/) explains the organism and common naming issues; it is identification context, not evidence that a supplement works. The same evidence boundary appears in the [chaga species guide](/mushrooms/chaga-mushroom-guide/), where a host-associated field organism must not be treated as proof about a retail extract.
 
 The fungal part also matters. A mature fruiting body is chemically and physically different from mycelium grown on grain. Spore preparations introduce another material, and “broken spore” processing is itself a manufacturing variable. A label may list the mass of a raw powder, the mass of an extract, or an “equivalent” quantity calculated from an extraction ratio. Those numbers do not mean the products deliver the same exposure.
 
@@ -115,7 +115,7 @@ Published safety data are less complete than many advertisements imply. Gastroin
 
 People with mushroom allergy should avoid experimentation. Anyone who is pregnant or breastfeeding, is a child, is preparing for surgery, has liver or kidney disease, has a bleeding disorder, has an immune or autoimmune condition, or takes prescription medicines should obtain individualized advice before use. Potential concern is particularly relevant around anticoagulant or antiplatelet medicines and therapies that intentionally alter immune function, but a general webpage cannot determine an individual interaction.
 
-Do not respond to a suspected reaction by switching brands and restarting on your own. Keep the container, lot number, ingredient panel, timing, and amount taken. Seek urgent care for trouble breathing, facial or throat swelling, fainting, severe weakness, uncontrolled bleeding, confusion, or another severe symptom. In the United States, serious supplement problems can also be reported through FDA MedWatch; other countries have their own reporting systems.
+Do not respond to a suspected reaction by switching brands and restarting on your own. Keep the container, lot number, ingredient panel, timing, and amount taken. The [medicinal mushroom safety guide](/health/medicinal-mushroom-safety/) explains how to preserve product identity, medicine context, timing, and lot evidence across concentrated mushroom products. Seek urgent care for trouble breathing, facial or throat swelling, fainting, severe weakness, uncontrolled bleeding, confusion, or another severe symptom. In the United States, serious supplement problems can also be reported through FDA MedWatch; other countries have their own reporting systems.
 
 ## A practical decision framework
 

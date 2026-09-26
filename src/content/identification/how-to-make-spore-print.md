@@ -114,6 +114,10 @@ No online article, photo set, spore print, or color result can verify that a wil
 
 If someone may have eaten a wild mushroom, seek urgent local medical or poison-control advice rather than waiting for a print or an online identification. If it is safe to do so, retain uncooked material, cooked leftovers, packaging, and photographs for professionals. Do not induce vomiting unless a clinician or poison center specifically directs it.
 
+## Use the print with the complete collection
+
+A pale print can support a *Flammulina* comparison only when it remains tied to the same intact cluster, stem bases, gills, and host wood. The [velvet shank guide](/mushrooms/velvet-shank-mushroom-guide/) shows why pale spores are supporting evidence while rusty-brown spores, a ring zone, or mixed clusters require a stop and wider comparison.
+
 ## References
 
 1. [Iowa State University Extension — Tips for Collecting and Identifying Mushrooms](https://yardandgarden.extension.iastate.edu/how-to/tips-collecting-and-identifying-mushrooms)
