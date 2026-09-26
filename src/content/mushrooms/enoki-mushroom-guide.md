@@ -5,7 +5,7 @@ keywords: ["Flammulina filiformis","enoki","mushroom identification","mushroom g
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-28
+updatedDate: 2026-09-27
 revisionSummary: "Separated cultivated enoki from wild Flammulina identification, added production-variable records, recall-aware handling, and texture-based cooking decisions."
 draft: false
 featured: false
@@ -192,6 +192,18 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 ## Keep cultivated enoki separate from wild velvet shank
 
 Commercial enoki appearance reflects production conditions and does not provide a field-identification shortcut. The [velvet shank guide](/mushrooms/velvet-shank-mushroom-guide/) documents the dark lower stem, cool-season hardwood setting, spore evidence, regional name limits, and the safety boundary with brown-spored wood-growing mushrooms.
+
+## Follow the cold-chain history, not just the use-by date
+
+Cultivated enoki is sold as a dense, moist cluster with extensive cut surface area. That form makes lot identity and temperature history operationally important. At purchase, keep the original package long enough to retain the producer, country, lot, and date information. Refrigerate promptly, prevent juices from contacting ready-to-eat foods, and clean hands, utensils, and surfaces after preparation. Discard mushrooms covered by a relevant recall rather than trying to wash or cook away the recall decision.
+
+Temperature abuse and time cannot be reconstructed from appearance. A white cluster without visible spoilage can still carry microbial risk, while browning or drying does not diagnose a specific pathogen. People who are pregnant, aged 65 or older, or immunocompromised face higher consequences from listeriosis and should follow current public-health advice about higher-risk foods. This is a product-handling boundary, not a reason to treat wild *Flammulina* identification as a grocery question.
+
+## Separate morphology created by the farm from species characters
+
+The familiar long white stem and tiny pale cap are production phenotypes shaped by strain, light, carbon dioxide, temperature, humidity, and crowding. Wild fruit bodies exposed to normal light and ventilation can develop darker, broader caps and short, velvety stems. Therefore a market cluster should not be used as the sole visual template for identifying a woodland specimen. Conversely, a brown velvet-stemmed mushroom on wood cannot be assumed to be an escaped grocery enoki.
+
+For a cultivation comparison, change one recorded variable at a time. Photograph the same strain at pinning, early elongation, and harvest; record substrate dry mass, inoculation date, incubation temperature, fruiting temperature, relative humidity, carbon-dioxide reading at canopy height, light schedule, fresh yield, and abnormalities. A dense stem is not automatically a success if caps abort, bases become waterlogged, or airflow and hygiene controls are compromised. The [mushroom batch records guide](/growing/mushroom-batch-records/) provides a traceable format for separating strain effects from room effects.
 
 ## References
 

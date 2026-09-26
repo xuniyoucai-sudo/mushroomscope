@@ -150,6 +150,8 @@ Before closing an observation, confirm that you have habitat photographs, exact 
 
 Before any food decision, add qualified local in-person confirmation, separation of every specimen, storage and cooking guidance, and an emergency contact plan. If one of those elements is missing, the safe result is simple: document the mushroom, but do not eat it.
 
+The [edible mushroom lookalikes guide](/identification/edible-mushroom-lookalikes/) applies this stop/go logic to chanterelles, morels, pale gilled fungi, puffballs, boletes, and brackets without offering eating clearance.
+
 ## References
 
 1. [CDC MMWR: accidental poisonous mushroom ingestions](https://www.cdc.gov/mmwr/volumes/70/wr/mm7010a1.htm)

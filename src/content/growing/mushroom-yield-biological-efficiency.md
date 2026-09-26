@@ -139,6 +139,8 @@ Track gross growth and discarded or saleable mass separately; never market suspe
 
 No. Time, labor, energy, contamination, quality, and saleable yield also matter.
 
+For comparisons across rooms or strains, retain both the wet harvest log and the original dry-substrate calculation. A percentage copied without those two records cannot be audited, and changing the denominator between batches can create an apparent improvement even when the actual fresh harvest is unchanged.
+
 ## References
 
 1. [Cornell harvest-to-market business planning](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/24199-2/)

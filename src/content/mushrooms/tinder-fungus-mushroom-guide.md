@@ -182,6 +182,8 @@ The active pore surface also changes through the season. Fresh pore tissue may b
 
 For a tree-risk observation, distinguish fungal identity from structural assessment. *Fomes fomentarius* indicates established white rot, yet bracket number and size do not measure the remaining load-bearing shell. Record bracket height, trunk side, cavities, cracks, crown condition, targets, and recent weather without probing or cutting a public tree. A qualified arborist integrates those observations with tree mechanics; a mushroom guide cannot predict failure timing.
 
+For a host-specific annual bracket comparison, the [birch polypore guide](/mushrooms/birch-polypore-mushroom-guide/) contrasts attachment, pore layers, birch evidence, and brown-rot context with perennial hoof fungi.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Fomes fomentarius species record](https://www.gbif.org/species/8068867). Accepted-name and distribution context for the tinder-fungus concept.

@@ -128,6 +128,8 @@ Continue with the [species encyclopedia](/mushrooms/) and other [identification 
 
 Photograph young and mature gills at the same angle because cap expansion can alter the apparent relationship to the stem. Record short gills, forks, cross-veins, edge color, bruising, and whether the stem separated naturally or was torn. Attachment vocabulary narrows a key but never authenticates edibility on its own.
 
+The [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/) shows why gill attachment must be recorded together with latex emergence, later staining, host trees, and regional taxonomy.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

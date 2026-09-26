@@ -6,7 +6,7 @@ keywords: ["birch polypore", "Fomitopsis betulina", "birch polypore identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
-updatedDate: 2026-09-16
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/birch-polypore-editorial-v3.png"
@@ -152,6 +152,18 @@ Leave most fruit bodies in place. They produce spores, provide habitat, and docu
 ## Preserve host evidence with the bracket record
 
 Photograph birch bark, leaves or twigs, the attachment point, upper cap, pore surface, and side profile under one collection number. Weathered pale brackets on an uncertain host should remain unresolved. Host fit supports the name but does not replace pore, texture, age, range, and local expert review.
+
+## Use attachment geometry to reconstruct bracket development
+
+A young *Fomitopsis betulina* begins as a pale, rounded swelling that expands into a hoof- or kidney-shaped annual bracket. Record where the cap meets the wood: a broad lateral attachment without a true stem is more informative than the cap outline alone. In a sequence on the same fallen birch, measure projection from the bark, width across the attachment, thickness near the base, and thickness at the actively growing margin. A thin, pale, rounded margin indicates current expansion; an older bracket becomes firmer, browner, and more cracked as weather and insects alter it.
+
+Section one damaged or expendable bracket vertically. The pore tubes form a distinct layer beneath the pale context, and the upper crust is not equivalent to the soft interior. Photograph tube depth and context thickness with a scale. These measurements help separate a single annual fruit body from perennial hoof fungi that add visible tube layers over multiple seasons. Do not cut multiple intact brackets merely to repeat the same observation; retain the host, attachment, and aging sequence in the record.
+
+## Map birch decay without diagnosing tree risk from a fruit body
+
+Birch polypore is strongly associated with birch, but “on birch” still needs verification. Photograph bark, twigs, buds, and any leaves independently of the fungus. On downed wood, note whether bark is retained, whether the trunk broke before or after extensive decay, and whether cubical brown-rot structure is visible in a naturally exposed surface. The bracket and the decay pattern support an ecological interpretation; neither dates colonization or proves why a standing tree failed.
+
+Tree-risk decisions need more than a species name. A fruit body can indicate established internal decay, while stability also depends on remaining sound wood, stem diameter, root condition, lean, wind exposure, targets, and other defects. Keep this natural-history record separate from an arboricultural assessment. That boundary makes the page useful without turning a bracket photograph into a safety verdict.
 
 ## References
 

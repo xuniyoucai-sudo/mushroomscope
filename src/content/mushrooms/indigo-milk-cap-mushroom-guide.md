@@ -144,6 +144,8 @@ Complete the record with a top view, underside, intact stem base, cross-section,
 
 Finally, keep identification and use as separate decisions. A specimen can be a valuable identification exercise even when the evidence is incomplete or collection is not permitted. It can be a likely *Lactarius* without being safely named to species, and it can be accurately named without being suitable to eat. That restraint is not a gap in the guide; it is the responsible endpoint of a web-based field reference.
 
+For an orange-latex comparison where color changes must be timed rather than guessed, see the [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/).
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Lactarius indigo* (Schwein.) Fr.](https://www.gbif.org/species/7240044). Taxonomic backbone, accepted name, and occurrence context.

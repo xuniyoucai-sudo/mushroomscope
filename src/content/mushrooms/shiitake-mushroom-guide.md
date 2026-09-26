@@ -198,6 +198,8 @@ Dried shiitake behave differently. Rehydrate them with clean water under control
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
 
+For claims about cooked food, lentinan, cholesterol, or dermatitis, the [shiitake health-benefits evidence guide](/health/shiitake-health-benefits/) separates the whole mushroom from extracts and defined preparations.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

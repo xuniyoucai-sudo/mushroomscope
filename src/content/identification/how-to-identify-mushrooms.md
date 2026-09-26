@@ -139,6 +139,8 @@ For teaching, compare one confirmed reference collection with one unresolved col
 
 End every determination with the evidence that could strengthen or overturn it. Name the required view, measurement, microscopic feature, host confirmation, or expert comparison. This makes confidence testable and prevents a tentative label from becoming permanent merely through repetition. If that evidence can no longer be recovered, retain the conservative confidence level.
 
+When an edible name has been proposed, use the [edible mushroom lookalikes comparison method](/identification/edible-mushroom-lookalikes/) to build a regional alternative set and record the structures that could reject the candidate.
+
 ## References
 
 1. [University of Kentucky Forestry — Photographing Mushrooms for Identification](https://forestry.mgcafe.uky.edu/sites/forestry.ca.uky.edu/files/forfs%2024-10.pdf)

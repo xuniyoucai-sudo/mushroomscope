@@ -171,6 +171,8 @@ A packet labeled chaga tea, powder, or extract cannot be authenticated from the 
 
 This separation also protects identification work. Oxalate exposure, medicine interactions, allergy, contamination, and individual conditions are product and person questions; they cannot be resolved by confirming a birch-associated conk. A field determination should end with taxonomy and ecology. A use decision begins a new evidence review and, where health conditions or medicines are involved, belongs with a clinician or pharmacist who can inspect the exact product.
 
+Birch supports more than one conspicuous fungus: the [birch polypore guide](/mushrooms/birch-polypore-mushroom-guide/) explains how an annual bracket, its pore surface, and brown-rot record differ from chaga’s sterile conk.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Inonotus obliquus species record](https://www.gbif.org/species/2521089). Taxonomic backbone and occurrence context.

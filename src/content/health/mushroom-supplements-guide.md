@@ -193,6 +193,8 @@ The most responsible conclusion for mushroom supplements as a category is limite
 
 The [mushroom-antioxidants evidence guide](/health/mushroom-antioxidants/) separates chemical assays from human outcomes. The [maitake benefits review](/health/maitake-benefits-evidence/) shows how fruiting body, mycelium, powder and extract claims must be matched to the material actually studied.
 
+The [shiitake health-benefits evidence guide](/health/shiitake-health-benefits/) shows how to audit a concrete example where whole food, fruiting-body powder, extracts, and lentinan are often treated as though they were equivalent.
+
 ## References
 
 1. [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)
