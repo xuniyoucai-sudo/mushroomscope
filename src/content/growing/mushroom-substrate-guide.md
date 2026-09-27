@@ -97,6 +97,8 @@ Preparing a substrate becomes worthwhile when you have a documented method and c
 
 For a garden-scale wood-chip project, see the [outdoor wine-cap bed guide](/growing/outdoor-mushroom-bed/). It narrows the system to a labeled culture, known mixed hardwood chips, a suitable site, and a weather log rather than presenting every substrate as a garden-bed candidate.
 
+The companion [wine-cap species guide](/mushrooms/wine-cap-mushroom-guide/) explains why a hardwood-chip substrate and an inoculation record still do not identify every mushroom that later appears in the bed.
+
 ## Treat heat treatment as method-specific
 
 “Sterilize the substrate” is not an all-purpose instruction. Cornell notes that substrate preparation varies among chopping logs, preparing beds, pasteurizing straw, and mixing or sterilizing block materials. The appropriate treatment and cleanliness level depend on the culture, material, and documented system.

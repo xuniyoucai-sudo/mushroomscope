@@ -5,7 +5,7 @@ keywords: ["chanterelle vs. jack-o-lantern mushrooms: key differences", "mushroo
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-27
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-gill-types", "identification/mushroom-identification-safety-checklist"]
@@ -13,6 +13,8 @@ coverImage: "../../assets/identification/chanterelle-vs-jack-o-lantern-v2.png"
 coverAlt: "Chanterelles growing separately from forest soil beside a dense jack-o'-lantern cluster attached to a decaying stump"
 imageCredit: "Original MushroomScope AI-generated editorial image"
 imageNote: "AI-generated educational comparison showing habitat and underside differences; it is not a field record or evidence for identifying or eating a wild specimen."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
@@ -39,7 +41,7 @@ safetyNotice: "This educational guide cannot authenticate a wild mushroom or det
 
 Compare ridge-like folds, growth pattern, color, interior tissue, and habitat without treating an online comparison as an edibility verdict. The central task is a high-risk lookalike comparison. A defensible observation separates what was directly seen from what was inferred. Common names, image-search results, and app suggestions can generate hypotheses, but none establishes identity or edibility.
 
-Start with provenance: location, date, weather, habitat, substrate, nearby plants, and whether fruit bodies were solitary, clustered, or shelf-like. Photograph before collecting. Where collection is legal, retain the entire stem base and multiple ages. Never taste an unidentified mushroom.
+Start by preserving the relationship between every orange fruit body and its substrate. Photograph the entire troop or cluster, then trace one base to soil, root, stump, or buried wood without mixing specimens from separate patches. Record nearby trees, whether stems share a fused base, and whether the mushrooms recur from the same woody point. These observations directly test the mycorrhizal-chanterelle versus wood-decaying-*Omphalotus* question; never taste an unidentified collection.
 
 ## What to examine
 
@@ -49,7 +51,7 @@ Start with provenance: location, date, weather, habitat, substrate, nearby plant
 - **interior flesh color:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 - **local expert confirmation:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 
-Color changes with light, moisture, age, and camera processing. Shape changes during expansion. A single “matching” character has little value when ecology, fertile surface, stem base, or spore deposit conflicts. Use current regional keys because possible species differ by continent and habitat.
+Treat orange color as low-weight evidence. Diffuse daylight, rain, fading, phone white balance, and exposure can make both groups appear yellower or redder. Give more weight to the underside: blunt, branching folds continuous with cap flesh support a chanterelle hypothesis, while numerous thin, sharp, separable blades support *Omphalotus*. If substrate, underside, or the cut interior contradicts the color impression, keep the record unresolved and use a current regional key.
 
 ## A repeatable field method
 
@@ -124,13 +126,13 @@ The [poisonous mushroom warning guide](/identification/poisonous-mushroom-warnin
 
 ## Interpretation limits
 
-Online communities can improve documentation, but remote viewers cannot examine texture, odor, microscopic structures, or hidden tissue. DNA sequences also require specimen vouchers and reliable reference data. An identification confidence label should reflect the weakest missing decisive character, not the number of people who liked a photograph.
+Remote reviewers can point out a visible wood attachment or blade-like gills, but they cannot restore a discarded base, test whether folds are integral to the cap, or verify that every mushroom in a mixed basket came from one patch. Sequence data are meaningful only when tied to a documented voucher and trustworthy reference. For this comparison, confidence should fall sharply whenever substrate, complete underside, longitudinal section, or region is missing—regardless of how many people recognize the color.
 
-For suspected poisoning, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging, and photographs if it is safe to do so. Do not wait for a social-media identification.
+Because jack-o'-lantern ingestion can produce severe gastrointestinal illness, call the local poison center or emergency service promptly after a suspected exposure rather than waiting for a crowd-sourced name. Keep specimens from the original patch, cleaning scraps, cooked food, photographs of the attachment, meal timing, and the number of people exposed. Do not induce vomiting unless a medical professional instructs you to do so.
 
 ## Continue the dangerous-lookalike workflow
 
-Continue with the [species encyclopedia](/mushrooms/) and other [identification guides](/identification/). These pages are educational and intentionally conservative.
+Continue with the [chanterelle species guide](/mushrooms/chanterelle-mushroom-guide/) for the regional *Cantharellus* problem and the [gill-types guide](/identification/mushroom-gill-types/) for a closer examination of folds versus true blades. Neither page converts a photograph into food clearance; the purpose is to improve the evidence taken to a qualified local identifier.
 
 ## Write the final comparison as evidence, not a verdict
 

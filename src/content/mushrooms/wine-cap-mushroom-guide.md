@@ -6,12 +6,15 @@ keywords: ["wine cap", "Stropharia rugosoannulata", "wine cap identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/wine-cap-mushroom-editorial-v2.png"
 coverAlt: "Burgundy wine cap mushrooms with a textured ring growing in a hardwood-chip bed"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
 imageNote: "Visual context only; this AI-generated editorial image is not evidence for identifying a wild specimen."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "growing/mushroom-substrate-guide", "growing/outdoor-mushroom-bed"]
 sources:
   - title: "GBIF — Stropharia rugosoannulata"
@@ -85,14 +88,14 @@ Broad burgundy to reddish-brown caps that fade with age, pale crowded gills beco
 
 A saprotroph of wood chips, mulch, and rich garden beds. The documented range represented here includes Europe and North America and introduced elsewhere. Typical substrates or settings include hardwood chips and mulch and rich soil. Fruiting records commonly occur in May, June, July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Wine caps often fruit where hardwood chips meet rich soil, so “on the ground” is not a sufficient substrate record. Pull mulch aside beside—not through—the cluster and note chip species if known, chip age, depth, irrigation, compost additions, and whether white rope-like mycelium binds the bed. Photograph stems emerging through the chips and record whether the bed was intentionally inoculated. A managed mulch bed can explain abundance, but it does not authenticate every brown-capped mushroom growing there.
 
 ## Similar species
 
 - **Leratiomyces ceres — usually smaller and bright red-orange on wood chips.**
 - **Other Stropharia species — spore color and ring details require a current key.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Separate wine caps from other mulch inhabitants with a combination of the burgundy-to-tan cap sequence, pale young gills maturing purple-brown, a robust pale stem, and the thick radially grooved or cogwheel-like ring. *Leratiomyces ceres* is commonly smaller and orange-red, while other *Stropharia* may share dark spores without the same stature and ring. Photograph the ring before it tears or becomes coated with spores; microscopy and a regional key may still be necessary when weather erases the color contrast.
 
 ## Read the cap, gills, and ring as one profile
 
@@ -152,11 +155,11 @@ Photograph it in place, keep it out of food, compare it through a qualified loca
 
 Wine cap has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+If illness follows a mulch-bed mushroom meal, contact the local poison center or emergency service promptly and say that a wood-chip species was suspected. Keep uncooked caps and complete stem bases, cleaning scraps, the culture or spawn label if the bed was inoculated, photographs of other mushrooms in the bed, and meal timing. Mixed flushes can occur in cultivated beds, so the fact that wine-cap spawn was added does not prove the identity of every fruit body harvested later.
 
 ## Cultivation context
 
-Commercial cultivation is practical with authenticated spawn and species-appropriate plant material. Follow the supplier’s strain-specific temperatures and hygiene process; internet-wide set points cannot replace those instructions. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Outdoor cultivation usually begins with authenticated *S. rugosoannulata* spawn layered through fresh, untreated hardwood chips or a documented chip-and-straw mix in a shaded bed. Record spawn lot, bed area and depth, chip source, installation date, moisture checks, and first fruiting rather than copying an indoor oyster schedule. Add water to keep the interior damp without creating stagnant, sour pockets. Before harvest, inspect each fruit body independently because unrelated mulch fungi can fruit through the same bed; an unexpected gill color, missing ring, different stature, slime, or persistent off odor is a reason to isolate the collection rather than rescue it for food.
 
 ## How to document a find
 
@@ -173,4 +176,4 @@ Commercial cultivation is practical with authenticated spawn and species-appropr
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 27, 2026. Taxonomy, mulch-bed ecology, regional comparisons, cultivation records, and poison-response contacts were rechecked editorially; no named mycologist or clinician reviewed this page.*

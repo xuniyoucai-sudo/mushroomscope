@@ -5,7 +5,7 @@ keywords: ["mushroom gill types: attachment, spacing, and color", "mushroom iden
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-27
 revisionSummary: "Expanded the attachment glossary, added a field-recording and photo workflow, clarified non-gill lookalike surfaces, and replaced broad reference links with identification and poison-safety sources."
 draft: false
 featured: false
@@ -14,6 +14,8 @@ coverImage: "../../assets/identification/mushroom-gill-types.jpg"
 coverAlt: "Underside comparison illustrating several mushroom gill attachment patterns"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying or eating a wild specimen."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "University of Florida IFAS — Oyster Mushrooms"
     url: "https://ask.ifas.ufl.edu/publication/PP384"
@@ -44,7 +46,7 @@ safetyNotice: "This educational guide cannot authenticate a wild mushroom or det
 
 Compare free, attached, notched, and decurrent gills while recording spacing, color changes, and short gills. The central task is gill attachment and development. A defensible observation separates what was directly seen from what was inferred. Common names, image-search results, and app suggestions can generate hypotheses, but none establishes identity or edibility.
 
-Start with provenance: location, date, weather, habitat, substrate, nearby plants, and whether fruit bodies were solitary, clustered, or shelf-like. Photograph before collecting. Where collection is legal, retain the entire stem base and multiple ages. Never taste an unidentified mushroom.
+Gill terminology is useful only when attached to a specimen record. Photograph the intact cap-to-stem junction before cutting, then section one young and one mature fruit body through the center. Record whether the cap expanded after collection, whether the stem was torn from the cap, and whether short gills end between full-length blades. Those details prevent handling damage from being misread as a naturally free, notched, or decurrent attachment.
 
 ## What to examine
 
@@ -54,7 +56,7 @@ Start with provenance: location, date, weather, habitat, substrate, nearby plant
 - **color at maturity:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 - **bruising or latex:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 
-Color changes with light, moisture, age, and camera processing. Shape changes during expansion. A single “matching” character has little value when ecology, fertile surface, stem base, or spore deposit conflicts. Use current regional keys because possible species differ by continent and habitat.
+Attachment can change in appearance as a cap opens: a narrowly attached young gill may look notched later, while a torn stem can leave false gaps. Photograph the junction at the same angle across ages and describe what is actually visible before selecting a glossary term. Gill color and spacing also shift as spores mature or tissue dries, so pair the attachment record with substrate, veil remnants, spore deposit, flesh changes, and a regional key.
 
 ## Name the attachment without forcing it
 
@@ -116,13 +118,13 @@ Conflicting characters are valuable information. A mushroom that seems to have d
 
 ## Interpretation limits
 
-Online communities can improve documentation, but remote viewers cannot examine texture, odor, microscopic structures, or hidden tissue. DNA sequences also require specimen vouchers and reliable reference data. An identification confidence label should reflect the weakest missing decisive character, not the number of people who liked a photograph.
+An underside photograph can support a morphology lesson, but it rarely shows whether a blade is brittle, waxy, detachable, forked, cross-veined, or interrupted near the margin. A remote reviewer also cannot correct a junction already sliced away. When a key depends on microscopic edge cells, spores, or tissue arrangement, preserve material under one collection number and state which character remains unobserved instead of upgrading confidence from visual agreement alone.
 
 For suspected poisoning, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging, and photographs if it is safe to do so. Do not wait for a social-media identification. North Carolina Poison Control specifically advises treating unknown mushroom ingestion as potentially serious; use your local poison-center or emergency contact rather than relying on a remote identification.
 
 ## Connect gill observations with the rest of the specimen
 
-Continue with the [species encyclopedia](/mushrooms/) and other [identification guides](/identification/). These pages are educational and intentionally conservative.
+Use the [mushroom stem-features guide](/identification/mushroom-stem-features/) to document rings, bases, and surface structures that must be interpreted alongside gill attachment. The [chanterelle versus jack-o'-lantern comparison](/identification/chanterelle-vs-jack-o-lantern/) demonstrates a high-risk case where blunt folds and true blades lead to different hypotheses. Neither vocabulary page authenticates a specimen for eating.
 
 ## Preserve attachment changes across development
 

@@ -67,6 +67,8 @@ An outdoor mushroom bed is not a shortcut for growing any mushroom anywhere. It 
 
 For a first bed, keep the scope narrow: purchase **labeled wine-cap spawn**, use the supplier's written directions, and build one small, traceable patch. Wine cap is also called garden giant or *Stropharia rugosoannulata* in cultivation materials. This page does not teach identification and does not say that every burgundy mushroom in a wood-chip bed is a wine cap or edible.
 
+Use the [wine-cap species guide](/mushrooms/wine-cap-mushroom-guide/) to record cap fading, purple-brown gill maturation, the cogwheel-like ring, and mulch-bed lookalikes separately from this bed-building workflow.
+
 | If you have… | A bed may be a fit when… | Pause when… |
 | --- | --- | --- |
 | A shaded garden edge or mulched perennial area | You can keep a written record and use known, untreated hardwood chips with labeled wine-cap spawn. | The soil, former use, or mulch source is uncertain. |

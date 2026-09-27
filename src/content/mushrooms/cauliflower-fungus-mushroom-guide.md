@@ -6,12 +6,15 @@ keywords: ["cauliflower fungus", "Sparassis crispa", "cauliflower fungus identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/cauliflower-fungus-editorial-v2.png"
 coverAlt: "Pale cauliflower fungus with tightly curled branches at the base of a conifer"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
 imageNote: "Visual context only; this AI-generated editorial image is not evidence for identifying a wild specimen."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification", "mushrooms/dryads-saddle-mushroom-guide"]
 sources:
   - title: "GBIF — Sparassis crispa"
@@ -85,14 +88,14 @@ A large cream to ochre mass of flattened, tightly curled, leaf-like branches. Th
 
 A root and butt-associated fungus, especially near conifers. The documented range represented here includes Europe and northern Asia. Typical substrates or settings include conifer roots and buried wood and tree bases. Fruiting records commonly occur in August, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Cauliflower fungi typically appear at the base of a conifer, beside a stump, or from roots hidden beneath soil and litter. Record the host species, whether it is living or cut, the fruit body's distance from the trunk, and whether the same point has fruited in earlier years. Do not cut roots or pry apart a living tree base to prove the connection. A ground-level rosette near pine is ecologically informative, but the complete branching form and regional *Sparassis* concept still require examination.
 
 ## Similar species
 
 - **Sparassis radicata — a western North American species with a deep rooting base.**
 - **Sparassis spathulata — thinner, more zoned branches and a different range.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Compare the whole architecture rather than matching the word “cauliflower.” *Sparassis* forms a rooted mass of many flattened, wavy, leaf-like branches with a fertile surface spread across the folds. Coral fungi generally divide into upright cylindrical or club-like branch tips, while clustered polypores resolve into individual fan-shaped caps with pores below. Color, branch width, host, geographic range, and microscopic characters separate regional *Sparassis* species when the macroscopic form overlaps.
 
 ## Recognize the branching structure before naming it
 
@@ -152,11 +155,11 @@ Keep it separate, document the habitat and every surface, do not serve it, and a
 
 Cauliflower fungus has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+If symptoms follow a wild rosette or coral-like mushroom meal, contact the local poison center or emergency service promptly. Preserve an intact branch section including its lower attachment, uncooked material, trimmings, photographs beside the host, and meal timing. The dense folds can also retain grit, insects, degraded tissue, and cleaning chemicals, so report both the identification uncertainty and how the specimen was stored and prepared.
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Commercial *Sparassis* production exists, but it is not equivalent to placing an unidentified wild fragment on a generic sawdust block. Culture selection, conifer-derived substrate formulations, sterilization, long colonization, and controlled fruit-body development are strain- and facility-dependent. Home growers seeking a predictable first crop are better served by a traceable oyster block. Do not clone a wild collection for food, and discard a production unit with unverified culture identity, colored contamination, sour odor, insects, or soft decay rather than judging it by a cauliflower-like outline.
 
 ## How to document a find
 
@@ -173,4 +176,4 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 27, 2026. Regional *Sparassis* boundaries, conifer-host evidence, production limits, and poison-response contacts were rechecked editorially; no named mycologist or clinician reviewed this page.*

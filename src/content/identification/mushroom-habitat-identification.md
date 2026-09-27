@@ -100,6 +100,8 @@ Start with observed facts: region, date, elevation, substrate, host evidence, gr
 
 Use habitat to reject impossible candidates before choosing among visually similar ones. A mushroom known only from conifer wood is a poor fit for a verified living hardwood; a mycorrhizal forest species is a poor fit for a sterile indoor block. Yet host records and taxonomy can change, and introduced wood chips can move organisms, so unusual observations deserve documentation rather than instant dismissal.
 
+For a worked conifer-root example, the [cauliflower fungus guide](/mushrooms/cauliflower-fungus-mushroom-guide/) shows how tree condition, distance from the trunk, hidden roots, and regional *Sparassis* boundaries belong in the same record as the branched fruit body.
+
 When the substrate is hidden or the tree uncertain, mark it unknown. Do not invent ecological precision to complete a checklist. A later expert may identify the overlooked wood fiber or plant photograph, while a false certainty can misdirect the entire determination.
 
 ## Compare habitats across seasons and regions

@@ -66,6 +66,8 @@ steps:
 
 For a first home oyster project, use a labeled ready-to-fruit block from a reputable supplier. This keeps the culture and substrate decisions together and lets you learn a smaller set of variables: where the block is placed, how you follow its instructions, what you observe, and how you handle a sound harvest.
 
+If the supplied culture is a warm-fruiting coral strain, consult the [pink oyster species and growing guide](/mushrooms/pink-oyster-mushroom-guide/) for color fading, fast harvest timing, and strain-specific evidence boundaries rather than applying a gray-oyster schedule by name alone.
+
 Cornell describes spawn production and substrate preparation as specialized stages of mushroom cultivation. A supplied block deliberately removes those stages from a first attempt. It is not a shortcut to identify or grow wild mushrooms, and it does not turn a generic photo or online recommendation into instructions for a different strain.
 
 ## Before opening the block, make a baseline record

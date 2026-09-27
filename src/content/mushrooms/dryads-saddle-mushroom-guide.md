@@ -133,6 +133,8 @@ Readers who already have correctly identified, fresh, legally collected young ma
 
 Because this fungus digests hardwood, it can seem like an obvious home-growing candidate. In practice, species confirmation, clean culture, substrate selection, incubation conditions, and fruiting reliability make it a poor first project. Do not clone a found mushroom for food or move wood and fungi between sites. If cultivation is of interest, use authenticated commercial culture and a method specific to the species, or begin with a better-documented saprotroph such as oyster mushroom.
 
+Do not confuse a mass of branching folds with a layered bracket: the [cauliflower fungus guide](/mushrooms/cauliflower-fungus-mushroom-guide/) contrasts the rooted *Sparassis* rosette at conifer bases with individually capped, pore-bearing wood-decay fungi.
+
 When observing a living tree, leave the bracket and surrounding wood intact unless lawful collection has a clear purpose. The fungus is part of a decomposer community, and repeated photographs across weather and age can teach more than removing every young cap. Respect landowner rules, protected-area restrictions, and local collection limits.
 
 ## A disciplined record is more useful than a fast answer

@@ -146,6 +146,8 @@ A shelf growing at soil level may emerge from a buried root, stump or log. Clear
 
 The core name on this page is the temperate *P. ostreatus* concept represented by the cited taxonomy record. Pale warm-season oysters may instead be treated as *P. pulmonarius* or another regional lineage, and North American versus European name use is not perfectly interchangeable. This boundary matters for a species record but usually matters less for a correctly labeled cultivated food package. Preserve collection country, date and the authority used rather than backfilling a species name from the English word “oyster.”
 
+The [pink oyster guide](/mushrooms/pink-oyster-mushroom-guide/) treats the warm-adapted *P. djamor* complex, coral color changes, culture provenance, and the orange hairy *Phyllotopsis* comparison as a separate identification and growing intent.
+
 Leave part of a fresh oyster cluster attached so the substrate and developmental sequence remain available to other observers and for spore dispersal. When collecting is permitted, retain the common base, representative caps, a section through cap and stem, and a dried voucher with the host record. Dense urban or roadside fruiting also requires a contamination-history decision separate from taxonomic identification.
 
 ## Choose a crop system before setting a fruiting room

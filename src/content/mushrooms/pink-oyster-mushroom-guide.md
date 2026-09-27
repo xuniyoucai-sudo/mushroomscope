@@ -6,12 +6,15 @@ keywords: ["pink oyster mushroom", "Pleurotus djamor", "pink oyster mushroom ide
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-25
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/pink-oyster-mushroom-editorial-v2.jpg"
 coverAlt: "Coral-pink oyster mushrooms with decurrent gills fruiting from a cultivated substrate block"
 imageCredit: "Original MushroomScope AI-generated editorial image"
 imageNote: "Cultivation context only; not a field specimen or evidence for identifying a wild mushroom."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "identification/oyster-mushroom-lookalikes", "growing/mushroom-substrate-guide"]
 sources:
   - title: "GBIF — Pleurotus djamor"
@@ -93,7 +96,7 @@ The name also needs a taxonomic boundary. NCBI records *Pleurotus djamor* in Ple
 
 A tropical hardwood decomposer widely cultivated on plant residues. The documented range represented here includes tropical Americas and Asia and cultivated worldwide. Typical substrates or settings include hardwood and pasteurized straw and supplemented sawdust. Fruiting records commonly occur in May, June, July, August, September, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+For a wild pink shelf fungus, document the exact hardwood attachment, decay stage, climate zone, and whether caps arise from one lateral base. For a cultivated cluster, replace habitat guesses with culture provenance: supplier, strain or lot, substrate formula, incubation temperature, fruiting temperature, and harvest age. Keeping wild ecology and production history separate prevents a striking coral color from doing taxonomic work that only attachment, gills, spores, region, and traceable culture can support.
 
 Pink oysters are warm-adapted wood decomposers rather than the cool-weather gray oysters many temperate growers know. The University of Florida IFAS oyster-growing guide includes *P. djamor* among colorful oyster species and emphasizes that species and ambient conditions influence fruit-body color. A warm grow room can therefore suit an authenticated pink-oyster strain while being inappropriate for a cool-fruiting strain sold under another oyster name.
 
@@ -104,7 +107,7 @@ Wild occurrence data must be read cautiously. A point on a biodiversity map may 
 - **Other Pleurotus species — cultivated strains vary and species identity may require culture records.**
 - **Phyllotopsis nidulans — orange hairy caps with an unpleasant odor and different spores.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+The most useful comparison begins with surface texture and attachment. Pink oysters should have a smooth to finely textured fan-shaped cap, decurrent gills, and a short lateral attachment. *Phyllotopsis nidulans* is usually orange-yellow with a conspicuously hairy or tomentose upper surface and often a strong odor; other *Pleurotus* cultures may be pale, gray, yellow, or weakly pink. A faded harvested cluster may lose its best color clue, so use culture records or a current regional key rather than an image match.
 
 ### Separate a pink cultivar from a wild identification
 
@@ -116,7 +119,7 @@ Other *Pleurotus* species can develop cream, tan, gray, yellow, or faintly pink 
 
 Pink oyster mushroom has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+If illness follows a pink or orange shelf-mushroom meal, contact the local poison center or emergency service promptly. Preserve uncooked clusters with their attachment, the grow-kit or retail label and lot number when applicable, trimmings, photographs, preparation details, and symptom timing. Report whether the material was wild, home-grown, or purchased; that provenance helps investigators distinguish misidentification from spoilage, allergy, or a contaminated batch.
 
 For cultivated pink oysters, harvest quality changes quickly. Caps with dry, curled edges are past their best texture; surfaces that are slimy, leaking, sour-smelling, or visibly moldy are discard signals. Refrigerate promptly in breathable packaging and keep the mushrooms separate from raw meat. Their dramatic raw color commonly softens toward salmon, peach, or beige during cooking, so color loss is not evidence that the pan is unsafe or the strain was mislabeled.
 
@@ -124,7 +127,7 @@ Use high heat and enough pan area to release moisture without steaming the whole
 
 ## Cultivation context
 
-Commercial cultivation is practical with authenticated spawn and species-appropriate plant material. Follow the supplier’s strain-specific temperatures and hygiene process; internet-wide set points cannot replace those instructions. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Begin with authenticated pink-oyster spawn or a labeled ready-to-fruit block and retain the supplier's lot and strain instructions. Warm-fruiting does not mean “as hot as possible”: compare air and block temperature at the crop, ventilation, surface moisture, pin count, days to harvest, and yield for that specific batch. Never expand an unidentified wild culture for food. Isolate a bag with green sporulation, wet bacterial patches, unexpected pigmented growth away from fruit bodies, insects, or a persistent sour odor; the normal pink of the mushrooms is not a general clearance for colored growth elsewhere in the substrate.
 
 ### Match the method to a warm-growing strain
 
@@ -167,4 +170,4 @@ The useful conclusion is narrower: *Pleurotus djamor* is a recognized warm-adapt
 5. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 6. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 25, 2026. Taxonomy, regional range, strain-specific cultivation parameters, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 27, 2026. Taxonomic scope, warm-strain cultivation evidence, lookalike boundaries, food handling, and poison-response contacts were rechecked editorially; no named mycologist or clinician reviewed this page.*
