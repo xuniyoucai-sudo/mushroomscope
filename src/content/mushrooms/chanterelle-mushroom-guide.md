@@ -150,6 +150,8 @@ Jack-o-lantern mushrooms (*Omphalotus* species) are the most important compariso
 
 The false chanterelle, *Hygrophoropsis aurantiaca*, usually has softer flesh and many thin, repeatedly forked gills. Smooth chanterelles and yellowfoot chanterelles are legitimate relatives but have different structures and geographic patterns. The presence of other edible *Cantharellus* or *Craterellus* species does not reduce the need to establish the identity of the specimen actually collected.
 
+The [black trumpet guide](/mushrooms/black-trumpet-mushroom-guide/) treats a dark, hollow *Craterellus* form whose fertile surface is smoother and less ridge-like than the underside expected here. That comparison is useful for structure and habitat, not as a shortcut to an edible verdict.
+
 Use the dedicated [chanterelle versus jack-o-lantern comparison](/identification/chanterelle-vs-jack-o-lantern/) to build a side-by-side record. Do not score isolated traits and let a majority vote decide: a wood-growing cluster with true gills is contradictory evidence even if its cap color and general silhouette resemble a chanterelle. Likewise, a fruity odor is subjective and cannot cancel a structural mismatch.
 
 If anyone develops symptoms after eating a wild mushroom, contact the local poison center or emergency service promptly. Keep uncooked specimens, trimmings, photographs, and meal details for professional identification. Do not induce vomiting unless a medical professional instructs you to do so.

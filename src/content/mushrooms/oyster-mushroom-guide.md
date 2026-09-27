@@ -86,6 +86,8 @@ similarSpecies:
 
 This is a species account, not a remote identification or medical consultation. A retail label may reliably identify a cultivated food crop without proving that a wild lookalike is *P. ostreatus*. Conversely, a wild shelf cluster cannot be cleared for eating because its caps resemble a supermarket oyster. Keep lot and culture records for a crop; keep whole-specimen, wood, region, and underside records for a wild observation.
 
+For the thick-stemmed cultivated form sold as king trumpet, use the separate [king oyster mushroom guide](/mushrooms/king-oyster-mushroom-guide/); it explains why that crop phenotype and its host-linked species complex should not be folded into this *P. ostreatus* account.
+
 A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. The [habitat identification guide](/identification/mushroom-habitat-identification/) shows how to record wood and host evidence without guessing from the nearest tree. Do not taste an unidentified mushroom.
 
 ## Read decurrent gills, attachment, and wood together

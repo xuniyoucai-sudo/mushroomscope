@@ -5,13 +5,15 @@ keywords: ["using habitat to identify mushrooms", "mushroom identification", "fi
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-27
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-photo-checklist", "mushrooms/turkey-tail-mushroom-guide"]
 coverImage: "../../assets/identification/mushroom-habitat-identification.jpg"
 coverAlt: "Forest habitat scene showing mushrooms in different substrate contexts"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying or eating a wild specimen."
 sources:
   - title: "NCBI Taxonomy Browser"
@@ -39,7 +41,7 @@ safetyNotice: "This educational guide cannot authenticate a wild mushroom or det
 
 Record substrate, associated plants, soil, wood type, moisture, elevation, and fruiting pattern as identification evidence. The central task is ecology and substrate. A defensible observation separates what was directly seen from what was inferred. Common names, image-search results, and app suggestions can generate hypotheses, but none establishes identity or edibility.
 
-Start with provenance: location, date, weather, habitat, substrate, nearby plants, and whether fruit bodies were solitary, clustered, or shelf-like. Photograph before collecting. Where collection is legal, retain the entire stem base and multiple ages. Never taste an unidentified mushroom.
+Begin with a site frame wide enough to show canopy, ground layer, slope, and the fruiting pattern. Then move closer without hiding the point of emergence. Assign the collection a field number and record coordinates privately, coordinate accuracy, elevation, date, recent rainfall, and land use. Habitat evidence loses value when a close-up cannot be reconnected to its actual patch.
 
 ## What to examine
 
@@ -49,16 +51,16 @@ Start with provenance: location, date, weather, habitat, substrate, nearby plant
 - **single, clustered, or shelf-like growth:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 - **region and elevation:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 
-Color changes with light, moisture, age, and camera processing. Shape changes during expansion. A single “matching” character has little value when ecology, fertile surface, stem base, or spore deposit conflicts. Use current regional keys because possible species differ by continent and habitat.
+Treat each ecological claim as a confidence statement. “On oak” requires wood or roots that were independently identified as oak; “beneath probable oak” is a different, weaker observation. Rain-darkened bark, buried landscaping timber, mixed roots, and transported wood chips commonly create false certainty. A regional key can use habitat to narrow candidates only when the substrate record is as careful as the mushroom record.
 
 ## A repeatable field method
 
-1. Photograph the group and its substrate before disturbance.
-2. Record cap, underside, attachment, stem, complete base, flesh, odor without inhaling closely, and any bruising.
-3. Measure several specimens and document young and mature stages.
-4. Make a spore deposit only when safe and useful; keep it away from food-preparation surfaces.
-5. Compare the complete character set with a regional key and current taxonomy.
-6. Keep conflicting or incomplete records unidentified.
+1. Make one landscape frame and one ground-level frame before touching the collection.
+2. Trace the point of emergence to soil, litter, dung, moss, exposed wood, or buried material; photograph the connection.
+3. Record living or dead host evidence separately from nearby vegetation, with leaf, bud, cone, and bark images where available.
+4. Measure the radius and pattern of the fruiting group and give separate field numbers to different substrate patches.
+5. Add morphology, spore, and microscopic evidence only after the ecological observations are fixed in writing.
+6. Mark substrate or host as unknown when disturbance, decay, or mixed roots prevent a defensible conclusion.
 
 ## Record the exact substrate before naming the habitat
 
@@ -116,13 +118,13 @@ Never eat a wild mushroom because it grew in a “clean” forest or beside the 
 
 ## Interpretation limits
 
-Online communities can improve documentation, but remote viewers cannot examine texture, odor, microscopic structures, or hidden tissue. DNA sequences also require specimen vouchers and reliable reference data. An identification confidence label should reflect the weakest missing decisive character, not the number of people who liked a photograph.
+Occurrence platforms are most useful when the habitat record remains revisable. Upload the wide scene, point of emergence, host evidence, and collection number rather than only the most attractive cap. If a later reviewer changes the fungal name or host, the original ecological observations should still be recoverable. Sequence data are stronger when tied to a voucher and exact substrate record; an unvouchered sequence cannot repair a missing field context.
 
-For suspected poisoning, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging, and photographs if it is safe to do so. Do not wait for a social-media identification.
+After a suspected poisoning, habitat can help a professional reconstruct the candidate set, but medical care comes first. Contact emergency services or a poison center promptly. When safe, retain uncooked specimens, food remnants, collection photographs, coordinates, substrate notes, meal time, and symptom timing; do not delay care while returning to the site or waiting for online agreement.
 
 ## Combine ecology with a complete specimen record
 
-Continue with the [species encyclopedia](/mushrooms/) and other [identification guides](/identification/). These pages are educational and intentionally conservative.
+Use the [species encyclopedia](/mushrooms/) only after the substrate and host observations have narrowed the local alternatives. The [identification guides](/identification/) supply the complementary anatomy, spore, and photography methods needed when several fungi share the same woodland or landscaped habitat.
 
 Pair habitat notes with the [complete identification workflow](/identification/how-to-identify-mushrooms/) and preserve both matching and conflicting evidence. “Unknown substrate” is a valid result; it is safer and scientifically more useful than a fabricated host association.
 
@@ -132,6 +134,6 @@ When uploading an observation, separate directly observed substrate from inferre
 
 ## References
 
-1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)
-2. [Global Biodiversity Information Facility — Species Search](https://www.gbif.org/species/search)
-3. [Mushroom Observer](https://mushroomobserver.org/)
+1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.
+2. Global Biodiversity Information Facility. [Species Search](https://www.gbif.org/species/search). Occurrence records whose coordinates, date, basis of record, and identification quality must be evaluated before ecological use.
+3. Mushroom Observer. [Observation database](https://mushroomobserver.org/). Community records that can preserve habitat photographs and identification discussion when original evidence is supplied.

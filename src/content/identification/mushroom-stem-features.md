@@ -5,13 +5,15 @@ keywords: ["mushroom stem features: rings, volvas, texture, and base", "mushroom
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-27
 draft: false
 featured: false
 relatedEntries: ["identification/mushroom-cap-shapes", "identification/mushroom-gill-types", "identification/how-to-identify-mushrooms"]
 coverImage: "../../assets/identification/mushroom-stem-features.jpg"
 coverAlt: "Educational mushroom stem comparison showing rings, bases, texture, and shape"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying or eating a wild specimen."
 sources:
   - title: "NCBI Taxonomy Browser"
@@ -39,7 +41,7 @@ safetyNotice: "This educational guide cannot authenticate a wild mushroom or det
 
 Document the complete mushroom stem, including buried tissue, rings, volvas, internal structure, and surface texture. The central task is the intact stem and its base. A defensible observation separates what was directly seen from what was inferred. Common names, image-search results, and app suggestions can generate hypotheses, but none establishes identity or edibility.
 
-Start with provenance: location, date, weather, habitat, substrate, nearby plants, and whether fruit bodies were solitary, clustered, or shelf-like. Photograph before collecting. Where collection is legal, retain the entire stem base and multiple ages. Never taste an unidentified mushroom.
+Photograph the stem while it is still attached, including the angle at which it enters soil or wood. Where collection is permitted, loosen material around the base and lift from beneath so bulbs, volvas, rooting extensions, and mycelial cords remain connected. Place the intact specimen beside a scale before cleaning; the first frame should preserve what later brushing and sectioning will remove.
 
 ## What to examine
 
@@ -49,16 +51,16 @@ Start with provenance: location, date, weather, habitat, substrate, nearby plant
 - **surface ornamentation:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 - **attachment to substrate:** Record the feature in plain language, add a measurement or photograph, and note variation among specimens.
 
-Color changes with light, moisture, age, and camera processing. Shape changes during expansion. A single “matching” character has little value when ecology, fertile surface, stem base, or spore deposit conflicts. Use current regional keys because possible species differ by continent and habitat.
+Stem characters change at different rates. A fragile ring can collapse within hours, a cortina can become only a rusty fibrillose zone after spores fall, and a solid young stem may become chambered with age or insects. Record young and mature specimens separately and distinguish “not visible” from “absent.” Regional keys often depend on combinations—base architecture, veil type, surface ornament, flesh, and spore color—not a single silhouette.
 
 ## A repeatable field method
 
-1. Photograph the group and its substrate before disturbance.
-2. Record cap, underside, attachment, stem, complete base, flesh, odor without inhaling closely, and any bruising.
-3. Measure several specimens and document young and mature stages.
-4. Make a spore deposit only when safe and useful; keep it away from food-preparation surfaces.
-5. Compare the complete character set with a regional key and current taxonomy.
-6. Keep conflicting or incomplete records unidentified.
+1. Photograph the attachment and excavated base before removing soil or veil tissue.
+2. Measure stem length and width at apex, middle, lower stem, and bulb; note central, eccentric, or lateral placement.
+3. Describe ring or cortina structure from above and below, and photograph at least one unopened developmental stage.
+4. Section one representative from cap through base to record solid, stuffed, chambered, hollow, pithy, or larval-damaged tissue.
+5. Record timed bruising by tissue location and connect every image to the same numbered specimen.
+6. Compare the resulting character bundle with a current regional key; leave the name unresolved if the base or veil evidence was lost.
 
 ## Excavate the base before describing stem shape
 
@@ -116,13 +118,13 @@ The [photo checklist](/identification/mushroom-photo-checklist/) provides the vi
 
 ## Interpretation limits
 
-Online communities can improve documentation, but remote viewers cannot examine texture, odor, microscopic structures, or hidden tissue. DNA sequences also require specimen vouchers and reliable reference data. An identification confidence label should reflect the weakest missing decisive character, not the number of people who liked a photograph.
+Remote reviewers need the unglamorous stem views: the soil-coated base, ring underside, stem apex beside the gills, longitudinal section, and timed stain. A cap-only upload cannot establish that a volva was absent or that a stem was naturally hollow. If microscopy or sequencing is pursued, retain a dried voucher linked to those views; a sequence name is only as trustworthy as the specimen and reference data behind it.
 
-For suspected poisoning, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging, and photographs if it is safe to do so. Do not wait for a social-media identification.
+If an unknown mushroom has been eaten, do not spend treatment time reconstructing a missing stem base online. Contact emergency services or a poison center promptly. Preserve complete uncooked specimens, trimmings, leftovers, photographs, collection location, and meal timing when safe; professional identifiers may need the very basal and veil characters that were omitted from a food photograph.
 
 ## Connect stem evidence with underside and habitat
 
-Continue with the [species encyclopedia](/mushrooms/) and other [identification guides](/identification/). These pages are educational and intentionally conservative.
+Carry the numbered stem record into the [species encyclopedia](/mushrooms/) and pair it with the relevant [identification guides](/identification/). A useful comparison keeps one cap, underside, stem, base, and spore record linked; borrowing a base from a second collection creates a character combination that no real specimen possessed.
 
 Stem features organize a hypothesis but cannot establish food safety. Never eat a wild mushroom based on a ring, volva, hollow stem, color change, or online image match. Seek a qualified local expert who can inspect the complete fresh collection, and keep uncertainty explicit when decisive tissue is absent.
 
@@ -132,6 +134,6 @@ The [parasol mushroom guide](/mushrooms/parasol-mushroom-guide/) shows why ring 
 
 ## References
 
-1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)
-2. [Global Biodiversity Information Facility — Species Search](https://www.gbif.org/species/search)
-3. [Mushroom Observer](https://mushroomobserver.org/)
+1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Lineage and current-name context; a database name does not replace specimen characters.
+2. Global Biodiversity Information Facility. [Species Search](https://www.gbif.org/species/search). Regional occurrence context to evaluate alongside an intact stem record.
+3. Mushroom Observer. [Observation database](https://mushroomobserver.org/). Examples of community identifications whose value depends on complete, linked specimen photographs.

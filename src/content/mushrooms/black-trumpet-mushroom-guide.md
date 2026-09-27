@@ -6,11 +6,14 @@ keywords: ["black trumpet", "Craterellus cornucopioides", "black trumpet identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/black-trumpet-mushroom-editorial-v2.png"
 coverAlt: "Dark hollow black trumpet mushrooms in damp deciduous woodland leaf litter"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; this AI-generated editorial image is not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification", "identification/how-to-make-spore-print"]
 sources:
@@ -85,14 +88,14 @@ Dark gray to black, thin, hollow funnels with a wavy margin and no true gills. S
 
 Mycorrhizal on forest soil, often among leaf litter near hardwoods. The documented range represented here includes Europe and temperate North America. Typical substrates or settings include woodland soil and leaf litter. Fruiting records commonly occur in July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Black trumpets are terrestrial mycorrhizal fungi, so verify that the narrowed base enters soil or litter rather than wood. Record the surrounding hardwood community, slope, drainage, moss and litter depth, and whether fruit bodies repeat along a contour or root zone. The nearest trunk is not automatically the partner; photograph several candidate trees and keep host assignment tentative unless local evidence supports it.
 
 ## Similar species
 
 - **Craterellus fallax — a closely related North American name requiring regional interpretation.**
 - **Urnula craterium — a spring cup fungus with thicker, tougher flesh and a different structure.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Regional naming is central to this comparison. European *C. cornucopioides* records should not automatically absorb North American material called *C. fallax*, and dark cups such as *Urnula craterium* differ in wall thickness, season, internal structure, and fertile surface. A useful determination combines the continuously hollow funnel, thin flexible wall, smooth-to-wrinkled outer hymenium, pale spores, woodland soil, season, and local taxonomic treatment.
 
 ## Build a complete black trumpet observation
 
@@ -152,19 +155,19 @@ Keep it separate, photograph every surface and its habitat, make no food decisio
 
 Black trumpet has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+If a disputed dark funnel has been eaten, medical response takes priority over refining its web identification. Contact emergency services or a poison center promptly for significant or developing symptoms. Save unwashed specimens from the exact collection, cooked leftovers, location and habitat frames, meal time, amount eaten, and symptom onset; do not mix material from a second patch into the sample.
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Black trumpet is not a practical sterile-block crop because fruiting is tied to a living tree–fungus relationship that ordinary sawdust recipes do not reproduce. Claims of simple indoor cultivation should identify the authenticated culture, host plant, inoculation design, duration, fruit-body voucher, and independent confirmation. For home production, choose a documented saprotrophic species instead of transferring wild tissue or an unverified “black trumpet” culture into a food project.
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the scattered or clustered fruiting pattern against leaf litter before lifting a specimen.
+2. Measure funnel height, opening width, wall thickness, and the length of the continuous hollow cavity.
+3. Show the dark inner surface, paler outer fertile surface, wavy margin, tapered base, and a longitudinal section.
+4. Record nearby trees, soil or litter attachment, rainfall, and a pale spore deposit from a labeled mature specimen.
+5. Compare *C. cornucopioides*, the locally used *C. fallax* concept, dark chanterelloid fungi, and seasonal cup fungi with a regional source.
 
 ## References
 
@@ -173,4 +176,4 @@ This species is not a dependable beginner crop. Its ecology, host relationship, 
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review updated September 27, 2026. The revision added hollow-funnel measurements, regional-name boundaries, woodland transect records, and mycorrhizal cultivation limits; local taxonomy and emergency contacts remain time-sensitive.*

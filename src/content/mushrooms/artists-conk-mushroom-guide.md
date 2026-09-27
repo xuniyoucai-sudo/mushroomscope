@@ -6,12 +6,14 @@ keywords: ["artist’s conk", "Ganoderma applanatum", "artist’s conk identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-08-24
+updatedDate: 2026-09-27
 draft: false
 featured: false
 coverImage: "../../assets/species/artists-conk-mushroom-editorial-v2.png"
 coverAlt: "Dull brown artist's conk brackets on a hardwood trunk, with one bracket showing its pale pore surface"
 imageCredit: "Original AI-generated MushroomScope editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated editorial image for habitat and bracket-structure context only; it is not a field record or identification evidence."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
@@ -88,32 +90,32 @@ Large perennial shelf brackets with a dull brown crust and a white pore surface 
 
 A widespread decomposer and pathogen on dead or weakened hardwood. The documented range represented here includes temperate regions worldwide. Typical substrates or settings include hardwood stumps and logs and living hardwood. Fruiting records commonly occur in January, February, March, April, May, June, July, August, September, October, November, December, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Host condition changes the meaning of this perennial bracket. Record whether the conk is attached to a living trunk, standing snag, stump, or fallen log; identify the hardwood from bark, buds, leaves, or twigs when possible; and measure attachment height and orientation. On a living tree, note cavities, cracks, crown decline, and nearby targets without claiming that the bracket alone predicts structural failure.
 
 ## Similar species
 
 - **Ganoderma australe — a similar bracket requiring microscopic and geographic evidence.**
 - **Ganoderma brownii — a regional lookalike with overlapping macroscopic characters.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+The comparison set should include the dull versus varnished upper crust, whether the pale pore surface bruises brown, context color, visible tube layering, pore density, host, and geography. *G. australe* and *G. brownii* can overlap strongly in field appearance, so a regional determination may require measured basidiospores or sequence-backed specialist work. A scratched white underside by itself establishes neither species nor safe use.
 
 ## Food and safety context
 
 Artist’s conk is not treated here as a culinary mushroom. Do not taste it or infer safety from traditional use, tea marketing, or the absence of an obvious warning label. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+Because this woody conk is not presented as food, tasting or simmering an uncertain bracket adds risk without resolving identity. If any wild fungal preparation has been consumed and symptoms develop, contact emergency services or a poison center promptly. Retain the dry bracket, preparation, product label, host photographs, amount used, and symptom timeline for professional review.
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Growing a perennial *Ganoderma* fruit body for study is different from producing a culinary oyster crop. A credible culture record needs authenticated material, the exact wood or formulated substrate, sterilization method, inoculation date, incubation conditions, and evidence that the resulting bracket matches the culture. Wild tissue can carry other fungi and bacteria, and a successful-looking brown shelf does not authenticate the species or make a home extract suitable for use.
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the complete tree or log and assign the bracket a position, height, and observation number.
+2. Measure bracket width, projection, thickness, and attachment; record dull, cracked, algal, or varnished areas separately.
+3. Photograph an untouched pale pore zone, then one labeled light scratch with elapsed time.
+4. Use a naturally broken or permitted sample to record context thickness, tube-layer count, pore density, and brown spore dust.
+5. Compare the measurement set with a current regional *Ganoderma* treatment and preserve a voucher if microscopy or sequencing is needed.
 
 ## Read the bracket as a perennial structure
 
@@ -133,7 +135,7 @@ Spores can accumulate as rusty-brown dust on the top of brackets below or even o
 
 ## Compare the most relevant bracket lookalikes
 
-Reishi or varnished *Ganoderma* species often develop a lacquered red-brown surface, sometimes with a stem-like attachment, whereas artist's conk is typically dull rather than conspicuously varnished. This contrast weakens in old, dirty, or weathered material. Tinder fungus, *Fomes fomentarius*, commonly forms a gray hoof with a hard zoned crust and does not offer the same clean white drawing surface. Other perennial polypores can produce broad shelves and layered tubes, so color alone is unreliable.
+[Reishi or varnished *Ganoderma* species](/mushrooms/reishi-mushroom-guide/) often develop a lacquered red-brown surface, sometimes with a stem-like attachment, whereas artist's conk is typically dull rather than conspicuously varnished. This contrast weakens in old, dirty, or weathered material. [Tinder fungus, *Fomes fomentarius*](/mushrooms/tinder-fungus-mushroom-guide/), commonly forms a gray hoof with a hard zoned crust and does not offer the same clean white drawing surface. Other perennial polypores can produce broad shelves and layered tubes, so color alone is unreliable.
 
 The strongest comparison uses the complete combination of surface finish, pore behavior, internal context, tube layers, host, and region. Avoid comparisons based on internet thumbnails, which often omit the underside and may carry outdated names. Also avoid turning a tentative field label into a health or preparation recommendation. Even a correct genus-level identification does not establish that a tea, powder, or extract contains the named species or is suitable for a particular person.
 
@@ -171,4 +173,4 @@ The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates ho
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 5. U.S. Forest Service. [Forest insect and disease guide: artist's conk](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5315942.pdf). Host, morphology, pore bruising, internal structure, decay, and tree-risk context.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review updated September 27, 2026. The revision added host-condition, perennial-tube, field-measurement, and product-equivalence boundaries; regional taxonomy and poison-response contacts still require periodic checking.*
