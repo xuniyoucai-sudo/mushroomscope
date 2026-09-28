@@ -5,6 +5,8 @@ keywords: ["mushroom second flush", "mushroom flush management", "when to retire
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-16
+updatedDate: 2026-09-28
+revisionSummary: "Added block-level water-balance checks, cohort survival reporting, and an explicit later-flush decision ledger based on saleable yield and room capacity."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-flush-management-editorial-v2.png"
@@ -114,6 +116,18 @@ Also record whether the exit was mandatory or economic. That distinction matters
 Compare distributions, not only the best block. Review how many units reached each flush, time between harvests, later-flush saleable mass, failures, room days, and quality. Group results by species, strain, substrate, season, and room only when sample sizes and records justify it. A single prolific block is a useful observation, not a production forecast.
 
 Change one variable in the next planned comparison and retain the rest. If a later flush is consistently uneconomic, revise the exit rule; if it is valuable only when rooms are underfilled, make capacity part of the rule. The strongest schedule is explicit enough to improve when new evidence arrives.
+
+## Measure water balance without prescribing a universal soak
+
+When a supplier or validated block protocol calls for rehydration, weigh a representative block before treatment, after drainage, and before the next harvest. Record water source, temperature, contact method, contact time, drainage time, bag damage, and the scale used. Mass gain is a process observation, not proof that the block absorbed water uniformly or that another species needs the same treatment.
+
+Compare later development with untreated or historically comparable blocks only when culture, block format, age, first-flush removal, and room conditions match. Pooling, leakage, softened packaging, abnormal odor, or suspect growth are exit signals, not reasons to extend treatment. If the protocol does not call for soaking, do not invent a soak merely because the block feels light; surface drying, internal water distribution, and substrate structure cannot be diagnosed reliably by hand feel alone.
+
+## Keep a cohort ledger from start to retirement
+
+A useful later-flush report begins with every block eligible after the first harvest. For each decision date, record how many were resting, rehydrated, returned to fruiting, pinning, harvested, retired for safety, or retired for capacity. This survival-style view prevents the yield of a shrinking group of successful blocks from being presented as though the entire batch repeated fruiting.
+
+Add saleable grams and labor minutes for each interval, not just the cumulative harvest. A practical decision line might compare additional saleable grams per occupied shelf-day with the expected value of loading a new block, while keeping mandatory contamination and pest exits outside the economic calculation. The threshold belongs to the facility and market; publishing the inputs is more transferable than presenting one universal “number of flushes.”
 
 ## Frequently asked questions
 

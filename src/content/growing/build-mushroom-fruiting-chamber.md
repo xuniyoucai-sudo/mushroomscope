@@ -6,14 +6,16 @@ keywords: ["mushroom fruiting chamber", "simple fruiting chamber", "home mushroo
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the fruiting-chamber guide to 1500+ words with deeper setup reasoning, crop-response interpretation, sanitation boundaries, and beginner troubleshooting."
+updatedDate: 2026-09-28
+revisionSummary: "Added a chamber-volume and evaporation audit, passive-versus-powered design choices, electrical and household-moisture safeguards, and a seven-day commissioning record."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/mushroom-growing-troubleshooting"]
 coverImage: "../../assets/growing/build-mushroom-fruiting-chamber-editorial-v2.jpg"
 coverAlt: "Clear tote fruiting chamber with filtered air holes, moist perlite, oyster mushroom blocks, and a hygrometer"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated educational image; the setup is illustrative, not a universal fruiting prescription."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
@@ -114,6 +116,24 @@ Long, thin stems and small caps can suggest that the setup needs more appropriat
 Beginners often add fans, foggers, lights, timers, and sensors before understanding the basic crop response. Automation can help a stable process, but it can also hide mistakes. A small passive chamber with a batch log teaches more than a complicated system changed every few hours.
 
 If you do automate later, add one device at a time and record the reason. The goal is repeatability: same culture type, same room, same chamber, same opening routine, and a clear note about what changed between batches.
+
+## Match chamber volume to crop and evaporation
+
+Measure the usable chamber dimensions and leave clearance around the fruiting face. A block pressed against wet plastic experiences a different boundary layer from one with open space, while a very large empty tote can be slow to recover after opening. Record where water is added, where droplets collect, and which surface dries first. These observations are more useful than copying a hole count from a chamber with different volume, room airflow, or crop load.
+
+Run the chamber empty for a day before loading a valuable block. Log room and chamber temperature, visible condensation, water accumulation, and recovery after the normal opening routine. Then repeat after loading because a respiring, evaporating crop changes the system. If the lid, floor, or electrical parts collect water, redesign the arrangement rather than accepting puddles as evidence of adequate humidity.
+
+## Choose passive or powered exchange deliberately
+
+A passive tote is simple to clean and has few failure modes, but it depends strongly on room air movement and the operator’s routine. A fan can make exchange more repeatable, yet it can create a direct drying jet, pull unfiltered dust toward the crop, or run continuously after a sensor failure. Select the least complex design that maintains the authenticated crop’s protocol and can be observed safely.
+
+For powered equipment, keep mains connections, adapters, and non-rated electronics outside wet zones. Provide drip loops, stable mounting, and a safe way to isolate power before cleaning. Do not route condensation toward sockets or place a household extension connection beneath a fog outlet. If you cannot separate water from electricity, use a passive setup or obtain qualified help rather than improvising.
+
+## Protect the room around the chamber
+
+The chamber is not isolated from the home. Watch nearby walls, window frames, shelving, and textiles for persistent condensation or mold, and measure room humidity away from the enclosure. A design that fruits mushrooms while keeping the room chronically damp is not successful. Reduce moisture release, improve appropriate room ventilation, or stop the project until the building can remain dry.
+
+Keep a seven-day commissioning sheet with morning and evening observations, openings, water additions, sensor location, crop appearance, and any adjustment. Change only one operating variable between observation periods. At the end, write a repeatable routine and a shutdown trigger. This turns the build from a collection of parts into a controlled household process.
 
 ## Cleaning and reset routine
 

@@ -5,6 +5,8 @@ keywords: ["mushroom grow room sensors","humidity sensor calibration","mushroom 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-17
+updatedDate: 2026-09-28
+revisionSummary: "Replaced repeated control-point boilerplate with sensor-specific placement tests, drift diagnostics, logging rules, and controller commissioning checks."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-grow-room-sensors-editorial-v2.png"
@@ -47,57 +49,57 @@ steps: [{ title: "Define the control question", instruction: "Write which crop s
 
 A sensor reports conditions at its own sensing element, not everywhere in a grow room. Shelves, crop blocks, fog outlets, doors, lights, fans, and exhaust paths create gradients. The useful reading is tied to crop height, species, growth stage, and a mapped position. A precise display in an unrepresentative location can guide worse decisions than a modest instrument placed and checked carefully.
 
-### Control point: measure the crop zone, not the room average
+### Build a location code the log can preserve
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Measure the crop zone, not the room average” reproducible and prevents a plausible explanation from being reported as a measured fact.
+Name positions by room, rack, shelf height, and rack depth—for example, R1-A3-MID-CENTER—rather than writing “middle sensor.” Attach the code to the device record and every exported column. When a logger moves, close the old location interval and open a new one; never let one time series silently represent two physical positions. A crop observation such as elongated oyster stems becomes useful only when it can be joined to the air measurement beside that cluster.
 
 ## Map gradients before choosing locations
 
 Begin with a temporary mapping survey. Place checked loggers at upper, middle, and lower shelves; near supply and return air; and at the center and edges of loaded racks. Run the normal humidification and ventilation cycle long enough to capture peaks and recovery. Move only permanent sensors after the pattern is visible. Do not infer uniformity from one handheld walk-through.
 
-### Control point: map gradients before choosing locations
+### Survey both steady operation and disturbances
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Map gradients before choosing locations” reproducible and prevents a plausible explanation from being reported as a measured fact.
+An empty-room map is only a baseline. Repeat the survey after racks are loaded because blocks obstruct air and add heat and moisture. Mark door openings, harvest work, fog cycles, exhaust starts, and washdown so a short excursion is not mistaken for a persistent dead zone. Compare the same clock interval across locations, then choose a permanent control point and at least one independent verification point where the map shows meaningful contrast.
 
 ## Humidity sensors need protection and verification
 
 Relative-humidity probes can drift or respond slowly after condensation. Keep them out of direct fog and droplets, allow air around the housing, and follow the manufacturer’s operating range. Compare instruments in the same stable environment before deployment and periodically afterward. A salt-check or reference chamber is useful only when its method, temperature, equilibration time, and expected uncertainty are understood.
 
-### Control point: humidity sensors need protection and verification
+### Recognize a wetted probe in the data
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Humidity sensors need protection and verification” reproducible and prevents a plausible explanation from being reported as a measured fact.
+A humidity trace pinned near its upper limit long after fog stops, especially when neighboring probes recover, may indicate condensation rather than room conditions. Record the wetting event, remove power only as the manufacturer directs, allow the specified recovery period, and verify the probe before returning it to control duty. Do not “correct” the raw values by hand. Flag the affected interval so summaries do not convert a sensor failure into hours of apparent high humidity.
 
 ## Carbon-dioxide readings depend on airflow
 
 Carbon-dioxide concentration can differ sharply between a breathing cluster, a stagnant corner, and exhaust air. Mount a crop-control sensor where representative air moves past it without receiving a direct jet. Outdoor-air checks can reveal gross offset but are not a complete calibration. Follow the meter’s specified zero and span procedure, gas requirements, warm-up, pressure, humidity, and automatic-baseline limitations.
 
-### Control point: carbon-dioxide readings depend on airflow
+### Test ventilation response instead of trusting one number
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Carbon-dioxide readings depend on airflow” reproducible and prevents a plausible explanation from being reported as a measured fact.
+During commissioning, record concentration before exhaust starts, the time to respond after airflow begins, the lowest stable reading, and the rebound after exhaust stops. Repeat at a crop-zone point and a suspected stagnant point. A sensor that barely changes may be isolated from moving air, slow, or faulty; a sensor beside the inlet may understate crop exposure. This response test describes the installed system without inventing a universal carbon-dioxide target for every species and stage.
 
 ## Temperature needs air and substrate context
 
 Air temperature does not equal substrate core temperature. Colonizing blocks generate metabolic heat, and wet-bulb effects near fog can cool a probe. Use a clean dedicated probe for representative substrate measurements without creating contamination pathways. Record whether a value is room air, surface, or core; never mix those fields in one chart or apply a generic species limit to the wrong measurement.
 
-### Control point: temperature needs air and substrate context
+### Pair core checks with the same block history
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Temperature needs air and substrate context” reproducible and prevents a plausible explanation from being reported as a measured fact.
+If core temperature is part of the decision, sample a predefined representative subset and record block identifier, recipe, inoculation date, position, depth, probe, and cleaning method. Do not repeatedly puncture every production unit. Plot core-to-air difference rather than treating the two readings as interchangeable. A growing difference across comparable blocks can prompt an airflow or metabolic-heat review, while one hot block requires inspection of that unit and its immediate neighbors.
 
 ## Calibration, adjustment, and verification differ
 
 Calibration compares an instrument with a traceable reference and may produce a correction; adjustment changes the instrument; verification confirms performance afterward. A two-meter agreement is not traceability when both may share the same bias. Retain certificates, reference uncertainty, date, technician or method, as-found and as-left results, and the acceptable tolerance for the cultivation decision.
 
-### Control point: calibration, adjustment, and verification differ
+### Set tolerance from the decision being made
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Calibration, adjustment, and verification differ” reproducible and prevents a plausible explanation from being reported as a measured fact.
+The acceptable error for a broad seasonal survey may be wider than the error allowed for an alarm close to a safety or crop limit. Write the tolerance before seeing the comparison. If a device fails, identify the last known acceptable check, quarantine the affected control interval, evaluate whether product or crop decisions relied on it, and document replacement or adjustment. Never backfill a clean-looking curve from another rack simply because the failed data are inconvenient.
 
 ## Logging intervals should match the question
 
 A one-minute interval may expose cycling but create unnecessary data for a slow seasonal question. Record enough detail to see humidifier overshoot, exhaust response, door events, and crop-stage changes. Preserve local time zone and clock synchronization. Summaries should retain minima, maxima, duration outside the chosen operating band, and missing-data flags rather than only a daily average.
 
-### Control point: logging intervals should match the question
+### Keep raw events behind every summary
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Logging intervals should match the question” reproducible and prevents a plausible explanation from being reported as a measured fact.
+Daily averages can hide a repeated ten-minute drying event or a fog overshoot. Retain time-stamped raw readings, then calculate duration above or below the chosen operating band, cycle amplitude, recovery time, and missing-data percentage. Store controller state and door events on the same clock. When resampling, state whether the summary uses arithmetic means, extrema, or time-weighted duration so later reviews can reproduce it.
 
 ## Turn sensor disagreement into a diagnosis
 
@@ -105,9 +107,9 @@ When instruments disagree, colocate them temporarily, inspect condensation and f
 
 Before buying extra meters, map the air path and the places where crop blocks actually sit. The [fruiting chamber guide](/growing/build-mushroom-fruiting-chamber/) provides the enclosure and airflow context; sensor placement should test that physical design rather than substitute for it.
 
-### Control point: turn sensor disagreement into a diagnosis
+### Use a swap test to separate place from device
 
-For this specific step in **Mushroom Grow-Room Sensors: Placement, Calibration, and Logs**, define the input, unit, location, responsible person, acceptance range, observation time, and corrective action before beginning. Record an as-found result before changing the process, then verify the result afterward. Preserve failed and missing observations instead of editing them away. This control point makes “Turn sensor disagreement into a diagnosis” reproducible and prevents a plausible explanation from being reported as a measured fact.
+First colocate the two instruments long enough for their response to settle. Then exchange their original positions without changing the controller. If the difference follows the device, investigate calibration, contamination, response time, or configuration. If it follows the location, investigate airflow, radiant heat, fog, or rack obstruction. If neither pattern is stable, inspect timing and intermittent events. Record each phase; otherwise moving the probes erases the evidence needed to explain the disagreement.
 
 ## Frequently asked questions
 

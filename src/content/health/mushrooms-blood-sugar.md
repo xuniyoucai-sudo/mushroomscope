@@ -5,11 +5,13 @@ keywords: ["mushrooms blood sugar","mushrooms diabetes evidence","mushroom gluco
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-25
+updatedDate: 2026-09-28
+revisionSummary: "Added carbohydrate-accounting examples, evidence-tier separation, CGM interpretation limits, and supplement interaction questions without expanding treatment claims."
 draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-09-25
+reviewDate: 2026-09-28
 coverImage: "../../assets/health/mushrooms-blood-sugar-editorial-v2.png"
 coverAlt: "Original evidence-review editorial image for mushrooms and blood sugar: food evidence without treatment claims"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -114,6 +116,24 @@ To learn from the comparison, keep the grain type and measured portion consisten
 Restaurant meals are harder to compare because sauces, starches, and oil are not measured. Descriptions such as grilled or vegetable-rich do not reveal added sugar or portion. Asking for sauce on the side and noting the complete dish can make interpretation more useful, but the purpose is practical management, not perfect self-experimentation.
 
 Mushroom supplements require a separate risk assessment. Concentrated fractions may be marketed using animal glucose results, and combining them with treatment can create unpredictable changes or distract from proven care. The evidence gap is not solved by calling a product food-based. Species identity, extraction, dose, contaminants, interactions, and human outcomes still need evaluation.
+
+## Count the carbohydrate that arrives with the mushrooms
+
+The relevant comparison is the plated recipe, not the raw mushroom alone. Flour coatings, sweet glazes, rice, noodles, bread, and large milk-based sauces can contribute substantially more digestible carbohydrate than the mushrooms. Start with the labeled or database value for each ingredient, multiply by the amount actually used, and divide by the number of portions actually served. Restaurant descriptions rarely provide enough detail for an exact calculation.
+
+For example, replacing part of a refined-grain portion with sautéed mushrooms changes both the carbohydrate amount and the food volume. If the rest of the plate, cooking fat, protein, and portion also change, the glucose result cannot be assigned to a mushroom compound. That meal may still be practical, but its benefit should be described as a whole-meal substitution rather than a demonstrated mushroom-specific effect.
+
+## Separate evidence tiers before drawing a conclusion
+
+Food-composition data answer what a sampled food contained; they do not measure a person’s glucose response. Acute meal studies can compare responses over hours but cannot establish durable diabetes control. Longer randomized trials can address sustained outcomes when the intervention and comparator are credible, while observational cohorts describe associations that may remain confounded. Cell, animal, and extract experiments are mechanistic leads, not direct instructions for dinner or medication.
+
+This hierarchy also prevents evidence laundering. A purified fungal polysaccharide tested at a defined dose should not be renamed “mushrooms” in a headline, and a result in animals should not be converted into a human serving. Check species, fungal part, processing, dose, comparator, population, outcome, and duration before deciding whether two studies address the same question.
+
+## Continuous glucose monitors do not identify a single cause
+
+A CGM trace reflects sensor lag, timing, prior activity, sleep, stress, illness, medication, and the entire meal. One flatter curve after a mushroom dish is an observation, not proof of treatment. Compare like meals on more than one occasion using the personal monitoring plan supplied by the clinical team, and avoid changing medication or deliberately provoking high readings to create a cleaner experiment.
+
+Compression, a new sensor, rapid glucose change, or readings inconsistent with symptoms may require confirmation under the device instructions. Urgent or repeated out-of-range readings belong in the person’s established care plan. The purpose of a food log is to support a qualified discussion, not to create a private diagnostic trial.
 
 ## Frequently asked questions
 

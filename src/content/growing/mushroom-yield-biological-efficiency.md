@@ -5,6 +5,8 @@ keywords: ["mushroom biological efficiency","calculate mushroom yield","mushroom
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-23
+updatedDate: 2026-09-28
+revisionSummary: "Added unit-level denominator audits, uncertainty reporting, and a worked comparison that separates biological output from saleable yield and room-time performance."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-yield-biological-efficiency-editorial-v2.png"
@@ -116,6 +118,18 @@ An apparent gain may also be a denominator error. Audit dry-matter assumptions, 
 When publishing a result, include species and strain, culture source, number of units started, failures, recipe and lots, dry-matter method, spawn convention, bag mass and geometry, heat treatment, fruiting conditions, harvest boundary, flush window, mean, variation, and quality definition. Include raw per-unit results or a usable table where possible. These details let another grower decide whether the comparison applies instead of copying a percentage without its production boundary.
 
 The cover image is an original AI-assisted editorial scene of oyster clusters, production bags, ingredients, a scale, and a blank batch notebook. It was visually checked against the site’s substrate and batch-record photography for natural light, restrained color, realistic work surfaces, clear crop, and absence of text or watermarks. It illustrates measurement; it is not evidence of a sterile facility, authenticated strain, calibrated scale, or achieved yield.
+
+## Audit the denominator at unit level
+
+A batch-level recipe is not enough when bags differ in fill weight or when one ingredient lot changes midway through production. Give each unit its actual wet fill mass and the dry-matter fraction assigned to each solid component. If every bag was filled from one homogeneous mixer, document that assumption and the start and end weights; if supplement or water was added in stages, preserve the stage record. The denominator should be traceable from ingredient lot to individual unit or to a clearly defined pooled batch.
+
+Use a reconciliation check: total dry solids assigned to finished units plus documented mixer residue, spills, samples, and unused mix should be plausible against dry solids loaded. A large unexplained gap is a process error, not biological performance. Similarly, a bag removed before fruiting remains in the started-unit record even if it contributes zero harvest. Reporting yield only for survivors answers a different question and should be labeled explicitly.
+
+## Report variation, not false precision
+
+For replicated units, publish the unit count, the center of the distribution, and a measure of spread. A mean BE of 90 percent from values clustered between 86 and 94 describes a different process from the same mean produced by several failures and a few exceptional bags. Median and range can be more legible for a small operational batch; larger experiments may justify standard deviation, confidence intervals, and a prespecified analysis.
+
+Round the displayed percentage only after calculating with the recorded masses. Scale resolution, moisture uncertainty, trim decisions, and missing harvests set a practical limit on precision. Reporting 89.9637 percent does not make an uncertain denominator exact. Note estimated or missing values, and run a sensitivity check when the moisture fraction could materially change the ranking between treatments.
 
 ## Frequently asked questions
 
