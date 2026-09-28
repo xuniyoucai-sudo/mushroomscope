@@ -6,9 +6,13 @@ keywords: ["mushroom omelet", "mushroom and herb omelet", "fluffy mushroom omele
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-13
+updatedDate: 2026-09-28
+revisionSummary: "Replaced pre-publication test language with an accurate editorial disclosure and added filling-yield, pan-recovery, curd-size, carryover, and fold diagnostics."
 coverImage: "../../assets/recipes/mushroom-omelet-editorial-v2.png"
 coverAlt: "AI editorial illustration of a folded golden omelet filled with browned cremini mushrooms and fresh herbs"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial illustration; not a photograph of a tested batch. Use the written egg-doneness and food-safety cues."
 draft: false
 featured: false
@@ -193,8 +197,16 @@ Usually not during the main cook. A brief cover can set a stubborn top, but trap
 
 Eggs provide most of the protein. Exact nutrition depends on egg size, mushroom weight, fats, and cheese; use matched FoodData Central entries rather than assuming from the word “mushroom.”
 
+## Measure the filling before it reaches the eggs
+
+Weighing is optional at home, but the yield explains many failures. About 115 g of raw sliced cremini should shrink substantially as water leaves; the cooked filling for a three-egg omelet needs to fit in a narrow band across one half without forming a mound. If liquid remains around the mushrooms, keep cooking before the eggs are started. Transfer the filling to a warm plate so the skillet can be wiped and its heat reset.
+
+Add the egg mixture only after butter foams gently without browning. Pull broad curds from the edge toward the center while tilting uncooked egg into the gaps, then stop stirring before the surface is dry. The base must be strong enough to release, while the top remains moist but not freely liquid. Filling placed too early sinks through weak curds; filling placed after the surface dries prevents a clean fold and produces a rubbery seam.
+
+Use residual heat deliberately. Fold, remove the pan from the burner, and allow a brief rest before sliding the omelet onto a warm plate. Carryover finishes the inner layer, so waiting for every visible patch to look dry in the pan overshoots the endpoint. For diners who need fully set eggs, use a food thermometer at the thickest filled section and follow current food-safety guidance rather than judging only the exterior color.
+
 ## References
 
-USDA FSIS supports the egg-temperature and leftover statements. FDA guidance supports produce washing and clean preparation. FoodData Central is the basis for ingredient-specific nutrient calculation. Before publication, a logged kitchen test should record pan diameter, mushroom weight loss, burner level, egg temperature, fold timing, and final thick-point temperature.
+USDA FSIS supports the egg-temperature and leftover statements. FDA guidance supports produce washing and clean preparation. FoodData Central is the basis for ingredient-specific nutrient calculation. The editorial team did not conduct or claim an independent logged kitchen test; pan diameter, mushroom yield, burner response, fold timing, and thick-point temperature remain useful variables for readers to record in their own kitchen.
 
-*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*
+*Editorial status: reviewed by the MushroomScope editorial team on September 28, 2026; no named chef or test kitchen independently validated this recipe.*

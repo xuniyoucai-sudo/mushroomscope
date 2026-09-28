@@ -6,13 +6,16 @@ keywords: ["mushroom tacos", "vegetarian mushroom tacos", "cremini mushroom taco
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-13
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added filling moisture checkpoints, mushroom-to-bean sequencing, tortilla heat retention, assembly ratios, and a service plan that keeps crisp and hot components distinct."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/garlic-butter-oyster-mushrooms"]
 coverImage: "../../assets/recipes/mushroom-tacos-v2.png"
 coverAlt: "Three corn tortillas filled with browned cremini mushrooms, black beans, red cabbage, cilantro, and lime wedges on a terracotta plate"
 imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated natural-light editorial food image for MushroomScope. It shows a serving idea only; it is not a recipe test record or food-safety assessment."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -161,6 +164,14 @@ Cool the mushroom filling promptly in a shallow covered container and refrigerat
 Reheat only the portion needed in a skillet with a measured splash of water or in a vented microwave-safe container, stirring until no cold pockets remain. Warm fresh tortillas separately and assemble immediately. Repeatedly warming and cooling the entire batch reduces quality and adds avoidable handling.
 
 Label leftovers and follow applicable local storage guidance. Discard food with mold, slime, off odor, or unsafe time-temperature history rather than tasting it. If unexpected symptoms follow mushroom consumption, seek appropriate medical advice; possible unidentified wild-mushroom exposure requires prompt poison-control or emergency contact.
+
+## Control filling moisture before the beans enter
+
+Brown the sliced cremini in a wide skillet until released liquid has evaporated and the contact faces show color. Only then add onion, garlic, cumin, and beans. Beans added while the mushrooms are still shedding water cool the pan and turn their starch into a wet coating. If the skillet bottom remains glossy with liquid after the beans warm through, move the filling to one side and reduce that liquid before folding everything together.
+
+Use lime in two places for different effects: a small amount off heat brightens the hot filling, while fresh wedges at the table preserve aroma. Do not pour salsa into the pan to make the filling look abundant; its water softens both mushrooms and tortillas. Keep cabbage, salsa, herbs, avocado, and creamy toppings in separate bowls so each diner controls moisture and allergens.
+
+For eight small tacos, begin with a modest strip of filling down the center rather than packing the tortilla edge to edge. Warm tortillas in covered pairs and replenish them in small groups. A flexible warm tortilla wraps without cracking, but a long covered hold traps steam and makes the stack gummy. Assemble immediately before eating: tortilla, hot mushroom-bean filling, crisp cabbage, then concentrated toppings and lime.
 
 ## References
 

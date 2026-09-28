@@ -5,14 +5,16 @@ keywords: ["creamy mushroom soup from scratch", "mushroom recipe", "cremini mush
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-23
-revisionSummary: "Expanded the recipe with precise browning and blending stages, thickness controls, dairy-free options, seasoning, serving, cooling, freezing, and reheating guidance."
+updatedDate: 2026-09-28
+revisionSummary: "Added blending-fraction control, shear and temperature precautions, garnish reservation, viscosity checkpoints, and dairy finishing rules for repeatable soup texture."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "health/mushroom-nutrition-guide", "recipes/mushroom-pasta"]
 coverImage: "../../assets/recipes/creamy-mushroom-soup.jpg"
 coverAlt: "Bowl of creamy mushroom soup garnished with sautéed cultivated mushrooms and thyme"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -182,8 +184,16 @@ Reheat only the portion needed, stirring so the center heats evenly, until steam
 
 Cream soups can separate after freezing. Freezing before adding cream gives a smoother result: thaw safely in the refrigerator, reheat the mushroom base, then add fresh cream over gentle heat. Never taste questionable leftovers to decide whether they are safe.
 
+## Control texture by blending a measured fraction
+
+Reserve about one quarter of the deeply browned mushrooms before stock is added. They provide a visible garnish and intact texture, while the remainder flavors the base. After simmering, blend roughly one third to one half of the soup first, recombine, and assess. This staged approach is easier to correct than blending the entire pot smooth and then trying to rebuild mushroom texture.
+
+For a countertop blender, follow its hot-liquid capacity and venting instructions, work in small batches, and never seal steam in an unsuitable container. An immersion blender reduces transfers but can still splash; remove the pot from active boiling and keep the blade head submerged. Blend in short pulses because prolonged high shear can make the soup uniformly pasty and hide the distinction between mushroom pieces and broth.
+
+Return the base to gentle heat before adding cream or a plant-based substitute. Do not boil aggressively after dairy is added. Check viscosity on a warm spoon: the soup should coat it lightly but still pour. It thickens as it cools, so a serving-temperature sample is more useful than judging a bubbling pot. Restore an over-thick base with measured stock, then correct salt only after the final volume is set.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce-cleaning and cross-contamination boundaries for mushrooms and onion.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Cold-storage context for the blended soup base and dairy-finished leftovers.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient composition reference; cream choice, stock concentration, and serving size determine actual nutrition.

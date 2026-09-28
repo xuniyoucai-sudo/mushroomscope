@@ -6,14 +6,16 @@ keywords: ["mushroom gravy", "homemade mushroom gravy", "vegetarian mushroom gra
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the gravy recipe to 1500+ words with richer technique notes, ingredient choices, scaling guidance, troubleshooting, and food-safety details."
+updatedDate: 2026-09-28
+revisionSummary: "Added roux hydration stages, reduction accounting, mushroom particle control, nappe testing, and reheating corrections that distinguish concentration from starch thickening."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/mushroom-risotto", "mushrooms/cremini-mushroom-guide"]
 coverImage: "../../assets/recipes/mushroom-gravy-editorial-v2.jpg"
 coverAlt: "Brown mushroom gravy with sliced mushrooms in a ceramic gravy boat beside mashed potatoes"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished gravy and a serving context."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -163,8 +165,16 @@ Yes, if they are purchased as food. Rehydrate them, strain any soaking liquid th
 
 If gravy must wait, keep it within applicable safe hot-holding guidance and stir periodically so the base does not scorch. For refrigeration, cool promptly in shallow containers. Reheat only the needed portion until steaming, whisking in measured liquid; do not use extra seasoning to hide an off odor or unsafe storage history.
 
+## Separate roux hydration from final reduction
+
+After the mushrooms brown, cook the flour in the fat until no dry pockets remain and the paste smells lightly toasted rather than raw. Add the first portion of stock slowly while whisking across the entire pan bottom. This small initial addition hydrates the roux into a smooth base; pouring all the stock at once can leave flour islands that are difficult to break without overcooking the mushrooms.
+
+Once smooth, add the remaining stock in stages and bring the gravy to a controlled simmer. Judge thickness only after it has bubbled gently and the starch has hydrated. Draw a spoon through the gravy and turn it over: a thin, even coating that holds a clean finger trail is a useful serving cue. A sauce that looks thick only because it is boiling rapidly may loosen off heat, while one reduced too far can become salty before it reaches the plate.
+
+Record the finished volume when scaling. Doubling flour and stock does not double evaporation area, so a larger batch may need longer reduction or a wider vessel. During reheating, restore flow with measured warm stock before adding more salt or fat. If the gravy has split, lower the heat and whisk in liquid gradually; if it is lumpy from flour, straining fixes texture but not an undercooked flour flavor.
+
 ## References
 
-1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).
-2. USDA FSIS. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety).
-3. USDA. [FoodData Central](https://fdc.nal.usda.gov/).
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce handling for the cultivated mushroom preparation.
+2. USDA Food Safety and Inspection Service. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety). Cooling and reheating context for gravy held after service.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; stock, fat, and finished reduction determine the actual serving.

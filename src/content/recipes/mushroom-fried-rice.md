@@ -6,14 +6,16 @@ keywords: ["mushroom fried rice", "mushroom recipe", "shiitake mushrooms"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-23
-revisionSummary: "Expanded the recipe with safe rice preparation and cooling, shiitake browning, staged stir-frying, egg handling, seasoning, substitutions, troubleshooting, and reheating."
+updatedDate: 2026-09-28
+revisionSummary: "Added rice surface-moisture tests, clump separation, shiitake batch calibration, sauce distribution, egg staging, and a short high-heat finish without unsafe room-temperature drying."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/shiitake-mushroom-guide", "recipes/shiitake-noodle-stir-fry", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/mushroom-fried-rice.jpg"
 coverAlt: "Bowl of mushroom fried rice with peas, carrots, egg, and scallions"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -194,8 +196,16 @@ Reheat only the portion needed until steaming hot throughout. A wide skillet res
 
 Do not repeatedly cool and reheat the full batch. Discard rice held unsafely or showing mold, slime, or an unpleasant odor. Tasting is not a safe test for improperly stored rice.
 
+## Test rice dryness without leaving it on the counter
+
+Cold rice should feel firm and separate when pressed between clean fingers; it should not be wet on the surface or fused into a dense chilled block. Fresh rice can work when it is spread promptly in a shallow layer and cooled under safe handling, then refrigerated—not left at room temperature to “dry.” Before cooking, break large clumps with lightly oiled fingers or a fork so the pan does not spend its hottest minute crushing rice.
+
+Brown shiitake first and record the batch weight that allows the pan to recover its sizzle quickly. Remove them before cooking egg and vegetables. When rice enters, spread it across the hot surface, pause briefly, then turn it in broad sections. Constant frantic stirring reduces contact and can smear soft grains. Return mushrooms only after the rice is hot and separated.
+
+Mix soy sauce with any other liquid seasoning before it reaches the pan. Drizzle around the hot edge in two additions rather than pouring into one central puddle. Toss after each addition and stop when color is even; more sauce is not a remedy for weak mushroom browning. Add scallion greens and delicate aromatics after heat is lowered so their fresh character remains distinct from the toasted rice and shiitake.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and separation guidance for shiitake and vegetables.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigeration context for promptly cooled cooked rice and leftovers.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient composition reference; rice mass, egg, oil, and sauce determine the final dish.
