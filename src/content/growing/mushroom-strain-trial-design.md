@@ -5,6 +5,8 @@ keywords: ["mushroom strain trial", "compare mushroom strains", "mushroom cultiv
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-17
+updatedDate: 2026-09-28
+revisionSummary: "Added practical randomization, sample-size reasoning, unit-level analysis, missing-data handling, and a decision table that separates biological effects from production value."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-strain-trial-editorial-v2.png"
@@ -112,6 +114,26 @@ The conclusion must match the tested boundary: these cultures, this substrate, t
 A controlled trial answers a biological and process question, but adoption changes scheduling, purchasing, staff habits, and customer supply. After a repeatable result, run a limited pilot that uses normal production records and the intended harvest crew. Predefine how many units may enter the pilot, which current culture remains available as a fallback, and what combination of yield, grade, timing, failure, and labor permits expansion.
 
 Keep pilot results separate from the original experiment. The trial estimates a treatment difference under controlled conditions; the pilot asks whether that difference survives ordinary operations. A culture that performs well only under unusual attention may not improve the farm. Document the decision even when the new strain is rejected, because the rejected result prevents the same unbounded comparison from being repeated later.
+
+## Build the randomization before the room is loaded
+
+Give every bag a permanent unit identifier before assigning treatment or position. List the available rack positions, group positions that share a known height, airflow path, or loading time into blocks, then randomize the strains within each block. A simple shuffled assignment is better than alternating labels by eye, which can align one strain with the front of every shelf. Keep the assignment sheet even if bags are later moved.
+
+Movement is another treatment unless it is recorded. If a block is relocated because of condensation, heat, damage, or harvest access, preserve its original and new position with timestamps. Do not move only the weakest bags to a favorable shelf and then analyze final position as though it were assigned at the start. The [grow-room sensor guide](/growing/mushroom-grow-room-sensors/) explains how to map the gradients that the blocking plan should address.
+
+## Choose replication from variation and decision size
+
+The question is not merely whether two averages can be calculated. Estimate ordinary bag-to-bag variation from comparable historical batches, define the smallest improvement worth changing production for, and allow for expected contamination or handling loss. These inputs can support a power calculation with statistical help, but even a simple written rationale is better than choosing the number of bags that happen to fit one shelf.
+
+Treat the bag—not each mushroom or each flush measurement—as the experimental unit when the strain was assigned by bag. Ten clusters harvested from one bag do not create ten independent replicates. Likewise, repeated flushes are observations on the same unit and should not be counted as unrelated bags. This distinction prevents an apparently large sample from being created by subdividing the harvest.
+
+## Analyze every assigned unit and every decision outcome
+
+Begin with an assignment table containing strain, block, position, inoculation lot, substrate batch, and planned measurements. Add colonization endpoint, first pin, every harvest, saleable grade, contamination disposition, labor, and room-exit date without deleting failed rows. Report an all-assigned summary alongside any predefined per-protocol analysis so readers can see whether exclusions changed the conclusion.
+
+A decision table should show more than yield: median and spread of saleable mass, time to first harvest, room-days, failure proportion, grade distribution, and labor per saleable kilogram. If one strain yields more but occupies the room longer, state both outcomes. The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) provides denominator rules; the trial should not silently switch between gross harvest, successful bags, and all bags started.
+
+For missing observations, record why the value is absent. Equipment failure, a discarded contaminated bag, an overlooked harvest, and a crop that never pinned are not interchangeable zeros. Decide before analysis which events count as biological failure, measurement failure, or protocol deviation, and show a sensitivity comparison when that choice could reverse the operational decision.
 
 ## Frequently asked questions
 

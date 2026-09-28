@@ -55,6 +55,8 @@ Turn the mushroom over before judging the cap. Photograph the underside in even 
 
 Color shifts are characters, not safety labels. The USDA Forest Service description of king bolete includes pale young pores and the absence of blue bruising, but that combination belongs to a complete species description rather than a universal edibility rule. A reaction—or its absence—cannot settle a species name by itself.
 
+Readers evaluating a pale-pored, reticulate-stemmed candidate can use the [porcini field guide](/mushrooms/porcini-mushroom-guide/) to document tube depth, the stem network, living-tree context, and regional *Boletus edulis* complex limits. It remains a comparison record, not an edibility clearance.
+
 ## Separate tubes, pores, and other undersides
 
 “No gills” is not enough to call a specimen a bolete. Look at the entire fertile surface and how it attaches to the cap. A typical bolete underside presents the openings of many vertical tubes; a clean section through the cap can show that tube layer. Other fungi may have folds, blunt ridges, teeth, an almost smooth surface, or pores arranged on a shelf-like fruit body attached to wood.

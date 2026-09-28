@@ -74,6 +74,8 @@ Dung, compost, mulch, lawns, greenhouses, and garden beds are distinct substrate
 
 Many mushrooms form mycorrhizal associations with living trees, but the nearest trunk is not automatically the partner. Stand at the collection and photograph a full circle of the canopy and ground. List plausible trees within a measured distance, including young plants and roots extending from beyond the frame. Record whether the site is a pure stand, mixed woodland, edge, park, plantation, or disturbed landscape.
 
+The [porcini guide](/mushrooms/porcini-mushroom-guide/) applies this evidence ranking to a bolete complex, while the [yellowfoot guide](/mushrooms/yellowfoot-mushroom-guide/) shows how moss, drainage, conifers, and late-season moisture describe a different mycorrhizal setting. Neither habitat pattern proves a species without matching morphology.
+
 Learn enough tree identification to document bark, leaves or needles, branching, cones, and habitat, but keep uncertainty explicit. “Probable oak; leaf photographed” is better than a confident unsupported host. A mushroom associated with birch in one region may have different close relatives with other hosts elsewhere, so use a current regional key.
 
 Saprotrophic mushrooms also respond to vegetation because plants shape litter, moisture, pH, and deadwood. Tree notes remain useful even when no direct symbiosis is claimed. The goal is to define the ecological candidate set, not to turn one tree into a species diagnosis.

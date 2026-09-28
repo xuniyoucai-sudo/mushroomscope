@@ -6,11 +6,15 @@ keywords: ["yellowfoot chanterelle", "Craterellus tubaeformis", "winter chantere
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-28
+updatedDate: 2026-09-28
+revisionSummary: "Added measured hollow-stem and fold records, wet-forest microhabitat boundaries, regional yellowfoot-complex cautions, and thin-flesh cooking controls."
 draft: false
 featured: false
 coverImage: "../../assets/species/yellowfoot-mushroom-editorial-v2.png"
 coverAlt: "Slender yellowfoot chanterelles with brown funnels, gray folds, and yellow stems in wet moss"
 imageCredit: "Original AI-generated MushroomScope editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Created as non-identification visual context; it is not a field photograph or evidence that a specimen is edible."
 relatedEntries: ["mushrooms/chanterelle-mushroom-guide", "mushrooms/black-trumpet-mushroom-guide", "identification/mushroom-identification-safety-checklist", "identification/how-to-make-spore-print"]
 sources:
@@ -145,6 +149,36 @@ For a voucher, keep collections from different patches separate, label each pack
 Yellowfoot’s thin flesh loses water quickly. In the kitchen, that can make careful low-temperature drying effective, but it also means an uncovered refrigerator sample may shrivel before it is assessed. Store food collections cool in breathable packaging and process them promptly. Do not seal wet mushrooms in an unrefrigerated plastic bag, where condensation and microbial deterioration can accelerate.
 
 Drying darkens colors and can flatten the folds, so photograph fresh characters before preservation. Freezing raw thin mushrooms can damage texture; cooks commonly sauté first or dry them, but the safest method depends on a correctly identified, sound collection and ordinary food-storage controls. Preservation does not rescue spoiled material, remove environmental contaminants, or neutralize an unidentified toxic species.
+
+## Document the hollow channel without destroying the whole collection
+
+Select one representative mature fruit body and make a clean longitudinal section from cap center through the stem base. Photograph the channel with a scale and record whether it is continuous, narrow, partly collapsed, or filled by debris. Thin yellowfoot stems can flatten during transport, so a crushed specimen is weaker evidence than a fresh section. Retain intact specimens to document the external stem color and fertile surface.
+
+Measure several caps and stems rather than treating the largest individual as typical. Record cap width, stem length and diameter, wall thickness, fold spacing, degree of branching, and how far the folds descend. Pair every measurement with maturity because young funnels may be shallower and fertile folds less developed. These observations distinguish a population description from a single attractive photograph.
+
+## Read folds by profile, branching, and cross-veins
+
+True gills form thin blade-like plates with relatively sharp edges. Yellowfoot instead has low, blunt ridges that fork, reconnect through cross-veins, and run down the stem. View them from the side under diffuse light and photograph the transition from cap to stem. Do not decide from underside color alone: gray, cream, and yellow tones shift with age, moisture, and camera processing.
+
+Compare several fruit bodies in the same patch. If some have sharp detachable blades while others have blunt folds, treat the collection as potentially mixed and keep it out of food use. Small forest mushrooms can grow intermingled, and a correct specimen in one photograph does not authenticate everything gathered nearby.
+
+## Map the wet-forest microhabitat
+
+Record whether the fruit bodies arise through live moss, needle litter, decayed wood over soil, a bank, or saturated ground. Photograph the canopy and plausible living host trees, then note slope, drainage, recent rainfall, and whether the patch lies beside a seep or stream. “Found in moss” is useful but incomplete because moss covers very different soil and host settings.
+
+Repeated mapped observations can reveal whether fruiting follows late-season rain, cooling soil, or persistent moisture at that site. They do not create a universal calendar. Latitude, elevation, ocean influence, snow cover, and local *Craterellus* concepts all affect timing, so a December name such as winter chanterelle should not be used as a date-based identification test.
+
+## Keep regional yellowfoot names provisional
+
+The yellow-stemmed funnel chanterelles include regionally interpreted taxa such as *Craterellus tubaeformis* and *C. lutescens*. Color and fold development overlap, while field guides may differ in the names applied to local populations. Use a current regional key and record which concept it follows; microscopy or sequence evidence may be needed where ranges and characters overlap.
+
+For a public observation, a genus-level or group-level identification with complete photographs is more useful than an overconfident species name. Preserve location at an appropriate privacy level, date, host context, measurements, and an image of the sectioned stem. Those records allow a local expert to reassess the name without repeating the collection.
+
+## Cook thin fruit bodies by moisture state
+
+Yellowfoot’s thin flesh loses water quickly. Sort out litter and damaged specimens before washing, clean in small batches, and dry the surface so added water does not turn the pan into a steaming bath. Cook only a correctly identified, fresh collection, using a broad hot pan and modest batch depth; add fat or finishing liquid with attention to the recipe rather than relying on a fixed time.
+
+Dried yellowfoot becomes light and brittle and can trap grit in the funnel. Store it fully dry in a clean sealed container, inspect for moisture or insects, and rehydrate hygienically. Drying concentrates flavor by removing water but also removes identification characters, so complete the identification record before preservation and never authenticate an unknown dried mix from appearance alone.
 
 ## Evidence limits, safety, and editorial method
 

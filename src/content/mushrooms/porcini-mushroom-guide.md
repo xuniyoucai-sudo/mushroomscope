@@ -6,9 +6,13 @@ keywords: ["porcini mushrooms", "Boletus edulis", "porcini identification", "por
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-20
+updatedDate: 2026-09-28
+revisionSummary: "Added host-evidence ranking, regional porcini-complex boundaries, measurable pore and stem records, and market-form checks for dried and frozen products."
 coverImage: "../../assets/species/porcini-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of two brown porcini with pale pore surfaces and thick reticulate stems on a moist woodland floor"
 imageCredit: "Original AI editorial image created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated woodland context; not a voucher photograph or sufficient evidence for identification or edibility."
 draft: false
 featured: false
@@ -161,6 +165,30 @@ Even good microscopy may not settle a closely related complex if the available k
 Fresh market porcini may retain cap, pores, and stem characters, while sliced dried pieces usually lose the complete architecture required for field identification. A dried retail packet is best documented through supplier, ingredient name, origin, lot, date, condition, and preparation instructions. It should not be reverse-identified to species from a few brown slices.
 
 Rehydration water can carry sand and broken tissue. Strain it through a fine filter if a recipe uses the liquid, and follow package preparation guidance. Any package with moisture intrusion, webbing, unexpected colored growth, or a strongly abnormal odor should be rejected. These are food-condition decisions, not taxonomic conclusions.
+
+## Rank tree evidence instead of naming the nearest trunk
+
+Porcini fruit from soil connected to living ectomycorrhizal roots, but the closest visible tree is not automatically the partner. Photograph the wider stand and record each plausible host within the immediate area, including conifers and broadleaved trees. Note whether roots may extend beneath paths, litter, or neighboring crowns. A stump or fallen branch describes habitat history but does not prove the current living association.
+
+Give host evidence a confidence level. A fruit body emerging among exposed fine roots beneath a single mature host is stronger context than a mixed woodland containing five possible partners. Repeated fruiting in the same mapped zone across seasons strengthens the ecological record without proving species identity by itself. The [habitat identification guide](/identification/mushroom-habitat-identification/) provides a structured way to record substrate, vegetation, moisture, and disturbance.
+
+## Measure the pore layer and stem network by maturity
+
+Record cap width, stem height and widest diameter, pore color, pore density in a measured area, tube-layer depth in section, flesh color before and after cutting, and the distribution of reticulation. Young porcini often have a pale pore surface that changes toward yellow-olive with maturity; age therefore belongs beside every color description. Photograph the same specimen in shade and neutral light rather than relying on an oversaturated image.
+
+Reticulation is raised mesh-like tissue, not merely mottled pigment or cracks. State whether it is pale or dark relative to the stem and whether it covers the apex, upper half, or most of the stem. Combine this with bruising speed, taste only when a qualified identification protocol permits it, odor, and spore deposit. No single absent reaction proves *Boletus edulis*.
+
+## Treat the porcini complex as a regional identification boundary
+
+The culinary name porcini may encompass related members of the *Boletus edulis* complex. North American, European, and Asian collections cannot be assigned safely from a global photo montage or a package name. Regional keys may use host, cap surface, reticulation color, microscopic structures, and sequence data differently as taxonomy changes.
+
+Write the strongest defensible label. “A bolete consistent with the regional porcini group” is more accurate than a species-level declaration when microscopy, voucher comparison, or local expertise is missing. Record the key and geographic scope used. This makes later correction possible if a regional complex is revised without erasing the original field evidence.
+
+## Inspect dried, frozen, and commercial porcini differently
+
+Drying collapses pores, darkens tissues, removes fresh bruising behavior, and may mix sliced species in one package. Frozen pieces likewise lose several field characters. For purchased products, identity evidence shifts toward supplier traceability, scientific-name labeling, origin, lot, intact diagnostic pieces, storage condition, and any applicable regulatory controls. A photograph of one recognizable slice cannot authenticate every fragment in a mixed bag.
+
+Reject packages with moisture intrusion, insects, abnormal odor, damaged seals, or storage outside label directions. Prepare commercial porcini according to the package and normal food-safety practice. Market reputation does not transfer to a wild collection, and cooking does not make an unidentified toxic bolete safe.
 
 ## Emergency and editorial boundaries
 

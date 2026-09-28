@@ -5,11 +5,13 @@ keywords: ["shiitake health benefits", "shiitake nutrition", "lentinan evidence"
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-27
+updatedDate: 2026-09-28
+revisionSummary: "Added an exposure-equivalence audit, absolute-risk interpretation, food-versus-adjunct evidence boundaries, and a practical safety screen for shiitake products."
 draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-09-27
+reviewDate: 2026-09-28
 evidenceSummary: "Shiitake is a nutritious food; research on lentinan and other preparations is product- and route-specific and does not establish that food or retail supplements treat disease."
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 relatedEntries: ["mushrooms/shiitake-mushroom-guide", "health/mushroom-nutrition-guide", "health/mushroom-supplements-guide"]
@@ -102,6 +104,26 @@ Concentrated use deserves individual advice during pregnancy or breastfeeding, b
 First, identify the material: food, powder, extract, purified fraction, or pharmaceutical preparation. Second, identify the evidence tier: laboratory, animal, observational, randomized trial, or systematic review. Third, inspect the outcome: marker, symptom score, adverse event, hospitalization, or survival. Fourth, ask whether the comparison and participant group match the person to whom the claim is being applied. Fifth, check absolute effect, uncertainty, duration, adverse events, and who funded the study.
 
 This method often produces a less exciting conclusion, but a more useful one. Shiitake can be enjoyed as food; a defined derivative can be studied without proving that all shiitake products share its effect; and a safety signal can be taken seriously without treating every rash as self-diagnosable.
+
+## Audit exposure equivalence before borrowing a result
+
+Build a row for the study and a row for the food or product being discussed. Compare scientific identity, fruiting body versus mycelium, fresh or dry mass, extraction solvent, extract ratio, marker compounds, daily quantity, route, duration, and lot testing. A blank field is an evidence gap, not permission to assume equivalence. If a trial used an injected or medically supervised lentinan preparation, an oral whole-mushroom powder fails the route and composition comparison immediately.
+
+Dose units also need translation. Milligrams of a characterized fraction cannot be converted into “cups of shiitake” unless composition and recovery are measured. A label that lists only a proprietary blend does not reveal the amount of shiitake or lentinan. Even a declared beta-glucan percentage does not prove the same molecular structure, purity, or clinical exposure as the cited preparation.
+
+## Read treatment studies in absolute clinical context
+
+When a paper reports a relative difference, look for the number of participants, baseline event rate, absolute difference, uncertainty interval, follow-up, withdrawals, adverse events, and whether the outcome was prespecified. A change in an immune marker is not automatically fewer symptoms, longer survival, or better quality of life. Subgroup findings and multiple endpoints require particular caution because chance findings become more likely as comparisons multiply.
+
+Adjunct means added to standard care, not substituted for it. A study of a defined preparation alongside oncology treatment cannot support stopping treatment, self-dosing a retail extract, or describing cooked shiitake as anticancer therapy. Geography and regulatory context matter too: a medically used preparation in one health system may not be available, approved, or compositionally equivalent elsewhere.
+
+## Separate everyday food guidance from product decisions
+
+For ordinary food use, verify the cultivated source, storage condition, and thorough cooking, then consider the entire meal. Shiitake can add flavor and texture without needing a therapeutic promise. Dried products should be stored as directed and rehydrated hygienically; soaking liquid and preparation practices change the served dish but do not transform it into a standardized extract.
+
+For powders and extracts, record the exact label, lot, mushroom part, serving size, other ingredients, quality testing, and reason for use. People who are pregnant, preparing for surgery, receiving cancer therapy, using immunosuppressive or anticoagulant medicines, or managing allergies should discuss concentrated products with an appropriate clinician or pharmacist. This is a risk-screening step, not evidence that a specific interaction will occur.
+
+Stop using a suspect product and seek medical advice for a significant rash or other concerning reaction. Breathing difficulty, facial or throat swelling, fainting, or rapidly worsening symptoms require urgent emergency evaluation. A photograph or article cannot distinguish shiitake dermatitis from every other eruption or determine whether another ingredient is responsible.
 
 ## Frequently asked questions
 

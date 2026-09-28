@@ -113,6 +113,8 @@ Change one major variable at a time when possible. If hydration, supplement rate
 
 An apparent gain may also be a denominator error. Audit dry-matter assumptions, ingredient weights, spawn convention, scale units, tare, and missing harvests before developing a biological explanation. Then examine colonization, pin set, cluster morphology, and environmental records.
 
+If water content is the suspected cause, return to the measured additions, ingredient moisture, mixer samples, and heat-treatment mass change in the [substrate-hydration guide](/growing/mushroom-substrate-hydration/) rather than inferring hydration from yield alone.
+
 ## Minimum publication record
 
 When publishing a result, include species and strain, culture source, number of units started, failures, recipe and lots, dry-matter method, spawn convention, bag mass and geometry, heat treatment, fruiting conditions, harvest boundary, flush window, mean, variation, and quality definition. Include raw per-unit results or a usable table where possible. These details let another grower decide whether the comparison applies instead of copying a percentage without its production boundary.

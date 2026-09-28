@@ -5,6 +5,8 @@ keywords: ["mushroom substrate hydration","substrate field capacity","mushroom s
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-22
+updatedDate: 2026-09-28
+revisionSummary: "Added wet- and dry-basis worked calculations, mixer sampling, heat-treatment mass reconciliation, and release criteria that distinguish recipe errors from local wet zones."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-substrate-hydration-editorial-v2.png"
@@ -127,6 +129,30 @@ The same caution applies to yield. Report harvested mass relative to the origina
 Do not rescue a sealed nutrient-rich bag by opening it to add water. For the next batch, adjust one measured increment and preserve a control. If straw remains wet after a fixed drain, change chop distribution, loading depth, or drain time before changing multiple recipe ingredients. If pellet blocks remain dry in the center, verify absorption time and mixing uniformity before raising the total water target.
 
 Document supplier and season changes. A new pellet lot, differently milled bran, or coir brick can shift absorption. Re-run a small calibration after a meaningful material or equipment change, and retain the former treatment as a comparison. This is slower than adopting a single field-capacity number but faster than diagnosing an entire contaminated production run.
+
+## Calculate wet basis and water-to-dry-solids separately
+
+Suppose 1,000 grams of an ingredient arrives at 10 percent moisture on a wet basis. It contains 900 grams of dry solids and 100 grams of water. Adding 1,350 grams of water produces 1,450 grams total water in a 2,350-gram mix. The resulting wet-basis moisture is 1,450 divided by 2,350, or about 61.7 percent. The water-to-dry-solids ratio is 1,450 divided by 900, or about 1.61 to 1. These two numbers describe the same mix with different denominators.
+
+If the ingredient’s starting moisture is ignored, the calculation would use 1,350 grams of water and report about 57.4 percent. That four-point difference is not a biological mystery; it is a bookkeeping error. Record whether supplier moisture is measured, lot-specific, or estimated, and retain the unrounded masses so the calculation can be corrected later.
+
+## Sample the mixer as a spatial process
+
+Uniform total inputs do not guarantee a uniform bag. After the planned mixing and absorption interval, take equal-mass samples from predefined top, center, edge, and bottom positions before filling. Use the same sampling tool and avoid selecting only visually convenient material. Compare wet mass, appearance, squeeze observation, and—when the operation supports it—a documented dry-matter result.
+
+If the bottom sample is consistently wetter, investigate addition sequence, mixing time, particle segregation, mixer geometry, resting, and drainage before changing the whole-batch recipe. Extra dry material thrown into one wet corner creates another uncontrolled gradient. Rework only under a validated process; otherwise hold the batch and correct the next controlled mix.
+
+## Reconcile mass through heat treatment
+
+Weigh representative sealed units before and after pasteurization or sterilization using the same cooled, externally dry condition. A gain can indicate water entry or condensation retained by the container; a loss can indicate venting, leakage, or evaporation. Location within the treatment load may matter, so sample more than one position and preserve the load map.
+
+Do not infer internal moisture uniformity from total bag mass alone. Water can migrate and collect at a cool surface while the center remains different. Pair mass change with seal integrity, filter condition, visible pooling, and later colonization observations. Opening a processed nutrient bag to take a casual moisture sample changes its contamination risk and is not an acceptable rescue method.
+
+## Write a release decision before inoculation
+
+A release record should state ingredient lots, starting moisture assumption, dry solids, added water, mixing and rest times, sample positions, bag mass tolerance, visible free-water rule, heat-treatment mass change, and the person making the decision. Define hold and reject conditions before the batch is processed. This prevents a schedule deadline from turning an unusual wet zone into an accepted normal condition.
+
+After harvest, connect hydration to biological efficiency, contamination, colonization time, and residual block mass without changing several variables at once. The [yield and biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) supplies the dry-mass denominator, while [batch records](/growing/mushroom-batch-records/) preserve the lot and unit history needed to interpret the result.
 
 ## Frequently asked questions
 

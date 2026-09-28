@@ -129,6 +129,8 @@ Keep the record tied to the collection rather than relying on memory: date, broa
 
 Repeated, careful notes also reveal why a single web image is insufficient. Young, rain-soaked, frost-affected, and dried specimens can each look different. The safest outcome of an incomplete record is “unresolved,” not a confident species label. This site’s [mushroom identification guide](/identification/how-to-identify-mushrooms/) and [safety checklist](/identification/mushroom-identification-safety-checklist/) provide a repeatable way to document that uncertainty, while the [habitat guide](/identification/mushroom-habitat-identification/) and [spore-print method](/identification/how-to-make-spore-print/) explain two supporting observations.
 
+For a related but differently colored funnel, compare the [yellowfoot chanterelle guide](/mushrooms/yellowfoot-mushroom-guide/), especially its hollow yellow stem and gray, cross-veined folds. Shared funnel shape does not make the two field profiles interchangeable.
+
 ## Frequently asked questions
 
 ### Do black trumpets have true gills?

@@ -59,11 +59,15 @@ Culture, agar plates, liquid inoculum, grain spawn, fruiting substrate, harvest 
 
 This lineage is more useful than copying the same description onto every page. The [grain spawn guide](/growing/mushroom-grain-spawn-guide/) explains how a production inoculum should remain tied to its source and condition, while the [substrate guide](/growing/mushroom-substrate-guide/) identifies the later material fields that matter. The batch record joins those stages without pretending that visual appearance proves identity or purity.
 
+When two authenticated cultures are deliberately compared, preserve the assignment and exclusion fields described in the [mushroom strain-trial design](/growing/mushroom-strain-trial-design/). A production log can support that trial, but it cannot replace randomization or turn an unplanned batch difference into an experiment.
+
 ## Record inputs with usable specificity
 
 Ingredient names alone are weak evidence. Capture supplier, product, lot or receipt identifier, amount, unit, receipt date, and relevant condition. For a culture, include the labeled species and strain, supplier, accession or lot when provided, arrival condition, and storage history. For substrate, record dry ingredients separately from added water and distinguish wet from dry weights. For reusable containers or equipment, link the applicable cleaning and maintenance record rather than repeatedly typing an unverifiable claim that equipment was clean.
 
 Specificity must remain proportionate. A home experiment does not need an enterprise database, but “some pellets and spawn” cannot explain a later difference. Start with fields that change decisions: identity, quantity, lot, date, operator, equipment, location, and disposition.
+
+Water needs the same traceability as dry ingredients. Record its measured mass and the starting-moisture assumption used for each lot; the [substrate-hydration guide](/growing/mushroom-substrate-hydration/) shows how wet-basis and dry-basis denominators change the reported percentage.
 
 ## Capture the process as performed, not as planned
 

@@ -97,6 +97,8 @@ The distinction between folds and true gills is important. True gills are thin, 
 
 Record cap, underside, stem base, a lengthwise section, nearby trees, and the exact point where the mushroom meets the ground. A pale cream-to-yellowish spore deposit may support the assessment, but print color overlaps among many fungi. Microscopic features and DNA may be necessary when a regional species name matters.
 
+Small, thin funnels with gray folds and hollow yellow stems require a separate comparison; the [yellowfoot chanterelle guide](/mushrooms/yellowfoot-mushroom-guide/) documents that character set and its cool, moss-rich forest context. Do not stretch the golden-chanterelle profile to cover every yellow-stemmed member of *Craterellus*.
+
 ### A practical field sequence
 
 1. Confirm that the mushrooms arise from soil, not obviously from a stump, log, or tight woody cluster.

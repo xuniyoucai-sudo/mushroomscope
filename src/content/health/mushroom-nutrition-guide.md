@@ -60,6 +60,8 @@ Next, identify the unit. A package serving, a household measure, and a database'
 
 USDA FoodData Central combines data from multiple sources and updates entries over time. Its entries are a sensible starting point for food context, while a current product label is the more direct record for a packaged food. Neither source proves that a particular meal will prevent, treat, or manage a condition.
 
+For a species-specific example, the [shiitake health-benefits review](/health/shiitake-health-benefits/) separates ordinary food composition from lentinan, extracts, and medically administered preparations. Those exposure differences are why a nutrient entry cannot carry a treatment claim.
+
 ## Fiber, protein, and vitamins answer different questions
 
 Mushrooms are often described with a string of favorable nutrient words: low calorie, source of fiber, protein-containing, or rich in B vitamins and minerals. Those phrases are not interchangeable claims. Fiber describes a group of carbohydrate components that can contribute to a meal's total fiber intake; protein describes amino-acid-containing material; vitamins and minerals have their own intake recommendations and functions. Whether an amount is meaningful depends on the person's overall diet, portion, age, medical context, and the food being compared.
