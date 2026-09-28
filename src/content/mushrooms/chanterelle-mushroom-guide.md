@@ -178,6 +178,8 @@ For a practical home project, start with a reputable oyster or lion's mane fruit
 
 ## References
 
+If the underside carries individual detachable spines instead of blunt folds, compare the complete collection with the [hedgehog mushroom guide](/mushrooms/hedgehog-mushroom-guide/), including tooth density, stem attachment, forest partners, and region.
+
 1. Global Biodiversity Information Facility. [*Cantharellus cibarius* Fr.](https://www.gbif.org/species/5249504). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [Taxonomy Browser: *Cantharellus cibarius*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36056). Database lineage record.
 3. Kuo M. [*Cantharellus cibarius*](https://www.mushroomexpert.com/cantharellus_cibarius.html). MushroomExpert.Com. Morphological and taxonomic discussion, including limits of the name in North America.

@@ -135,3 +135,4 @@ If someone may have eaten an unidentified mushroom, contact local emergency serv
 2. [Michigan State University Extension — Michigan's Wild Harvested Mushrooms](https://archive.lib.msu.edu/DMC/extension_publications/e2777/E2777-2002.PDF)
 3. [Montana State University — Collecting Fungi and Mushrooms for Identification](https://urbanipm.montana.edu/resources/submitting-mushrooms.html)
 4. [Poison Control — Wild Mushroom Warning](https://www.poison.org/articles/wild-mushroom-warning)
+The dedicated [mushroom pore-surface guide](/identification/mushroom-pore-surface-guide/) explains how to measure pore density, section tube layers, and record bruising by tissue zone before applying a regional bolete key.

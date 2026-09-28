@@ -86,6 +86,8 @@ Hollowing can increase with age or insect activity, so compare young and mature 
 
 ## Record rings as structures rather than checkboxes
 
+A developmental comparison of partial veils, cortinas, rings, cap patches, and volvas is available in the [mushroom veils and rings guide](/identification/mushroom-veils-rings-guide/). Use it when the question is where remnant tissue originated rather than stem shape alone.
+
 A ring can be membranous, skirt-like, cottony, cobwebby, double-edged, thick, thin, movable, fixed, ascending, descending, or only a fragile zone. Photograph young specimens before the partial veil breaks, then mature specimens from above and below the ring. Note its position and whether it persists, collapses against the stem, adheres to the cap margin, or disappears.
 
 An apparent ring may be a color boundary, spore deposit, handling mark, or debris. Look for actual veil tissue. A ring is not a universal sign of edibility: both edible and dangerous mushrooms can have one, and some specimens of a normally ringed species may lose it. Combine the feature with gill attachment, spore color, base, habitat, and regional keys.

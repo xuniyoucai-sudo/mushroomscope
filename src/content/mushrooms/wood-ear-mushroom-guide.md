@@ -198,6 +198,8 @@ Discard dried ears with insects, moisture damage, mold, or an abnormal odor, and
 
 ## References
 
+Pale frilly dried products belong to a different comparison: the [snow fungus guide](/mushrooms/snow-fungus-guide/) separates *Tremella fuciformis* partner-dependent cultivation, rehydration measurements, and label evidence from the darker, ear-shaped *Auricularia* market.
+
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
 2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.

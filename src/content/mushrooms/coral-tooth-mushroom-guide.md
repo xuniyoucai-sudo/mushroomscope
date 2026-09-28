@@ -156,6 +156,8 @@ Compare the complete record with a current regional key and local occurrence dat
 
 ## References
 
+For a ground-dwelling toothed comparison, the [hedgehog mushroom guide](/mushrooms/hedgehog-mushroom-guide/) explains how cap-and-stem form, decurrent teeth, tree context, and measured tooth density separate *Hydnum* records from branching wood-attached *Hericium*.
+
 1. Global Biodiversity Information Facility. [*Hericium coralloides* species record](https://www.gbif.org/species/5248532). Taxonomic backbone and occurrence context; individual records still require evaluation.
 2. U.S. Forest Service. [Ecology and Management of Early Successional Habitats in the Central Hardwood Region](https://research.fs.usda.gov/treesearch/56332). Broader dead-wood and hardwood-habitat management context, not a species key.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative poison-response context.

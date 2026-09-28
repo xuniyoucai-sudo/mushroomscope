@@ -6,7 +6,8 @@ keywords: ["snow fungus", "Tremella fuciformis", "silver ear mushroom", "white f
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-04
-updatedDate: 2026-09-23
+updatedDate: 2026-09-29
+revisionSummary: "Added partner-host production diagnostics, fruit-body mass-balance records, dried-product defect separation, and claim-matched evidence boundaries."
 coverImage: "../../assets/species/snow-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two white translucent snow fungus rosettes fruiting from hardwood-sawdust cultivation bags"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -214,6 +215,26 @@ Cloud-ear terminology varies across markets, while the published [wood ear guide
 8. Retain batch samples and correction records where appropriate.
 
 This system makes the guide useful without presenting a false universal recipe.
+
+## Diagnose the partner system before changing humidity
+
+Commercial snow fungus production is not a simple “more moisture” problem. Record the provenance and viability of both the *Tremella* culture and its compatible fungal partner, inoculation sequence, substrate dry mass, bag gas exchange, incubation temperature, and time to visible interaction. When primordia fail, compare colonization fronts and controls before increasing water or cutting larger openings. A bag can look thoroughly white without containing the interaction required for normal fruiting.
+
+Use replicate bags and change one variable at a time. Log the position of each bag because shelf height alters air movement, temperature, and surface drying. Photograph the same opening daily with a scale. Aborted primordia, bacterial wet spots, uncolonized substrate, and excessive condensation point to different interventions; treating them all as “low humidity” can spread contamination or waterlog the block.
+
+The [strain trial guide](/growing/mushroom-strain-trial-design/) explains replication and randomization, while the [batch-record guide](/growing/mushroom-batch-records/) provides a traceable structure for culture, substrate, and environmental observations.
+
+## Use mass balance to compare dried retail products
+
+Weigh a representative dry portion, record soak-water temperature and time, drain for a fixed interval, then weigh it again. Report the rehydration ratio as drained mass divided by initial dry mass. Expansion is affected by trimming, fragment size, drying process, age, and retained surface water; it is not a direct measure of purity or medicinal value.
+
+Separate defects before drawing conclusions. Uniform cream-to-pale-yellow color can reflect processing and storage, whereas localized pink, green, black, or fuzzy growth, fermented odor, sliminess before soaking, damaged packaging, or insect activity warrants rejection. Photograph the package code, country of origin, ingredient list, intact seal, dry material, and rehydrated material. A retailer label supports product identity only within its supply chain; it does not validate a wild white jelly fungus.
+
+## Match every evidence claim to the tested material
+
+Research may examine purified polysaccharides, cultured cells, animal models, topical formulations, or oral products with specified doses. None is automatically equivalent to a bowl of rehydrated fruit body. For each claim, record the organism name used by the paper, preparation, analytical characterization, dose, route, comparator, population, duration, outcome, and adverse-event reporting. If those fields do not match the marketed product, describe the evidence as indirect.
+
+This separation protects both culinary and health intent. The food section can discuss verified product handling and texture; the evidence section can explain what a study actually tested without promising treatment of skin, immune, metabolic, or chronic disease. Supplements also require their own identity, contaminant, and label review through the [supplements guide](/health/mushroom-supplements-guide/).
 
 ## Evidence and image boundaries
 

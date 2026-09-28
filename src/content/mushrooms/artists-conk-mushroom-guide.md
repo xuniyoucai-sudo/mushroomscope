@@ -167,6 +167,8 @@ The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates ho
 
 ## References
 
+Not every conspicuous wood fungus forms tubes. The [witch's butter guide](/mushrooms/witchs-butter-fungus-guide/) contrasts gelatinous lobes, host-fungus mapping, and dry-wet recovery with the layered woody context of a perennial *Ganoderma* conk.
+
 1. Global Biodiversity Information Facility. [Ganoderma applanatum species record](https://www.gbif.org/species/2549834). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
@@ -174,3 +176,4 @@ The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates ho
 5. U.S. Forest Service. [Forest insect and disease guide: artist's conk](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5315942.pdf). Host, morphology, pore bruising, internal structure, decay, and tree-risk context.
 
 *Editorial review updated September 27, 2026. The revision added host-condition, perennial-tube, field-measurement, and product-equivalence boundaries; regional taxonomy and poison-response contacts still require periodic checking.*
+For a transferable underside record, use the [pore-surface guide](/identification/mushroom-pore-surface-guide/) to count pores by zone and distinguish true tubes from maze-like ridges or weather damage.

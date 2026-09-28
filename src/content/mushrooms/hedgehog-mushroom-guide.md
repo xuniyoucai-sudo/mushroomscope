@@ -6,7 +6,8 @@ keywords: ["hedgehog mushroom", "Hydnum repandum", "hedgehog mushroom identifica
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-06
-updatedDate: 2026-09-23
+updatedDate: 2026-09-29
+revisionSummary: "Added tooth-density transects, cap-to-stem attachment records, North American species-complex limits, and a contradiction-led comparison workflow."
 coverImage: "../../assets/species/hedgehog-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale buff hedgehog mushrooms with soft downward teeth in mossy woodland"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -189,6 +190,18 @@ For a controlled first project, use a species covered by the [beginner growing g
 Obtain permission and follow protected-area rules. Take the minimum material required for a defensible record, leaving young and mature fruit bodies for spore production and other organisms. Avoid raking moss or excavating wide root areas merely to find more mushrooms.
 
 Location sharing also deserves care when populations are sensitive. A regional description may support science without broadcasting a precise vulnerable patch.
+
+## Map tooth density instead of recording only “spines present”
+
+The fertile surface changes from the cap margin toward the stem. Place a millimeter rule beside the teeth and record three zones: within 10 mm of the margin, the middle radius, and the stem junction. For each zone, measure five intact teeth, note the range in length, and count attachment points across a fixed span. Young marginal teeth may be short enough to resemble granules, while older central teeth can be elongated or broken.
+
+Photograph a profile at low angle to show whether teeth are cylindrical, flattened, forked, crowded, or decurrent. Dirt caught between teeth can create false dark tips; rinse only after an undisturbed image and record any cleaning. A damaged tooth layer should not be used to claim that a specimen has pores or folds. The new [pore-surface guide](/identification/mushroom-pore-surface-guide/) shows how a vertical section reveals tubes when the underside is ambiguous.
+
+## Separate the Hydnum species complex by contradictions
+
+Names historically applied broadly to pale hedgehog mushrooms do not map neatly across continents. A useful North American or European record therefore begins with region and a current local treatment, then tests cap color and surface, maximum size, stem placement, tooth attachment, bruising, host forest, and season together. Do not transfer a European name to a North American photograph solely because both show cream-colored teeth.
+
+Build a table with one row per locally documented candidate and mark every unavailable character. Eliminate a candidate when the specimen has a contradictory spore measurement, ecology, or stable color reaction; do not rescue it by describing the photograph as “variable.” Preserve dried material and field metadata if microscopy or sequencing may later resolve the collection. The durable result is the measured voucher record, even when the species name remains at *Hydnum*.
 
 ## Evidence and image limits
 

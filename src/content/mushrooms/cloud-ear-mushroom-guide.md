@@ -232,6 +232,8 @@ Commercial traceability begins before rehydration. Retain the package, lot, coun
 
 ## References
 
+For white, frilled, highly expanding retail material, use the [snow fungus guide](/mushrooms/snow-fungus-guide/) to compare package identity, partner-fungus production, dried-product defects, and rehydration ratios rather than applying an ear-fungus name by texture alone.
+
 GBIF and NCBI support taxonomy and occurrence context. FDA supports verified-product handling. NAMA supports conservative response to unknown mushroom exposures. The guide separates scientific species identity from overlapping commerce terms and avoids unsupported health claims.
 
 *Draft editorial review: August 30, 2026. Recheck current Auricularia taxonomy, market labeling, and food-safety links before publication.*

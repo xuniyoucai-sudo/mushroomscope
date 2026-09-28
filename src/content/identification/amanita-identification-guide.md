@@ -79,6 +79,8 @@ The pattern varies by species. A death-cap-type sac is not the universal *Amanit
 
 ## Partial veil and ring variation
 
+A broader [veils and rings field guide](/identification/mushroom-veils-rings-guide/) shows how to photograph a developmental series and separate partial-veil remnants from universal-veil tissue across unrelated genera.
+
 A second membrane, the partial veil, may protect young gills and later hang as a skirt-like ring. Rings can be thick or fragile, high or low, persistent or lost. Some *Amanita* groups characteristically lack a ring.
 
 Look for remnants on the cap margin and a ring zone on the stem, not only a perfect skirt. Photograph young buttons before the veil breaks and mature specimens after it does. Development explains structures better than a single adult.
