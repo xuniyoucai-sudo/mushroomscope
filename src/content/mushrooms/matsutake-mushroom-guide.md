@@ -6,13 +6,16 @@ keywords: ["matsutake", "Tricholoma matsutake", "matsutake identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added region-specific matsutake name boundaries, host and soil evidence, staged veil records, harvest traceability, and a clearer explanation of cultivation limits."
 draft: false
 featured: false
 coverImage: "../../assets/species/matsutake-mushroom-editorial-v2.png"
 coverAlt: "Three matsutake mushrooms at different stages emerging from pine needles on a forest floor"
 imageCredit: "Original AI-generated MushroomScope editorial image"
 imageNote: "Original AI-generated editorial image for habitat and structural context only; it is not a field record or identification evidence."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Tricholoma matsutake"
@@ -90,14 +93,14 @@ White firm mushrooms with brown fibrous scales, a partial veil, and a strong spi
 
 A mycorrhizal forest species associated with pines and other hosts. The documented range represented here includes East Asia and northern Europe. Typical substrates or settings include sandy forest soil and pine-associated soil. Fruiting records commonly occur in August, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Matsutake ecology begins below ground. These fungi form ectomycorrhizal partnerships with living trees, and fruit bodies commonly arise from mineral soil and litter rather than from wood. Record the complete local tree community, soil texture, litter depth, slope, and whether several fruit bodies trace an arc or patch. Japanese *Tricholoma matsutake* and western North American matsutake concepts involve different regional host communities.
 
 ## Similar species
 
 - **Tricholoma pardinum — a poisonous gray-scaled species.**
 - **Amanita smithiana and related amanitas — dangerous white mushrooms with different base structures.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Build the comparison set for the collection region. Large white and brown-capped *Tricholoma* and pale *Amanita* can overlap in a hurried photograph, while the consequential characters include an intact base, veil architecture, gill attachment, odor recorded without tasting, host association, and microscopic evidence required by the local key. A market name or image-app suggestion cannot resolve those boundaries.
 
 ## Food and safety context
 
@@ -107,15 +110,15 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Matsutake cannot be treated like oyster spawn on a fruiting block. The fungus must establish a compatible root partnership in a suitable soil and microbial community, and the transition from root colonization to repeatable fruiting remains difficult to control. Research sites therefore address tree seedlings, soil horizons, competing vegetation, climate, and multi-year establishment—not a short indoor recipe. “Matsutake grow kit” claims need careful scrutiny of species identity and promised outcomes.
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the undisturbed fruit body emerging through litter and the surrounding host trees.
+2. Excavate one complete base where collection is lawful; do not cut off lower stem or veil tissue.
+3. Record cap fibers, gill attachment, ring position, stem surface, firmness, and odor across young and mature stages.
+4. Map the collection to the regional matsutake species concept rather than importing a distant name.
+5. Keep harvest lots separated by site and date so an expert can trace disagreements or adverse events.
 
 ## Start with geography before using the matsutake name
 
@@ -186,4 +189,4 @@ State what remains missing, including microscopy, expert confirmation, or curren
 5. Yamada A, et al. [Cultivation studies of edible ectomycorrhizal mushrooms](https://pmc.ncbi.nlm.nih.gov/articles/PMC10043572/). *Mycoscience*. Review of verified mycorrhization research, host relationships, and the limits of matsutake cultivation.
 6. Kim M, et al. [Fungal interactions in *Tricholoma matsutake* shiro soils](https://pmc.ncbi.nlm.nih.gov/articles/PMC8533266/). *Frontiers in Microbiology*. Field evidence for host symbiosis and the distinctive shiro soil community.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review updated September 28, 2026. No named mycologist reviewed this page; regional taxonomy, conservation rules, and poison-response contacts require rechecking at each substantive update.*

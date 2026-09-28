@@ -6,8 +6,8 @@ keywords: ["stuffed portobello mushrooms", "mushroom recipe", "portobello mushro
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
-revisionSummary: "Added cap preparation, filling formulas, dietary substitutions, doneness checks, serving plans, and detailed moisture and storage troubleshooting."
+updatedDate: 2026-09-28
+revisionSummary: "Added a weighed cap-draining method, filling-ratio controls, gill-removal decision, staged baking tests, variation-specific food safety, and single-layer reheating guidance."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/grilled-portobello-burgers", "health/cooked-vs-raw-mushrooms"]
@@ -15,6 +15,8 @@ coverImage: "../../assets/recipes/stuffed-portobello-mushrooms.jpg"
 coverAlt: "Baked portobello mushrooms stuffed with spinach and a golden crumb topping"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
@@ -45,7 +47,7 @@ recipe:
 
 Make stuffed portobello mushrooms with cultivated portobello mushrooms, clear steps, practical substitutions, and conservative food-safety guidance. Browning drives off surface moisture and builds savory flavor. Crowding a small pan traps steam, so cook in batches when necessary. The recipe uses breadcrumbs, spinach, and cheese to support rather than hide the mushroom flavor.
 
-Only use mushrooms sold as food by a reputable supplier. A recipe cannot authenticate a wild mushroom, and cooking does not make a poisonous species safe. Check packaging and recall information before cooking.
+Use cultivated portobellos sold for food, ideally caps of similar diameter and thickness so the pre-bake is predictable. The recipe is not an identification method: a large brown wild cap cannot be substituted because it resembles a portobello, and heat cannot detoxify an incorrectly identified mushroom. Check the package condition and any current recall notice before preparation.
 
 ## Ingredients and substitutions
 
@@ -63,11 +65,11 @@ Only use mushrooms sold as food by a reputable supplier. A recipe cannot authent
 4. Pre-bake caps, add cooked filling, and bake until the center is hot.
 5. Taste, adjust seasoning, and serve hot.
 
-A wide skillet promotes evaporation. Let mushrooms contact the hot surface before stirring repeatedly. If liquid accumulates, continue cooking until it evaporates rather than adding more fat immediately.
+For the filling, spread chopped stems and onion in a skillet wide enough to expose most pieces to the hot surface. Stir once the lower edges color, then continue until the pan leaves a dry trail when a spatula passes through. That visible end point matters more than a fixed minute count because stem mass, spinach moisture, and pan diameter vary.
 
 ## Troubleshooting
 
-**Mushrooms are pale and watery:** The pan was crowded or not hot enough. Cook smaller batches and allow moisture to evaporate.
+**The tray fills with dark liquid:** The caps were filled before their initial water release, or they were packed too closely. Pre-bake gill-side down, drain the rimmed tray, blot only the exterior, and return the caps with space for air circulation.
 
 **Garlic or spices taste bitter:** Add delicate aromatics later or reduce the heat once browning is established.
 
@@ -131,13 +133,13 @@ Compare this oven method with [grilled portobello burgers](/recipes/grilled-port
 
 ## Storage and reheating
 
-Refrigerate perishables and leftovers within two hours—within one hour when ambient temperature is above 90°F (32°C). Use clean, shallow covered containers and keep the refrigerator at or below 40°F (4°C). Reheat only the portion needed until steaming hot and discard food held unsafely or showing spoilage.
+Move cooked caps to refrigeration within two hours, or within one hour above 90°F (32°C). Arrange them in a single shallow layer so dense filling does not remain warm at the center, cover once rapid steaming subsides, and keep the refrigerator at or below 40°F (4°C). Reheat only the portion required until the center is steaming; discard any cap with an uncertain holding history, slime, mold, or an off odor.
 
 Cool caps in a single layer rather than stacking them in a deep container. If making components ahead, refrigerate the cooked filling and pre-baked caps separately and assemble close to baking. Do not hold a wet raw filling inside caps overnight unless a tested recipe specifically directs it.
 
 Reheat in an oven or air fryer at moderate heat so the center warms before the topping burns, or microwave in a vented microwave-safe container and pause to rotate. Check for cold pockets. Reheating restores temperature, not freshness; discard food with mold, slime, off odor, or an unsafe holding history.
 
-Browse more [mushroom recipes](/recipes/) or learn about the cultivated species in the [mushroom encyclopedia](/mushrooms/).
+For another portobello technique, compare the moisture and structure choices in [grilled portobello burgers](/recipes/grilled-portobello-burgers/). The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) explains why water loss can change nutrient values per 100 grams without creating new nutrients.
 
 ## Keep recipe metadata consistent with the actual variation
 
@@ -149,6 +151,6 @@ Lift one representative cap and inspect the thickest portion and filling center.
 
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) — purchasing, washing, and cross-contamination controls for produce.
+2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — refrigerator temperature and prompt-storage guidance.
+3. [USDA FoodData Central](https://fdc.nal.usda.gov/) — food-composition records; values depend on the selected item and preparation state.

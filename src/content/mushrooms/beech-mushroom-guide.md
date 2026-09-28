@@ -6,13 +6,16 @@ keywords: ["beech mushroom", "Hypsizygus marmoreus", "beech mushroom identificat
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Replaced generic species templates with cultivated-cluster morphology, Hypsizygus name boundaries, hardwood ecology, cold-fruiting variables, and product-specific handling guidance."
 draft: false
 featured: false
 coverImage: "../../assets/species/beech-mushroom-editorial-v2.png"
 coverAlt: "Dense cultivated cluster of brown beech mushrooms with pale stems fruiting from a sawdust block"
 imageCredit: "Original AI-generated MushroomScope editorial image"
 imageNote: "Original AI-generated editorial image of a cultivated cluster; it is not a product record or identification evidence."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "mushrooms/chanterelle-mushroom-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Hypsizygus marmoreus"
@@ -90,14 +93,14 @@ Dense cultivated clusters of small brown or white caps on long pale stems. White
 
 A hardwood-decaying species cultivated in bottles or bags. The documented range represented here includes East Asia and temperate regions and cultivated worldwide. Typical substrates or settings include hardwood sawdust and dead hardwood. Fruiting records commonly occur in September, October, November, December, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Beech mushrooms are wood decomposers, but the supermarket name does not prove that a wild cluster on beech belongs to *Hypsizygus marmoreus*. Photograph the precise attachment, bark and end grain, and whether the cluster emerges from a standing wound, stump, buried root, or prepared cultivation block. In East Asian production the crop is usually grown from sterilized hardwood-based substrate; that controlled provenance is fundamentally different from inferring identity from a nearby tree.
 
 ## Similar species
 
 - **Hypsizygus ulmarius — a related larger species historically confused in cultivation.**
 - **Lyophyllum species — clustered pale mushrooms that require microscopy or regional keys.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+The difficult comparisons are regional *Hypsizygus* records and other pale, clustered wood mushrooms. Preserve the full stem bases, photograph gill attachment and cap marbling at several ages, and obtain a white spore deposit only when a local key calls for it. Commercial brown and white buna-shimeji strains also differ in pigment and stature, so a cultivated package is best verified through its label and supplier rather than forced through a wild-mushroom photo key.
 
 ## Food and safety context
 
@@ -107,15 +110,15 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-Cultivation is established but requires controlled substrate preparation, clean inoculation, and stage-specific conditions. A verified fruiting block is more appropriate for beginners than cloning wild material. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Commercial beech-mushroom production uses authenticated culture, a hardwood-sawdust formulation, controlled incubation, and a cooler fruiting phase that promotes compact clusters. Bottle or block geometry, scraping or surface treatment, carbon-dioxide management, humidity, and harvest age all affect stem length and cap expansion. Home growers should follow one supplier's complete method and log block temperature, days to pins, cluster density, and fresh yield; cloning an unidentified woodland cluster discards both identity and production history.
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the entire cluster and its actual wood attachment before removing a specimen.
+2. Record whether caps are marbled brown, uniformly pale, or altered by drying, and include young and expanded stages.
+3. Measure cap width and stem length across the cluster rather than selecting the largest fruit body.
+4. Photograph gill attachment, the joined or separate stem bases, and a verified cultivation label when the material is purchased.
+5. Keep wild collections out of the kitchen until a qualified local identifier has examined the complete material.
 
 ## Distinguish the cultivated product from a wild identification
 
@@ -178,4 +181,4 @@ Then separate three conclusions: what the visible anatomy supports, what the sup
 5. Chen J, et al. [Nutritional relationships in mycelia and fruiting bodies of *Hypsizygus marmoreus*](https://pubmed.ncbi.nlm.nih.gov/39644664/). *Food Chemistry*. Species-specific composition and cultivation-medium context.
 6. Zhang J, et al. [Low-temperature fruiting and nutrient accumulation in *Hypsizygus marmoreus*](https://pmc.ncbi.nlm.nih.gov/articles/PMC9315786/). *Frontiers in Microbiology*. Cultivation-stage and fruiting physiology evidence.
 
-*Editorial review: August 15, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review updated September 28, 2026. The page has no named mycologist or food-safety reviewer; taxonomy, cultivated-product labeling, and poison-response contacts should be rechecked at each substantive revision.*

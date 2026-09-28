@@ -6,13 +6,16 @@ keywords: ["pioppino", "Cyclocybe aegerita", "pioppino identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-27
-updatedDate: 2026-08-27
+updatedDate: 2026-09-28
+revisionSummary: "Replaced generic templates with Cyclocybe name history, poplar-wood attachment records, cap-cracking development, cultivation variables, and texture-specific cooking guidance."
 draft: false
 featured: false
 coverImage: "../../assets/species/pioppino-mushroom-editorial-v2.jpg"
 coverAlt: "Cluster of brown-capped Pioppino mushrooms growing from a rain-darkened hardwood log"
 imageCredit: "Original AI-generated MushroomScope editorial image"
 imageNote: "AI-generated editorial context, not a field photograph or identification reference; morphology must be checked from real specimens and regional keys."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["growing/mushroom-growing-beginners", "growing/mushroom-substrate-guide", "identification/mushroom-identification-safety-checklist", "recipes/sauteed-mushrooms-recipe"]
 sources:
   - title: "GBIF — Cyclocybe aegerita"
@@ -88,14 +91,14 @@ Tan to brown convex caps, pale gills, and clustered pale stems with a ring. Crow
 
 A wood-decayer associated with poplar, willow, and other hardwoods; widely cultivated. The documented range represented here includes Europe and Mediterranean region and cultivated worldwide. Typical substrates or settings include hardwood logs and supplemented sawdust and dead hardwood. Fruiting records commonly occur in April, May, September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Pioppino is associated with hardwood, especially poplar and related hosts in its traditional range, but fruit bodies can appear terrestrial when they arise from buried roots or wood. Trace the cluster to its substrate and photograph bark, cut grain, stump form, or buried attachment. Record whether the wood is living, recently cut, or well decayed. That evidence supports a *Cyclocybe aegerita* hypothesis; it does not turn every brown cluster near a poplar into pioppino.
 
 ## Similar species
 
 - **Galerina marginata — a deadly wood-growing species; rusty spores and other features differ.**
 - **Agrocybe praecox group — similar brown-spored mushrooms on wood debris.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Compare pioppino with the brown-spored wood fungi actually present in the region, including *Pholiota*, *Agrocybe* sensu lato, and dangerous small brown mushrooms such as *Galerina*. Document cap cracking, veil and ring development, gill color from young to mature, stem texture, spore-deposit color, and complete attachment. Brown caps and clustered growth are weak characters; difficult collections need a regional key, microscopy, or sequence evidence.
 
 ## Food and safety context
 
@@ -105,7 +108,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-Cultivation is established but requires controlled substrate preparation, clean inoculation, and stage-specific conditions. A verified fruiting block is more appropriate for beginners than cloning wild material. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+An authenticated pioppino culture can be produced on supplemented hardwood substrate, but the result depends on more than a species label. Log dry substrate mass, water addition, supplement percentage, container geometry, heat-treatment cycle, inoculation rate, incubation temperature, days to primordia, fruiting temperature, fresh-air strategy, and harvest mass. Cap cracking can reflect development and surface conditions; investigate it against the batch record instead of applying an unlogged change.
 
 ### Why the cultivated crop can look different
 
@@ -159,11 +162,11 @@ The editorial team has checked the page's claims against the listed taxonomic, b
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the full cluster, including where stems converge at hardwood or buried wood.
+2. Record cap diameter, cracking pattern, gill color, ring persistence, and stem texture at two or more ages.
+3. Make a spore deposit only as one controlled observation and keep it away from food surfaces.
+4. For cultivated material, preserve the supplier label and batch code alongside substrate and fruiting records.
+5. Treat a wild collection as unresolved until a qualified local identifier has evaluated the complete comparison set.
 
 ## References
 

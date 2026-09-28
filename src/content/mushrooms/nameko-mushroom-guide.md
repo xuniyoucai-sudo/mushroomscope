@@ -6,12 +6,16 @@ keywords: ["nameko", "Pholiota microspora", "nameko identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-30
+updatedDate: 2026-09-28
+revisionSummary: "Expanded Pholiota microspora synonym handling, gelatinous-cap development, hardwood provenance, strain traceability, cooking mechanics, and Galerina safety boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/nameko-mushroom-editorial-v2.png"
 coverAlt: "Cluster of glossy amber nameko mushrooms fruiting from a damp hardwood log"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original AI-generated editorial image for habitat and growth-form context; not a field photograph or identification evidence."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["growing/mushroom-substrate-guide", "growing/mushroom-contamination-guide", "mushrooms/shiitake-mushroom-guide", "identification/mushroom-identification-safety-checklist"]
 sources:
   - title: "GBIF — Pholiota microspora"
@@ -89,14 +93,14 @@ Small amber-brown caps with a conspicuously gelatinous surface, pale gills that 
 
 Cultivated on hardwood sawdust and naturally associated with hardwood. The documented range represented here includes East Asia and cultivated worldwide. Typical substrates or settings include hardwood sawdust and hardwood logs. Fruiting records commonly occur in September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Nameko records should connect each cluster to hardwood rather than merely noting trees in the background. Photograph the point where stems join a log, stump, buried root, or production substrate; retain bark, grain, and decay-stage evidence. In commerce, supplier identity and a lot label are stronger evidence than resemblance to a wild cluster. In the field, the Japanese cultivation name must not be projected onto every amber, viscid *Pholiota* found on wood.
 
 ## Similar species
 
 - **Galerina marginata — potentially deadly and never ruled out by cap color alone.**
 - **Other Pholiota species — many are scaly or bitter and require expert separation.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+The important lookalike boundary is the broader set of brown-spored wood mushrooms. Record the cap before it dries, gill color through maturity, veil remnants, stem surface, spore deposit, host, and region. *Galerina marginata* is a high-consequence exclusion because it contains amatoxins; cap slime, color, or clustering cannot exclude it. Other *Pholiota* species can require microscopic or DNA evidence, so an uncertain wild collection stays out of food.
 
 ## Food and safety context
 
@@ -106,7 +110,7 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-Cultivation is established but requires controlled substrate preparation, clean inoculation, and stage-specific conditions. A verified fruiting block is more appropriate for beginners than cloning wild material. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Nameko production should begin with an authenticated strain and a supplier-compatible hardwood-sawdust method. Record culture lot, substrate formula, moisture, container, heat treatment, inoculation rate, incubation temperature, surface treatment, fruiting temperature, humidity, fresh air, and harvest timing. The gelatinous cap surface changes rapidly with humidity and refrigeration, so log its condition at harvest rather than diagnosing it later from a dried sample. Quarantine abnormal blocks instead of mixing them into a food lot.
 
 ### Separate the market name from the scientific record
 
@@ -162,11 +166,11 @@ Corrections are logged through substantive updates to the page. Readers who find
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the untouched cluster and its precise hardwood or cultivation-substrate attachment.
+2. Record whether the cap was naturally wet, tacky, or drying before handling, then photograph young and expanded caps.
+3. Document gill maturation, veil remnants, complete stems, and a measured rusty-brown spore deposit when appropriate.
+4. Preserve cultivated package, supplier, culture, and lot information separately from any wild comparison.
+5. Do not taste or clone a wild brown-spored wood mushroom while its identity remains unresolved.
 
 ## References
 
