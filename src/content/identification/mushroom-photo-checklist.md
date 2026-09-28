@@ -5,13 +5,16 @@ keywords: ["mushroom photography checklist for identification", "mushroom identi
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added a shot manifest, focus and color-control checks, file-preservation workflow, and diagnostic sequence that separates observation quality from identification confidence."
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-habitat-identification", "identification/mushroom-identification-safety-checklist"]
 coverImage: "../../assets/identification/mushroom-photo-checklist.jpg"
 coverAlt: "Mushroom photographed from multiple angles with scale and habitat context"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying or eating a wild specimen."
 sources:
   - title: "NCBI Taxonomy Browser"
@@ -105,12 +108,12 @@ Record recent weather, slope, drainage, elevation when useful, and whether fruit
 
 ## A repeatable field method
 
-1. Photograph the group and its substrate before disturbance.
-2. Record cap, underside, attachment, stem, complete base, flesh, odor without inhaling closely, and any bruising.
-3. Measure several specimens and document young and mature stages.
-4. Make a spore deposit only when safe and useful; keep it away from food-preparation surfaces.
-5. Compare the complete character set with a regional key and current taxonomy.
-6. Keep conflicting or incomplete records unidentified.
+1. Start with a wide habitat frame and a closer growth-pattern frame before touching the collection.
+2. Assign one field number, place a ruler in the feature plane, and photograph cap profile, fertile surface, attachment, complete base, and a longitudinal section.
+3. Capture young, mature, and weathered stages separately; do not combine nearby fruit bodies under one number until their shared substrate is established.
+4. Make a timed series for bruising or latex, keeping angle, light, and white balance stable, and write the elapsed time in the notes.
+5. Review every diagnostic frame at full size for missed focus before leaving; repeat the underside and base if fine edges are smeared by motion or computational blur.
+6. Preserve original files and written field notes, then compare the complete record with a current regional key. Leave unresolved or contradictory collections unnamed.
 
 After the field session, duplicate the original files before cropping or annotating. Rename working copies with the field number and view, such as `2026-08-24-03_underside`, but retain originals and timestamps. Write a factual description before consulting an app: measured dimensions, fertile surface, stem base, substrate, associated plants, odor if safely recorded, and changes after cutting.
 
@@ -150,6 +153,6 @@ Before any foraging decision, use the [identification safety checklist](/identif
 
 ## References
 
-1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)
-2. [Global Biodiversity Information Facility — Species Search](https://www.gbif.org/species/search)
-3. [Mushroom Observer](https://mushroomobserver.org/)
+1. National Center for Biotechnology Information. [Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Use it to check the current placement and synonyms of a proposed name, not to identify an image.
+2. Global Biodiversity Information Facility. [Species Search](https://www.gbif.org/species/search). Use occurrence records with attention to identification quality, geography, and dataset provenance.
+3. [Mushroom Observer](https://mushroomobserver.org/). Community observations can show which views and field notes support discussion; individual determinations still require evaluation.

@@ -6,11 +6,15 @@ keywords: ["golden oyster mushroom", "Pleurotus citrinopileatus", "golden oyster
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-29
+updatedDate: 2026-09-28
+revisionSummary: "Added establishment-front ecology, cluster architecture, field documentation for escaped populations, and cultivation variables specific to golden oyster color and form."
 draft: false
 featured: false
 coverImage: "../../assets/species/golden-oyster-mushroom-editorial-v2.png"
 coverAlt: "Golden oyster mushrooms with yellow fan-shaped caps and decurrent gills fruiting from a hardwood log"
 imageCredit: "Original MushroomScope AI-generated editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Editorial context only; this is not a field specimen or evidence for identifying a wild mushroom."
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "identification/oyster-mushroom-lookalikes", "growing/mushroom-substrate-guide"]
 sources:
@@ -99,7 +103,7 @@ The practical consequence is clear: do not move wild-collected tissue, colonized
 
 Fruiting timing varies with latitude, elevation, rainfall, host condition, and local establishment. May through September is orientation for many temperate records, not a universal calendar. Warm, wet periods can shift emergence, and cultivated fruiting can occur outside the local wild season.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+For golden oysters, record the whole colonized wood unit rather than only the brightest cluster. Note standing snag, stump, log, or buried woody root; host identity if defensible; wood diameter and decay class; number of fruiting clusters; and whether clusters continue along the same trunk. At a possible North American expansion front, precise dated records and voucher-quality photographs may be more useful than collecting every fruit body. Follow land-manager rules and do not move colonized wood or spawn between sites.
 
 ## Separate golden oysters from regional wood fungi
 
@@ -118,7 +122,7 @@ Fresh clusters are delicate. Choose firm caps with dry-to-slightly-moist surface
 
 Wide pan contact matters more than preserving the raw yellow color. Cook in batches so released water can evaporate; add fat and aromatics after the first moisture release if browning is the goal. Thin cap margins crisp before the shared base becomes tender, so split thick junctions into similar sizes. The pigment commonly fades with heat. That change is normal cooking chemistry, not proof of misidentification.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+Illness after a presumed golden-oyster meal requires prompt poison-service or medical advice, especially with repeated vomiting, breathing difficulty, confusion, or persistent diarrhea. Keep uncooked cluster material showing the shared attachment, cooked leftovers, site images, and meal timing. A yellow cap is not a medical identification, and cooking cannot correct a mistaken species or contaminated collection site.
 
 ## Cultivation variables that change cap form and yield
 
@@ -140,11 +144,11 @@ Before growing, check current state, provincial, or national guidance. Keep cult
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the entire yellow cluster on its wood, then the length of trunk or log carrying additional clusters.
+2. Record coordinates privately, date, host or wood evidence, decay stage, cluster count, and whether cultivated golden oysters occur nearby.
+3. Photograph lemon-yellow young caps, fading mature caps, crowded decurrent gills, short off-center stems, and the fused base in diffuse daylight.
+4. Measure cap width across young and mature tiers and retain a pale lilac-white spore deposit only when it will help the regional comparison.
+5. Check a current regional *Pleurotus* key and report a suspected escaped population to the appropriate local biodiversity program rather than moving material.
 
 For a cultivated batch, replace the location entry with culture supplier, lot, substrate recipe, treatment method, inoculation date, fruiting-room readings, and photographs from pinning through harvest. For a suspected North American escape, add the distance to any known grow site, number and diameter of colonized logs, and whether the host appears to be elm or another hardwood. These records serve different questions and should not be merged.
 

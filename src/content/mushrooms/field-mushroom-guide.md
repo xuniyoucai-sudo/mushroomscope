@@ -6,13 +6,15 @@ keywords: ["field mushroom", "Agaricus campestris", "field mushroom identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-09-20
-revisionSummary: "Replaced generic identification templates with a field-specific Agaricus evidence matrix, developmental sequence, site-history protocol, and regional name limits."
+updatedDate: 2026-09-28
+revisionSummary: "Added a managed-grassland contamination screen, stage-linked gill record, yellow-stainer exclusion protocol, and field-specific evidence language while removing reusable identification templates."
 draft: false
 featured: false
 coverImage: "../../assets/species/field-mushroom-editorial-v2.png"
 coverAlt: "Three pale field-mushroom-like Agaricus growing in damp grass, with pink-brown gills visible on one upturned cap"
 imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors", "identification/mushroom-habitat-identification"]
 sources:
@@ -103,7 +105,7 @@ These are different tests: gill maturation and spore color establish a broad gro
 
 Field mushroom has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+If anyone becomes ill after a grassland *Agaricus* meal, stop serving it and contact the local poison service or urgent medical care. Preserve an uncooked cap and complete stem base, cooked leftovers, photographs of the collection site, and the time and amount eaten. The yellow-staining response, odor notes, site history, and gill-stage photographs may help a professional investigation; they are not a reason to delay care.
 
 ## Distinguish field mushroom from the cultivated button crop
 
@@ -111,11 +113,11 @@ Field mushroom and the supermarket button, cremini and portobello crop all belon
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Map the arc, ring, or scattered pattern in the grass before lifting a specimen.
+2. Record mowing, irrigation, livestock, fertilizer, pesticide, pet waste, roadside runoff, and recent soil disturbance.
+3. Photograph closed, pink-gilled, brown-gilled, and fully expanded stages when the same collection provides them.
+4. Excavate the complete base and record ring structure, gill attachment, cut-flesh changes, odor location, and timed yellowing at the cap margin and stem base.
+5. Measure several specimens, retain the field number with a dark-brown spore deposit, and compare the record with a current regional *Agaricus* key and local expertise.
 
 ## Build an Agaricus evidence matrix before applying a species name
 
@@ -173,9 +175,9 @@ If a person or pet has eaten an unknown wild mushroom, do not induce vomiting or
 
 Use this checklist to decide whether an observation is strong enough for learning, not whether it is safe to eat. For Field mushroom, the record is stronger when these points are answered in writing: free gills mature from pink toward chocolate brown; no volva is present at the complete base; yellow-stainer odor and staining checks are recorded; grassland setting is clean enough to discuss. If one of these points is missing, mark the identification as tentative and collect more evidence before comparing it with food, cultivation, or supplement information.
 
-A good checklist entry includes both positive and negative evidence. Positive evidence explains what matches the species profile. Negative evidence explains what dangerous or common alternatives were ruled out and why. For example, a note that says "found on wood" is weak by itself, while a note that describes the exact wood, visible attachment, fertile surface, spore context, and excluded lookalikes is much stronger. This distinction matters because many mushroom mistakes happen when a field note records only the attractive matching feature and ignores the contradictory details.
+A useful field-mushroom entry pairs each proposed character with its exclusion value. Free gills progressing from pink to chocolate brown support *Agaricus* but do not settle the species. An intact base without a volva helps address *Amanita*, while the absence of rapid chrome-yellow staining and a phenolic or inky odor weighs against the yellow-stainer group only when the tests were actually performed on fresh material. Record contradictions beside matches instead of hiding them in a final confident name.
 
-For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
+For a public observation, state which regional concept of *A. campestris* the key uses and whether microscopy or sequence data were absent. “Field mushroom” is applied broadly in casual records, while grassland *Agaricus* boundaries and names differ among regions. A responsible caption can say that the macroscopic record is consistent with the local key while leaving the observation at genus or group level when decisive regional characters were not examined.
 
 Keep a dated record even when no specimen is collected. For this grassland *Agaricus*, preserve the stage sequence, free-gill view, intact base, staining times, odor location, print color, site-management history, and the regional key consulted. Repeated observations after rain and drying are more informative than repeating the same cap photograph.
 
@@ -204,4 +206,4 @@ Large anise-scented grassland collections require a different comparison path. T
 3. Queensland Mycological Society. [*Agaricus campestris* record (PDF)](https://www.qldfungi.org.au/wp-content/uploads/FoQs/A-Agaricus/Agaricus-campestris.pdf). Documented morphology and grassland habitat record.
 4. North Carolina Poison Control. [Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms). Conservative response guidance for unknown mushroom exposure.
 
-*Editorial review: August 19, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: September 28, 2026. This page has no named mycologist reviewer; taxonomy, regional range, land-management risks, and poison-response contacts should be rechecked at every substantive update.*

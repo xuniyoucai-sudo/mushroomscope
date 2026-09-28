@@ -5,13 +5,16 @@ keywords: ["how to grow lion's mane mushrooms at home", "mushroom cultivation", 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added block-level microclimate measurement, morphology-based troubleshooting, opening geometry, harvest handling, and separate controls for ready blocks versus sterile production."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "growing/mushroom-grow-bag-guide", "growing/mushroom-contamination-guide"]
 coverImage: "../../assets/growing/grow-lion-s-mane-home.jpg"
 coverAlt: "Cultivated lion's mane mushroom fruiting from a home grow block"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original educational illustration; follow authenticated culture and supplier-specific instructions."
 sources:
   - title: "Cornell Small Farms — Specialty Mushroom Cultivation"
@@ -146,7 +149,7 @@ Stop handling the block around other cultures. Enclose and isolate it without sh
 
 ## Harvest when the teeth are developed and tissue remains sound
 
-Harvest timing is species-specific. Use the culture supplier’s maturity cues, avoid soaking fruit bodies, and cool the crop promptly in clean food-safe packaging. Follow local produce guidance and recall notices. The [growing library](/growing/) provides related workflows, while the [species encyclopedia](/mushrooms/) explains biology and identification limits.
+Treat harvest as a block-specific observation rather than a calendar date. Photograph tooth length, surface color, firmness, and the condition of the exposed substrate each day as maturity approaches. Cut with a clean tool before tissue becomes extensively yellow, dry, soft, or waterlogged, keeping plastic and substrate fragments out of the food portion. Weigh the cluster, note defects, cool it promptly in a clean breathable food container, and link the harvest back to the block lot.
 
 Lion's mane is commonly harvested after distinct hanging teeth develop but before extensive yellowing, softness, or drying. The exact tooth length and color vary by strain and environment. Use the supplier's examples and judge density, firmness, tooth development, and overall block health together. The [harvest timing guide](/growing/when-to-harvest-mushrooms/) compares this decision with oyster and shiitake crops.
 
@@ -168,6 +171,6 @@ Do not treat one successful block as validation of an improvised sterile-substra
 
 ## References
 
-1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)
-2. [Penn State Extension — Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety)
-3. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
+1. Cornell Small Farms. [Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/). Hardwood substrate, production-system, and specialty-crop context; strain-specific settings still come from the block supplier.
+2. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Sanitation and food-production risk context for cultivated mushrooms.
+3. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling and cold-storage principles applied after harvest.
