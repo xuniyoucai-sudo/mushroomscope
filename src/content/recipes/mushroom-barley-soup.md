@@ -6,13 +6,16 @@ keywords: ["mushroom barley soup", "mushroom barley soup recipe", "pearl barley 
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added barley hydration checkpoints, broth-reserve accounting, mushroom texture staging, and cooling geometry for predictable fresh and reheated soup."
 draft: false
 featured: false
 relatedEntries: ["recipes/creamy-mushroom-soup", "recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide"]
 coverImage: "../../assets/recipes/mushroom-barley-soup.png"
 coverAlt: "Bowl of mushroom barley soup with sliced brown mushrooms, pearl barley, carrots, celery, and parsley"
 imageCredit: "Original AI-assisted MushroomScope editorial image, generated 2026-08-15"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original illustrative food image showing cultivated culinary mushrooms; it is not a food-safety assessment or a guide to identifying wild mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -135,8 +138,16 @@ Pearl barley absorbs broth as it cools. Reheat the soup gently and add broth a l
 
 Yes. Cool it promptly in shallow containers, refrigerate or freeze it within the safe time window, and leave headspace in freezer-safe containers. The barley softens somewhat after freezing; adding broth while reheating restores a soup-like texture.
 
+## Track barley tenderness and free broth separately
+
+Barley doneness and soup thickness are related but not identical. Beginning around 30 minutes, lift out several grains and check the center: pearl barley should be tender with a resilient chew, not hard and chalky. At the same time, drag a spoon across the bottom and observe how quickly broth closes the path. If the grain is still firm but the pot is already tight, add measured hot broth before continuing; adding cold liquid repeatedly interrupts the simmer and makes timing harder to interpret.
+
+Reserve roughly one quarter of the browned mushrooms until the barley is tender. The mushrooms simmered in the broth contribute flavor but soften, while the reserved portion restores browned edges and a clearer mushroom identity at service. Add that portion for only the final few minutes. This two-texture approach is especially helpful after reheating, when barley has absorbed more liquid overnight.
+
+For make-ahead cooking, record the finished volume and keep a separate labeled broth reserve. Reheat one portion with a measured amount, then use that ratio for the remaining containers rather than flooding the whole batch. A shallow container cools faster than a deep stockpot because it exposes more surface and shortens the distance from the center to the cold boundary; divide the soup before refrigeration instead of waiting for the entire pot to cool on the counter.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [USDA FSIS — Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
-3. [USDA FSIS — Refrigeration and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce washing and separation principles for mushrooms and soup vegetables.
+2. USDA Food Safety and Inspection Service. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety). Basis for dividing, cooling, and dating the finished soup.
+3. USDA Food Safety and Inspection Service. [Refrigeration and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration). Cold-storage boundary applied to broth-rich leftovers.

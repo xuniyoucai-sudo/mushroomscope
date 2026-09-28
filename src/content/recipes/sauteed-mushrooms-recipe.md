@@ -6,14 +6,16 @@ keywords: ["sautéed mushrooms", "sauteed mushrooms with garlic", "how to sauté
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
-revisionSummary: "Added a rounded per-serving calorie estimate from the listed ingredients and updated the Recipe structured data."
+updatedDate: 2026-09-28
+revisionSummary: "Added pan-load calibration, cut-specific browning endpoints, fond management, carryover control, and a repeatable batch record for consistent sautéed mushrooms."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-barley-soup", "recipes/garlic-butter-oyster-mushrooms"]
 coverImage: "../../assets/recipes/sauteed-mushrooms-recipe.jpg"
 coverAlt: "Browned cultivated cremini mushrooms sautéed with garlic, parsley, and thyme in a wide skillet"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -145,8 +147,16 @@ Reheat only the portion needed in a wide skillet so released liquid can evaporat
 
 For advance cooking, brown batches until just tender, cool promptly, and add delicate herbs and acid during the final reheat. This preserves aroma better than fully seasoning a batch that will be reheated later.
 
+## Calibrate the pan with the first batch
+
+Treat the first half-pound batch as a measurement, not a warm-up to rush through. Record mushroom cut, starting weight, skillet diameter, burner setting, minutes to visible liquid, minutes until the pan looks dry again, and final cooked weight. Those observations reveal whether the next batch needs fewer pieces, a longer undisturbed contact period, or a modest heat adjustment. A clock alone cannot account for a thin aluminum pan, a heavy cast-iron skillet, or mushrooms carrying different surface moisture.
+
+Watch the contact face rather than waiting for every exposed surface to become dark. Quartered cremini develop broad browned planes while their centers remain juicy; thin slices lose water faster and can become leathery if held until both sides are uniformly brown. When the released liquid has evaporated, listen for the pan to return from a simmering sound to a sharper sizzle. That transition is the moment to monitor fond closely and add the final garlic only after the risk of steaming has passed.
+
+If the first batch leaves pale watery residue, pour nothing into the next raw batch. Evaporate it and evaluate the fond, or wipe a scorched pan clean. Return all batches together only long enough to distribute garlic, thyme, pepper, and acid. This short recombination limits carryover cooking and makes the batch method taste like one finished dish.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [USDA FSIS — Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
-3. [USDA FSIS — Refrigeration and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and cross-contamination boundaries for the raw cremini preparation step.
+2. USDA Food Safety and Inspection Service. [Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety). Cooling window and refrigerated leftover duration used for the cooked skillet batch.
+3. USDA Food Safety and Inspection Service. [Refrigeration and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration). Refrigerator-temperature context for advance preparation and storage.

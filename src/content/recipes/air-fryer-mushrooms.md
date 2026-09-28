@@ -6,14 +6,16 @@ keywords: ["air fryer mushrooms", "crispy air fryer mushrooms", "mushroom recipe
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the air-fryer recipe to 1500+ words with detailed texture cues, batching strategy, substitutions, serving ideas, and food-safety notes."
+updatedDate: 2026-09-28
+revisionSummary: "Added basket-load calibration, coating pickup ratios, airflow diagnostics, staged doneness checks, and a repeatable first-batch protocol for different appliances."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/garlic-butter-oyster-mushrooms", "mushrooms/oyster-mushroom-guide"]
 coverImage: "../../assets/recipes/air-fryer-mushrooms-editorial-v2.jpg"
 coverAlt: "Browned cremini mushroom halves in an open air-fryer basket with a serving bowl nearby"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished air-fryer preparation."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -167,8 +169,16 @@ Use certified gluten-free breadcrumbs and confirm all seasoning labels meet your
 
 Basket shape, fan power, mushroom size, and load change cooking speed. Record weight and arrange one loose layer, then inspect and turn at defined intervals. A browned exterior should accompany a hot tender center. Follow the appliance's clearance, liner, and cleaning instructions and never block required airflow.
 
+## Measure coating pickup and airflow loss
+
+Mix the dry coating in a wide shallow bowl and weigh or visually divide it before tossing. After the oiled mushrooms are coated, a heavy layer of crumbs left in the bowl means the surface was too dry to bind them or the mixture was excessive; a paste on the mushrooms means water or oil was overapplied. The goal is a thin irregular crust with visible mushroom surface, not a breaded shell. Shake away loose crumbs before they enter the basket because free crumbs can scorch near the heating element.
+
+Use basket area, not the appliance's advertised quart capacity, to set the batch. Pieces should sit with small air gaps and no second layer. Mark the weight that fits this way, then reuse it. If the top browns while contact faces stay damp, turn earlier or use a rack-safe arrangement approved for the model. If edges dry before the center heats, enlarge the pieces or reduce temperature slightly on the next batch rather than spraying on more oil mid-cycle.
+
+Check three endpoints together: crisp dry coating, a tender hot center, and no puddled liquid beneath the pieces. Remove finished small pieces while larger ones continue, because mixed sizes cannot share one exact time. Rest on a rack for two minutes so steam escapes from all sides; a bowl or flat plate traps it under the crust.
+
 ## References
 
-1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).
-2. FDA. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely).
-3. USDA. [FoodData Central](https://fdc.nal.usda.gov/).
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Handling boundary for cultivated mushrooms before oil and crumb coating.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigerator-temperature and prompt-storage context for the short-lived leftovers.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; actual coating pickup and optional Parmesan change the serving estimate.

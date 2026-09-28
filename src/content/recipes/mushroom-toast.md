@@ -6,14 +6,16 @@ keywords: ["garlic mushroom toast", "mushroom toast", "easy mushroom recipe"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the recipe into a 1500+ word guide with detailed browning technique, serving variations, make-ahead workflow, safety notes, and troubleshooting."
+updatedDate: 2026-09-28
+revisionSummary: "Added bread moisture barriers, topping-to-toast ratios, assembly timing, cut-dependent mushroom endpoints, and service tests that prevent soggy toast."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "recipes/mushroom-pasta", "mushrooms/cremini-mushroom-guide"]
 coverImage: "../../assets/recipes/mushroom-toast-editorial-v2.jpg"
 coverAlt: "Two slices of toasted sourdough topped with browned cultivated mushrooms, a light spread, and thyme"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original AI-generated MushroomScope editorial food image illustrating the finished mushroom toast."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -158,8 +160,16 @@ Prep the mushroom topping, not the assembled toast. Refrigerate cooked mushrooms
 
 Move cooked mushrooms to a warm rack or tilt the pan briefly before topping bread. Toast both sides when the filling is especially wet and apply creamy spreads in a thin layer. Assemble only at service; storing mushrooms on bread produces a soggy surface and complicates safe reheating.
 
+## Build a moisture barrier without making greasy toast
+
+Toast thickness determines how much topping the bread can carry. For a 2 cm country slice, begin with about 100–115 g of raw mushrooms per large toast; after cooking, spread them in one layer rather than creating a steaming mound. Toast both faces, paying special attention to the center rather than only the crust. The bread is ready when the surface resists gentle pressure but the interior still has some chew.
+
+A thin smear of ricotta, bean purée, hummus, or dairy-free spread can fill surface pores and slow liquid migration, but a thick cold layer cools the mushrooms and makes the bite heavy. Olive oil or butter brushed before toasting also reduces immediate absorption. Neither barrier can compensate for mushrooms that still carry pooled pan liquid, so tilt the skillet and spoon from the solids rather than pouring the pan over the bread.
+
+Assemble in the order bread, optional barrier, hot mushrooms, then acid and herbs. Acid added in the skillet too early draws into the pan liquid; added directly to bare toast can create a wet spot. Serve within a few minutes and keep extra topping warm in a shallow pan. For a platter, replenish small groups of toasts instead of assembling the entire batch at once.
+
 ## References
 
-1. FDA. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely).
-2. FDA. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely).
-3. USDA. [FoodData Central](https://fdc.nal.usda.gov/).
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and separation guidance for mushrooms used in the hot topping.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Cold-storage context for holding the topping separately from bread.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition lookup; bread size and optional spread determine the final serving profile.

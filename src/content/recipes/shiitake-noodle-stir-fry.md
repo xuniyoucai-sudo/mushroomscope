@@ -5,14 +5,16 @@ keywords: ["shiitake mushroom noodle stir-fry", "mushroom recipe", "shiitake mus
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-23
-revisionSummary: "Expanded the recipe with noodle and shiitake preparation, staged high-heat cooking, sauce balance, vegetable timing, substitutions, troubleshooting, and safe storage."
+updatedDate: 2026-09-28
+revisionSummary: "Added noodle carryover control, sauce concentration accounting, shiitake cap and stem handling, wok-load calibration, and a timed final toss."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/shiitake-mushroom-guide", "recipes/mushroom-fried-rice", "health/mushroom-nutrition-guide"]
 coverImage: "../../assets/recipes/shiitake-noodle-stir-fry.jpg"
 coverAlt: "Shiitake noodle stir-fry with bok choy, red pepper, and scallions"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -185,8 +187,16 @@ Noodles absorb sauce during storage and soften. Reheat only the required portion
 
 Do not repeatedly cool and reheat the full batch. Discard food held unsafely or showing mold, slime, or an unpleasant odor; tasting is not a safety test.
 
+## Calibrate noodle carryover and sauce concentration
+
+Cook one noodle strand to the point where its center has lost raw hardness but still resists slightly, then drain the batch. Record the package time at that moment. The noodles continue softening from retained heat and again during the final pan toss, so fully tender noodles at the drain stage are likely to break or become sticky. If they must wait, spread them loosely rather than leaving a hot compact mass in the colander.
+
+Measure sauce before heating and keep it concentrated enough to coat rather than boil the ingredients. Water from washed vegetables, rehydrated shiitake, and noodles all dilute it. Pat fresh produce dry, squeeze rehydrated caps gently, and reserve soaking liquid for another measured use unless the recipe's sauce has been adjusted for it. Add half the sauce around the hot pan edge, toss, then decide whether the noodles can absorb the rest without leaving a puddle.
+
+Use the first mushroom batch to define the wok or skillet load. Shiitake caps need direct contact and should return a sharp sizzle within seconds; if the sound collapses into a quiet simmer, remove part of the load. Cook firm vegetables next, tender greens last, then add noodles for a short two-utensil toss. Stop when sauce clings in a thin sheen and the pan bottom is nearly dry. Residual heat will continue tightening the sauce after plating.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce cleaning and separation boundaries for shiitake and mixed vegetables.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigeration context for the noodle-and-sauce leftovers.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Composition reference for individual ingredients; noodle, sauce, and oil brands determine the actual dish.
