@@ -5,8 +5,8 @@ keywords: ["fruiting body vs. mycelium: understanding mushroom products", "mushr
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-22
-revisionSummary: "Added a product-material chain, starch and beta-glucan interpretation limits, and a lot-specific evidence worksheet."
+updatedDate: 2026-09-28
+revisionSummary: "Rebuilt the comparison around biomass provenance, residual substrate, extraction inputs, lot-specific assays, label traceability, and study-product matching."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/mushroom-beta-glucans", "health/lion-s-mane-benefits-evidence"]
@@ -17,6 +17,8 @@ coverImage: "../../assets/health/fruiting-body-vs-mycelium.jpg"
 coverAlt: "Mushroom fruiting bodies beside a jar of cultivated mycelium"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"
@@ -39,7 +41,7 @@ medicalDisclaimer: "Educational information only. This page does not diagnose, t
 
 Fruiting bodies and cultured mycelium are different materials; substrate, extraction, identity testing, and measured constituents all affect comparison. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on product composition and transparent labeling.
 
-Whole mushrooms can be part of a varied diet. Their composition changes with species, strain, substrate, maturity, ultraviolet exposure, storage, and cooking. FoodData Central provides representative values, not a laboratory certificate for every package.
+“Fruiting body” identifies the spore-bearing structure, while “mycelium” identifies the filamentous growth that colonizes a medium. Neither word supplies a composition certificate. Species, strain, harvested material, residual grain or other substrate, drying, extraction, and lot-to-lot processing determine what reaches the container. A useful comparison therefore starts with the material chain rather than assuming one fungal part is always superior.
 
 ## Define fruiting body, mycelium, and growth substrate
 
@@ -59,9 +61,9 @@ Some extracts use maltodextrin or another carrier to improve drying and handling
 
 ## What the evidence can show
 
-Food-composition databases describe nutrients in analyzed samples. Laboratory studies can explore mechanisms. Animal studies can test biological hypotheses. Observational research can identify associations, while randomized human trials can estimate effects under controlled conditions. Results cannot be moved from one level to another without new evidence.
+Evidence must match that chain. A compositional assay can report beta-glucan, alpha-glucan, moisture, marker compounds, or contaminants in one tested lot. It cannot prove a clinical outcome. A cell or animal experiment can explore a mechanism for a defined preparation, while a human trial evaluates its own dose, population, duration, comparator, and outcome. The label in hand should be traceable to the same material before a study is treated as relevant.
 
-Product identity matters. A study of a standardized extract does not establish the effect of culinary servings, tea, powder, mycelium grown on grain, or a different species sold under the same common name. Extraction ratios and marketing terms are not substitutes for measured constituents and independent testing.
+If a trial used a hot-water fruiting-body extract standardized to named constituents, its result does not transfer automatically to raw powder, home tea, fermented mycelium, or biomass that includes growth substrate. An “8:1” ratio describes an input relationship only when the manufacturer explains the starting material and extraction yield; it does not reveal identity, purity, or the quantity of a relevant constituent. Prefer lot-linked measurements over ratio language.
 
 ### Match the product to the study material
 
@@ -89,9 +91,9 @@ Beta-glucan and alpha-glucan results can help interpret fungal versus residual s
 
 ## Evidence limitations
 
-Small samples, short follow-up, multiple outcomes, selective reporting, inadequate blinding, and industry sponsorship can all change confidence. A statistically significant result may still be too small, uncertain, or product-specific to guide care. Replication and clinically meaningful outcomes matter more than an isolated positive finding.
+For a fruiting-body-versus-mycelium claim, check whether researchers compared the two materials directly or merely studied each in unrelated experiments. Sample size, prespecified outcomes, blinding, attrition, funding, and replication still matter, but so do culture medium and analytical method. A significant difference in one assay is not proof that one material produces a better health outcome.
 
-Claims about immunity, cognition, cancer, blood sugar, cholesterol, or inflammation require especially careful interpretation. Laboratory activity does not prove prevention or treatment in people. “Supports” language can still overstate evidence when the exact product and outcome have not been tested.
+Immune, cognitive, cancer, glucose, lipid, and inflammation claims frequently jump from a measured compound or laboratory response to a consumer promise. Ask whether the exact finished preparation was tested in people for that exact outcome. Words such as “supports” do not repair a missing bridge between fungal biomass chemistry and a clinically meaningful effect.
 
 Publication bias and flexible analyses can make a small literature look more consistent than it is. Examine trial registration, prespecified primary outcomes, attrition, adverse-event reporting, and whether results were replicated by independent groups. A change in a laboratory biomarker is not automatically a change in symptoms, function, disease incidence, or survival.
 
@@ -105,13 +107,13 @@ Price is not a substitute for transparency. A costly extract can be poorly docum
 
 ## Safety and interactions
 
-Foods and supplements can cause allergy, intolerance, contamination, or interactions. Concentrated products may not share the safety profile of normal culinary portions. People who are pregnant, breastfeeding, preparing for surgery, receiving cancer treatment, managing liver or kidney disease, or taking prescription medicines should discuss supplements with a qualified clinician.
+Risk assessment also follows the material. A concentrated extract can deliver different constituents and excipients from a culinary portion; grain-based biomass can introduce undeclared allergen or starch questions; any lot can have microbial, heavy-metal, pesticide, or identity problems. People who are pregnant or breastfeeding, preparing for surgery, receiving cancer treatment, managing liver or kidney disease, or using prescription medicines should take the exact label and lot information to a clinician or pharmacist.
 
-The FDA regulates dietary supplements differently from conventional foods and drugs; consumers should not interpret market availability as proof of effectiveness. Check labels, lot numbers, independent identity and contaminant testing, recall notices, and adverse-event guidance.
+US supplement availability is not premarket proof that a fruiting-body or mycelium claim works. Check whether the label names the organism with a scientific name, specifies the harvested material and substrate inclusion, lists extract solvents and other ingredients, identifies a lot, and provides accessible identity and contaminant testing. Search recalls and keep the package if an adverse event occurs.
 
 ## Use a five-part product comparison workflow
 
-For food, buy identified culinary mushrooms from reputable suppliers, store them safely, and cook them appropriately. For supplements, bring the exact label to a clinician or pharmacist. Record the species, part, extraction, dose, other ingredients, and reason for use. Stop and seek care for severe allergic symptoms or other urgent reactions.
+Use culinary mushrooms as food and evaluate concentrated products as separate formulations. Before using a supplement, record scientific name, claimed fungal part, growth medium, whether substrate remains, extraction method, daily amount, excipients, lot, and the intended reason. Stop use and seek urgent care for breathing difficulty, facial or throat swelling, faintness, or another severe reaction; report the exact product rather than only the common mushroom name.
 
 Before purchase, use a worksheet with five decisions: Can the material be identified precisely? Is a current lot-specific certificate available? Does the cited research match the material and dose? Are claims limited to outcomes the evidence measured? Has a clinician or pharmacist reviewed personal risks and medicines? A “no” does not prove harm, but it identifies uncertainty that advertising may conceal.
 

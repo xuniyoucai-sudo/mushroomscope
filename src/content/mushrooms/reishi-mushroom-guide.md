@@ -6,14 +6,16 @@ keywords: ["Ganoderma lingzhi","reishi","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-20
-revisionSummary: "Added a source-by-source lingzhi nomenclature audit, separated labels from voucher-backed identity, and tightened regional conk and tree-risk boundaries."
+updatedDate: 2026-09-28
+revisionSummary: "Replaced shared species and health templates with Ganoderma-specific laccate morphology, pore/context records, host attachment, antler-form variables, product identity, and evidence boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/reishi-mushroom.jpg"
 coverAlt: "Glossy reddish-brown Ganoderma brackets growing on a decaying hardwood stump"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 relatedEntries: ["health/reishi-benefits-evidence", "health/mushroom-supplements-guide", "identification/how-to-identify-mushrooms"]
 sources:
   - title: "NCBI Taxonomy Browser"
@@ -90,9 +92,9 @@ similarSpecies:
 
 *Ganoderma lingzhi* is associated with reishi and lingzhi, which are commercial and cultural names, not guarantees of one biological species. Many East Asian cultivated products are associated with Ganoderma lingzhi, while the name G. lucidum has historically been used broadly in research and trade. This taxonomic ambiguity matters because chemical profiles and study materials may differ. A responsible page states the name used by each source rather than silently treating every varnished Ganoderma as identical.
 
-This guide is designed as a species account, not a remote identification or medical consultation. Mushroom form changes with age, weather, strain, substrate, and cultivation conditions. Common names also cross borders and species boundaries. For those reasons, the scientific name, the source of a specimen, and the evidence behind a claim are kept explicit throughout the page.
+This account separates three questions that “reishi” often collapses: what a wild varnished conk can be documented as, what organism and material a cultivated product contains, and what a particular clinical study tested. *Ganoderma lingzhi* is not a visual synonym for every glossy red bracket, and a common-name label does not connect a powder to a voucher or trial. Each conclusion therefore needs its own provenance.
 
-A high-confidence record starts with provenance. For a cultivated mushroom, note the producer, strain or culture name if available, substrate, harvest date, and storage history. For a wild observation, record precise habitat without publicly exposing a sensitive population, photograph the attachment and underside, note nearby trees, and make a spore print when appropriate. Do not taste an unidentified mushroom.
+A wild *Ganoderma* record should preserve the whole attachment, upper crust, active margin, pore surface, context, tube layers, host evidence, and location. A cultivated record instead needs producer, culture or strain designation, substrate recipe, fruiting form, harvest stage, drying, and lot. Keep these evidence trails separate: a traceable antler-form crop does not validate the name of a nearby wild conk, and a field photograph does not authenticate a capsule.
 
 ## Read a varnished conk as a character set, not a color match
 
@@ -106,7 +108,7 @@ G. lingzhi commonly forms a glossy red-brown conk with concentric zones, a pale 
 - **Flesh:** Corky to woody and bitter rather than a tender culinary texture.
 - **Spore print:** Brown.
 
-Observe multiple fruit bodies at different stages. Immature specimens may conceal the fertile surface, while old specimens can fade, crack, host insects, or develop misleading stains. Measure rather than guessing size, photograph colors in natural light, and cut one specimen lengthwise when collection is legal and ecologically appropriate. A spore print is useful, but print color alone never proves an identification.
+Document several developmental stages because the lacquered crust, pale growth margin, pore color, and tube depth change as a conk matures. Measure width, projection, thickness, and stipe dimensions where present. Photograph a clean pore close-up beside a scale and a vertical section from crust through context and tubes. Brown spore dust on an upper surface can support a *Ganoderma* record, but it cannot separate similar taxa by itself.
 
 ### Similar species
 
@@ -158,7 +160,7 @@ The host record also has a different purpose from the species name. Wood-decay f
 
 Do not transfer a tree-risk statement from one *Ganoderma* species, host, or region to every glossy conk. Forest guidance often addresses locally important species such as artist's conk or hemlock varnish shelf, not cultivated East Asian lingzhi. The defensible field record separates the conk identification from the structural assessment: document host, root flare, wounds, conk position, recurring fruiting, crown condition, targets, and recent site disturbance, then leave risk rating and any removal decision to the qualified assessor.
 
-Responsible observation means requesting permission, following collection limits, avoiding rare populations, and minimizing damage to wood and soil. Mushrooms are reproductive structures of a larger mycelial organism. Removing every young fruit body prevents other people from studying it and reduces spore dispersal, even though careful collection of a few specimens does not necessarily remove the underlying mycelium.
+Conks may occur on living roots, buried wood, stumps, or fallen trunks. Before collecting, photograph whether the bracket emerges directly from exposed wood or appears terrestrial above a buried root. Obtain permission and take only the material needed for a voucher where legal. On living trees near people or structures, leave risk conclusions to a qualified arborist: a conk documents established fungal activity but does not measure residual strength or predict a failure date.
 
 ## Cultivation decisions: antlers, conks, and traceable batches
 
@@ -189,11 +191,11 @@ A recognizable fruit body proves neither chemical standardization nor clinical e
 
 Reviews describe polysaccharides, triterpenoids, and many preclinical effects, but recent clinical synthesis rates certainty for health outcomes as very low. Evidence does not establish reishi as a treatment for cancer, diabetes, cardiovascular disease, infection, or immune disorders. Product variability is a major limitation: species, fruit body versus mycelium, extraction solvent, dose, and adulteration can differ. Conventional medical care should never be delayed for a reishi product.
 
-The phrase “health benefits” should begin with what can be supported. Mushrooms can contribute variety, fiber, micronutrients, and flavor to a balanced diet. Nutrient values vary by strain, substrate, water content, maturity, ultraviolet exposure, processing, and cooking. USDA FoodData Central is useful for representative values, but a database average is not a laboratory analysis of a particular package.
+Reishi is commonly sold as tea, powder, tincture, or extract rather than as an ordinary culinary serving. Those formats may contain different *Ganoderma* species, fruiting body, mycelium, substrate residues, solvents, and concentrations. A nutrition database for edible mushrooms does not characterize a reishi extract. Evaluate the exact organism, fungal part, manufacturing process, measured constituents, contaminants, and lot before connecting a product to evidence.
 
-Research articles often test cultured cells, animals, purified molecules, or concentrated extracts. Those designs answer different questions from a human trial of a food. They may identify mechanisms worth studying, but they cannot establish that eating the mushroom prevents or treats disease. Even randomized trials can be too small, short, biased, or product-specific to support broad advice.
+Reishi research spans purified triterpenes and polysaccharide fractions, cultured cells, animals, and small human studies of particular preparations. A laboratory response can justify further study but cannot establish prevention or treatment. For human evidence, check diagnostic criteria, preparation identity, dose, comparator, prespecified outcome, duration, attrition, adverse events, and whether results were replicated with the same material.
 
-Supplements introduce additional uncertainty. “Fruiting body,” “mycelium,” and “extract” describe different materials; extraction ratios do not by themselves demonstrate potency; and common names may conceal taxonomic ambiguity. Look for independent identity and contaminant testing, a complete ingredient list, lot number, and realistic claims. A supplement should never replace diagnosis, vaccination, surgery, prescribed medicine, or evidence-based cancer care.
+A credible reishi label names the organism scientifically, identifies fruiting body or mycelium and any growth substrate, lists extraction solvent and other ingredients, supplies a lot number, and makes identity and contaminant documentation available. An extraction ratio without starting-material and yield information does not establish potency. Reishi products must not replace diagnosis, vaccination, surgery, prescribed treatment, or evidence-based cancer care.
 
 This species page answers what organism and material a claim may refer to. The separate [reishi evidence review](/health/reishi-benefits-evidence/) evaluates human outcomes and study limitations, while the [supplement guide](/health/mushroom-supplements-guide/) explains label and testing questions across products. Keeping those intentions separate avoids turning morphology into medical advice or repeating a health article under a species URL.
 
@@ -203,9 +205,9 @@ The 2025 GRADE-assessed systematic review listed below reported very low certain
 
 Adverse effects reported with supplements include gastrointestinal upset, dry mouth, rash, dizziness, and possible liver injury in case reports, although causality and products vary. Potential effects on bleeding, blood pressure, glucose, and immunity make clinician review important for people taking anticoagulants, antiplatelet drugs, diabetes or blood-pressure medicines, or immunosuppressants. Avoid during pregnancy or breastfeeding unless a qualified clinician advises otherwise, because safety data are inadequate.
 
-General food practice still applies: source cultivated mushrooms from reputable producers, transport them cool, wash hands and utensils, prevent contact with raw animal foods, and cook with clean equipment. Cooking can reduce microbial risk and improve digestibility, but it cannot make a poisonous species safe and may not destroy every toxin or environmental contaminant.
+Do not prepare a wild varnished conk as tea because it resembles an online reishi photograph. Identity, host, decay condition, environmental contamination, and processing all remain unresolved. For a purchased product, retain its label and lot, follow storage directions, use clean equipment, and discard material affected by moisture, mold, damaged packaging, or a recall.
 
-Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
+Concentrated reishi products may be inappropriate in particular medication, surgery, pregnancy, liver, bleeding, or allergy contexts; take the exact label to a clinician or pharmacist rather than relying on the common name. Seek urgent care for breathing difficulty, faintness, jaundice, severe persistent gastrointestinal symptoms, or illness after an unidentified wild preparation, and retain the remaining material and packaging for professional investigation.
 
 Before using a concentrated product, discuss it with a clinician or pharmacist who knows the person's medicines, diagnoses, planned procedures, pregnancy status, and allergy history. Stop and seek advice for suspected adverse effects. Keep the package, lot number, ingredient panel, dose history, and timing; “reishi” alone is too vague for a useful adverse-event record.
 

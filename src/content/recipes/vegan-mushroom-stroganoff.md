@@ -6,7 +6,8 @@ keywords: ["vegan mushroom stroganoff", "mushroom recipe", "cremini mushrooms"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added batch-specific mushroom browning, flour and starch sequencing, plant-cream emulsion controls, acidity timing, noodle coordination, and safe shallow cooling."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-pasta", "health/mushroom-nutrition-guide"]
@@ -14,6 +15,8 @@ coverImage: "../../assets/recipes/vegan-mushroom-stroganoff.jpg"
 coverAlt: "Creamy vegan mushroom stroganoff served over wide noodles"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
@@ -48,7 +51,7 @@ recipe:
 
 Make vegan mushroom stroganoff with cultivated cremini mushrooms, clear steps, practical substitutions, and conservative food-safety guidance. Browning drives off surface moisture and builds savory flavor. Crowding a small pan traps steam, so cook in batches when necessary. The recipe uses pasta, vegetable stock, and plant-based cream to support rather than hide the mushroom flavor.
 
-Only use mushrooms sold as food by a reputable supplier. A recipe cannot authenticate a wild mushroom, and cooking does not make a poisonous species safe. Check packaging and recall information before cooking.
+Choose cultivated cremini or another clearly labeled culinary mushroom from a traceable supplier. Stroganoff sauce can hide visual details, so an unidentified wild mushroom is especially unsuitable; heat and acidity do not make a poisonous species safe. Check package condition and recalls, and discard mushrooms with slime, mold, extensive decay, or a strong abnormal odor.
 
 ## Ingredients and substitutions
 
@@ -94,11 +97,11 @@ If the sauce appears glossy with separated fat, remove the pan from direct heat 
 
 If the sauce is too thick, loosen it gradually. Adding a full cup of liquid at once dilutes both seasoning and mushroom flavor. Remember that pasta absorbs sauce as it stands, so stop when the mixture is slightly looser than the desired plated consistency.
 
-A wide skillet promotes evaporation. Let mushrooms contact the hot surface before stirring repeatedly. If liquid accumulates, continue cooking until it evaporates rather than adding more fat immediately.
+Use a broad skillet and brown mushrooms in weighed batches so released water can evaporate before the sauce begins. Wait for browned edges and a nearly dry pan, then reserve the mushrooms while cooking onion and flour. This sequence preserves roasted flavor and prevents the thickener from coating wet slices before they color.
 
 ## Troubleshooting
 
-**Mushrooms are pale and watery:** The pan was crowded or not hot enough. Cook smaller batches and allow moisture to evaporate.
+**The mushrooms steamed and the sauce tastes flat:** The batch was too large or the pan had not reheated. Remove excess slices, reduce the liquid to a glaze, brown the remaining mushrooms in smaller batches, and rebuild flavor from the fond before adding stock.
 
 **Garlic or spices taste bitter:** Add delicate aromatics later or reduce the heat once browning is established.
 
@@ -140,7 +143,7 @@ Warm shallow bowls keep the sauce fluid longer. Portion immediately after combin
 
 ## Storage and reheating
 
-Refrigerate perishables and leftovers within two hours—within one hour when ambient temperature is above 90°F (32°C). Use clean, shallow covered containers and keep the refrigerator at or below 40°F (4°C). Reheat only the portion needed until steaming hot and discard food held unsafely or showing spoilage.
+Refrigerate stroganoff within two hours, or within one hour above 90°F (32°C). Divide sauce and noodles into shallow containers—separately when possible—so the center cools promptly, and keep the refrigerator at or below 40°F (4°C). Reheat one portion gently until steaming, loosening with a small amount of stock; discard leftovers with uncertain holding time, mold, separation plus off odor, or other spoilage.
 
 Divide a large batch before refrigerating so the center cools promptly. Do not place a deep, tightly packed pot of hot pasta into the refrigerator and assume it will cool evenly. Label the container with the preparation date, follow applicable local leftover guidance, and never use tasting to test food that has been held unsafely.
 
@@ -152,6 +155,6 @@ Browse more [mushroom recipes](/recipes/), compare a lighter [mushroom pasta](/r
 
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) — produce handling and cross-contamination controls.
+2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — prompt chilling and refrigerator-temperature guidance.
+3. [USDA FoodData Central](https://fdc.nal.usda.gov/) — ingredient composition records; a finished stroganoff depends on the actual plant cream, noodles, and serving size.

@@ -5,8 +5,8 @@ keywords: ["cooked vs. raw mushrooms: nutrition and safety", "mushroom nutrition
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-22
-revisionSummary: "Added yield-factor nutrition comparisons, method-specific cooking mechanisms, and a symptom-record boundary."
+updatedDate: 2026-09-28
+revisionSummary: "Rebuilt the guide around water-loss yield factors, heat transfer, species-specific raw limits, method-specific texture, and matched-weight nutrient interpretation."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/mushrooms-vitamin-d", "recipes/sauteed-mushrooms-recipe"]
@@ -17,6 +17,8 @@ coverImage: "../../assets/health/cooked-vs-raw-mushrooms.jpg"
 coverAlt: "Cultivated mushrooms presented raw and cooked for a food preparation comparison"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original editorial illustration; visual context is not evidence of a medical benefit."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "USDA FoodData Central"
     url: "https://fdc.nal.usda.gov/"
@@ -44,13 +46,13 @@ medicalDisclaimer: "Educational information only. This page does not diagnose, t
 
 Cooking changes water content, texture, digestibility, and measured nutrient concentration; it also supports safer produce handling. The useful question is not whether mushrooms are “healthy” in the abstract, but what material was studied, in whom, at what dose, against what comparison, and with which outcome. This page focuses on preparation, nutrient interpretation, and food safety.
 
-Whole mushrooms can be part of a varied diet. Their composition changes with species, strain, substrate, maturity, ultraviolet exposure, storage, and cooking. FoodData Central provides representative values, not a laboratory certificate for every package.
+Cooking changes a mushroom first by moving water. A 200-gram raw batch may weigh much less after sautéing because steam left the pan; comparing 100 grams raw with 100 grams cooked can therefore make retained nutrients appear “higher” through concentration. Species, starting moisture, cut size, heat, time, oil, salt, and drained liquid all affect the result, so compare the same starting batch or use a documented yield factor.
 
 ## What the evidence can show
 
-Food-composition databases describe nutrients in analyzed samples. Laboratory studies can explore mechanisms. Animal studies can test biological hypotheses. Observational research can identify associations, while randomized human trials can estimate effects under controlled conditions. Results cannot be moved from one level to another without new evidence.
+Food-composition entries answer questions about the analyzed food form, not every home pan. A raw white-mushroom record and a cooked shiitake record differ in both species and preparation and cannot isolate the effect of heat. Laboratory retention studies are most useful when they report starting mass, cooking method, final mass, discarded liquid, and nutrient values on both wet-weight and dry-weight bases.
 
-Product identity matters. A study of a standardized extract does not establish the effect of culinary servings, tea, powder, mycelium grown on grain, or a different species sold under the same common name. Extraction ratios and marketing terms are not substitutes for measured constituents and independent testing.
+Keep culinary preparation separate from supplement extraction. Sautéing a serving of identified mushrooms is not equivalent to manufacturing a hot-water or alcohol extract, and research on an extract does not show that raw or cooked food has the same dose or effect. Compare raw versus cooked only within the same edible species and product form.
 
 ## Compare nutrients on the same basis
 
@@ -98,15 +100,15 @@ This exercise can reveal water loss and preference, but it is not a nutrient ass
 
 ## Evidence limitations
 
-Small samples, short follow-up, multiple outcomes, selective reporting, inadequate blinding, and industry sponsorship can all change confidence. A statistically significant result may still be too small, uncertain, or product-specific to guide care. Replication and clinically meaningful outcomes matter more than an isolated positive finding.
+A cooking study can look precise while answering a narrow question. Small sample batches, unreported maturity, different water additions, unmatched starting weights, and failure to analyze cooking liquid can alter apparent retention. Prefer replicated method comparisons with a mass balance over one antioxidant assay presented as a universal ranking of raw and cooked mushrooms.
 
-Claims about immunity, cognition, cancer, blood sugar, cholesterol, or inflammation require especially careful interpretation. Laboratory activity does not prove prevention or treatment in people. “Supports” language can still overstate evidence when the exact product and outcome have not been tested.
+Changes in extractable phenolics, radical-scavenging assays, or cell-culture activity after heating do not establish that one preparation prevents cancer, improves immunity, controls glucose, or treats inflammation. Those endpoints measure chemistry under specific conditions. Meal choice should be based on safe handling, tolerability, texture, flavor, and the wider diet unless clinical evidence addresses a defined outcome.
 
 ## Safety and interactions
 
-Foods and supplements can cause allergy, intolerance, contamination, or interactions. Concentrated products may not share the safety profile of normal culinary portions. People who are pregnant, breastfeeding, preparing for surgery, receiving cancer treatment, managing liver or kidney disease, or taking prescription medicines should discuss supplements with a qualified clinician.
+Raw tolerance is species- and person-specific. Commercial mushrooms can still carry soil or handling contamination, and raw texture can be difficult for some diners. Allergy symptoms are not a cue to run a home raw-versus-cooked challenge. People with prior reactions, pregnancy-related food concerns, immune compromise, or clinician-directed restrictions should follow individualized medical and food-safety advice.
 
-The FDA regulates dietary supplements differently from conventional foods and drugs; consumers should not interpret market availability as proof of effectiveness. Check labels, lot numbers, independent identity and contaminant testing, recall notices, and adverse-event guidance.
+Powders and extracts sold as supplements fall outside this raw-versus-cooked kitchen comparison. Their labels, lots, identity testing, contaminants, and adverse-event instructions require separate review; market availability does not turn a concentrated product into the nutritional equivalent of cooked mushrooms.
 
 For culinary mushrooms, refrigerate promptly and keep the refrigerator at or below 40°F (4°C). Wash hands and surfaces, separate produce from raw meat, poultry, seafood, and eggs, and refrigerate cooked leftovers within two hours—or one hour above 90°F (32°C). Discard mushrooms with mold, slime, off odor, or an unsafe holding history; tasting is not a safe spoilage test.
 
@@ -114,7 +116,7 @@ Allergic reactions can occur to raw or cooked mushrooms. Urgent symptoms such as
 
 ## Choose preparation by product, tolerance, and meal context
 
-For food, buy identified culinary mushrooms from reputable suppliers, store them safely, and cook them appropriately. For supplements, bring the exact label to a clinician or pharmacist. Record the species, part, extraction, dose, other ingredients, and reason for use. Stop and seek care for severe allergic symptoms or other urgent reactions.
+Buy mushrooms identified for culinary sale, refrigerate as directed, trim spoiled tissue, prevent contact with raw animal foods, and use a method appropriate to the species. Record raw weight and cooked yield if comparing nutrition. Seek urgent care for breathing difficulty, facial or throat swelling, faintness, or severe persistent symptoms, and retain the food package and meal details.
 
 Choose cooking for flavor, texture, supplier directions, and safe handling rather than expecting one method to maximize every nutrient. Use modest measured additions when comparing nutrition, and count sauces and oils as part of the finished dish. People who enjoy raw cultivated button mushrooms can still vary preparation; people who tolerate only cooked mushrooms do not need to force raw servings for a supposed universal benefit.
 

@@ -6,8 +6,8 @@ keywords: ["creamy mushroom pasta", "mushroom recipe", "cremini mushrooms"]
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
-revisionSummary: "Added sauce-texture cues, improved internal links to mushroom toast and gravy, and refreshed storage language."
+updatedDate: 2026-09-28
+revisionSummary: "Rebuilt the method around batch browning, fond recovery, starch-controlled emulsification, pasta timing, sauce rescue, and single-layer cooling."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/mushroom-risotto", "recipes/creamy-mushroom-soup"]
@@ -15,6 +15,8 @@ coverImage: "../../assets/recipes/mushroom-pasta.jpg"
 coverAlt: "Creamy mushroom pasta with cultivated mushrooms, herbs, and grated cheese"
 imageCredit: "Original MushroomScope editorial illustration"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
@@ -47,7 +49,7 @@ recipe:
 
 Make creamy mushroom pasta with cultivated cremini mushrooms, clear steps, practical substitutions, and conservative food-safety guidance. Browning drives off surface moisture and builds savory flavor. Crowding a small pan traps steam, so cook in batches when necessary. The recipe uses pasta, cream, and Parmesan to support rather than hide the mushroom flavor.
 
-Only use mushrooms sold as food by a reputable supplier. A recipe cannot authenticate a wild mushroom, and cooking does not make a poisonous species safe. Check packaging and recall information before cooking.
+Use cultivated cremini or another mushroom explicitly sold for cooking, with a package or supplier identity you can trace. This pasta method cannot authenticate a foraged cap, and boiling or browning does not neutralize every mushroom toxin. Reject slimy, moldy, badly damaged, or recalled product before it reaches the cutting board.
 
 ## Ingredients and substitutions
 
@@ -65,7 +67,7 @@ Only use mushrooms sold as food by a reputable supplier. A recipe cannot authent
 4. Brown mushrooms separately and toss with pasta, sauce, and reserved cooking water.
 5. Taste, adjust seasoning, and serve hot.
 
-A wide skillet promotes evaporation. Let mushrooms contact the hot surface before stirring repeatedly. If liquid accumulates, continue cooking until it evaporates rather than adding more fat immediately.
+Brown sliced mushrooms in a skillet large enough to keep most pieces in one layer. Let the first side color before turning; if the pan floods, divide the batch and reduce the released liquid until the pan again leaves a dry trail. Add aromatics after browning so garlic does not burn during the longer evaporation phase, then dissolve the browned fond with measured pasta water or stock.
 
 ## Brown mushrooms in batches before building the sauce
 
@@ -99,7 +101,7 @@ Wine is optional. If used, add it after aromatics and reduce until the raw alcoh
 
 ## Troubleshooting
 
-**Mushrooms are pale and watery:** The pan was crowded or not hot enough. Cook smaller batches and allow moisture to evaporate.
+**The sauce is gray and the mushrooms never browned:** Too many cold slices cooled the pan and released water at once. Remove part of the batch, reduce the liquid, return the pan to browning temperature, and finish the remaining slices separately before combining them.
 
 **Garlic or spices taste bitter:** Add delicate aromatics later or reduce the heat once browning is established.
 
@@ -139,12 +141,12 @@ If unexpected symptoms follow mushroom consumption, stop eating and seek appropr
 
 ## Storage and reheating
 
-Refrigerate perishables and leftovers within two hours—within one hour when ambient temperature is above 90°F (32°C). Use clean, shallow covered containers and keep the refrigerator at or below 40°F (4°C). Reheat only the portion needed until steaming hot and discard food held unsafely or showing spoilage.
+Refrigerate the finished pasta within two hours, or within one hour above 90°F (32°C). Spread a large batch into shallow containers so the dense sauce and noodles cool promptly; keep the refrigerator at or below 40°F (4°C). Reheat only the needed portion with a spoonful of water until steaming throughout, and discard pasta with an unsafe holding history, mold, slime, or an off odor.
 
 Browse more [mushroom recipes](/recipes/) or learn about the cultivated species in the [mushroom encyclopedia](/mushrooms/).
 
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) — produce purchasing, washing, and cross-contamination controls.
+2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — refrigerator temperature and prompt-storage guidance.
+3. [USDA FoodData Central](https://fdc.nal.usda.gov/) — composition records for defined foods and preparation states, not a nutrient calculation for this complete dish.
