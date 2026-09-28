@@ -5,14 +5,16 @@ keywords: ["garlic butter oyster mushrooms", "mushroom recipe", "oyster mushroom
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-23
-revisionSummary: "Expanded the recipe with oyster-mushroom preparation, batch searing, garlic and butter timing, texture control, variations, serving, storage, and reheating."
+updatedDate: 2026-09-28
+revisionSummary: "Added cluster anatomy, cut-size sorting, skillet recovery cues, butter-emulsion control, and separate finishing paths for crisp edges versus tender centers."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "recipes/sauteed-mushrooms-recipe"]
 coverImage: "../../assets/recipes/garlic-butter-oyster-mushrooms.jpg"
 coverAlt: "Garlic butter oyster mushrooms browned in a cast-iron skillet"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -193,8 +195,16 @@ Reheat in a wide skillet over medium heat so moisture evaporates, stirring until
 
 Reheat only what will be eaten. Discard food held unsafely or showing slime, mold, or an unpleasant odor. Never taste leftovers to decide whether they are safe.
 
+## Sort oyster clusters by thickness before searing
+
+Oyster clusters combine thin cap margins, thicker cap centers, and dense shared stem tissue. Tear along the natural seams instead of slicing every piece to one cosmetic shape. Put delicate fronds in one group and thick junctions in another. Start the dense pieces first, then add thin caps later or cook them in separate batches; otherwise the margins dry before the centers become tender.
+
+Use the sound of the skillet as a recovery cue. After a piece touches the pan, a strong sizzle should return quickly. If the sound fades and liquid pools, remove part of the load rather than raising the burner until butter scorches. Leave broad faces undisturbed long enough to color, then turn only when they release without tearing.
+
+Add butter after the mushroom surfaces are browned and the pan is no longer watery. Lower the heat, add garlic for a brief fragrant finish, and use a spoonful of water only if needed to emulsify the browned residue into a light glaze. Lemon goes in off heat. This sequence coats the mushrooms without boiling them in butter or burning garlic on a dry high-temperature pan.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and separation guidance for delicate cultivated clusters.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Cold-storage context for the butter-finished leftovers.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; butter pickup and cooked yield determine the serving profile.

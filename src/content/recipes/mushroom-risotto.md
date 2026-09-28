@@ -6,14 +6,16 @@ keywords: ["mushroom risotto", "creamy mushroom risotto", "cremini mushroom riso
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the cooking workflow with heat and pan controls, make-ahead boundaries, serving adjustments, dairy-free options, and more precise doneness troubleshooting."
+updatedDate: 2026-09-28
+revisionSummary: "Added stock-absorption logging, pan-width calibration, grain-core checkpoints, mushroom reintroduction timing, and final wave-texture control."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/mushroom-pasta"]
 coverImage: "../../assets/recipes/mushroom-risotto.jpg"
 coverAlt: "Creamy mushroom risotto finished with parsley and browned cultivated mushrooms"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms. It is a serving image, not a recipe test record."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -156,6 +158,14 @@ No. Stop when the rice is tender and the texture is loose and glossy. Stock volu
 ### How do I make risotto vegetarian?
 
 Use vegetable stock and a Parmesan-style cheese made with vegetarian rennet, or leave out the cheese and finish with good olive oil and a little nutritional yeast if that suits your diet. Check individual labels for dietary needs.
+
+## Track absorption without forcing all the stock into the rice
+
+Keep stock hot enough that each addition returns the pan to a gentle simmer quickly. Record how much stock remains when the grain first loses its hard center. Pan width, burner output, rice age, and stirring rate change evaporation, so the recipe quantity is a working supply rather than a target that must disappear.
+
+Taste several grains from different parts of the pan. The center should offer slight resistance without a chalky core, and the surrounding liquid should look glossy rather than watery. Add smaller ladles near the endpoint. A large final addition can take the rice from nearly ready to soupy while the extra reduction overcooks the grains.
+
+Fold browned mushrooms back in late so their edges remain distinct. Off heat, add the finishing fat or cheese and enough reserved hot stock to create a slow wave when the pan is shaken. Plate immediately on warm, shallow dishes. Properly loose risotto spreads gently under its own weight; a stiff mound needs a little stock, while a flat puddle needs brief absorption rather than more cheese.
 
 ## References
 

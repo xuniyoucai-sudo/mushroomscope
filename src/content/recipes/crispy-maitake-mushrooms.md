@@ -6,9 +6,13 @@ keywords: ["crispy roasted maitake", "roasted maitake mushrooms", "maitake recip
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-10
+updatedDate: 2026-09-28
+revisionSummary: "Replaced stale pre-publication test language and added cluster-density sorting, pan-contact mapping, oil pickup checks, and staged edge-versus-core doneness."
 coverImage: "../../assets/recipes/crispy-maitake-mushrooms-editorial-v2.png"
 coverAlt: "AI editorial illustration of browned maitake clusters with crisp frilled edges on a dark sheet pan"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "AI-generated editorial illustration; not a photograph of a tested batch. Use the written browning and tenderness cues."
 draft: false
 featured: false
@@ -187,8 +191,16 @@ Brush it on during the last few minutes or use it in a finishing oil. Grated gar
 
 No. The target is brittle or crisp outer fronds with a tender branch core; drying the entire piece removes the useful contrast.
 
+## Map pan contact to cluster density
+
+Maitake pieces are three-dimensional, so equal width does not mean equal mass. Sort airy outer fronds separately from dense pieces cut near the base. Place the dense side against the preheated metal and leave open space around every cluster. Thin fronds can join later or occupy a cooler edge of the tray, preventing them from blackening while the core remains pale.
+
+Distribute oil with a large bowl and clean hands or a brush, lifting branches so a light film reaches internal surfaces. Oil pooling in the bowl signals excess, while completely dry pale crevices will not brown evenly. Weighing oil and mushrooms for the first successful tray creates a repeatable ratio; spraying blindly after the oven is hot makes pickup difficult to judge.
+
+Evaluate three zones before removal: the finest tips should be crisp and browned, mid-branches should bend before breaking, and the dense base should be hot and tender. Turn clusters by supporting the base rather than grabbing fragile fronds. Remove finished airy pieces early and give dense pieces additional contact time instead of forcing every shape to follow one timer.
+
 ## References
 
-FDA guidance supports cleaning, refrigeration, and kitchen-separation statements. USDA FSIS supports cooling, storage, and reheating limits. FoodData Central is the appropriate starting point for ingredient-matched nutrition rather than estimates. Cornell's material establishes the cultivated specialty-mushroom context. Before publication, a logged kitchen test should record cluster weights, tray material, oven mode, timing, and weight loss.
+FDA guidance supports cleaning, refrigeration, and kitchen-separation statements. USDA FSIS supports cooling, storage, and reheating limits. FoodData Central is the appropriate starting point for ingredient-matched nutrition rather than estimates. Cornell's material establishes the cultivated specialty-mushroom context. No independent logged kitchen test was performed or claimed; cluster weights, tray material, oven mode, timing, and weight loss are variables readers can record when calibrating their own equipment.
 
-*Editorial status: reviewed by the MushroomScope editorial team on August 30, 2026; no named chef or test kitchen independently validated this recipe.*
+*Editorial status: reviewed by the MushroomScope editorial team on September 28, 2026. No named chef or test kitchen independently validated the maitake cluster sizing, tray loading, or roast endpoints described here.*

@@ -6,13 +6,16 @@ keywords: ["quick pickled mushrooms", "refrigerator pickled mushrooms", "marinat
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-12
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added cut-size simmer control, brine displacement measurement, rapid cooling geometry, serving contamination limits, and a clearer refrigerator-only boundary."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "growing/store-homegrown-mushrooms", "mushrooms/cremini-mushroom-guide"]
 coverImage: "../../assets/recipes/quick-pickled-mushrooms.jpg"
 coverAlt: "Glass jar of sliced quick pickled button mushrooms with dill, garlic, and peppercorns beside a serving bowl"
 imageCredit: "Original MushroomScope editorial image generated with OpenAI image tools"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original illustrative food image for MushroomScope. It shows a serving idea only; it is not a preservation method, recipe test record, or food-safety assessment."
 sources:
   - title: "National Center for Home Food Preservation — Complete Guide to Home Canning"
@@ -159,10 +162,18 @@ The brief simmer is part of this recipe’s texture and handling method. Skippin
 
 No. Discard it after the mushrooms are finished. Reusing brine changes its dilution and handling history, so it is not a reliable base for another refrigerated batch or any preserving method.
 
+## Measure displacement instead of forcing the jar full
+
+Cut cultivated mushrooms to similar thickness so the brief simmer softens them evenly. Dense button or cremini quarters need longer than thin oyster strips; cook different shapes separately if necessary. Stop when pieces are tender but still resilient, because they continue absorbing brine as they cool. Overcooked mushrooms shed fragments and create a cloudy, soft result.
+
+Use a heat-safe container with enough headspace for stirring and cooling. Add cooked mushrooms loosely, then enough hot brine to submerge them without compressing the pieces. If the written batch does not fit, use a second container rather than reducing vinegar or topping up with unmeasured water. The recipe remains a short-lived refrigerator pickle even when the mushrooms are submerged and the lid seals during cooling.
+
+Cool according to the written handling plan, refrigerate promptly, label the preparation date, and use a clean utensil for each serving. Do not eat directly from the storage jar and return it to the refrigerator immediately. Bubbling, a bulging lid, mold, slime, an off odor, or uncertain refrigeration history are discard signals—not evidence of desirable fermentation.
+
 ## References
 
 1. National Center for Home Food Preservation. [Complete Guide to Home Canning](https://nchfp.uga.edu/publications/usda-publications). Sections on pickled foods explain why tested proportions and known vinegar acidity matter.
 2. FoodSafety.gov. [People at Risk of Food Poisoning](https://www.foodsafety.gov/people-at-risk). Refrigeration and leftover timing guidance.
 3. USDA Food Safety and Inspection Service. [Botulism](https://www.fsis.usda.gov/food-safety/foodborne-illness-and-disease/illnesses-and-pathogens/botulism). Background on improper home processing and low-oxygen food storage.
 
-*Editorial note: reviewed August 24, 2026. This page intentionally does not provide a shelf-stable preservation method.*
+*Editorial note: reviewed September 28, 2026. This page intentionally does not provide a shelf-stable preservation method.*

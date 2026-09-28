@@ -5,13 +5,16 @@ keywords: ["grilled portobello mushroom burgers", "mushroom recipe", "portobello
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-09-28
+revisionSummary: "Added cap-thickness grouping, marinade uptake limits, grate-zone management, draining orientation, and bun assembly controls for a less watery burger."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/cremini-mushroom-guide", "recipes/stuffed-portobello-mushrooms", "health/cooked-vs-raw-mushrooms"]
 coverImage: "../../assets/recipes/grilled-portobello-burgers.jpg"
 coverAlt: "Two grilled portobello mushroom burgers with lettuce, tomato, and red onion"
 imageCredit: "Original MushroomScope editorial illustration"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Original MushroomScope editorial food illustration using cultivated culinary mushrooms."
 sources:
   - title: "FDA — Selecting and Serving Produce Safely"
@@ -133,8 +136,16 @@ If mushrooms cause unexpected symptoms, stop eating and seek appropriate medical
 
 Browse more tested [mushroom recipes](/recipes/) and review the evidence-based distinction between [cooked and raw mushrooms](/health/cooked-vs-raw-mushrooms/).
 
+## Match cap thickness to a grill zone
+
+Measure the thickest center and group caps of similar diameter and depth. A broad thin cap can finish before a compact thick one becomes tender. Preheat a hotter direct zone for initial marks and a moderate zone for finishing. Begin gill-side down only long enough to set the surface, then turn and monitor the dense center rather than chasing dark grate lines.
+
+Brush on a measured marinade instead of soaking the caps. Portobellos already contain substantial water; a long bath fills the gills and makes the burger release more liquid during cooking. Reserve used marinade only if it has not contacted raw animal foods and will be cooked appropriately; otherwise discard it. Do not keep brushing cool marinade onto a cap just before service.
+
+After grilling, rest each cap gill-side down on a rack for a minute so free liquid drains away from the bun. Toast the cut faces and place wet condiments above a barrier such as lettuce or a thin spread. Assemble cap, crisp vegetables, and sauce only at service. A tall stack traps steam and slides, so use one cap that fits the bun rather than layering several smaller watery pieces.
+
 ## References
 
-1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
-2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
-3. [USDA FoodData Central](https://fdc.nal.usda.gov/)
+1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce handling for caps and uncooked toppings.
+2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigeration context for grilled caps stored apart from buns.
+3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; bun, marinade, cheese, and sauce determine the complete burger.
