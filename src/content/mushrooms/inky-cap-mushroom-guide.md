@@ -6,7 +6,7 @@ keywords: ["common inky cap", "Coprinopsis atramentaria", "inky cap alcohol inte
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-08
-updatedDate: 2026-09-19
+updatedDate: 2026-09-30
 coverImage: "../../assets/species/inky-cap-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of smooth gray common inky caps clustered beside a decaying hardwood stump"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -237,6 +237,18 @@ No. Many ink-cap relatives develop black gills and deliquesce. Cap veil, cluster
 ### Can an app assess alcohol risk from a photo?
 
 No. It cannot verify identity, dose, hidden alcohol exposure, medications, or individual health factors.
+
+## Build a deliquescence timeline from one marked cap
+
+Inky-cap development is unusually time-sensitive. Mark one fruit body in the cluster without touching it and photograph the same angle at short intervals. Record when gills change from pale to gray to black, where the cap margin first curls, and when liquid droplets appear. A neighboring young cap is not a substitute for an earlier stage of the marked specimen because temperature, exposure, and emergence time differ within a cluster.
+
+Measure air temperature and recent rainfall, and distinguish black spore deposit from liquefied tissue. A white card held near—but not against—the cap can reveal falling spores before deliquescence. Once the margin dissolves, missing tissue cannot be reconstructed from the final photograph. The timed sequence therefore preserves characters that a conventional end-state field portrait loses.
+
+## Separate coprine risk from generic alcohol warnings
+
+The clinically important claim concerns coprine-associated reactions documented for particular taxa, prominently *Coprinopsis atramentaria*, in temporal association with alcohol. It should not be broadened into “all inky caps react with alcohol,” nor softened into an informal cooking tip. Identification uncertainty matters because several clustered gray mushrooms can share habitat and rapidly changing gills.
+
+Record any suspected exposure with the mushroom source, amount, preparation, time eaten, alcohol timing, symptom onset, medications, and retained uncooked material. Flushing, headache, palpitations, nausea, or faintness after an uncertain mushroom meal warrants prompt professional advice; severe symptoms require emergency care. This page provides no clearance period and no food recommendation. NAMA's toxicology guidance and local poison services are the appropriate decision resources, while a photographed cap remains identification evidence rather than a medical diagnosis.
 
 ## References
 

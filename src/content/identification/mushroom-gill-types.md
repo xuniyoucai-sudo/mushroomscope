@@ -132,6 +132,8 @@ Photograph young and mature gills at the same angle because cap expansion can al
 
 The [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/) shows why gill attachment must be recorded together with latex emergence, later staining, host trees, and regional taxonomy.
 
+For brittle-gilled collections that exude droplets, continue with the [mushroom latex documentation guide](/identification/mushroom-latex-field-guide/) rather than treating white or colored milk as a species shortcut.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

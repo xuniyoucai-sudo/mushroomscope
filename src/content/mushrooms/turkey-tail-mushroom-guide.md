@@ -205,6 +205,8 @@ General food practice still applies: source cultivated mushrooms from reputable 
 Children, older adults, pregnant people, and immunocompromised individuals can face greater consequences from foodborne infection. Follow national and local recall advice. For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after eating an unidentified wild mushroom, contact emergency services or a poison center immediately; do not wait for an online identification.
 
 
+For a side-by-side decision record, use the [structure-first turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) to compare the pore layer, bracket thickness, hair zones, host, and aging effects.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

@@ -6,7 +6,7 @@ keywords: ["collared earthstar", "Geastrum triplex", "earthstar fungus identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-03
-updatedDate: 2026-09-19
+updatedDate: 2026-09-30
 coverImage: "../../assets/species/collared-earthstar-editorial-v2.png"
 coverAlt: "AI editorial image of three collared earthstars with split rays and central spore sacs on woodland litter"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -215,6 +215,18 @@ A mature sac can puff spores when compressed or struck. Avoid destructive demons
 ### Can a dry specimen be identified later?
 
 Often it can retain useful mouth, sac, ray, and microscopic characters, but weathering may erase key surfaces. Photograph fresh stages whenever available.
+
+## Measure ray movement without confusing true and false earthstars
+
+Ray response to humidity can be tested with repeated observation rather than a staged soak. Photograph the same fruit body after a naturally dry interval and after rain, using fixed landmarks and a scale. Record ray-tip height, total spread, whether the spore sac is lifted, and whether litter is trapped beneath the rays. Strong, repeated inward folding during dry conditions is important evidence for hygroscopic false earthstars such as *Astraeus*; ordinary curling or collapse in a damaged *Geastrum* is not equivalent.
+
+Keep developmental stage in the comparison. A newly opened collared earthstar has thick flexible rays, while an old specimen may be brittle, detached, or mechanically displaced. One before-and-after pair cannot establish a taxon if wind, trampling, or handling changed the position. Several untouched specimens across the same moisture cycle give a more defensible record.
+
+## Audit the collar, mouth, and sac as separate structures
+
+The collar should be traced to a split inner layer of the exoperidium rather than inferred from any raised fold. Photograph it at ground level and from above, then describe whether it is continuous, broken, cup-like, or eroded. Independently record the apical mouth: bounded or diffuse, smooth or fibrillose, conical or flat. Finally describe the spore-sac surface and its attachment above the rays.
+
+These three character sets mature and weather at different rates. A prominent collar can persist after the mouth is abraded; a clear mouth can remain on a specimen whose collar never developed symmetrically. Scoring each structure separately makes comparison with *Geastrum saccatum*, other *Geastrum*, and *Astraeus* more useful than the circular statement that a specimen is *G. triplex* because it “looks collared.”
 
 ## References
 

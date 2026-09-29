@@ -6,7 +6,7 @@ keywords: ["witch's butter fungus", "Tremella mesenterica", "yellow jelly fungus
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-05
-updatedDate: 2026-09-23
+updatedDate: 2026-09-30
 coverImage: "../../assets/species/witchs-butter-editorial-v2.png"
 coverAlt: "AI editorial image of translucent yellow witch's butter jelly fungus growing from a rain-darkened hardwood branch"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -223,6 +223,18 @@ Sometimes a thin crust is visible, but species identification commonly needs mic
 ### Why not list medicinal benefits?
 
 Evidence about a compound, a different yellow jelly species, or a commercial extract cannot be transferred to a field collection of unresolved identity.
+
+## Separate hydration visibility from new fruit-body growth
+
+A fixed-frame revisit can prevent a common reporting error. Place the camera at the same branch junction after rain and again after two dry days, retaining a millimeter scale in the plane of the lobes. Measure the outline of the same cluster, note surface gloss and translucency, and record rainfall rather than saying the fungus “grew overnight.” Re-expansion mostly describes water entering gelatinous tissue; it is not a direct measurement of added fungal biomass.
+
+For monitoring, trace each cluster on a branch diagram and number nearby bark cracks. New yellow tissue at a previously empty crack is different evidence from an old cluster becoming larger and brighter. Frost damage, grazing, or a shifted twig can also change the silhouette. This time-series method makes the page's host-parasite ecology testable instead of treating every conspicuous wet-weather appearance as a fruiting event.
+
+## Compare host evidence at the bark interface
+
+The strongest field record preserves spatial relationships among jelly, bark, and candidate crust fungus. Photograph an undisturbed overview, then a raking-light close-up that shows thin *Peniophora*-like crust margins. Where lawful sampling is part of a qualified study, assign separate labels to jelly tissue, adjacent crust, the contact zone, and a distant bark control. A mixed sequence from the interface may contain both fungi without proving which cells came from which structure.
+
+This distinction separates *Tremella mesenterica* ecology from yellow lookalikes associated with different hosts or wood types. It also limits overclaiming: absence of a visible crust in one photograph does not demonstrate absence of a microscopic or concealed host. Report the host as observed, suspected, or independently identified, and retain the evidence supporting that confidence level.
 
 ## References
 

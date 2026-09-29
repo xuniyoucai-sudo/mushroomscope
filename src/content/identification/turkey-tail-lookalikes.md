@@ -5,13 +5,24 @@ keywords: ["turkey tail lookalikes","Trametes versicolor identification"]
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-draft: true
+draft: false
 featured: false
+relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "identification/mushroom-pore-surface-guide", "identification/mushroom-photo-checklist", "mushrooms/artists-conk-mushroom-guide"]
+sources:
+  - title: "GBIF — Trametes versicolor"
+    url: "https://www.gbif.org/species/2548136"
+  - title: "NCBI Taxonomy Browser — Trametes versicolor"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5325"
+  - title: "GBIF — Stereum"
+    url: "https://www.gbif.org/species/2553036"
+  - title: "NAMA — Mushroom Poisoning Syndromes"
+    url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
 coverImage: "../../assets/identification/turkey-tail-lookalikes-editorial-v2.png"
 coverAlt: "Original editorial illustration supporting turkey tail lookalikes: a structure-first comparison without serving as identification evidence"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
+imageNote: "AI-assisted editorial comparison, not a field photograph, voucher, or identification evidence."
 reviewStatus: editorial
 faq:
   - question: "What turkey tail evidence matters most??"
@@ -24,9 +35,13 @@ faq:
     answer: "Turkey tail is primarily documented on dead hardwood, but substrate labels can be wrong when bark is absent. Note whether brackets emerge from a log, stump, buried root, or living wound and whether the wood is sound or visibly decomposed."
   - question: "Habitat, host, and decay context?"
     answer: "Microscopy and expert comparison may be needed for pale Trametes collections and old material. Spore dimensions, hyphal construction, pore density, and voucher quality belong in a serious determination."
+cap: { shape: ["thin fan or semicircular bracket"], color: ["concentrically zoned brown, gray, buff, blue-gray, or blackish"], surface: ["finely hairy to velvety zones"], size: "Measure bracket width, projection, and thickness." }
+stem: { shape: ["absent or laterally attached bracket"], color: ["not applicable"], surface: ["record attachment point"], ring: "Absent.", volva: "Absent." }
+gills: { attachment: ["not applicable"], spacing: ["record pores per millimeter instead"], color: ["white to cream pore surface when fresh"], notes: "A smooth underside redirects the comparison toward Stereum; section the underside to confirm tubes." }
+spores: { printColor: ["white to pale"], shape: ["smooth cylindrical spores; microscopy needed"], size: "Use calibrated microscopy and a current regional key." }
+habitat: { summary: "Overlapping brackets on dead hardwood, with substrate identity and decay state documented independently.", substrates: ["fallen hardwood log", "hardwood stump", "dead attached hardwood"], associatedTrees: [], regions: ["widely recorded; verify with current regional resources"] }
+safetyNotice: "A zoned bracket or porous underside cannot establish edibility. Use qualified local, in-person expertise for any food decision."
 ---
-
-# Turkey Tail Lookalikes: A Structure-First Comparison
 
 > **Safety scope:** This editorial guide explains evidence and documentation. It cannot confirm that a wild mushroom is edible, and it has no named expert or clinical reviewer.
 
@@ -112,7 +127,7 @@ Turkey tail is primarily documented on dead hardwood, but substrate labels can b
 
 Microscopy and expert comparison may be needed for pale Trametes collections and old material. Spore dimensions, hyphal construction, pore density, and voucher quality belong in a serious determination.
 
-## Sources and further reading
+## References
 
 - [Authoritative source 1](https://www.gbif.org/species/2548136)
 - [Authoritative source 2](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5325)

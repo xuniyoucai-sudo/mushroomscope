@@ -134,6 +134,8 @@ Never use “has pores” as an edibility rule. Do not consume an unidentified w
 
 If someone may have eaten an unknown mushroom, contact the appropriate poison service or emergency medical provider promptly. Preserve uncooked material, cooked leftovers, photographs, collection location, and timing. Do not wait for online identification and do not induce vomiting unless a medical professional instructs you to do so.
 
+Zoned brackets need an underside comparison: the [turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) separates minute pores from smooth *Stereum* surfaces and coarser relatives.
+
 ## References
 
 The British Mycological Society identification guidance supports evidence-led field work and expert referral. GBIF can help check accepted names and geographic records, while records still require critical interpretation. North American Mycological Association poisoning guidance supports conservative emergency action. Use current regional monographs for species-level determinations because pore characters and names vary among continents and lineages.

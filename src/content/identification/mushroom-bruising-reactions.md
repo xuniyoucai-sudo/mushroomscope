@@ -140,6 +140,8 @@ Many boletes blue in pores or flesh at different rates and intensities; both edi
 
 Never taste an unknown mushroom to test a reaction, and do not apply household chemicals. If ingestion is suspected, bruising notes may assist an expert but must not delay poison-center or medical contact.
 
+When damaged gills release liquid, use the [mushroom latex field guide](/identification/mushroom-latex-field-guide/) to time liquid color separately from the surrounding tissue reaction.
+
 ## References
 
 1. [North American Mycological Association — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Used for conservative poisoning-response boundaries, not field identification.
