@@ -147,6 +147,8 @@ This comparison demonstrates why a pleasant smell or valued habitat is not clear
 
 ## Puffball-button confusion
 
+For a direct comparison with a uniformly white gleba, use the [giant puffball field guide](/mushrooms/giant-puffball-mushroom-guide/) and cut every separate candidate from top through its complete base.
+
 An unopened *Amanita* can appear as a pale ball. A lengthwise section may reveal a developing cap, gills, and stem inside, unlike the uniform interior expected of a true immature puffball. Yet sectional appearance must be interpreted with the exterior, base, habitat, and expert guidance.
 
 Never sample a “puffball” whose interior contains organized mushroom structures, discoloration, or uncertainty. The [poisonous warning-sign guide](/identification/poisonous-mushroom-warning-signs/) explains why warning features trigger stopping rather than proving one toxin.

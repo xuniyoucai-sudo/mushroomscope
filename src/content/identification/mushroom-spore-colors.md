@@ -87,6 +87,8 @@ Record “no deposit obtained” when nothing appears. Never convert failure int
 
 ## White, cream, and pale yellow deposits
 
+For a woodland example, the [amethyst deceiver guide](/mushrooms/amethyst-deceiver-mushroom-guide/) pairs a white deposit with thick distant gills and explains how it separates a candidate from rusty-spored purple *Cortinarius* without proving species identity alone.
+
 White deposits are easiest to see over the dark half of the surface. Dense white spores may appear chalky, while a thin layer can look translucent or gray because the background shows through. Cream or pale yellow tones should be judged from a sufficiently heavy deposit, not from a few scattered particles.
 
 Numerous genera produce pale prints, including both edible and toxic species. A white print cannot separate a cultivated-looking mushroom from a dangerous wild lookalike. Combine it with gill attachment, veil structures, stem base, habitat, and a regional key.

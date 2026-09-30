@@ -82,6 +82,8 @@ Growth stage is part of the observation. In very young caps the gills may be con
 
 ## Spacing, short gills, edges, and color
 
+The [amethyst deceiver guide](/mushrooms/amethyst-deceiver-mushroom-guide/) shows why thick, widely spaced gills should be recorded alongside cap fading, a fibrous stem, white spores, and woodland host context rather than used as a color shortcut.
+
 Attachment is only one gill character. Record whether gills are crowded, close, or distant, but include a scale or comparison so the word can be checked. Note whether shorter blades are present between full-length gills, whether blades fork, and whether cross-veins connect them. Describe the gill edge separately if it is colored, serrated, or visibly different from the face. These details can be useful in a key, yet none is reliable enough alone for a consumption decision.
 
 Color deserves a time stamp. Describe it under ordinary natural light before bruising or handling changes it, then photograph both young and mature material. “White” is often a camera interpretation rather than a precise field observation; cream, gray, pinkish, brownish, or darkening notes may be more useful when tied to a fresh image. A [spore-print color record](/identification/mushroom-spore-colors/) can add a separate observation when it is safe, lawful, and relevant to a regional key.

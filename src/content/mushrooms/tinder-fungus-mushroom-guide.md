@@ -6,11 +6,14 @@ keywords: ["tinder fungus", "Fomes fomentarius", "tinder fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-31
+updatedDate: 2026-10-01
 draft: false
 featured: false
 coverImage: "../../assets/species/tinder-fungus-editorial-v2.png"
 coverAlt: "Gray hoof-shaped tinder fungus brackets attached to mature birch bark"
 imageCredit: "Original MushroomScope AI editorial image"
+imageSource: "MushroomScope editorial production"
+imageLicense: "Original work; all rights reserved"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or identification evidence."
 relatedEntries: ["mushrooms/artists-conk-mushroom-guide", "mushrooms/birch-polypore-mushroom-guide", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification"]
 sources:
@@ -183,6 +186,18 @@ The active pore surface also changes through the season. Fresh pore tissue may b
 For a tree-risk observation, distinguish fungal identity from structural assessment. *Fomes fomentarius* indicates established white rot, yet bracket number and size do not measure the remaining load-bearing shell. Record bracket height, trunk side, cavities, cracks, crown condition, targets, and recent weather without probing or cutting a public tree. A qualified arborist integrates those observations with tree mechanics; a mushroom guide cannot predict failure timing.
 
 For a host-specific annual bracket comparison, the [birch polypore guide](/mushrooms/birch-polypore-mushroom-guide/) contrasts attachment, pore layers, birch evidence, and brown-rot context with perennial hoof fungi.
+
+## Map the active margin and pore renewal
+
+A perennial conk is not uniformly active. Mark the pale growing margin, older cracked upper crust, current pore surface, and any sealed or weathered pore layers in photographs. Measure bracket projection, width, thickness at the attachment, and pore density within a stated square. Repeat the same views seasonally without cutting the conk. A fresh pale margin paired with a clean current pore surface supports ongoing growth; a detached, insect-hollowed bracket does not provide the same evidence.
+
+When a naturally broken specimen exposes stacked tube layers, measure each layer and record which surface faces downward. Do not call the bands annual rings without repeated observations or a validated regional study. Fruiting and tube production respond to host condition and climate, and more than one layer can complicate a calendar interpretation.
+
+## Separate fungus identity from tree-risk assessment
+
+Record the host at species level where bark, buds, leaves, and site allow it, then map conk height, compass side, wound relationship, cavities, crown dieback, and visible root-zone changes. *Fomes fomentarius* is associated with white rot, but a photograph of one bracket cannot quantify residual wall thickness, root anchorage, or probability of failure.
+
+For trees near people or property, keep fungal documentation separate from the risk decision and refer the latter to a qualified arborist using an accepted tree-risk method. Removing the bracket neither removes internal decay nor treats the tree. Conversely, a conk is not a command for automatic felling; it is evidence that should trigger site-specific assessment.
 
 ## References
 

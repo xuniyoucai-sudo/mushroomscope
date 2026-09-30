@@ -6,6 +6,7 @@ keywords: ["jelly tooth fungus", "Pseudohydnum gelatinosum", "jelly tooth fungus
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-16
+updatedDate: 2026-10-01
 draft: false
 featured: false
 coverImage: "../../assets/species/jelly-tooth-mushroom-editorial-v2.png"
@@ -182,6 +183,18 @@ Gelatinous fungi can change more dramatically with weather than firm mushrooms. 
 The teeth deserve a true underside view. They should be soft, short projections covering the fertile surface rather than gills, pores, folds, or crystals on decaying wood. Use side lighting and a scale, and photograph where the teeth stop near the attachment. Moss, water droplets, and shallow depth of field can imitate texture, so retain several frames at different focus distances instead of one dramatic macro.
 
 Substrate identification can remain uncertain on advanced rot. Conifer bark, branching pattern, resin traces, adjacent trees, forestry records, and wood anatomy may each help, but a moss-covered log should not be labeled confidently from color. State “decayed conifer wood suspected” when that is the evidence level. A correct uncertainty label is more useful than forcing the habitat to match the expected species.
+
+## Measure tooth development across one log
+
+The underside changes as a fruit body expands, so record tooth density and length along a fixed transect rather than describing the whole cluster as simply “toothed.” Photograph a ruler beside three marked positions: the actively growing pale margin, the middle of a mature lobe, and an older inner zone. Count teeth within the same 10 mm width at each position and record the longest tooth without stretching the gelatinous tissue. This reveals whether apparent smoothness is structural or only a young margin that has not formed long teeth.
+
+Repeat the transect after rain and after a dry interval. Hydrated teeth may hang separately and appear translucent; drying can collapse adjacent teeth into pale ridges. Link both observations to the same field number and wood section. Unlinked wet and dry photographs can otherwise be mistaken for different taxa.
+
+## Diagnose the wood interface before naming the host
+
+Fruit bodies can emerge from the underside or side of conifer wood that is partly buried, moss-covered, or advanced in decay. Clear only enough litter to show whether tissue is continuous with bark, exposed sapwood, a cut face, or soil beside the log. Record wood diameter, bark persistence, decay class, soil contact, and whether the substrate is a branch, stump, or structural root.
+
+Do not infer conifer from decay color alone. Photograph diagnostic bark, cones, needles, or an attached branch when present; otherwise report “probable conifer wood” and preserve a small lawful wood sample separately. That distinction keeps the record testable and prevents generic forest-floor language from replacing substrate evidence.
 
 ## References
 

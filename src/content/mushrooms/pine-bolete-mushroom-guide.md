@@ -6,6 +6,7 @@ keywords: ["pine bolete", "Boletus pinophilus", "pine bolete identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-19
+updatedDate: 2026-10-01
 draft: false
 featured: false
 coverImage: "../../assets/species/pine-bolete-mushroom-editorial-v2.png"
@@ -179,6 +180,22 @@ Stem reticulation is a raised network, not a printed color pattern. On pine bole
 Pore development should be documented on more than one age class. Young tubes begin pale and compact, then lengthen and shift toward yellow and olive as spores mature. Note whether pressure or cutting produces an immediate, delayed, faint, or absent color reaction, specifying the tissue tested. “Does not blue” is never edible clearance: reaction intensity varies and other regional boletes can share pale flesh.
 
 The name *Boletus pinophilus* is most defensible when morphology, conifer association, geography, and a current regional treatment agree. The broad commercial word porcini may combine several members of the *B. edulis* complex and dried slices can lose cap, stem, pore, and host evidence. Keep market authentication separate from field identification, and do not infer a precise species from package imagery or a reddish cap alone.
+
+## Build a cap-to-base reaction grid
+
+“Does not stain blue” is too broad for a useful bolete record. Divide one fresh longitudinal section into cap flesh, flesh above the tubes, tube layer, upper stem, lower stem, and extreme base. Photograph the grid immediately, at one minute, and at ten minutes under the same exposure. Record red, pink, gray, yellow, blue, or unchanged tissue separately for each zone.
+
+Repeat gentle pressure on an uncut pore surface and keep that result distinct from cut-flesh reactions. Dryness, frost, age, and handling can suppress or accelerate colors. A timed grid preserves negative evidence honestly: “no visible blue at ten minutes in this hydrated specimen” is stronger and narrower than a species-wide promise.
+
+## Link pine evidence to a root neighborhood
+
+Map all trees within at least the canopy radius instead of photographing one pine trunk. Record pine species where cones, needle bundles, buds, and bark allow it; note birch, oak, spruce, or other potential partners in the same root zone. Fruit bodies beside a pine can still belong to another ectomycorrhizal association in mixed plantations and parkland.
+
+Plot each bolete relative to trunks and repeat the map after later flushes. A consistent fruiting arc beneath the same pine group strengthens ecological context, while one roadside specimen gives only a candidate association. The method also separates a living-root relationship from fruiting near buried timber or imported mulch.
+
+## Preserve regional Boletus uncertainty
+
+The name “pine bolete” is applied unevenly to members of the *Boletus edulis* complex. Record the regional key used, cap surface when wet and dry, pore color by age, reticulation distribution, reaction grid, host neighborhood, and spore measurements. Stop at complex level when those data do not resolve a local species concept. A precise uncertain record is preferable to transferring a European name to a superficially similar collection elsewhere.
 
 ## References
 

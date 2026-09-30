@@ -105,7 +105,7 @@ When public reporting could expose a sensitive site, retain precise coordinates 
 
 ## Compare saffron milkcaps without collapsing the group
 
-Orange latex and green staining often direct attention toward the *Lactarius deliciosus* complex, but the complex contains regionally structured species and host associations. The [saffron milk cap guide](/mushrooms/saffron-milk-cap-guide/) explains the need to combine latex, pits or markings on the stem, cap zoning, host, and geography.
+Orange latex and green staining often direct attention toward the *Lactarius deliciosus* complex, but the complex contains regionally structured species and host associations. The [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/) explains the need to combine latex, pits or markings on the stem, cap zoning, host, and geography.
 
 Do not label every orange-latex mushroom *L. deliciosus*. Record whether latex begins carrot-orange or paler, how quickly green staining appears, where green develops, and whether the stem has shallow darker depressions. Compare those measurements with a current regional treatment.
 
