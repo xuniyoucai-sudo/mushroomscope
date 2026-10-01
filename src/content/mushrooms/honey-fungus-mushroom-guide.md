@@ -6,7 +6,8 @@ keywords: ["honey fungus", "Armillaria mellea", "honey fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
-updatedDate: 2026-09-16
+updatedDate: 2026-10-02
+revisionSummary: "Added host-zone mapping, rhizomorph sampling boundaries, cluster-stage measurements, and a tree-risk decision record distinct from species identification."
 draft: false
 featured: false
 coverImage: "../../assets/species/honey-fungus-editorial-v3.jpg"
@@ -180,6 +181,30 @@ Cooking cannot correct a mistaken identity, and even correctly identified honey 
 
 It should not be treated as a beginner crop. Its root-pathogen ecology and regional species uncertainty make introducing wild or unauthenticated material an unnecessary plant-health risk.
 
+## Map the host zone before naming the cluster
+
+For a site with several trunks or old stumps, draw a simple plan rather than labeling every nearby cluster “honey fungus.” Mark living trees, removed-tree positions, visible roots, buried stump lines, irrigation zones, and each fruiting point. Measure the distance from a cluster to the nearest root flare and record whether caps arise from exposed wood, soil above a root, or an old stump cavity. That map can reveal a connected woody substrate that a cap-level photograph misses.
+
+Repeat the map after leaf fall and again in the next fruiting season. A new cluster beyond the first root zone is useful evidence, but it does not prove that one genetic individual connects the sites. Species assignment and clone boundaries can require culture, PCR, or other laboratory work. The field record should distinguish “fruiting positions appear connected by roots” from “these mushrooms are the same organism.”
+
+## Measure a cluster through ring and gill development
+
+Select several intact fruit bodies from button, expanding, and mature stages. For each, record cap diameter, stem length and width, cap-scale density, ring position, gill color, stem-base swelling, and attachment. Photograph the partial veil before it tears, the fresh ring immediately afterward, and the older ring after rain or abrasion. This sequence helps prevent a vanished ring on an old cap from being treated as proof against an *Armillaria* identification.
+
+Make a spore deposit from a mature cap and document its color beside a neutral white reference. A pale deposit supports the comparison with honey fungus, while a rusty-brown deposit redirects attention toward dangerous brown-spored wood growers. It still does not separate members of the *Armillaria* complex. Retain location, host, and developmental photographs with the print record.
+
+## Keep rhizomorph evidence attached to its sampling context
+
+Black cord-like rhizomorphs are most informative when their position is recorded. Note whether they lie beneath loose bark, cross a root surface, occupy soil, or connect dead wood to living tissue. Photograph them in place with scale before removing any small sample. White fans beneath bark should likewise be tied to the exact trunk or root sector and to the condition of adjacent wood.
+
+Dark roots, black bootlaces, and white fungal sheets can be confused with unrelated roots, bark fibers, or other fungi. Do not strip bark from a living tree merely to improve a web identification. When management consequences are substantial, an arborist or plant-pathology laboratory can decide what lawful sampling and diagnostic method are appropriate. The [habitat identification guide](/identification/mushroom-habitat-identification/) helps preserve the substrate evidence before a sample is separated from the site.
+
+## Build a tree-risk record separate from the mushroom record
+
+For a tree near a building, path, play area, or utility, record occupancy, lean, crown condition, recent branch loss, cavities, root-plate movement, soil change, and fruiting position. These observations help a qualified arborist prioritize inspection; they are not a do-it-yourself failure calculation. A mushroom name alone does not quantify remaining sound wood or the probability of failure.
+
+Keep two conclusions in the notes: the fungal determination and the tree-management decision. One may remain uncertain while the other still warrants action—for example, an unidentified root-decay fungus beside a high-use path can justify professional assessment even before species confirmation. Conversely, an old cluster on a dead stump does not prove that every nearby healthy tree requires removal.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Armillaria mellea species record](https://www.gbif.org/species/2536891). Taxonomic backbone and occurrence context.
@@ -189,4 +214,4 @@ It should not be treated as a beginner crop. Its root-pathogen ecology and regio
 5. Royal Horticultural Society. [Honey fungus](https://www.rhs.org.uk/disease/honey-fungus). Garden symptoms, rhizomorph biology, regional species, and management context.
 6. Science & Advice for Scottish Agriculture. [Armillaria diagnostics](https://www.sasa.gov.uk/rd/pest-pathogen-diagnostics/armillaria). Regional species separation and PCR diagnostic context.
 
-*Editorial review: September 16, 2026. This article has editorial review only and no named mycologist, clinician, or arborist review. Taxonomy, regional range, tree-risk advice, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: October 2, 2026. This article has editorial review only and no named mycologist, clinician, or arborist review. Taxonomy, regional range, tree-risk advice, and poison-response contacts should be rechecked at every substantive update.*

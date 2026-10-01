@@ -149,6 +149,8 @@ Summarize how many units were inoculated, colonized normally, stalled, or were i
 
 ## References
 
+When grain will be inoculated from broth, the [liquid culture guide](/growing/mushroom-liquid-culture-guide/) defines matched controls, agar sampling, transfer-volume records, and a release gate before production grain is exposed.
+
 1. [Cornell Small Farms — The Three Sectors of the Specialty Mushroom Industry](https://smallfarms.cornell.edu/2020/04/the-three-sectors-of-the-specialty-mushroom/)
 2. [Cornell Small Farms — Producing Specialty Mushrooms: Outdoor vs. Indoor Systems](https://smallfarms.cornell.edu/2019/04/producing-specialty-mushrooms-outdoor-vs-indoor-systems/)
 3. [Penn State Extension — Mushrooms Substrate Management](https://extension.psu.edu/forage-and-food-crops/mushrooms/substrate-management)

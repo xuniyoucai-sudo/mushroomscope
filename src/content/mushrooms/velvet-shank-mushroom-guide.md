@@ -188,6 +188,8 @@ For every wild cluster, make the deadly *Galerina* boundary explicit. Preserve t
 
 ## References
 
+For a pale beech-wood cluster with translucent mucilaginous caps, white gills, and delicate rings, use the [porcelain fungus guide](/mushrooms/porcelain-fungus-guide/) rather than applying the darker-stemmed velvet-shank pattern.
+
 1. Global Biodiversity Information Facility. [*Flammulina velutipes* species record](https://www.gbif.org/species/3341441). Taxonomic name and occurrence context.
 2. Missouri Department of Conservation. [Velvet foot](https://mdc.mo.gov/discover-nature/field-guide/velvet-foot). Field-character and habitat context.
 3. University of Wisconsin. [*Flammulina velutipes*](https://botit.botany.wisc.edu/toms_fungi/march97.html). Wild/cultivated context and cautious *Galerina* comparison.

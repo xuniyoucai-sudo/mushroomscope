@@ -201,6 +201,8 @@ Large anise-scented grassland collections require a different comparison path. T
 
 ## References
 
+Wood-growing clusters require a different evidence set: the [honey fungus guide](/mushrooms/honey-fungus-mushroom-guide/) combines host-zone mapping, rings, white spores, rhizomorph context, and tree-risk boundaries.
+
 1. Global Biodiversity Information Facility. [*Agaricus campestris* species record](https://www.gbif.org/species/5243458). Taxonomic name and occurrence context.
 2. Missouri Department of Conservation. [Meadow mushroom](https://mdc.mo.gov/discover-nature/field-guide/meadow-mushroom). Field characters, spore-print context, and *Amanita* comparison.
 3. Queensland Mycological Society. [*Agaricus campestris* record (PDF)](https://www.qldfungi.org.au/wp-content/uploads/FoQs/A-Agaricus/Agaricus-campestris.pdf). Documented morphology and grassland habitat record.

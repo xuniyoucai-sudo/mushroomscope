@@ -158,6 +158,8 @@ Use a sterile cooled tool to lift a very small internal fragment and place it on
 
 ## References
 
+After a clean isolate is established, the [liquid culture guide](/growing/mushroom-liquid-culture-guide/) explains how to test broth transfers with controls and agar rather than treating visual cloudiness as proof of purity.
+
 1. [Cornell seven stages of cultivation](https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/2-seven-stages-of-cultivation/)
 2. [CDC steam sterilization](https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/steam-sterilization.html)
 3. [ATCC mycology resources](https://www.atcc.org/microbe-products/mycology)

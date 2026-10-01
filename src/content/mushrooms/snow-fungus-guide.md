@@ -266,6 +266,8 @@ No such conclusion follows from this guide. Food, cosmetic ingredients, purified
 
 ## References
 
+Use the [cloud ear guide](/mushrooms/cloud-ear-mushroom-guide/) when the product forms ear-shaped lobes rather than branching fronds; its lot-level and hydration-ratio record prevents texture alone from deciding identity.
+
 1. Global Biodiversity Information Facility. [*Tremella fuciformis* species record](https://www.gbif.org/species/5237434). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser: *Tremella fuciformis*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Tremella+fuciformis). Independent lineage and nomenclature checkpoint.
 3. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference used with dry-versus-rehydrated and serving-basis limits.

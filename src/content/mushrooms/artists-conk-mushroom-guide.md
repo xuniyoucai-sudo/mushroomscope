@@ -167,6 +167,10 @@ The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates ho
 
 ## References
 
+For a large annual broadleaf polypore with a pale angular pore surface and a boldly scaled fan-shaped cap, compare the [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) rather than extending artist's-conk characters to every bracket.
+
+If a site instead has ringed gilled clusters, black rhizomorph-like cords, or white fans beneath bark, the [honey fungus guide](/mushrooms/honey-fungus-mushroom-guide/) keeps fungal identification separate from the tree-risk decision.
+
 Not every conspicuous wood fungus forms tubes. The [witch's butter guide](/mushrooms/witchs-butter-fungus-guide/) contrasts gelatinous lobes, host-fungus mapping, and dry-wet recovery with the layered woody context of a perennial *Ganoderma* conk.
 
 1. Global Biodiversity Information Facility. [Ganoderma applanatum species record](https://www.gbif.org/species/2549834). Taxonomic backbone and occurrence context.

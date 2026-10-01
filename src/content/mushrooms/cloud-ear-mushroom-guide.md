@@ -6,6 +6,8 @@ keywords: ["cloud ear fungus", "Auricularia cornea", "cloud ear mushroom", "clou
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-14
+updatedDate: 2026-10-02
+revisionSummary: "Added hydration-state morphometrics, host-and-climate record separation, dried-product mass balance, and traceability-based culinary controls."
 coverImage: "../../assets/species/cloud-ear-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale tan cloud ear fruit bodies attached laterally to a damp tropical hardwood branch"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -230,10 +232,34 @@ Hair length and density can matter in species work, yet they are difficult to ju
 
 Commercial traceability begins before rehydration. Retain the package, lot, country of origin, scientific name if supplied, ingredient list, best-by date, and seller. Photograph a representative dry piece, weigh the portion, note soak time and water temperature, and photograph the expanded material. These records describe product behavior and handling; they do not independently authenticate the species or support medical claims.
 
+## Quantify the hydration cycle instead of describing it as expansion
+
+For a verified retail product, weigh a representative dry portion on a gram scale, photograph it beside a ruler, and record water temperature, water mass, vessel size, and soak duration. Drain in a consistent way, then weigh the hydrated material and calculate the hydration ratio as wet mass divided by dry mass. This number describes that lot and method; it is not a universal species constant.
+
+Measure lobe thickness and maximum width before and after hydration. Note the time at which folded centers become accessible for cleaning and whether any pieces remain hard, slimy, fragmented, or unusually odorous. A mass increase accompanied by persistent rigid cores may indicate inconsistent drying or old material, while surface slime or sour odor is a reason to discard rather than extend the soak. Do not taste soak water or use it as a medicinal preparation.
+
+## Separate host evidence from climate evidence
+
+In the field, record host identity and wood condition independently from weather. Photograph bark, leaves or twigs, branch diameter, decay class, and the exact attachment. Then record recent rainfall, ambient temperature if known, shade, and whether lobes are fully hydrated, partly contracted, or dry. Cloud ear can change shape dramatically with water, so a regional occurrence claim should not be inferred from texture alone.
+
+Revisit a marked log after rain and during a dry interval when access is lawful. Measure the same lobe field without detaching it. The comparison can show reversible contraction while preserving evidence that the fungus remained on one substrate. It cannot establish a species name without the outer hairs, fertile surface, microscopy where needed, and a regionally plausible taxon.
+
+## Use a lot-level record for dried cloud ear
+
+Commercial “cloud ear,” “wood ear,” and “black fungus” labels can overlap across *Auricularia* species. A useful kitchen record therefore begins with the package rather than a field name. Save the producer, country of origin, ingredient wording, lot code, best-by date, retailer, seal condition, and any recall notice. Photograph the dry product before discarding the label.
+
+After soaking, inspect every fold under good light and rinse according to the manufacturer's instructions. Discard pieces with unexplained colored growth, persistent off-odor, damaged packaging, or contamination. Keep hydrated mushrooms refrigerated and follow product-specific time limits; a home soak does not sterilize the material. For recipe planning, portion by drained hydrated mass so that water uptake does not silently change the mushroom-to-sauce ratio.
+
+## Texture depends on cut geometry and water management
+
+Cloud ear contributes elastic crunch more than a soluble flavor base. Thick folded centers and thin margins soften at different rates. After verified rehydration and cleaning, slice large lobes into similarly thick pieces so heat reaches them consistently. In a stir-fry, remove excess surface water before the food enters hot oil; in soup, add timing should reflect the desired resilience rather than an assumption that longer cooking always improves texture.
+
+These mechanisms distinguish cloud ear from [snow fungus](/mushrooms/snow-fungus-guide/), whose branching fronds and production biology create a different hydration and mouthfeel problem. They also distinguish culinary performance from nutrition or health claims: a useful texture does not demonstrate a clinical effect.
+
 ## References
 
 For white, frilled, highly expanding retail material, use the [snow fungus guide](/mushrooms/snow-fungus-guide/) to compare package identity, partner-fungus production, dried-product defects, and rehydration ratios rather than applying an ear-fungus name by texture alone.
 
 GBIF and NCBI support taxonomy and occurrence context. FDA supports verified-product handling. NAMA supports conservative response to unknown mushroom exposures. The guide separates scientific species identity from overlapping commerce terms and avoids unsupported health claims.
 
-*Draft editorial review: August 30, 2026. Recheck current Auricularia taxonomy, market labeling, and food-safety links before publication.*
+*Editorial review: October 2, 2026. This article has editorial review only and no named taxonomic, nutrition, or food-safety expert review. Recheck current Auricularia taxonomy, market labeling, recalls, and food-safety links at substantive updates.*

@@ -1,45 +1,44 @@
 ---
-title: "Cerioporus squamosus: Dryad’s Saddle Species Guide"
-seoTitle: "Dryad’s Saddle (Cerioporus squamosus) Guide"
-description: "Identify Dryad’s saddle by its scaly cap, broad pores, hardwood host, season, and safety limits; learn why a photo is not enough to clear a wild mushroom."
-keywords: ["dryad's saddle identification", "Cerioporus squamosus", "pheasant back mushroom", "dryad's saddle pores"]
+title: "Dryad's Saddle (Cerioporus squamosus): Identification Guide"
+seoTitle: "Dryad's Saddle Mushroom Identification and Ecology Guide"
+description: "Document Dryad's saddle by its scaled fan-shaped cap, angular pores, broadleaf host, attachment, season, lookalikes, and tree-decay context."
+keywords: ["dryad's saddle", "Cerioporus squamosus", "pheasant back mushroom", "dryad's saddle identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-17
-updatedDate: 2026-08-24
-revisionSummary: "Rewritten with species-specific field characters, tree-health context, safety guidance, and verified sources."
+publishDate: 2026-10-02
+updatedDate: 2026-10-02
 draft: false
 featured: false
-coverImage: "../../assets/species/dryads-saddle-mushroom.jpg"
-coverAlt: "Original editorial illustration showing a scaly tan Dryad's saddle bracket attached laterally to a hardwood trunk, with its pale pore surface visible"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Illustration for orientation only; color, scale, pore size, and host association must be checked on a complete fresh specimen."
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-habitat-identification", "recipes/sauteed-mushrooms-recipe"]
+coverImage: "../../assets/species/dryads-saddle-editorial-v2.png"
+coverAlt: "Original AI-assisted editorial image of scaled Dryad's saddle brackets on a broadleaf trunk with a cream pore surface visible"
+imageCredit: "Original MushroomScope AI-assisted editorial image"
+imageSource: "OpenAI image generation, directed and reviewed by MushroomScope"
+imageLicense: "Original editorial asset; all rights reserved"
+imageNote: "Illustrative context only; this is not a field specimen or identification evidence."
+relatedEntries: ["identification/mushroom-pore-surface-guide", "identification/mushroom-habitat-identification", "mushrooms/artists-conk-mushroom-guide", "identification/mushroom-identification-safety-checklist"]
 sources:
   - title: "GBIF — Cerioporus squamosus"
-    url: "https://www.gbif.org/species/2547092"
-  - title: "University of Massachusetts Amherst — Trunk Rot caused by Cerioporus squamosus"
-    url: "https://www.umass.edu/agriculture-food-environment/pt/landscape/fact-sheets/trunk-rot-caused-by-cerioporus-squamosus-dryads-saddle"
-  - title: "National Park Service — Springing Up: Dryad’s Saddle"
-    url: "https://www.nps.gov/articles/000/dryads-saddle.htm"
-  - title: "Poison Control — Wild Mushroom Warning"
-    url: "https://www.poison.org/articles/wild-mushroom-warning"
+    url: "https://www.gbif.org/species/113360077"
+  - title: "Royal Botanic Gardens, Kew — Species Fungorum Plus"
+    url: "https://www.gbif.org/dataset/bf3db7c9-5e5d-4fd0-bd5b-94539eaf9598/taxon/163056"
+  - title: "First Nature — Polyporus squamosus"
+    url: "https://www.first-nature.com/fungi/polyporus-squamosus.php"
+  - title: "North American Mycological Association — Mushroom Poisoning Syndromes"
+    url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
 faq:
-  - question: "What are the most useful field marks for Dryad’s saddle?"
-    answer: "Look for a large tan to cream, fan-shaped bracket with dark scales above, a pale underside with broad pores, and a short off-center attachment to living or dead hardwood. No single mark confirms the species."
-  - question: "Does Dryad’s saddle grow only on dead wood?"
-    answer: "No. It can fruit from dead wood and from living deciduous trees affected by wood decay. Record whether the host is alive, damaged, or dead and do not infer a tree-safety diagnosis from one mushroom."
-  - question: "Can I identify Dryad’s saddle from a photograph?"
-    answer: "No. A useful record needs the complete fruiting body, pore surface, attachment, substrate or host, age, region, and comparison with local expertise. A photo cannot establish edibility."
-  - question: "Is Dryad’s saddle edible?"
-    answer: "Some field guides describe very young material as edible, but this page does not clear a wild collection for food. Correct identification, freshness, contamination, local rules, and individual tolerance all matter."
-  - question: "What should I do after eating an unidentified wild mushroom?"
-    answer: "Contact a poison center or emergency service promptly, especially if symptoms occur. Keep leftovers, trimmings, photographs, and timing information; do not wait for a web page to identify the mushroom."
+  - question: "What does Dryad's saddle look like?"
+    answer: "It forms large fan- or saddle-shaped annual brackets with cream to buff caps patterned by darker flattened scales and a cream pore surface whose pores become conspicuously angular with age."
+  - question: "Where does Dryad's saddle grow?"
+    answer: "It fruits from living, declining, or dead broadleaf wood, often on trunks, stumps, wounds, or buried roots. Host and attachment should be recorded because the fungus is a wood decayer."
+  - question: "Is Dryad's saddle the same as pheasant back mushroom?"
+    answer: "Pheasant back is another common name for Cerioporus squamosus, referring to the cap's dark scale pattern. A common name still does not confirm a specimen."
+  - question: "Can Dryad's saddle be identified from cap scales alone?"
+    answer: "No. The pore surface, attachment, host, cap thickness, odor, season, region, and developmental stage all matter, and atypical material may need microscopy or expert review."
+  - question: "Does finding it mean a tree is dangerous?"
+    answer: "A fruit body confirms fungal activity but does not by itself measure remaining wood strength or immediate failure risk. A qualified arborist should assess a tree near people or property."
 scientificName: "Cerioporus squamosus"
-taxonomicAuthority: "(Huds.) Quél."
-synonyms: ["Polyporus squamosus"]
-commonNames: ["Dryad’s saddle", "pheasant back mushroom"]
-externalIds: { gbif: "2547092", ncbi: "2829415" }
+commonNames: ["Dryad's saddle", "pheasant back", "scaly polypore"]
+externalIds: { gbif: "113360077" }
 taxonomy:
   kingdom: Fungi
   phylum: Basidiomycota
@@ -48,114 +47,121 @@ taxonomy:
   family: Polyporaceae
   genus: Cerioporus
 identification:
-  summary: "A large, fleshy bracket on deciduous hardwood, usually with a cream to tan cap patterned by dark scales, a short lateral attachment, and a pale pore surface with large angular pores."
-  keyFeatures: ["Fan-shaped to kidney-shaped bracket with dark brown scales on a cream to tan cap.", "Pale underside with broad angular pores that can extend partway down the short stalk.", "Usually lateral or off-center attachment to living or dead deciduous hardwood.", "Young material can be thick and tender; older brackets become broad, tough, and weathered."]
+  summary: "A large annual polypore with fan-shaped cream-to-buff caps marked by dark radial scales, an off-center darkening stem or broad attachment, and cream angular pores."
+  keyFeatures: ["Broad fan-shaped cap with dark flattened radial scales", "Cream pore surface with large angular to elongated pores", "Lateral or eccentric attachment to broadleaf wood", "White spore deposit"]
 appearance:
-  cap: "Usually cream to tan, circular to fan-shaped or saddle-like, with concentric dark scales that often become more apparent as it expands."
-  hymenium: "Whitish to pale yellowish pore surface; pores are notably broad and angular for a polypore and may run down toward the attachment."
-  stem: "Short, stout, lateral to off-center, commonly darker toward the base; some fruit bodies appear broadly attached rather than distinctly stalked."
-  flesh: "White, thick, and comparatively soft when young, becoming fibrous, leathery, and difficult to cut with age."
-  sporePrint: "White; a print is supporting evidence only and cannot settle the identification."
+  cap: "Fan-shaped to semicircular, pale buff or ochre with darker brown flattened scales arranged in radial rows; the margin is thick and pale when young."
+  hymenium: "Cream to pale yellow pore surface; pores are angular, elongated radially, and more obvious toward maturity."
+  stem: "Short, lateral, eccentric, or nearly absent; when present it is stout and may darken toward the base."
+  flesh: "White, thick, moist and comparatively tender at a very young margin, becoming corky and tough as the bracket expands."
+  sporePrint: "White."
 habitat:
-  summary: "A wood-decay fungus of deciduous hardwoods, often encountered on trunks, stumps, logs, or large wounds. It may occur on living trees as well as dead wood."
-  regions: ["temperate Europe", "temperate Asia", "North America"]
-  substrates: ["living deciduous hardwood trunks", "dead hardwood logs", "stumps", "wounded wood"]
+  summary: "An annual white-rot fungus on broadleaf trunks, wounds, stumps, logs, and buried roots, especially on mature or stressed trees."
+  regions: ["Europe", "temperate Asia", "North America"]
+  substrates: ["living broadleaf trunks", "broadleaf stumps", "fallen hardwood", "buried broadleaf roots"]
 season:
-  summary: "Often fruits in spring, with additional summer or autumn fruiting possible where weather and host condition allow; timing is strongly regional."
-  months: ["April", "May", "June", "July", "August", "September", "October"]
+  summary: "Most conspicuous in spring and early summer in temperate regions, with timing shifting by latitude, elevation, rainfall, and host condition."
+  months: ["April", "May", "June", "July"]
 edibility:
   status: conditional
-  notes: "Young material has a culinary reputation in some regions, but this is not permission to eat a wild specimen. Identification, age, site contamination, freshness, preparation, and individual reaction must be assessed locally."
+  notes: "Some regional sources describe only very young, correctly identified margins as food; age changes texture rapidly, and this page does not clear a wild specimen for eating."
 toxicity:
-  level: unknown
-  notes: "No web page can rule out a lookalike, contamination, spoilage, or intolerance. Cooking does not make a poisonous mushroom safe."
+  level: low
+  notes: "Primary risks are misidentification, degraded material, contamination, and individual reaction rather than a known intrinsic poison syndrome."
 nutrition:
-  summary: "No species-specific nutrient claim is made here. Texture and water content vary sharply with age, and a food-composition result for another mushroom should not be transferred to this species."
+  summary: "No representative nutrient value is asserted because wild material varies by host, age, water content, and preparation."
 growingDifficulty:
-  level: difficult
-  notes: "The species is a wood-decay fungus, but home cultivation is not a dependable beginner project. Use authenticated commercial material and species-specific instructions rather than cloning wild tissue."
+  level: expert
+  notes: "This tree-associated wood decayer is not presented as a home food crop; inoculating living trees can create unwanted decay."
 similarSpecies:
-  - name: "Cerioporus varius"
-    differences: "Usually smaller and less strongly scaled; a complete specimen and local keys are needed for a reliable separation."
+  - name: "Cerioporus varius and related stalked polypores"
+    differences: "Usually smaller and more slender, with a less boldly scaled cap; regional microscopy may be needed."
   - name: "Polyporus tuberaster"
-    differences: "Can have a scaly cap but differs in ecology and microscopic characters; it may be associated with a buried sclerotium."
-  - name: "Other hardwood polypores"
-    differences: "Shelf shape alone is not diagnostic. Compare pore size, cap scales, attachment, host, and the age of the fruiting body."
+    differences: "Can look similarly scaled but is generally smaller and may arise from a sclerotium; taxonomy and range require local checking."
+  - name: "Meripilus giganteus"
+    differences: "Forms large rosettes of many overlapping fronds at tree bases and bruises dark, rather than showing the characteristic pheasant-back scale field."
 ---
 
-## What the name means—and what it does not prove
+## A field identification built from cap, pores, and wood
 
-Dryad’s saddle, also called pheasant back, is the common name used for *Cerioporus squamosus*, a large polypore fungus. The name is a visual cue: its tan patterned bracket can resemble a saddle or the back of a pheasant. It is not an identification result. “Pheasant back” is used broadly in field conversation, older sources may use *Polyporus squamosus*, and the practical comparison set changes by region.
+Dryad's saddle is one of the largest annual polypores encountered on temperate broadleaf trees. A mature bracket may be conspicuous from across a path, but size is only a starting clue. The defensible pattern combines a pale fan-shaped cap, flattened brown scales arranged roughly in radial rows, a cream pore surface with visibly angular openings, and a lateral or eccentric attachment to wood. The common name “pheasant back” describes the scale pattern, while “Dryad's saddle” describes the broad outline. Neither name should substitute for checking the underside and the host.
 
-This guide helps make a better field record. It cannot confirm that a mushroom is safe to eat. A food decision requires a complete fresh specimen and in-person assessment by a qualified local identifier. If the goal is learning rather than collecting, photographs and notes are often the better outcome.
+Begin with an undisturbed habitat photograph that shows the bracket's height and position on the tree. Then record the cap from above, the pore surface from below, the attachment, a side profile, and a clean section through a damaged or detached example when collection is permitted. Measure several brackets rather than choosing the largest. A cluster can include soft expanding margins, fully fertile caps, and old insect-damaged tissue at the same time.
 
-## Start with the whole fruiting body
+The generated cover image is editorial context, not a specimen record. It illustrates the intended relationship among cap scales, pores, and wood, but real determinations require observations made from the actual collection.
 
-A typical young Dryad’s saddle is thick, pale tan to cream, and fan-shaped or broadly kidney-shaped. The upper surface carries dark brown scales in a pattern that can become clearer as the cap expands. The underside is pale and porous rather than gilled. Its pores are relatively large and angular, and they may continue a short distance down the attachment. The attachment is short and lateral or off-center; a very young or crowded fruit body can look broadly attached instead.
+## Read the cap pattern without making it the verdict
 
-Age changes almost every visible feature. A young bracket may have a thick pliable edge, while an older one is broad, hard, insect-damaged, dry, and difficult to cut. Rain can fade the cap, abrade scales, or dirty the pore surface. Do not use toughness as a character by itself. Photograph an intact group from above and the side, then include the underside, attachment, and a clean cross-section from a legally collected specimen.
+Young caps often begin as pale rounded shelves or knobs near a wound. As they expand, the outline becomes semicircular, fan-shaped, or kidney-shaped. Darker fibers break into flattened scales on a cream, tan, or ochre background. Scale density can differ between the center and margin, and heavy rain, abrasion, algae, or age can soften the contrast. Record the cap under neutral light and avoid increasing saturation until a normal tan surface looks orange.
 
-Before choosing a name, record the following:
+Measure cap width, projection from the trunk, and thickness near both the attachment and margin. Those dimensions preserve the bracket's architecture better than one overhead photograph. Note whether several caps share a fused base, overlap in tiers, or arise separately along a wound line. Old brackets can sag, crack, bleach, or collect debris, so the clean “pheasant feather” pattern shown in popular photographs is not universal.
 
-1. Is the substrate a living trunk, stump, fallen log, or buried wood?
-2. Is it deciduous hardwood, and can the host tree be identified or carefully described?
-3. Are dark cap scales, pale broad pores, and an off-center attachment all visible?
-4. Is the fruiting body young and fresh, or old, dry, insect-eaten, and leathery?
-5. What locality at a privacy-appropriate level, season, and recent weather apply?
+## Use the pore surface as a high-value character
 
-The [mushroom habitat identification guide](/identification/mushroom-habitat-identification/) explains why “on wood” is too vague for a dependable record. A photograph that omits the underside or host is not enough to make a food decision.
+Dryad's saddle has pores rather than gills. On a young cap the pore layer may look nearly smooth from a distance, but close inspection reveals openings that become angular or radially elongated. Photograph a measured area with a ruler in the same plane. Record pore color, approximate density, bruising, and whether the tubes form a distinct layer in section. The [mushroom pore-surface guide](/identification/mushroom-pore-surface-guide/) explains how pore shape, tube depth, and attachment can be documented consistently.
 
-## Hardwood association and tree-health context
+Do not mistake torn tubes for teeth or folds. Slice through an already damaged margin if lawful and necessary: tubes run vertically through the fertile layer and open at the lower surface. A white spore deposit can support a polypore record, but white spores occur across many unrelated wood fungi. Spore color cannot rescue a record that lacks the host, pore geometry, or attachment.
 
-*C. squamosus* is a wood-decay fungus associated with deciduous hardwoods. University of Massachusetts Amherst describes it as a cause of white trunk rot and lists maple, poplar/aspen, willow, and elm among common hosts in its regional context. The National Park Service likewise describes a scaly brown upper surface and white pore-bearing underside. These sources support the ecology and broad morphology here; they do not turn one mushroom observation into a tree-risk diagnosis.
+## Host position is part of the species evidence
 
-Fruiting bodies on a living tree are worth documenting because they can indicate internal decay, especially around a wound. They do not automatically mean that a tree must be removed. A tree near a target, path, building, or play area should be assessed by an appropriately qualified local arborist or tree-risk professional, not by a mushroom picker. Do not create fresh wounds or pruning cuts merely to inspect the fungus.
+This fungus decomposes broadleaf wood and can fruit on living trunks, declining trees, dead standing wood, stumps, fallen logs, or buried roots. Ash, elm, maple, willow, poplar, horse chestnut, and other hosts are reported across its broad range, but host frequency is regional. Photograph bark, leaves, buds, twigs, and the entire tree when safe. Mark whether the bracket emerges from a pruning scar, cavity, root flare, trunk wound, stump surface, or apparently buried wood.
 
-In many temperate areas, the large brackets are noticed in spring. UMass notes spring and autumn occurrence in its regional fact sheet, while the Missouri Department of Conservation lists a May–October window for its area. Both can be accurate locally. Rainfall, temperature, elevation, host condition, and climate make a universal calendar misleading.
+A mushroom that seems soil-borne may connect to a buried root. Gently tracing the attachment without damaging the site can resolve that ambiguity. The [habitat identification guide](/identification/mushroom-habitat-identification/) provides a practical way to separate true soil growth from concealed woody substrate. Record living versus dead tissue as an observation, not an assumption based on the tree's foliage alone.
 
-## Similar brackets require a full comparison
+## Separate fungal identification from tree-risk assessment
 
-Large patterned shelves invite fast conclusions. The safer question is whether every major feature agrees. Dryad’s saddle should have a pale broad-pored underside, dark cap scales, a lateral attachment, and a hardwood context. A lookalike that shares only a shelf shape is not a match.
+A fruit body proves that the fungus has developed enough to reproduce at that location. It does not reveal the entire decay column, the amount of sound wood remaining, root anchorage, wind loading, or the probability and consequence of failure. Those are arboricultural questions. If brackets appear on a tree beside a road, home, playground, or frequently occupied area, document the position and seek a qualified tree-risk assessment rather than striking the bracket or treating its removal as a remedy.
 
-*Cerioporus varius* is commonly smaller and less heavily scaled. *Polyporus tuberaster* can also appear scaly, but ecology and microscopic features matter. Other hardwood polypores may be thin, finely pored, velvety, zoned, or attached differently. Exposure can erase surface characters, so document several fruiting bodies of different ages when legal and available.
+Repeat photographs can be valuable. Record bracket position, emergence date, maximum size, collapse date, storm history, crown condition, cavities, and previous pruning. Fruiting at the same wound over multiple seasons may clarify where fungal activity persists, but absence of a fruit body in another year does not prove that decay has stopped.
 
-For any possible food use, record negative evidence: what was ruled out and why. The [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/) is a useful final pass, but it does not replace regional expertise.
+## Distinguish lookalikes by growth architecture
 
-## Edibility, handling, and poisoning response
+Comparison should begin with the whole fruiting structure. *Meripilus giganteus* commonly forms a basal rosette of many overlapping fronds and develops dark bruising. Smaller stalked polypores can have pale pores and brown caps but lack the large fan, bold radial scale field, and stout eccentric attachment. *Polyporus tuberaster* and names applied to related taxa can create taxonomic ambiguity, especially outside well-documented regional ranges.
 
-Some regional field guides describe very young Dryad’s saddle as edible. That limited culinary context must not be generalized to every shelf on every log. Old brackets are often tough, and even an accurately named mushroom can be unsuitable because of decay, insects, pollution, poor storage, or individual intolerance. Material from roadsides, treated timber, contaminated ground, or an uncertain host should not be put into a food basket.
+Build a comparison table from observed traits: host, exact attachment, cap width and thickness, scale geometry, pore shape, bruising, flesh consistency, odor, and season. A cucumber- or melon-like odor is sometimes reported for fresh Dryad's saddle, but odor varies with age and observer and is not diagnostic. Where morphology overlaps, a regional key, microscopy, or a retained voucher is more reliable than forcing a species name from a photograph.
 
-Never eat a wild mushroom simply because an image or article calls the species edible. Poison Control advises that wild mushrooms should not be eaten unless identified by an expert, and notes that cooking does not make poisonous species safe. If an unidentified mushroom has been eaten, contact a poison center or emergency service promptly. Preserve leftovers, raw material, trimmings, photographs, and the time and amount consumed. Do not wait for online identification or induce vomiting unless a medical professional directs it.
+## Development changes texture faster than the name changes
 
-Readers who already have correctly identified, fresh, legally collected young material and appropriate local guidance can use a recipe only as a cooking technique, not as evidence of identity. The [sautéed mushrooms recipe](/recipes/sauteed-mushrooms-recipe/) is for controlled kitchen preparation; it does not endorse an unverified wild collection.
+The margin expands first and may be moist and yielding while the inner cap has already become fibrous. Within a short period, insects, drying, and corky tissue can transform the same bracket. Record flexibility by observation rather than tasting, and note whether pressure leaves a mark. A time series over several days can show margin expansion, pore opening, spore production, and collapse.
 
-## Cultivation and observation ethics
+Food references often focus on young material, but “young” is not a measurable identification. A small bracket can already be tough or contaminated, and a tender margin does not prove species identity. Wild food decisions should remain separate from ecological documentation. This page does not provide clearance to eat a collection, and cooking does not neutralize a mistaken identification.
 
-Because this fungus digests hardwood, it can seem like an obvious home-growing candidate. In practice, species confirmation, clean culture, substrate selection, incubation conditions, and fruiting reliability make it a poor first project. Do not clone a found mushroom for food or move wood and fungi between sites. If cultivation is of interest, use authenticated commercial culture and a method specific to the species, or begin with a better-documented saprotroph such as oyster mushroom.
+## A repeatable documentation protocol
 
-Do not confuse a mass of branching folds with a layered bracket: the [cauliflower fungus guide](/mushrooms/cauliflower-fungus-mushroom-guide/) contrasts the rooted *Sparassis* rosette at conifer bases with individually capped, pore-bearing wood-decay fungi.
+1. Photograph the tree and fruiting height before approaching.
+2. Record living/dead status, host evidence, wound type, and attachment.
+3. Measure cap width, projection, thickness, and the pale growing margin.
+4. Photograph scale pattern and the complete pore surface in neutral light.
+5. Count or measure pores across a known distance and note bruising.
+6. Section only lawfully collected or already damaged material to show tube depth and flesh.
+7. Record odor without tasting and make a spore deposit only when useful.
+8. Compare with a current regional key and retain photographs with dates.
 
-When observing a living tree, leave the bracket and surrounding wood intact unless lawful collection has a clear purpose. The fungus is part of a decomposer community, and repeated photographs across weather and age can teach more than removing every young cap. Respect landowner rules, protected-area restrictions, and local collection limits.
+The protocol makes uncertain records useful. “Large scaled polypore on a declining maple wound” is more honest and more reusable than a species name attached to a cap-only image.
 
-## A disciplined record is more useful than a fast answer
+## Taxonomy, range, and reporting boundaries
 
-Dryad’s saddle is an excellent case study in separating an observation from a conclusion. Begin the field note before turning the mushroom over. State what is directly observed: “one broad, tan, scaly bracket on a living hardwood trunk; pale large pores below; short lateral attachment.” Then add the context: approximate tree size, whether the trunk has a wound, whether the fungus is near ground level or high on the trunk, the date, recent rain, and the age range of the brackets. A note that preserves observations can be reassessed later; a note that begins “edible pheasant back” makes the conclusion harder to challenge.
+Current taxonomic backbones commonly accept *Cerioporus squamosus*, while much field literature and older databases use *Polyporus squamosus*. Record the name used by the consulted source and preserve the author or identifier's original wording. Taxonomic changes do not erase the value of host, pore, and voucher data.
 
-Include a scale without damaging the specimen. A ruler beside a detached, legally collected fruit body can be useful; on a living tree, a hand held nearby or a known-sized object at a safe distance may be enough. Take a side view to show thickness and shelf posture, and take an underside image in diffuse light so the pores are not lost in shadow. If an old bracket has weathered away its scales, photograph a younger one from the same clearly connected fruiting area rather than assuming every nearby shelf belongs to the same species.
+Occurrence maps reflect submitted and identified records, not every place the fungus can grow. A dot may represent an older name, a cultivated observation, or a record lacking modern verification. Use maps to frame a regional question, then consult local checklists and herbaria. Do not infer absence from a blank map cell or extend a European host statement globally without evidence.
 
-The tree itself deserves respect. The appearance of a decay fungus is information about the tree, but it is not a prescription. Do not climb, strike, drill, or remove bark to “test” the trunk. Dead wood can also host insects, birds, lichens, and other fungi. On private land, ask permission; on public land, check rules before removing anything. A photograph, a careful substrate note, and a later local identification meeting provide evidence while causing little disturbance.
+## Safety and responsible use
 
-If the purpose is food, pause before harvest and use a higher standard than a casual identification post. Verify the species with a qualified local expert, confirm that the fruiting body is young and fresh, assess whether the site could be contaminated, and keep uncertain material separate. Never combine unidentified mushrooms in a meal. If confidence is incomplete at any point, leave the specimen or use it only as an observation. That decision protects both the person collecting and the useful information that future observers can learn from the fungus in place.
+Never use this page, an app, or a generated image to clear a mushroom for eating. Avoid collecting from treated trees, road verges, contaminated ground, or protected sites. Do not inoculate a valued living tree with a wood-decay fungus. For symptoms after any wild mushroom exposure, contact emergency services or a poison center promptly and retain uncooked material, trimmings, photographs, and timing details.
 
-## Record age separately from identification
+The key distinction is practical: identify the fungus from multiple independent characters; evaluate tree risk with arboricultural methods; and make any food decision only after local expert confirmation of fresh, lawful material.
 
-Measure cap thickness and photograph the pore surface, margin, attachment, and a cut section from young and mature shelves. The patterned cap and large angular pores support identification, while tenderness declines with age. A correct species name does not make an old, contaminated, or insect-damaged bracket suitable for food.
+## Preserve observations after the bracket disappears
+
+Annual brackets collapse, are removed, or become unrecognizable, while the underlying wood record remains important. Store original photographs rather than screenshots, retain capture dates, and include one image that fixes scale and position on the trunk. A filename can encode site, host number, height, and observation date without publishing a sensitive location. If a qualified identifier comments on the record, preserve the exact evidence they reviewed and whether their conclusion was genus-level, species-level, or provisional.
+
+When revisiting, photograph from the same compass direction and repeat the height and cap measurements. Record whether the previous bracket scar persists, whether new brackets emerge along the same wound, and whether the host crown or root plate has changed. This longitudinal record adds ecological and management value without pretending that fruit-body recurrence alone measures decay severity.
 
 ## References
 
-1. Global Biodiversity Information Facility. [*Cerioporus squamosus*](https://www.gbif.org/species/2547092). Taxonomic backbone and occurrence context.
-2. University of Massachusetts Amherst. [Trunk Rot caused by *Cerioporus squamosus* (Dryad’s Saddle)](https://www.umass.edu/agriculture-food-environment/pt/landscape/fact-sheets/trunk-rot-caused-by-cerioporus-squamosus-dryads-saddle). Host range, white-rot context, fruiting-body characters, and tree-management limits.
-3. U.S. National Park Service. [Springing Up — Dryad’s Saddle](https://www.nps.gov/articles/000/dryads-saddle.htm). Scaly cap, pore surface, and spring-fruiting context.
-4. Poison Control. [Mushroom poisoning: don’t invite the death angel to dinner](https://www.poison.org/articles/wild-mushroom-warning). Expert-identification and exposure-response guidance.
+1. Global Biodiversity Information Facility. [*Cerioporus squamosus* species record](https://www.gbif.org/species/113360077). Taxonomic and occurrence context.
+2. Royal Botanic Gardens, Kew. [Species Fungorum Plus record](https://www.gbif.org/dataset/bf3db7c9-5e5d-4fd0-bd5b-94539eaf9598/taxon/163056). Nomenclatural backbone and synonyms.
+3. First Nature. [*Polyporus squamosus*, Dryad's Saddle](https://www.first-nature.com/fungi/polyporus-squamosus.php). Field characters, range, season, and historical-name context.
+4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poison-response context.
 
-*Last editorial review: August 17, 2026. Confirm local taxonomy, seasonal records, land-access rules, and poison-response contacts before acting on a field observation.*
+*Editorial review: October 2, 2026. No named clinical or taxonomic expert reviewed this article; taxonomy, range, and emergency contacts should be rechecked at substantive updates.*

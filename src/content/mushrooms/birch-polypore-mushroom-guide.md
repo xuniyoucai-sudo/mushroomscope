@@ -167,6 +167,8 @@ Tree-risk decisions need more than a species name. A fruit body can indicate est
 
 ## References
 
+The [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) provides a useful contrast for a much broader, radially scaled annual polypore on multiple broadleaf hosts, while birch polypore remains tightly tied to birch.
+
 1. Global Biodiversity Information Facility. [Fomitopsis betulina species record](https://www.gbif.org/species/9819973). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.

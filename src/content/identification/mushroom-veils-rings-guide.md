@@ -152,4 +152,6 @@ If ingestion may have occurred, promptly contact the relevant poison service or 
 
 ## References
 
+The [porcelain fungus guide](/mushrooms/porcelain-fungus-guide/) shows why a delicate ring must be recorded across several ages and interpreted with cap mucilage, gills, beech wood, and growth orientation.
+
 British Mycological Society guidance supports complete records and expert verification. USDA Forest Service fungal resources provide ecological context, while GBIF helps check names and regional occurrence records. NAMA poisoning resources support conservative emergency action. Species-level veil terminology should be checked against current regional monographs because both visible remnants and accepted names vary by lineage and geography.
