@@ -6,8 +6,8 @@ keywords: ["indigo milk cap identification", "Lactarius indigo", "blue milk mush
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-17
-updatedDate: 2026-08-17
-revisionSummary: "Rewritten with specific latex, habitat, taxonomy, safety, and herbarium evidence."
+updatedDate: 2026-10-03
+revisionSummary: "Added a timed latex-and-staining series, host-neighborhood map, regional name limits, and voucher-ready measurement protocol."
 draft: false
 featured: false
 coverImage: "../../assets/species/indigo-milk-cap-mushroom.jpg"
@@ -145,6 +145,26 @@ Complete the record with a top view, underside, intact stem base, cross-section,
 Finally, keep identification and use as separate decisions. A specimen can be a valuable identification exercise even when the evidence is incomplete or collection is not permitted. It can be a likely *Lactarius* without being safely named to species, and it can be accurately named without being suitable to eat. That restraint is not a gap in the guide; it is the responsible endpoint of a web-based field reference.
 
 For an orange-latex comparison where color changes must be timed rather than guessed, see the [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/).
+
+## Build a timed latex and staining series
+
+One photograph of a blue cap compresses several changing characters into a single impression. A stronger record uses a fresh, lawful specimen and a clock. Photograph an uncut gill edge at zero minutes, make one clean cut across several gills, and record the latex immediately, at roughly thirty seconds, two minutes, and ten minutes. Repeat the same sequence on exposed cap flesh. Keep the camera angle, light, and white balance fixed so a color change in the tissue is not confused with a change in the photograph.
+
+Score three observations separately: the color of newly exuded latex, the color of the damaged tissue, and the color that appears where latex contacts the tissue. In *Lactarius indigo*, blue milk and blue flesh may acquire green tones with injury and age, but intensity varies with moisture and specimen condition. A dry old cap may release little fluid. That is missing evidence, not evidence that the expected character is absent. Never squeeze multiple specimens together; a mixed collection destroys the link between each cap, its latex behavior, and its stem base.
+
+Measurements make the series portable. Record cap diameter, stem length and width, gill spacing across a stated distance, the depth of any central depression, and the location of green staining. If microscopy is available, keep spore measurements, ornamentation method, mounting medium, calibration, and specimen number with the same observation. The Iowa State herbarium description is useful because it joins macroscopic and microscopic characters rather than asking color to carry the identification alone.
+
+## Map the host neighborhood without inventing a host
+
+Because this fungus is ectomycorrhizal, the living-tree neighborhood matters, but the nearest trunk is not automatically the partner. Stand at the fruiting point and make a simple radius map: tree species or best-supported genus, trunk distance, canopy position, roots visible at the soil surface, slope, drainage, litter depth, and whether the fruit body emerges from mineral soil or accumulated organic matter. Photograph bark, leaves, needles, buds, and cones that support each tree label.
+
+Then state confidence honestly. “On humus under oak with pine eight metres away” preserves evidence. “Growing with oak” is a stronger biological conclusion and needs more support. The University of Michigan specimen cited below documents one collection under *Quercus*; it does not turn every nearby oak into a verified host or define the whole species range. Regional occurrence records should be filtered for vouchers, coordinate quality, date, and current name usage before they are used to extend a range claim.
+
+## Keep the name narrower than the blue-milk-cap idea
+
+The name *Lactarius indigo* is most useful when a regional treatment, morphology, ecology, and—where needed—microscopy agree. Blue or blue-gray milk caps elsewhere may belong to related taxa or may be interpreted differently by a current local flora. A page title cannot resolve that geography. Record the broad hypothesis first, preserve material only where legal, and ask which characters a regional key uses to separate the local blue milk caps.
+
+This boundary also prevents a culinary reputation from travelling farther than the identification. Market photos, translated common names, and restaurant labels rarely document a complete stem base, fresh latex sequence, host setting, or voucher. They can demonstrate that a name is used in commerce; they cannot authenticate a wild collection. For observations intended for a herbarium or expert review, include coordinates at an appropriate privacy precision, elevation, collector, collection number, substrate statement, host evidence, weather, photographs, and lawful disposition of the specimen.
 
 ## References
 

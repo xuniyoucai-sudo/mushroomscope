@@ -165,6 +165,8 @@ If the record is being published, state the confidence level and the evidence st
 
 The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) demonstrates how a soft annual bracket with separable tubes differs from a woody perennial conk with layered tube years.
 
+Black clubs arising beside a stump require a different structural vocabulary altogether. The [dead man's fingers guide](/mushrooms/dead-mans-fingers-fungus-guide/) shows how stromata, embedded perithecia, and a buried hardwood origin separate *Xylaria* from pore-bearing conks.
+
 ## References
 
 For a large annual broadleaf polypore with a pale angular pore surface and a boldly scaled fan-shaped cap, compare the [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) rather than extending artist's-conk characters to every bracket.

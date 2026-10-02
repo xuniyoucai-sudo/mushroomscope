@@ -121,6 +121,8 @@ Drying changes odor, so a voucher may not retain the original scent. Preserve th
 
 For suspected ingestion, odor should not delay poison-control contact. Preserve material and notes, but follow medical instructions rather than repeatedly smelling or handling the specimen.
 
+For a worked example in which odor belongs to a complete reproductive system, see the [dog stinkhorn guide](/mushrooms/dog-stinkhorn-guide/). It connects gleba position, insect visits, egg anatomy, column development, and buried-wood habitat instead of treating a carrion-like smell as a species name.
+
 ## Why odor is easy to overread
 
 Odor vocabulary is subjective. Rain, soil, leaf litter, a bag, perfumes, smoke, and a specimen’s age can change what a person notices. Some fungi have conspicuous odors, while many have little or no odor under field conditions. A description such as “anise-like” or “chemical-like” is therefore most useful when it is paired with the observer’s conditions and repeated across intact specimens.

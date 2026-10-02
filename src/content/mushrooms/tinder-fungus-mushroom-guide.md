@@ -187,6 +187,8 @@ For a tree-risk observation, distinguish fungal identity from structural assessm
 
 For a host-specific annual bracket comparison, the [birch polypore guide](/mushrooms/birch-polypore-mushroom-guide/) contrasts attachment, pore layers, birch evidence, and brown-rot context with perennial hoof fungi.
 
+When the wood-borne structure is an upright black club rather than a hoof with tubes, use the [dead man's fingers guide](/mushrooms/dead-mans-fingers-fungus-guide/) to document developmental color, stromatal tissue, perithecia, and buried-root attachment.
+
 ## Map the active margin and pore renewal
 
 A perennial conk is not uniformly active. Mark the pale growing margin, older cracked upper crust, current pore surface, and any sealed or weathered pore layers in photographs. Measure bracket projection, width, thickness at the attachment, and pore density within a stated square. Repeat the same views seasonally without cutting the conk. A fresh pale margin paired with a clean current pore surface supports ongoing growth; a detached, insect-hollowed bracket does not provide the same evidence.

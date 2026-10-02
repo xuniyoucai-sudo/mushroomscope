@@ -6,7 +6,8 @@ keywords: ["chicken of the woods", "Laetiporus sulphureus", "chicken of the wood
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
-updatedDate: 2026-08-24
+updatedDate: 2026-10-03
+revisionSummary: "Added host-confidence mapping, pore-and-flesh aging measurements, regional species-complex limits, and collection-level food-risk separation."
 draft: false
 featured: false
 coverImage: "../../assets/species/chicken-of-the-woods-editorial-v2.png"
@@ -159,6 +160,30 @@ Record whether the shelves grow from a living tree, stump, log, or buried wood a
 ## Compare a red, soft annual bracket
 
 The [beefsteak fungus guide](/mushrooms/beefsteak-fungus-guide/) provides a contrasting polypore record built around pale pores, separable tubes, reddish context and oak or sweet-chestnut attachment rather than sulfur-yellow shelves.
+
+## Measure a shelf from margin to attachment
+
+The orange-and-yellow palette is memorable, but a useful record follows the structure across the whole shelf. Photograph the growing margin, mid-shelf surface, attachment, and pore layer with a scale in the same plane. Measure shelf width, projection, thickness near the margin and attachment, and pore density within a stated square. Note whether adjacent shelves overlap from one base or arise at separate points on the wood.
+
+Make a clean section only where collection is permitted. Young tissue may be moist and comparatively tender near the margin while older tissue toward the attachment becomes fibrous, chalky, insect-damaged, or waterlogged. Record that gradient instead of assigning one texture to the entire cluster. A faded old shelf can retain the general outline while losing the colors and condition associated with a fresh fruit body. Age evidence is therefore part of identification and a separate gate in any local food decision.
+
+The underside should show a pore surface, not gills, teeth, or folds. Record pore color before and after gentle handling, tube depth in section, exudation if present, and any bruising. The [pore-surface guide](/identification/mushroom-pore-surface-guide/) provides a repeatable way to photograph and count a fertile surface. Pores support placement among polypores; they do not alone establish a *Laetiporus* species.
+
+## Give the host its own confidence score
+
+Host evidence can change the regional species hypothesis, yet rotten wood is frequently misnamed. Photograph the full tree or log, bark, leaves, buds, cones, end grain, and the exact attachment. State whether the wood is living, standing dead, fallen, buried, or a stump. If only weathered wood is visible, “decaying hardwood” or “unknown conifer” is stronger documentation than a confident species guess based on the mushroom's reputation.
+
+Separate four statements in the field note: observed substrate, proposed host identity, confidence in that host, and proposed fungus name. Ground-level shelves can arise from buried roots; gently tracing the attachment may clarify that context, but digging through living roots is not justified. On a living tree, fruiting indicates a wood-decay relationship but does not measure remaining sound wood or predict failure. A qualified arborist evaluates the tree, target zone, roots, crown, defects, and loading.
+
+Regional *Laetiporus* concepts matter because host and geography interact with morphology. A broad common name may cover multiple species in guides, markets, and social posts. Use a current local key or expert to decide which taxa are plausible, and preserve the measurements and host evidence needed to revisit that decision. Do not silently transfer a food reputation or reaction history from one regional taxon and host context to every orange shelf worldwide.
+
+## Treat a cluster as a traceable collection
+
+When lawful local expertise has confirmed material for food, keep each cluster linked to its tree, date, photographs, and identifier. Do not mix shelves from different hosts or sites in one container. Reject decayed, moldy, heavily insect-damaged, chemically exposed, roadside, or otherwise contaminated material even when the fungus name is secure. Identity, freshness, site condition, and personal tolerance are separate gates.
+
+Record raw mass, trimmed mass, cooking method, cooked mass, storage time, and the people served without turning a personal meal into a safety study. Adverse reactions have been reported with mushrooms sold under this common name, and a successful meal does not validate the identification of a later collection. Cooking is not a method for neutralizing an unknown lookalike. People with symptoms after ingestion should contact the relevant poison service or medical provider promptly and retain uncooked material, trimmings, leftovers, photographs, host notes, and timing information.
+
+This collection-level separation also improves ecological records. Several fruitings photographed on one log across time can show persistence and development; shelves from unrelated trees cannot be combined into one growth sequence. Give every observation a stable number so the host, morphology, images, measurements, and any expert determination remain connected.
 
 ## References
 

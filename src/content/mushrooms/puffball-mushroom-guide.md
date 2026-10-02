@@ -160,6 +160,8 @@ Ordinary outdoor contact is different from deliberately creating and inhaling a 
 
 A complete vertical section should show a uniformly solid interior in a sound young puffball and must reveal any developing cap, gills, stem, or internal outline of another mushroom. Photograph the section immediately in neutral light. Yellowing, browning, softness, odor, or an internal mushroom structure excludes the specimen from a food discussion.
 
+A stinkhorn egg is another reason the cut must pass through the entire structure. The [dog stinkhorn guide](/mushrooms/dog-stinkhorn-guide/) follows the gelatinous egg, folded internal column, olive gleba, and rapid emergence that distinguish a developmental stinkhorn sequence from uniform puffball tissue.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/5243177). Taxonomic placement and nomenclature.
