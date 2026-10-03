@@ -108,7 +108,7 @@ Observe whether gills or folds run down the stem, but do not assume that every f
 
 Not every fungus has a circular cap on a central stem. **Lobed** caps have broad divisions or uneven outlines. **Saddle-shaped** caps curve upward and downward around a central attachment. **Fan-shaped**, **kidney-shaped**, or **shelf-like** forms often have lateral stems or no obvious stem and may grow from wood.
 
-Crowded clusters can force normally regular caps into fan-like or wavy forms. Separate a growth effect from a stable character by examining uncrowded specimens at the same site. For wood-growing shelves, record the attachment area, upper surface, edge, thickness, underside, and whether multiple tiers overlap.
+Crowded clusters can force normally regular caps into fan-like or wavy forms. Separate a growth effect from a stable character by examining uncrowded specimens at the same site. For wood-growing shelves, record the attachment area, upper surface, edge, thickness, underside, and whether multiple tiers overlap. For an ascomycete example where an irregular cup flattens into a peel-like form, see the [orange peel fungus field profile](/mushrooms/orange-peel-fungus-guide/).
 
 Terms such as “brain-like” or “coral-like” can be useful first impressions, but replace them with precise structural notes. The [false morel comparison](/identification/false-morel-vs-morel/) shows why folds, pits, attachment, and internal structure must be evaluated together.
 

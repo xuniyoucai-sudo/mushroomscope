@@ -5,8 +5,8 @@ keywords: ["mushroom allergy symptoms", "mushroom intolerance", "mushroom allerg
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-17
-revisionSummary: "Aligned the guide with real allergy queries, added an immediate symptom-and-exposure triage framework, and preserved the boundary between allergy assessment and wild-mushroom poisoning response."
+updatedDate: 2026-10-04
+revisionSummary: "Added an exposure-matrix and label-retention protocol that separates immediate allergy, delayed foodborne illness, wild-mushroom poisoning, and occupational spore or substrate exposure."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/fruiting-body-vs-mycelium", "identification/mushroom-identification-safety-checklist"]
@@ -119,6 +119,14 @@ For a possible wild-mushroom ingestion, the priority is poison-control or emerge
 The same person can have only one of these scenarios, or neither. A rash after a restaurant dish is not evidence of toxin exposure; delayed gastrointestinal illness after an unidentified wild meal is not evidence of allergy. The exposure history directs the next professional conversation, while this page deliberately stops short of diagnosis.
 
 ## Consider inhalation and skin exposure separately
+
+### Build an exposure matrix before broad avoidance
+
+Write one row for each exposure rather than combining every mushroom encounter into a single story. Record the exact food or product, species if the package states one, raw or cooked form, amount, other ingredients, restaurant or lot information, time eaten or handled, symptom onset, symptom sequence, treatment, and recovery time. Add separate columns for wild versus cultivated material and for eating, skin contact, or inhalation. A clinician can then compare repeated exposures without assuming that all mushrooms or all routes share one trigger.
+
+Keep the package and ingredient list when safe to do so. Sauces, stocks, seasoning blends, wheat, dairy, egg, shellfish, preservatives, and cross-contact may be more plausible explanations than the mushroom itself in a mixed meal. Conversely, a capsule may contain several fungi plus grain substrate or excipients. The matrix does not diagnose the cause; it prevents the name “mushroom” from hiding important differences between products.
+
+Timing belongs in the record but should not be used as a home diagnostic rule. Rapid hives, swelling, wheeze, faintness, or breathing difficulty demand urgent assessment. Delayed vomiting or diarrhea after a shared meal can raise a different set of foodborne questions. Symptoms after an unidentified wild collection require poison-control or emergency guidance even if a person has a history of food allergy. Do not deliberately re-expose yourself to test which row repeats.
 
 Growers and processors may encounter spores, substrate dust, molds, cleaning chemicals, and wet environments. Cough, wheeze, nasal symptoms, eye irritation, or dermatitis may relate to one or several of these exposures rather than to eating cooked mushrooms.
 

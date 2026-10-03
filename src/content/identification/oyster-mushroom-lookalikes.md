@@ -92,7 +92,7 @@ Texture can support observation after other features are recorded. Tough, leathe
 5. Make a spore deposit only away from food surfaces.
 6. Compare the full record with a regional key and seek qualified local confirmation.
 
-The broader [how to identify mushrooms guide](/identification/how-to-identify-mushrooms/) explains why complete observations matter. The [mushroom gill types guide](/identification/mushroom-gill-types/) can help with underside vocabulary.
+The broader [how to identify mushrooms guide](/identification/how-to-identify-mushrooms/) explains why complete observations matter. The [mushroom gill types guide](/identification/mushroom-gill-types/) can help with underside vocabulary. When the fans are small, hairy, and tough, compare the moisture-responsive paired lamellae in the [split gill fungus guide](/mushrooms/split-gill-fungus-guide/) rather than forcing an oyster identification.
 
 ## Confidence checklist before any kitchen decision
 

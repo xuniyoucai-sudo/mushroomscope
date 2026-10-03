@@ -86,7 +86,7 @@ A cup that seems to grow from soil may still originate from buried wood. Convers
 
 ## Read the inner and outer surfaces separately
 
-The vivid scarlet inner face is smooth because it is a spore-bearing hymenium, not a gilled cap. The outside is paler—often whitish, pinkish, or light orange—and may look finely hairy under magnification. Record both surfaces in neutral light because phone processing can exaggerate red saturation.
+The vivid scarlet inner face is smooth because it is a spore-bearing hymenium, not a gilled cap. The outside is paler—often whitish, pinkish, or light orange—and may look finely hairy under magnification. Record both surfaces in neutral light because phone processing can exaggerate red saturation. Compare the soil-fruiting, brighter orange surface and peel-like maturity in the [orange peel fungus guide](/mushrooms/orange-peel-fungus-guide/) before treating color as decisive.
 
 Use a scale and avoid crushing the rim. Photograph from above, from the side, and at the attachment. A single overhead red circle hides the very characters needed for comparison.
 

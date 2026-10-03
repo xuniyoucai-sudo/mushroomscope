@@ -115,6 +115,7 @@ Cap color is weak when separated from temperature, light and strain. Cool-grown 
 - **Pleurotus pulmonarius:** A closely related pale oyster species; separation may require ecology, microscopy, or DNA.
 - **Pleurocybella porrigens:** A thin white conifer-associated species; substrate and structure differ, and casual comparison is unsafe.
 - **Omphalotus species:** Orange, gilled wood-decayers that are poisonous; color, growth form, and other characters must be evaluated.
+- **Schizophyllum commune:** Small gray-white fans can resemble miniature oysters at a glance, but the [split gill profile](/mushrooms/split-gill-fungus-guide/) documents its hairy cap, leathery flesh, and paired lamellae that fold with drying.
 
 The comparison list is not exhaustive. *Pleurotus ostreatus*, *P. pulmonarius*, and other members of the genus can overlap in market language while differing in ecology, season, morphology, and sometimes laboratory characters. Geographic checklists and local keys matter because the candidate set changes by continent and habitat. Apps can organize observations, but their suggestions remain hypotheses. If consumption is contemplated, obtain in-person confirmation from a qualified local identifier who can inspect the whole material.
 

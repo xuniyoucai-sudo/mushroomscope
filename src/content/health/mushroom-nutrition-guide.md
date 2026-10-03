@@ -5,8 +5,8 @@ keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-17
-revisionSummary: "Put the fiber-versus-protein answer first, added a like-for-like serving comparison workflow, and aligned the guide with real nutrition queries without turning composition into a health claim."
+updatedDate: 2026-10-04
+revisionSummary: "Added a dry-matter and cooked-yield comparison protocol, clarified fiber-versus-protein intent with realistic meal denominators, and separated database values from package-specific claims."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "health/mushroom-supplements-guide", "health/mushrooms-gut-health"]
@@ -95,6 +95,14 @@ When two sources appear to disagree, place their values in a table with five col
 Keep calories, protein, total dietary fiber, sodium, and added ingredients visible together. This avoids declaring a product “higher in fiber” merely because it has been dried, or “higher in protein” because its serving is much larger. For a mixed soup, snack, burger, or powder, separate the mushroom contribution from grains, legumes, isolated fibers, oils, and seasoning whenever the label provides enough information. If it does not, report the uncertainty rather than reverse-engineering a precise mushroom value.
 
 ## Preparation changes the practical comparison
+
+### Use cooked yield, not a guessed concentration factor
+
+When a reader asks how much fiber or protein is “in mushrooms,” the missing denominator is often the cooked amount that reaches the plate. Weigh the edible raw portion, cook it by the intended method, and weigh the finished batch after draining only the liquid the recipe would normally discard. Divide the label or matching database nutrients by the number of actual portions. This produces a meal-level estimate without pretending that water loss creates protein or fiber.
+
+Do not borrow a yield factor from a different method. A dry sauté, covered braise, canned product, dehydrated powder, and soup retain different amounts of water and cooking liquid. If a recipe keeps the liquid, nutrients dissolved into it remain part of the dish; if the liquid is discarded, a raw-to-cooked weight conversion alone cannot say how much of every micronutrient remains. Report the method and uncertainty alongside the estimate.
+
+This approach also prevents an easy comparison error: a smaller cooked weight may show more protein or fiber per 100 grams while the original pan contains essentially the same mushroom dry matter. For the practical question—whether mushrooms replace beans, lentils, eggs, meat, or a high-fiber grain—compare the complete servings people would realistically eat, including calories and other ingredients, rather than selecting the most favorable 100-gram row.
 
 Cooking can change texture, digestibility, water content, and the way a serving fits into a meal. It can also change the apparent concentration of nutrients when values are compared by weight. That is one reason a raw database entry should not be casually compared with a cooked restaurant portion. Our [cooked vs. raw mushrooms](/health/cooked-vs-raw-mushrooms/) guide covers preparation questions without promising that one method cures or prevents disease.
 

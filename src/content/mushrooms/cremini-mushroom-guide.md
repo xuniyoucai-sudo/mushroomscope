@@ -6,7 +6,8 @@ keywords: ["cremini mushrooms", "baby bella mushrooms", "Agaricus bisporus", "cr
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-17
+updatedDate: 2026-10-04
+revisionSummary: "Added a harvest-stage morphology protocol and a controlled cooking-yield comparison that separates strain color, maturity, water loss, and retail naming."
 draft: false
 featured: false
 coverImage: "../../assets/species/cremini-mushroom.jpg"
@@ -147,6 +148,14 @@ Commercial crops are produced year-round in climate-controlled rooms, so a Janua
 
 ## Why home cultivation is an advanced project
 
+### Read the crop by biological stage, not the retail nickname
+
+Button, cremini, and portobello labels combine two variables that shoppers often blur: strain color and harvest maturity. A white button and a brown cremini can be similar in developmental stage while belonging to differently colored cultivated lines. A portobello is allowed to expand until the cap is broad, the veil has opened, and the dark mature gills are exposed. It is not a separate wild species discovered by cap size.
+
+To compare a crop objectively, record cap diameter, cap color, veil state, gill exposure, gill color, stem length, trimmed weight, and days from the first harvestable stage. Use several mushrooms from the same flush rather than one unusually large cap. Those measurements show whether a batch changed because of harvest timing, strain, climate, or grading. Retail words alone cannot separate those effects.
+
+The same developmental series explains kitchen differences. Closed young caps usually hold their shape and keep loose gill material contained. Open mature caps expose more surface and release a darker cooking liquid. Neither stage is inherently safer or more nutritious. The appropriate choice depends on the recipe, the verified cultivated source, sound condition, and the serving comparison being made.
+
 Button production is technically demanding because the substrate must first become selective enough for the crop. Raw straw and manure are not ready-to-inoculate ingredients. Phase I builds and turns a wetted stack while microbes generate heat; Phase II pasteurizes and conditions the material, including removal of residual ammonia that can damage mushroom mycelium. Only then is verified grain spawn mixed through the compost.
 
 ### The crop sequence and its control points
@@ -178,6 +187,12 @@ People can have an allergy or intolerance even to an established food species. S
 For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or symptoms after an unidentified wild mushroom, contact emergency services or a poison center immediately. Preserve uncooked material, cooked leftovers, packaging and clear photographs if this can be done safely; those records may help professionals, but online comments must not delay care.
 
 ## Kitchen behavior by market stage
+
+### Compare cooking yield with matched starting weights
+
+For a useful button-versus-cremini-versus-portobello test, trim equal raw weights, cut them to comparable thickness, and cook separate batches in the same pan with the same heat, fat, salt, and elapsed time. Record the finished weight and any liquid left in the pan. This distinguishes water-loss and surface-area effects from claims that one market stage “has more” flavor or nutrients simply because its cooked portion weighs less.
+
+Portobello gills can darken a sauce and retain small particles; removing them changes color, texture, and usable yield, not toxicity. If gills are removed, weigh the trimmed cap so the comparison does not credit one batch with discarded material. For nutrition, match the measured food form to a suitable package label or FoodData Central entry. A dry cooked serving and a raw 100-gram entry are different denominators, not contradictory facts.
 
 Cremini slices brown best when their surface moisture can evaporate before the pan is crowded. Salt timing matters less than giving released water somewhere to go. Portobello caps contain broad internal spaces and exposed gills; dry them well, score only if a recipe needs faster heat penetration, and allow enough time for water to leave before adding a wet filling or sauce.
 

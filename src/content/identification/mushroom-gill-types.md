@@ -132,6 +132,8 @@ Use the [mushroom stem-features guide](/identification/mushroom-stem-features/) 
 
 Photograph young and mature gills at the same angle because cap expansion can alter the apparent relationship to the stem. Record short gills, forks, cross-veins, edge color, bruising, and whether the stem separated naturally or was torn. Attachment vocabulary narrows a key but never authenticates edibility on its own.
 
+Not every radiating underside is an ordinary single-bladed gill system. The [split gill fungus guide](/mushrooms/split-gill-fungus-guide/) follows paired lamellar edges through dry closure and wet reopening, a moisture response that needs side light and repeated observations rather than a single underside label.
+
 The [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/) shows why gill attachment must be recorded together with latex emergence, later staining, host trees, and regional taxonomy.
 
 For brittle-gilled collections that exude droplets, continue with the [mushroom latex documentation guide](/identification/mushroom-latex-field-guide/) rather than treating white or colored milk as a species shortcut.
