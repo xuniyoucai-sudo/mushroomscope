@@ -6,7 +6,8 @@ keywords: ["velvet shank", "Flammulina velutipes", "velvet shank identification"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-09-26
+updatedDate: 2026-10-04
+revisionSummary: "Replaced generic field templates with a cluster-level stem gradient, spore-deposit chain of custody, freeze-thaw observations, regional Flammulina limits, and explicit Galerina stop rules."
 draft: false
 featured: false
 coverImage: "../../assets/species/velvet-shank-mushroom-editorial-v3.png"
@@ -86,14 +87,14 @@ Orange-brown sticky caps, pale gills, and stems that darken to velvety brown-bla
 
 A cool-season wood-decayer on hardwood trunks and stumps. The documented range represented here includes Europe and temperate Asia and North America. Typical substrates or settings include hardwood stumps and logs and living hardwood wounds. Fruiting records commonly occur in November, December, January, February, March, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Map the cluster to its wood. Show whether stems converge at a stump, wound, buried root or fallen hardwood, and keep clusters from separate wood units apart. Cool-season timing supports the hypothesis, but a thaw-period fruiting does not replace the dark lower-stem texture, pale gills, lack of a ring and white-spore evidence.
 
 ## Similar species
 
 - **Galerina marginata — deadly, ringed, and rusty brown-spored.**
 - **Kuehneromyces mutabilis — ringed clustered wood mushroom with brown spores.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Treat every brown-spored result or convincing ring zone as a stop sign for the velvet-shank hypothesis. *Galerina marginata* and *Kuehneromyces mutabilis* require their own regional assessment; do not average characters across a mixed stump collection. Retain the printed cap, its complete stem and its source-cluster photograph under one identifier.
 
 ## Food and safety context
 
@@ -107,21 +108,19 @@ Cultivation is established but requires controlled substrate preparation, clean 
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph each cluster attached to its exact hardwood stump, wound, log or buried root.
+2. Record cap diameter and surface condition before drying changes the amber, viscid appearance.
+3. Photograph pale gills, the absence or presence of a ring, and the full pale-to-dark stem gradient.
+4. Pair one cap's spore deposit with that cap's stem and source-cluster photograph; never mix stump collections.
+5. Stop the velvet-shank comparison if spores are rusty brown or a convincing ring is present, and seek regional expertise.
 
 ## Use this guide as a field-record framework
 
 For publication, this account should be read as a structured field profile rather than a shortcut to edibility. The most reliable use of the page is to compare a complete observation against several independent evidence categories: form, fertile surface, attachment, substrate, host context, season, region, odor, bruising or staining, and the condition of the material. Wild velvet shank and cultivated enoki can look surprisingly different. The dark velvety lower stem, lack of ring, season, and hardwood setting deserve explicit photographs. A single attractive photograph, market name, or app suggestion cannot replace that combined record.
 
-Before any local use decision, separate three questions that are often blended together. First, does the collection belong to the broad morphological group described here? Second, does the local region actually support the species name used in the title, or is a related regional species more likely? Third, even if the identification is correct, is the material fresh, uncontaminated, legally collected, and appropriate for the intended use? Those questions require different evidence, and a weak answer to any one of them should stop a food or cultivation decision.
+Build the record around a single intact cluster. Photograph amber caps before they dry, pale gills under neutral light, every stem from cap to attachment and the boundary where the lower stem becomes dark and velvety. Then pair one cap's spore deposit with that exact stem. Loose caps gathered from a shared stump can erase the evidence needed to exclude a deadly brown-spored neighbor.
 
-Photograph the specimen before handling, then document the underside, base or attachment, surrounding habitat, and a clean cross-section. For wood-associated fungi, include the host or substrate and whether the wood is living, dead, buried, or processed. For grassland or soil-fruiting fungi, include nearby trees, turf treatment, roadsides, livestock areas, and any potential contamination source. Do not rely on color alone; rain, sun exposure, age, frost, insects, and camera white balance can change the apparent palette enough to mislead a comparison.
-
-The safety language in this article is intentionally conservative. Published edibility labels summarize historical or culinary context, not permission to eat an unknown specimen. Conditional species, medicinally marketed species, and familiar edible groups all still carry risks from lookalikes, spoilage, individual intolerance, and local taxonomic complexity. When symptoms follow a mushroom exposure, preserve photographs, leftovers, trimmings, and timing details, and contact emergency or poison-control services promptly.
+Separate naming from food use. A collection can fit the broad *Flammulina* pattern while remaining unresolved at species level, and even a locally confirmed name does not establish freshness or individual tolerance. If any specimen produces rusty-brown spores, retains a ring, or lacks the expected lower-stem texture, keep the entire food decision closed until an expert examines the original material.
 
 Regional names, field-guide treatments, and marketplace labels may use Velvet shank broadly, narrowly, or historically. Recheck current local literature before treating the name on this page as a final species determination.
 
@@ -162,11 +161,9 @@ Culinary familiarity with cultivated enoki should not be transferred carelessly 
 
 Use this checklist to decide whether an observation is strong enough for learning, not whether it is safe to eat. For Velvet shank, the record is stronger when these points are answered in writing: dark velvety lower stem is shown clearly; ring is absent; pale gills and white spore context are documented; cool-season hardwood habitat supports the hypothesis. If one of these points is missing, mark the identification as tentative and collect more evidence before comparing it with food, cultivation, or supplement information.
 
-A good checklist entry includes both positive and negative evidence. Positive evidence explains what matches the species profile. Negative evidence explains what dangerous or common alternatives were ruled out and why. For example, a note that says "found on wood" is weak by itself, while a note that describes the exact wood, visible attachment, fertile surface, spore context, and excluded lookalikes is much stronger. This distinction matters because many mushroom mistakes happen when a field note records only the attractive matching feature and ignores the contradictory details.
+Record the ratio of pale upper stem to dark velvety lower stem on young and mature fruit bodies. Frost, rain and abrasion can alter cap gloss, while the stem gradient and attachment often remain more interpretable. A repeated visit after freeze-thaw weather can show whether the same caps reopened or a new flush formed at the marked wood surface.
 
-For publication review, avoid language that turns uncertainty into confidence. Phrases such as "consistent with," "supports," and "requires local confirmation" are often more accurate than absolute identification claims when microscopy, DNA, or regional expert review has not been done. This article can help organize observations, but the final responsibility for a real specimen depends on local expertise, legal access, current taxonomy, and the condition of the material in hand.
-
-Keep a dated record even when no specimen is collected. A useful record includes location at an appropriate privacy level, habitat, substrate or host, weather pattern, photographs from several angles, and notes on odor, staining, latex, or texture when relevant. Repeated observations across a season can be more educational than one rushed collection because they show how the same species changes with age, rain, drying, insects, and decay.
+State unresolved regional taxonomy plainly. Local treatments may divide collections historically called *F. velutipes*, so locality, host, measurements, spore deposit and a dried voucher are more durable than an absolute caption based on winter color.
 
 ## Measure a developmental series, not the best-looking cap
 
@@ -195,4 +192,4 @@ For a pale beech-wood cluster with translucent mucilaginous caps, white gills, a
 3. University of Wisconsin. [*Flammulina velutipes*](https://botit.botany.wisc.edu/toms_fungi/march97.html). Wild/cultivated context and cautious *Galerina* comparison.
 4. North Carolina Poison Control. [Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms). Conservative response guidance for unknown mushroom exposure.
 
-*Editorial review: August 19, 2026. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: October 4, 2026. No named mycologist, toxicologist, or clinician reviewed this page. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*

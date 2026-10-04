@@ -1,12 +1,13 @@
 ---
 title: "Birch Polypore: Fomitopsis betulina Host and Decay Guide"
 seoTitle: "Birch Polypore: Host, Pores, Decay and Lookalikes"
-description: "Identify birch polypore through verified birch host evidence, annual bracket development, fine white pores, brown-rot context, and perennial lookalike separation."
+description: "Identify birch polypore through verified birch hosts, annual bracket development, fine white pores, brown rot, and perennial lookalike separation."
 keywords: ["birch polypore", "Fomitopsis betulina", "birch polypore identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
-updatedDate: 2026-09-27
+updatedDate: 2026-10-04
+revisionSummary: "Replaced generic templates with verified birch-host evidence, annual tube-layer measurements, brown-rot interpretation, bracket-development geometry, and a clear arboricultural boundary."
 draft: false
 featured: false
 coverImage: "../../assets/species/birch-polypore-editorial-v3.png"
@@ -86,14 +87,14 @@ Smooth pale brown to gray kidney-shaped brackets found almost exclusively on bir
 
 A birch specialist causing brown rot in dead and weakened trees. The documented range represented here includes Northern Hemisphere. Typical substrates or settings include birch trunks and birch branches. Fruiting records commonly occur in August, September, October, November, December, but latitude, elevation, rainfall, and host condition shift the calendar.
 
-Ecology is part of the identification. Record whether the mushroom arises from soil or wood, whether wood is living or dead, and which trees are nearby. Obtain permission, respect protected areas, and avoid removing an entire local population.
+Prove the birch host on the same wood unit. Photograph bark, attached twigs, buds or leaves and the bracket attachment before interpreting the fungus. A pale bracket lying near birch is not equivalent to one emerging from a verified birch trunk, especially in mixed woodland, stacked firewood or storm debris.
 
 ## Similar species
 
 - **Fomes fomentarius — harder, hoof-shaped, and perennial with layered growth.**
 - **Piptoporellus species — related brackets separated by microscopic and geographic evidence.**
 
-This list is not exhaustive. The possible comparison set changes by region, and some separations require microscopy, chemical reactions, culture records, or DNA. Image-recognition tools can organize observations but cannot clear a specimen for consumption.
+Use sectioned growth structure to separate annual from perennial brackets. The [tinder fungus guide](/mushrooms/tinder-fungus-mushroom-guide/) shows the harder hoof and accumulated tube layers expected in *Fomes fomentarius*, while birch polypore should be evaluated as one annual context-and-tube system. An uncertain host, multiple old tube layers or a bruising pore surface outside this profile should redirect the regional comparison.
 
 ## Food and safety context
 
@@ -103,15 +104,15 @@ For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficu
 
 ## Cultivation context
 
-This species is not a dependable beginner crop. Its ecology, host relationship, or slow perennial growth makes ordinary indoor block methods unsuitable; use a cultivated alternative for home food production. Never cultivate an unidentified wild collection for food. Isolate batches with unexpected colors, slime, insects, or persistent abnormal odor and do not attempt to rescue them for eating.
+Culture growth on wood does not establish a useful home crop or a medicinal product. Any cultivation study should authenticate the isolate, identify birch or formulated substrate, record dry matter and moisture, document treatment and incubation, and verify that the resulting bracket matches the culture. This page does not provide a production or extraction method.
 
 ## How to document a find
 
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+1. Photograph the whole birch stem or log and the bracket attachment in one sequence.
+2. Record bark, twig, bud or leaf evidence that supports the birch identification.
+3. Measure bracket width, projection, attachment thickness and growing-margin thickness.
+4. Photograph a scaled pore surface and, where justified, one vertical section through context and tubes.
+5. Record whether the wood is standing, fallen, snapped or cut and whether brown cubical decay is naturally exposed.
 
 ## Verify birch before interpreting the bracket
 
@@ -174,4 +175,4 @@ The [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) provides a 
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Substantive editorial update: September 16, 2026. Added host-verification, annual development, measurement, brown-rot mechanics, tree-risk boundaries, perennial-bracket separation, and evidence limits for traditional-use claims. No named mycologist, clinician, or arborist reviewed this page.*
+*Substantive editorial update: October 4, 2026. Added host-verification, annual development, measurement, brown-rot mechanics, tree-risk boundaries, perennial-bracket separation, and evidence limits for traditional-use claims. No named mycologist, clinician, or arborist reviewed this page.*
