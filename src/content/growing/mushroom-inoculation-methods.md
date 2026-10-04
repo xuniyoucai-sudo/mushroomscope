@@ -60,6 +60,8 @@ Start with the physical receiver rather than the inoculum on hand. A sealed grai
 
 ## Agar wedges provide visible selection
 
+When the starting material is inner tissue rather than an authenticated plate, first use the [tissue-cloning guide](/growing/mushroom-tissue-cloning/) to define specimen provenance, controls, transfers and rejection criteria. Choosing an inoculation format does not validate the original clone.
+
 An agar plate makes the transfer edge visible before scale-up. Select from an actively expanding, labeled culture rather than from old, dried, crowded, or unexplained sectoring. The plate does not prove strain identity and cannot expose every organism, so connect it to supplier or master-culture records and use it as one inspection stage in a broader lineage system.
 
 Cut wedges from an actively growing margin rather than old, dried, or heavily sectoring tissue. Record plate ID, transfer date, wedge count, receiving-jar ID, and whether a blank control was exposed during the session. A control that remains clean does not prove every transfer is clean, but growth on it reveals that the session itself cannot be interpreted confidently. The [contamination guide](/growing/mushroom-contamination-guide/) explains why color, odor, and growth speed are observations rather than organism identification.

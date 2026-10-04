@@ -51,6 +51,8 @@ This guide follows the University of Florida IFAS wheat-straw example as a bound
 
 ## What makes straw different
 
+Straw is not one universal mushroom substrate. The [paddy straw mushroom profile](/mushrooms/paddy-straw-mushroom-guide/) explains why a warm-climate *Volvariella* production system, complete volva documentation, and supplier-specific culture record should not be collapsed into an oyster-on-wheat-straw method.
+
 Straw is a plant-fiber substrate, not a generic synonym for every mushroom-growing medium. UF/IFAS identifies healthy spawn, pasteurized lignocellulose substrate, and a container as the basic components of its home oyster workflow. Cornell Small Farms likewise treats growing oyster mushrooms on straw as a distinct cultivation method rather than a variation of log growing or supplemented-block production.
 
 That distinction matters because the preparation and handoff need to match the material. Do not move a heat-treatment number from this straw guide to grain, supplemented sawdust, or an unknown mixture. Start with the substrate and method pair described in the source, then follow the product and equipment instructions that apply to your actual batch. For the broader decision, read [pasteurization versus sterilization](/growing/sterilize-mushroom-substrate/) before buying equipment.

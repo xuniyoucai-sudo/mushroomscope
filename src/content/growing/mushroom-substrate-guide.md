@@ -145,6 +145,8 @@ Penn State's mushroom food-safety guidance and FDA produce guidance support clea
 
 ## Retire and dispose of substrate without spreading problems
 
+The [spent mushroom substrate guide](/growing/spent-mushroom-substrate/) separates reuse claims from a recorded input, crop, treatment and destination, which is essential before material is moved into compost, soil or another production area.
+
 At the end of production, separate sound spent substrate from bags with insects, foul odor, slime, or unexpected growth. Remove questionable units in closed secondary containment rather than breaking them apart near active cultures. Clean shelves, trays, and tools using their documented procedure before another batch enters the area.
 
 Sound spent substrate may be composted or used as a soil amendment where local rules and the original inputs allow. That does not authenticate any later outdoor mushrooms as food. Treated wood, chemical residues, plastics, and contaminated material require disposal suited to the actual components.

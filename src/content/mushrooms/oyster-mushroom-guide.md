@@ -153,6 +153,8 @@ Leave part of a fresh oyster cluster attached so the substrate and developmental
 
 ## Choose a crop system before setting a fruiting room
 
+Golden strains also require a separate ecological decision: the [golden oyster profile](/mushrooms/golden-oyster-mushroom-guide/) covers escaped North American populations, containment and color changes that this *P. ostreatus* account does not own.
+
 Use a verified commercial culture and a tested substrate process. Straw is commonly chopped, hydrated, pasteurized, cooled, and inoculated; supplemented sawdust generally needs more rigorous sterilization. Those are different production systems, not interchangeable recipes: moisture measurement, heat treatment, supplementation, bag geometry, and contamination risk change together. The [home oyster growing guide](/growing/grow-oyster-mushrooms-home/) covers a beginner workflow; this page explains why a species label alone does not set a universal temperature or yield.
 
 Incubate according to the strain supplier, then provide indirect light, high humidity, and sufficient fresh air. Long stems with small caps can indicate excess carbon dioxide, but cramped clusters, low humidity, temperature, light, substrate density, and harvest timing can also change form. Record batch, substrate, room temperature, relative humidity, air exchange observations, first-pin date, and flush weights before altering one variable at a time. Harvest clusters while margins remain tender, and keep the growing area clean between flushes.

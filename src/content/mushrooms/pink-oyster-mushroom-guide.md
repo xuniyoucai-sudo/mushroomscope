@@ -127,6 +127,8 @@ Use high heat and enough pan area to release moisture without steaming the whole
 
 ## Cultivation context
 
+Rice-straw use also appears in other production traditions, but it does not make crops interchangeable. Compare the warm-growing biology and volva-bearing anatomy in the [paddy straw mushroom guide](/mushrooms/paddy-straw-mushroom-guide/) before transferring a substrate result between species.
+
 Begin with authenticated pink-oyster spawn or a labeled ready-to-fruit block and retain the supplier's lot and strain instructions. Warm-fruiting does not mean “as hot as possible”: compare air and block temperature at the crop, ventilation, surface moisture, pin count, days to harvest, and yield for that specific batch. Never expand an unidentified wild culture for food. Isolate a bag with green sporulation, wet bacterial patches, unexpected pigmented growth away from fruit bodies, insects, or a persistent sour odor; the normal pink of the mushrooms is not a general clearance for colored growth elsewhere in the substrate.
 
 ### Match the method to a warm-growing strain

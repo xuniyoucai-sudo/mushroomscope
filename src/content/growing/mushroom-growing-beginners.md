@@ -74,6 +74,8 @@ Cornell Small Farms treats specialty mushroom cultivation as a system of species
 
 Do not buy a culture solely because an online image looks familiar. “Oyster,” “shiitake,” or another common name is not a complete operating instruction. Save the supplier's culture label, arrival date, substrate description, and written fruiting range. If those are missing, choose a different supplier rather than filling the gaps with broad internet advice.
 
+Before moving beyond a ready-to-fruit block, compare agar, liquid culture, grain, sawdust and plug spawn in the [inoculation methods guide](/growing/mushroom-inoculation-methods/). Each method moves a different contamination and traceability burden into the project.
+
 ## Make a one-page baseline before the first change
 
 At arrival, photograph the unopened or newly placed block and make a short baseline record:
@@ -134,6 +136,8 @@ Keep the crop label with the harvested batch. If several blocks are fruiting, se
 After harvest, clean reusable tools and the growing area according to their materials and the supplier's guidance. A spent block may be accepted by a local composting system, but disposal rules and pest risks differ; bag and isolate suspect material instead of carrying it through food areas uncovered.
 
 ## Decide what to learn in the second grow
+
+After harvest, use the [spent substrate guide](/growing/spent-mushroom-substrate/) to decide whether a block should be discarded, contained, composted or evaluated further; “spent” does not establish safety, nutrient value or suitability for a new crop.
 
 Repeatability matters more than adding equipment. Review the first log and identify one uncertainty: perhaps the block dried quickly, the measurement location was inconsistent, or harvest cooling was delayed. Keep the same low-complexity system while improving that one part. A second authenticated block handled with a better record provides a more useful comparison than simultaneously changing species, substrate, chamber, and watering routine.
 

@@ -53,6 +53,8 @@ This guide describes collection design for cultivated mushroom fungi. It is not 
 
 ## Build a one-way master-to-production lineage
 
+The [mushroom tissue-cloning guide](/growing/mushroom-tissue-cloning/) covers the earlier decision to isolate inner tissue, maintain controls and prove a clean recovery. Storage cannot repair an uncertain clone or restore provenance that was never recorded.
+
 Keep the least-manipulated, best-documented material as the master tier. Derive a limited set of working cultures from that tier, then use those working cultures for production plates, liquid inoculum, or spawn. The arrows should point outward. A fast-looking production plate should not quietly become the new master because doing so loses the original lineage and may select an unrepresentative sector.
 
 Assign every transfer a parent ID. If culture `W-24-017` came from master `M-009`, the inventory should show when, by whom, on which medium, and at what passage it was made. Spawn or a fruiting block should trace back through the working item to the master. This makes it possible to isolate the affected branch when contamination or poor fruiting appears instead of distrusting the entire library.

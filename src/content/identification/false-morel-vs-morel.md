@@ -52,6 +52,8 @@ This guide helps document differences; it cannot authenticate a meal. Do not tas
 
 ## True morel and false morel are not single species
 
+The companion [true morel species guide](/mushrooms/morel-mushroom-guide/) follows the complete cap attachment, lengthwise cavity, habitat, seasonal and food-safety record; use this comparison page for stop signs, not as a substitute for that full profile.
+
 “True morel” describes a genus, not one globally uniform mushroom. *Morchella* species differ by region and can change color, shape, and proportions as they age. Some names used in older field guides have been revised as molecular research clarified species boundaries.
 
 “False morel” is even broader. *Gyromitra* includes fungi with different shapes and toxicological histories. *Verpa* caps are attached differently from typical *Morchella*, while some *Helvella* can enter a beginner's comparison because they are folded or saddle-shaped. A rule learned for one taxon may fail with another.

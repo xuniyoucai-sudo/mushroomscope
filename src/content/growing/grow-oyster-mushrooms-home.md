@@ -85,6 +85,8 @@ Place the block where it can follow its own documented light and fresh-air guida
 
 ## Follow the culture's conditions, not universal numbers
 
+If the supplied culture is labeled golden oyster, consult the [golden oyster species guide](/mushrooms/golden-oyster-mushroom-guide/) for strain-specific color, warm-growing context and containment concerns instead of assuming every oyster block has the same environmental or disposal profile.
+
 Oyster mushrooms are a group of cultivated strains, not a single home-growing setting. Temperature, humidity, light, and fresh-air exchange interact with the block, the room, and the supplier's production method. Cornell's indoor-cultivation overview likewise treats substrate, inoculation, incubation, and fruiting as distinct stages rather than one universal recipe.
 
 Use the supplier's stage-specific instructions. If a block needs an adjustment, change one documented variable, date the change, and observe its result before changing another. More water does not automatically solve a fruiting problem, and more air can dry a block. The [fruiting conditions guide](/growing/mushroom-fruiting-conditions/) explains why those signals must be read together.

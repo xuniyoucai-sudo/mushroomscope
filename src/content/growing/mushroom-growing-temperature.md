@@ -50,6 +50,8 @@ Use a generic chart only as a prompt to ask better questions. For a home grower,
 
 ## Separate the stage before you adjust anything
 
+Commercial enoki demonstrates why stage and morphology matter: the [enoki guide](/mushrooms/enoki-mushroom-guide/) separates the pale elongated cultivated form from wild-type *Flammulina*, supplier conditions and recall-aware food handling.
+
 Temperature has a different job at different points in production. A value copied from an incubation discussion may be wrong for fruiting; a commercial button-mushroom recommendation may not transfer to a specialty block; an outdoor log may follow seasonal conditions rather than a thermostat.
 
 | Record first | Why it changes the decision | What to use as the reference |

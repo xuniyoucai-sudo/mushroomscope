@@ -85,6 +85,8 @@ This prevents a common troubleshooting trap: changing temperature, moisture, sub
 
 ## Use only the method that belongs to the culture
 
+For the workflow decision between purchased spawn, liquid culture, agar and other starting materials, use the [inoculation methods guide](/growing/mushroom-inoculation-methods/) before choosing a clean-handling sequence. Grain spawn is one inoculum format, not a universal first step.
+
 Penn State explains that commercial spawn production uses prepared grain and mycelium, while Cornell describes inoculation as bringing spawn into contact with a suitable substrate. Those broad descriptions are not home recipes. The appropriate material treatment and clean-work boundary depend on the exact culture and system.
 
 Follow the supplier's written method or an applicable extension resource for the named project. Do not invent a heat-treatment schedule, additive, container, or ventilation arrangement from a generic grain-spawn guide. When the plan reaches substrate treatment, use the [sterilization versus pasteurization guide](/growing/sterilize-mushroom-substrate/) as a decision aid, not as a replacement for method-specific instructions.

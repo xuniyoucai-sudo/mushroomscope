@@ -63,6 +63,8 @@ This is a way to plan repeated observations in temperate North America, not a sp
 
 ### Spring: record the transition, not a promise
 
+For a concrete example, the [morel guide](/mushrooms/morel-mushroom-guide/) shows why spring timing must be recorded alongside cap structure, interior anatomy, habitat, region and false-morel exclusions rather than used as an identification shortcut.
+
 As soil thaws and leaf litter becomes moist, some fungi may fruit. Look for the context: fallen wood, last year's leaf layer, particular trees, ground disturbance, and the sequence of warm and cool days. Penn State's forest-mycology material gives morels in central Pennsylvania as a local spring example, while also tying their appearance to particular trees. That is a regional observation, not a rule to export elsewhere.
 
 Spring is a good time to begin a site log because the vegetation and weather changes are obvious. Photograph the intact specimen from above, below, and at the base, then photograph the surrounding substrate and nearby plants. Do not infer a name from a spring date or a honeycomb-like cap.
