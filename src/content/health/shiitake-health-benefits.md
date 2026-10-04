@@ -5,13 +5,13 @@ keywords: ["shiitake health benefits", "shiitake nutrition", "lentinan evidence"
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-27
-updatedDate: 2026-09-28
+updatedDate: 2026-10-05
 revisionSummary: "Added an exposure-equivalence audit, absolute-risk interpretation, food-versus-adjunct evidence boundaries, and a practical safety screen for shiitake products."
 draft: false
 featured: false
 evidenceLevel: preliminary
 reviewStatus: editorial
-reviewDate: 2026-09-28
+reviewDate: 2026-10-05
 evidenceSummary: "Shiitake is a nutritious food; research on lentinan and other preparations is product- and route-specific and does not establish that food or retail supplements treat disease."
 medicalDisclaimer: "Educational information only. Editorial review; no named clinical expert reviewed this page. It does not diagnose, treat, or replace individualized care."
 relatedEntries: ["mushrooms/shiitake-mushroom-guide", "health/mushroom-nutrition-guide", "health/mushroom-supplements-guide"]
@@ -153,3 +153,12 @@ Yes. Thorough cooking is prudent for food safety and tolerance and reduces the r
 2. Oba K, et al. [Individual patient based meta-analysis of lentinan for unresectable or recurrent gastric cancer](https://pubmed.ncbi.nlm.nih.gov/22388782/). Preparation-specific adjunctive evidence, not evidence for culinary shiitake.
 3. Boels D, et al. [Shiitake dermatitis recorded by French poison control centers](https://pubmed.ncbi.nlm.nih.gov/23167794/). Clinical-pattern and exposure context.
 4. Memorial Sloan Kettering Cancer Center. [Shiitake](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/shiitake-mushroom). Evidence, adverse-effect, and interaction cautions.
+## Build a claim-to-material evidence table
+
+Before accepting a shiitake claim, put the consumer product and cited study on the same row structure: species identity, fruiting body or mycelium, whole material or extract, extraction solvent, marker compounds, dose, route, duration, population, comparator, and outcome. A blank field is not a minor paperwork gap; it is evidence that equivalence has not been demonstrated. This is especially important when a capsule label cites injected or medically supervised lentinan, or when a laboratory beta-glucan result is presented beside a photograph of cooked caps.
+
+Then classify the outcome. Nutrient composition can support a food statement. A biomarker may support a limited physiological observation. Symptoms, quality of life, hospitalization, disease progression, and survival are different clinical endpoints. Report absolute event counts and adverse effects when a trial provides them. This table keeps a plausible mechanism from silently becoming a treatment promise and makes clear why the [supplement label audit](/health/mushroom-supplements-guide/) and an ordinary shiitake meal answer different questions.
+
+## Separate UV-derived vitamin D from medicinal claims
+
+UV exposure can raise vitamin D2 in mushrooms, but that is a production and label question rather than proof of a broad therapeutic effect. Record whether the tested shiitake was fresh or dried, UV-treated before or after harvest, the declared vitamin D amount per realistic serving, and storage conditions. Do not infer the content from cap color or species name. A verified nutrient contribution can fit into dietary planning; it does not validate immune, cancer, cholesterol, or deficiency-treatment claims made for another preparation.

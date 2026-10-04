@@ -102,6 +102,8 @@ Use a mature cap on a divided black-and-white nonabsorbent surface and cover it 
 
 White spores help separate an amethyst deceiver candidate from purple *Cortinarius*, which mature toward rusty or cinnamon-brown deposits. Print color does not distinguish every pale-spored purple mushroom. Preserve the deposit and a dried voucher if a species-level record matters.
 
+For the larger, crowded-gilled litter decomposer in the same color range, compare the [blewit identification guide](/mushrooms/blewit-mushroom-guide/). Its stout fibrous build and pale pinkish-buff deposit answer a different identification question from this small, widely gilled, white-spored *Laccaria* profile.
+
 ## Map the host neighborhood
 
 *Laccaria amethystina* is ectomycorrhizal. It is often recorded in broadleaf or mixed woodland, including stands with beech and oak, but roots cross paths underground and several hosts may surround one fruit body. Photograph canopy, bark, leaves, seedlings, litter, and the wider stand. State “mixed beech and oak woodland” when that is the evidence; do not assign the nearest trunk as a confirmed partner.

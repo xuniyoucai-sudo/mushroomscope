@@ -5,6 +5,7 @@ keywords: ["mushroom culture storage","store mushroom agar slants","mushroom cul
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-07
+updatedDate: 2026-10-05
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-grain-spawn-guide", "growing/mushroom-contamination-guide", "growing/sterilize-mushroom-substrate"]
@@ -148,3 +149,14 @@ Record a unique ID, scientific name and strain, source and authentication, paren
 1. [Cornell cultivation stages](https://smallfarms.cornell.edu/resources/methods-of-commercial-mushroom-cultivation-in-the-northeastern-united-states/2-seven-stages-of-cultivation/)
 2. [ATCC — Preservation and Recovery of Filamentous Fungi](https://www.atcc.org/resources/technical-documents/preservation-and-recovery-of-filamentous-fungi)
 3. [USDA ARS — NRRL Culture Collection FAQ](https://apps.ars.usda.gov/index.php/nrrl/faq)
+## Validate a storage interval with matched recovery plates
+
+“Still alive” is too weak a release criterion for a production culture. At a defined interval, recover the stored culture onto the same medium and compare it with a documented reference or earlier recovery under the same incubation conditions. Record time to first visible growth, radial growth at fixed days, colony sectoring, pigmentation, odor without unsafe direct inhalation, contamination rate, and the result of a small fruiting or identity check when appropriate. Photograph plates with scale, date, medium lot, and incubation temperature.
+
+Use replicates. One vigorous transfer can hide contamination or sector variation elsewhere in the tube. If recovery is slow, separate storage injury from medium failure, incubator error, desiccation, and poor transfer technique by including a fresh-control transfer. A culture returns to the working collection only after it meets prewritten identity, purity, and performance gates; otherwise it remains quarantined or is retired.
+
+## Map refrigerator conditions instead of trusting the display
+
+Domestic and laboratory refrigerators develop warm shelves, cold back walls, door swings, and defrost cycles. Place calibrated loggers near stored cultures and record minimum, maximum, and excursion duration rather than a single spot reading. Keep tubes away from freezing surfaces and from uncontained food or clinical material. A sealed secondary box reduces spills and light exposure but does not correct an unsuitable temperature profile.
+
+Review the map after seasonal room changes, maintenance, power loss, or a large inventory change. If the allowed range is species- and method-specific, state that range in the storage protocol and cite its source. The phrase “refrigerated” should never stand in for measured conditions.

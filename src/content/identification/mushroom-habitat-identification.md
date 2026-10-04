@@ -136,6 +136,8 @@ Pair habitat notes with the [complete identification workflow](/identification/h
 
 When uploading an observation, separate directly observed substrate from inferred host association and state coordinate precision. Do not select a species merely because a platform map shows it nearby. Attach the habitat frames and collection notes so later reviewers can revise the ecology or name without losing the original evidence.
 
+Tiny cups on mulch or a decaying twig need the same substrate discipline. The [fluted bird's nest fungus guide](/mushrooms/fluted-birds-nest-fungus-guide/) shows how wood-chip history, cup development, inner fluting, and peridioles combine; “on soil” would erase the woody material supporting that record.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.

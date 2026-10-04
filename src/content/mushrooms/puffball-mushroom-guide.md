@@ -162,6 +162,8 @@ A complete vertical section should show a uniformly solid interior in a sound yo
 
 A stinkhorn egg is another reason the cut must pass through the entire structure. The [dog stinkhorn guide](/mushrooms/dog-stinkhorn-guide/) follows the gelatinous egg, folded internal column, olive gleba, and rapid emergence that distinguish a developmental stinkhorn sequence from uniform puffball tissue.
 
+Very small nest-like cups with loose disk-shaped contents are not miniature puffballs. Document those structures in place and compare the [fluted bird's nest fungus guide](/mushrooms/fluted-birds-nest-fungus-guide/), which explains peridioles, fluted cup walls, and rain-splash dispersal on woody debris.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/5243177). Taxonomic placement and nomenclature.

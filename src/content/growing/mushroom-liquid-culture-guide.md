@@ -184,6 +184,8 @@ Storage life depends on species, broth, temperature, container, and initial clea
 
 Label a use-by review date, minimize warm-cold cycling, and re-test after extended storage. Maintain a small verified master separately from working jars so routine syringe access does not expose the entire lineage.
 
+For a longer-lived collection, the [mushroom culture storage guide](/growing/mushroom-culture-storage/) explains master-to-working lineage, mapped refrigerator conditions, passage limits, matched recovery plates, and retirement gates. A liquid jar should remain a traceable working vessel rather than quietly becoming the only copy of a valuable culture.
+
 ## A batch record makes failures useful
 
 For every jar, record formula and weights, water source, container volume, lid type, processing parameters, inoculum source and volume, transfer date, temperature range, agitation, visual changes, agar plate identifiers, and final disposition. Photograph against consistent light without using photos as a sterility verdict.

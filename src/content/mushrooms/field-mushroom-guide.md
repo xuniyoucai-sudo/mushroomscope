@@ -153,6 +153,8 @@ Pale mushrooms are not interchangeable. The Missouri field guide specifically co
 
 A dark brown deposit supports an Agaricus-type hypothesis and is useful when paired with free gills and an intact base. It cannot resolve every Agaricus species, rule out every local lookalike, or overcome a contradictory habitat. Make the print from a mature cap on contrasting paper, label it with date and collection, and keep the cap with its own notes. Our [spore-print guide](/identification/how-to-make-spore-print/) explains the mechanics. Do not use a print to decide that a mixed basket is safe: each collection needs its own complete record.
 
+If the collection instead has persistent violet tones and grows through woodland litter, use the [blewit guide](/mushrooms/blewit-mushroom-guide/) to test pale spores, crowded attached gills, fibrous tissue, and the absence of rusty cortina evidence. That route should not be folded into an *Agaricus* decision simply because both mushrooms can fruit from ground-level debris.
+
 ## Audit the grassland before discussing food use
 
 “Pasture” is not one exposure category. A lightly managed meadow, a dog-exercise lawn, a roadside verge, a recently treated sports field, and a livestock concentration area may all grow similar-looking mushrooms but present different contamination histories. Record land use, recent pesticide or fertilizer application, runoff, road distance, grazing, and visible waste. These observations cannot prove chemical safety; they can identify reasons not to collect.
