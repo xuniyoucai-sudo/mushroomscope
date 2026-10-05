@@ -152,6 +152,8 @@ Then connect that record to the rest of the mushroom: fertile-surface type and a
 
 If characters conflict with the proposed species, keep the record unresolved. This page cannot authenticate a wild mushroom or determine whether it is safe to eat.
 
+Cap proportions can change rapidly during autolysis; the [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) documents an elongated cylindrical cap through expansion and timed deliquescence.
+
 ## References
 
 1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)

@@ -1,184 +1,184 @@
 ---
-title: "Nameko Mushroom: Taxonomy, Cultivation, Texture, and Safety"
-seoTitle: "Nameko Mushroom: Cultivation, Cooking & Identification"
-description: "Understand nameko taxonomy, glossy cap texture, East Asian hardwood ecology, controlled cultivation, cooking behavior, lookalikes, and food safety."
-keywords: ["nameko", "Pholiota microspora", "nameko identification"]
+title: "Nameko Mushroom: Glossy Caps, Hardwood Ecology, and Cultivation"
+seoTitle: "Nameko Mushroom Guide: Identification and Growing"
+description: "Understand nameko mushrooms through their amber gelatinous caps, clustered hardwood growth, Japanese food use, lookalikes, and cool-fruiting cultivation."
+keywords: ["nameko mushroom", "Pholiota microspora", "nameko identification", "growing nameko"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-30
-updatedDate: 2026-09-28
-revisionSummary: "Expanded Pholiota microspora synonym handling, gelatinous-cap development, hardwood provenance, strain traceability, cooking mechanics, and Galerina safety boundaries."
+publishDate: 2026-10-06
+coverImage: "../../assets/species/nameko-mushroom-editorial-v1.png"
+coverAlt: "AI editorial image of glossy amber nameko-like mushrooms clustered on a damp hardwood log"
+imageCredit: "Original AI editorial image created for MushroomScope"
+imageNote: "AI-generated editorial illustration; not a field photograph, voucher specimen, or identification evidence."
 draft: false
 featured: false
-coverImage: "../../assets/species/nameko-mushroom-editorial-v2.png"
-coverAlt: "Cluster of glossy amber nameko mushrooms fruiting from a damp hardwood log"
-imageCredit: "Original MushroomScope editorial illustration"
-imageNote: "Original AI-generated editorial image for habitat and growth-form context; not a field photograph or identification evidence."
-imageSource: "MushroomScope editorial production"
-imageLicense: "Original work; all rights reserved"
-relatedEntries: ["growing/mushroom-substrate-guide", "growing/mushroom-contamination-guide", "mushrooms/shiitake-mushroom-guide", "identification/mushroom-identification-safety-checklist"]
+relatedEntries: ["mushrooms/shiitake-mushroom-guide", "growing/grow-shiitake-logs", "identification/how-to-identify-mushrooms"]
 sources:
-  - title: "GBIF — Pholiota microspora"
-    url: "https://www.gbif.org/species/9751347"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1538424"
-  - title: "Hirao et al. — Genetic bottleneck in sawdust-cultivated nameko"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10012341/"
-  - title: "Lee et al. — Taxonomic study of Pholiota in Korea"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7717605/"
+  - title: "NCBI Taxonomy Browser — Pholiota microspora"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pholiota+microspora"
+  - title: "GBIF species search — Pholiota microspora"
+    url: "https://www.gbif.org/species/search?q=Pholiota%20microspora"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Nameko be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Nameko safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Nameko grow?"
-    answer: "Cultivated on hardwood sawdust and naturally associated with hardwood. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Nameko?"
-    answer: "The expected deposit is rusty to cinnamon brown, but print color overlaps among wood-growing brown-spored fungi and cannot confirm the species by itself."
-  - question: "Can Nameko be cultivated at home?"
-    answer: "Yes, with authenticated commercial culture and a supplier-specific hardwood-sawdust or log method. Do not clone unidentified wild material for food production."
+  - question: "Why are nameko caps naturally slippery?"
+    answer: "A gelatinous surface layer holds water and gives fresh caps their characteristic gloss; it is a species feature, not by itself evidence of spoilage."
+  - question: "Does every small amber mushroom on wood belong to nameko?"
+    answer: "No. Cap texture, gills, stem, veil remnants, spore color, substrate, geography, and microscopy may all be needed to separate wood-growing brown mushrooms."
+  - question: "Is nameko the same as honey fungus?"
+    answer: "No. Nameko is cultivated Pholiota microspora, while honey fungus refers to Armillaria species with different ecology and identification characters."
+  - question: "What fruiting conditions suit nameko?"
+    answer: "Authenticated commercial strains generally fruit in cool, humid conditions with fresh-air exchange, but the correct targets depend on strain and production system."
+  - question: "Can a web page confirm wild nameko for eating?"
+    answer: "No. Wild collections require regional expertise, and food safety also depends on provenance, freshness, storage, preparation, and individual tolerance."
 scientificName: "Pholiota microspora"
-commonNames: ["Nameko"]
-externalIds: { gbif: "9751347" }
-taxonomy:
-  kingdom: Fungi
-  phylum: Basidiomycota
-  class: Agaricomycetes
-  order: Agaricales
-  family: Strophariaceae
-  genus: Pholiota
+synonyms: ["Pholiota nameko"]
+commonNames: ["Nameko", "Butterscotch mushroom"]
+taxonomy: { kingdom: Fungi, phylum: Basidiomycota, class: Agaricomycetes, order: Agaricales, family: Strophariaceae, genus: Pholiota }
 identification:
-  summary: "Small amber-brown caps with a conspicuously gelatinous surface, pale gills that brown, and clustered growth. Attached gills progress from pale yellowish to brown. Pale stem with a temporary veil zone; clustered from wood."
-  keyFeatures: ["Small amber-brown caps with a conspicuously gelatinous surface, pale gills that brown, and clustered growth.", "Attached gills progress from pale yellowish to brown.", "Pale stem with a temporary veil zone; clustered from wood.", "Rusty brown."]
+  summary: "A clustered hardwood decomposer with small amber-brown caps coated in a conspicuous gelatinous layer, pale-to-brownish attached gills, and slender stems."
+  keyFeatures: ["Amber viscid cap", "Dense clusters on hardwood", "Attached gills", "Brown spore deposit", "Cool-season fruiting"]
 appearance:
-  cap: "Small amber-brown caps with a conspicuously gelatinous surface, pale gills that brown, and clustered growth."
-  hymenium: "Attached gills progress from pale yellowish to brown."
-  stem: "Pale stem with a temporary veil zone; clustered from wood."
-  flesh: "Pale flesh beneath a slippery cap surface."
-  sporePrint: "Rusty brown."
+  cap: "Small, convex then expanding, honey yellow to amber-brown, with a gelatinous surface that is especially conspicuous when fresh."
+  hymenium: "Crowded attached gills, initially pale and becoming tan to brown as spores mature."
+  stem: "Slender, pale above and often darker or finely textured below, with veil remnants variable by age and handling."
+  flesh: "Pale, comparatively thin in the cap, and firmer in the stem."
+  sporePrint: "Brown to rusty brown."
 habitat:
-  summary: "Cultivated on hardwood sawdust and naturally associated with hardwood."
-  regions: ["East Asia", "cultivated worldwide"]
-  substrates: ["hardwood sawdust", "hardwood logs"]
+  summary: "A saprotrophic fungus associated with decaying hardwood and cultivated on hardwood-based logs or blocks."
+  regions: ["East Asia", "cultivated internationally"]
+  substrates: ["decaying hardwood", "hardwood logs", "supplemented hardwood blocks"]
 season:
-  summary: "Fruiting timing varies with geography, weather, elevation, substrate, and host condition."
-  months: ["September", "October", "November"]
+  summary: "Outdoor fruiting favors cool, moist periods; controlled production varies with strain and system."
+  months: ["September", "October", "November", "December"]
 edibility:
-  status: edible
-  notes: "This database label is context, not remote clearance of a wild specimen; identity, preparation, spoilage, contamination, and individual reaction matter."
+  status: conditional
+  notes: "Widely cultivated as food, but a wild specimen is not cleared by resemblance to a market product."
 toxicity:
-  level: none-known
-  notes: "Risk includes misidentification and individual reaction. Consult current local toxicology guidance before any food decision."
+  level: moderate
+  notes: "Small brown wood-growing mushrooms include difficult and hazardous lookalikes; remote identification is insufficient."
 nutrition:
-  summary: "No species-specific nutrient value is asserted without a matched laboratory record; composition varies with material, substrate, water content, maturity, and preparation."
+  summary: "Values depend on strain, substrate, maturity, water content, processing, and whether measurements describe fresh or dried material."
 growingDifficulty:
   level: moderate
-  notes: "Cultivation assessment assumes authenticated culture and a documented species-specific method."
+  notes: "Reliable production uses authenticated culture, hardwood substrate, complete colonization, cool fruiting conditions, humidity, and controlled air exchange."
 similarSpecies:
-  - name: "Galerina marginata"
-    differences: "potentially deadly and never ruled out by cap color alone."
   - name: "Other Pholiota species"
-    differences: "many are scaly or bitter and require expert separation."
+    differences: "May differ in cap scales, gelatinous texture, stem ornamentation, spore dimensions, ecology, and regional occurrence."
+  - name: "Armillaria species"
+    differences: "Honey fungi differ in spore color, host relationship, veil characters, and rhizomorph ecology."
 ---
 
-## Identification overview
+Nameko is familiar in Japanese cooking as a small amber mushroom whose cap gives soups a silky body. That culinary identity comes from cultivated *Pholiota microspora*, often listed under the older name *P. nameko*. It should not be projected onto every glossy brown mushroom found on a log. This guide separates the cultivated product, the biological species concept, and the evidence required for a wild collection.
 
-Small amber-brown caps with a conspicuously gelatinous surface, pale gills that brown, and clustered growth. Attached gills progress from pale yellowish to brown. Pale stem with a temporary veil zone; clustered from wood. Pale flesh beneath a slippery cap surface. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A rusty brown. spore deposit is supporting evidence, never a species verdict.
+## What makes nameko a distinct search intent
 
-## Habitat and season
+Nameko is not simply “a slimy mushroom.” A useful profile connects the gelatinous cap layer with attached gills, brown spores, clustered hardwood growth, developmental change, and commercial cool-fruiting practice. The species page owns those questions; the [general identification workflow](/identification/how-to-identify-mushrooms/) explains the observation process, and the [shiitake log guide](/growing/grow-shiitake-logs/) covers a different hardwood crop.
 
-Cultivated on hardwood sawdust and naturally associated with hardwood. The documented range represented here includes East Asia and cultivated worldwide. Typical substrates or settings include hardwood sawdust and hardwood logs. Fruiting records commonly occur in September, October, November, but latitude, elevation, rainfall, and host condition shift the calendar.
+The accepted name used here is *Pholiota microspora*. Commercial literature and older references frequently use *Pholiota nameko*. Recording both names helps reconcile culture labels and databases, but a label without a traceable culture supplier is not proof of identity.
 
-Nameko records should connect each cluster to hardwood rather than merely noting trees in the background. Photograph the point where stems join a log, stump, buried root, or production substrate; retain bark, grain, and decay-stage evidence. In commerce, supplier identity and a lot label are stronger evidence than resemblance to a wild cluster. In the field, the Japanese cultivation name must not be projected onto every amber, viscid *Pholiota* found on wood.
+## Cap development and the gelatinous layer
 
-## Similar species
+Young caps are rounded and honey yellow to amber. They expand while retaining a smooth, conspicuously viscid surface. Water bound in that gelatinous layer produces the lacquered appearance and the thickening effect valued in soup. Rain can exaggerate gloss, while storage or dry air can dull it.
 
-- **Galerina marginata — potentially deadly and never ruled out by cap color alone.**
-- **Other Pholiota species — many are scaly or bitter and require expert separation.**
+Texture must be read alongside tissue condition. A fresh elastic cap with a clean aroma differs from a decomposing cap with collapsing flesh, sour odor, or uncontrolled bacterial film. “Slippery” is therefore neither a complete identification nor a spoilage verdict. Photograph several ages before handling transfers the surface layer.
 
-The important lookalike boundary is the broader set of brown-spored wood mushrooms. Record the cap before it dries, gill color through maturity, veil remnants, stem surface, spore deposit, host, and region. *Galerina marginata* is a high-consequence exclusion because it contains amatoxins; cap slime, color, or clustering cannot exclude it. Other *Pholiota* species can require microscopic or DNA evidence, so an uncertain wild collection stays out of food.
+## Gills, stem, veil, and spore evidence
 
-## Food and safety context
+The gills are crowded and attached to the stem. They begin pale, then take on tan or brown tones as spores mature. The stem is slender, often paler near the top and darker or finely textured below. Veil remnants can be more visible on protected young fruit bodies and easily lost from handled clusters.
 
-Nameko has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
+A brown to rusty-brown deposit is compatible with *Pholiota*, but many unrelated or neighboring brown-spored mushrooms overlap. Record the deposit on light and dark surfaces, then use a regional key. When the candidate set remains broad, spore size, shape, germ pore, cystidia, and cap-surface anatomy may be decisive.
 
-For severe vomiting, persistent diarrhea, confusion, jaundice, breathing difficulty, or any symptoms after an unidentified wild mushroom, contact emergency services or a poison center promptly. Keep uncooked material, trimmings, photographs, and meal details for professional identification.
+## Hardwood ecology and cluster architecture
 
-## Cultivation context
+Nameko is a decomposer of hardwood. Wild or outdoor records should show whether stems arise from exposed wood, buried wood, a stump, or the root zone of a declining tree. “On the ground” is too vague when a buried log may be present. Note tree species where it can be supported, decay stage, bark condition, moisture, and whether clusters recur on the same material.
 
-Nameko production should begin with an authenticated strain and a supplier-compatible hardwood-sawdust method. Record culture lot, substrate formula, moisture, container, heat treatment, inoculation rate, incubation temperature, surface treatment, fruiting temperature, humidity, fresh air, and harvest timing. The gelatinous cap surface changes rapidly with humidity and refrigeration, so log its condition at harvest rather than diagnosing it later from a dried sample. Quarantine abnormal blocks instead of mixing them into a food lot.
+Cluster density is useful context rather than proof. Cultivated blocks can produce tight bouquets because inoculated substrate offers a concentrated resource. Natural fruiting can be less uniform. A single separated cap at a market tells little about its original attachment or substrate.
 
-### Separate the market name from the scientific record
+## Distribution and the cultivation effect
 
-“Nameko” is a food and trade name, while *Pholiota microspora* is the current name used by NCBI for the organism treated here. Older cultivation papers and catalogs often use *Pholiota nameko*. NCBI lists that name as a heterotypic synonym, so a careful reader should search both names and preserve the name that each source actually used. This is more than clerical housekeeping: a package label, culture-bank accession, herbarium voucher, and DNA record can otherwise appear to describe different organisms when they are part of the same nomenclatural history.
+Nameko has an East Asian history and a strong cultivation footprint. Occurrence maps can mix verified wild observations, cultivated escapes, misidentifications, and records filed under different names. Treat a map as a reason to investigate, not a field mark.
 
-That synonymy does not make every glossy brown *Pholiota* a nameko. A Korean study of the genus found that cap color, scales, slime, and brown spores were not sufficient to separate all species; the researchers combined morphology with ITS sequence evidence. For a wild record, retain a voucher where collection is lawful, photograph several ages, document the wood, and use a current regional key. A supermarket punnet from a traceable producer answers a food-provenance question, not the identity of a similar wild cluster.
+Outside the expected range, document whether fruiting occurs near a mushroom farm, discarded blocks, imported hardwood, or landscaped material. Do not move colonized wood across jurisdictions. Fungi, insects, and other organisms can travel with substrate, and local biosecurity rules may apply.
 
-### Read the cap surface as a changing character
+## Separating nameko from lookalike groups
 
-Fresh nameko caps are notable for a gelatinous surface that gives the cultivated mushroom its slippery feel. The character changes with humidity, handling, refrigeration, and age. A wet cap can look brilliantly lacquered; a dried or chilled cap may look merely smooth. Young caps are convex and compact, while expanding caps expose more of the attached gills. The gills darken as brown spores mature, and remnants of a temporary veil may persist around the upper stem.
+Other *Pholiota* species may have scaly rather than smoothly gelatinous caps, different stem ornamentation, larger fruit bodies, or different wood preferences. Some retain obvious veil material; others do not. Age and rain can erase exactly the characters a photograph seems to emphasize.
 
-Record those characters as a sequence instead of a checklist detached from time. Photograph an untouched cluster, then one cap from above, the gill attachment, the full stem base, and a lengthwise section. Note whether the surface was naturally moist before handling. A rusty-brown deposit supports placement among brown-spored agarics but does not rule out dangerous wood-growing genera. The nameko cover on this page is an original AI editorial image; it illustrates growth form and habitat context, not a specimen or diagnostic standard.
+Honey fungi (*Armillaria*) are not nameko. They commonly have pale spore deposits rather than the brown deposit expected here, and their ecology can include pathogenic interaction with living trees and dark rhizomorphs. Small brown genera also include species that are not food. Never use cap color and log growth as a two-feature edibility test.
 
-### Use wood, region, and provenance together
+## A collection record that can be checked
 
-The cultivation and population literature describes *P. microspora* as a white-rot fungus of dead or decaying trees in cool-temperate deciduous forests of East Asia, with wild material represented from areas extending from the Himalayas and China to Japan. Commercial cultivation has carried authenticated strains far beyond that native ecological context. A fruiting block in North America therefore cannot be used as evidence that a nearby wild brown mushroom belongs to the same species.
+1. Photograph the undisturbed cluster and the entire woody substrate.
+2. Record date, place, weather, tree or wood type, and decay stage.
+3. Preserve young, middle-aged, and mature views.
+4. Document cap surface, gill attachment, stem base, and veil remnants.
+5. Make a spore deposit and record its color under neutral light.
+6. Use a current regional key; retain a lawful voucher when expert review is needed.
 
-For a field observation, record whether the wood is standing or fallen, visibly dead or still attached to a living tree, and identifiable as hardwood. Photograph bark, exposed wood, and nearby leaves without claiming a host from proximity alone. For cultivated material, record the supplier, culture or strain designation, substrate recipe, inoculation date, and lot. These two evidence paths should remain separate: landscape ecology supports a wild identification, while chain of custody supports a cultivated crop.
+This sequence prevents a culinary name from replacing evidence. The [mushroom safety checklist](/identification/mushroom-identification-safety-checklist/) adds contamination and decision limits that a taxonomic description cannot answer.
 
-## How sawdust cultivation changes the practical questions
+## Cultivated product versus wild collection
 
-Hirao and colleagues compared 50 cultivars with 73 wild strains from Japan and found substantially lower genetic diversity among the sawdust-cultivated material they sampled. Their result supports a severe founder bottleneck in that commercial population; it does not show that every nameko strain worldwide is genetically identical. For growers, the useful lesson is to record the exact culture rather than assuming that a species name predicts colonization speed, yield, cap color, or fruiting response.
+Commercial nameko from a traceable producer has a different evidence chain from an unknown log cluster. Packaging, lot information, storage history, and supplier controls matter. A cultivated appearance does not authenticate a discarded block or a mushroom fruiting beyond a production site.
 
-A controlled nameko project begins with authenticated spawn and a documented supplier method. Hardwood sawdust is the established commercial base described in the population study, but moisture, supplementation, container geometry, heat treatment, inoculation rate, incubation temperature, and fruiting conditions form one system. Copying a single temperature from an unrelated strain can be less reproducible than following the complete instructions supplied with the culture. The broader [mushroom substrate guide](/growing/mushroom-substrate-guide/) explains why water availability and particle structure must be considered together.
+For verified food, refrigerate promptly, keep it separated from raw contaminants, reject deteriorated material, and cook according to a reliable recipe. The cap coating may thicken liquid. Rinsing, blanching, or cooking changes texture, but no kitchen step corrects a poisonous misidentification.
 
-Keep a batch sheet with dry substrate weights, added water, treatment time, inoculation lot, dates, observations, and harvest mass. Compare only batches that differ in one planned variable. Unexpected green, black, pink, or orange growth; sour or putrid odor; unplanned insects; or fruit bodies that do not match the supplied culture are stop signals. Seal and remove a suspect unit instead of opening it over healthy blocks, and use the [contamination guide](/growing/mushroom-contamination-guide/) to document rather than rationalize abnormalities.
+## Fruiting on hardwood blocks and logs
 
-### Harvest for cap condition, not maximum size
+Nameko cultivation begins with authenticated culture and clean spawn. Hardwood sawdust blocks provide a controllable resource; logs trade speed and uniformity for a more seasonal outdoor cycle. Wood species, particle size, supplementation, moisture, sterilization or pasteurization method, inoculation rate, strain, and incubation temperature interact, so copying one isolated number is poor practice.
 
-Nameko's viscous cap is part of its culinary identity, so quality decisions differ from those for a dry-capped mushroom. Harvest clusters while caps are sound and stems are still tender rather than waiting for every cap to flatten. Use clean tools, avoid soaking the block, cool the crop promptly, and keep it in breathable food-safe packaging. Condensation trapped around damaged mushrooms accelerates quality loss; dryness, however, also changes the surface that cooks value.
+Colonization should be evaluated through the whole block, not just the visible surface. Record batch mass, dry-matter assumptions, inoculation date, culture lot, temperature history, contamination observations, and time to full colonization. A block that looks white at the bag wall may still be uneven inside.
 
-Never treat slime alone as proof of spoilage, because a naturally gelatinous surface is expected. Instead assess provenance, elapsed storage time, odor, tissue integrity, discoloration, and package condition together. Discard mushrooms with unexplained foul odor, leaking decay, extensive tissue collapse, or a recall connection. If a retailer supplies handling instructions, those take precedence over generic storage advice.
+## Managing cool fruiting conditions
 
-## Cook nameko by managing its soluble coating
+Commercial strains generally need a cooler fruiting phase than warm incubation. Humidity protects small primordia from drying, while fresh-air exchange limits carbon-dioxide accumulation. Those controls pull against each other: excessive ventilation dries surfaces, and sealed humid air can produce weak form and condensation.
 
-Nameko is commonly valued in soups and other moist dishes because the cap coating can thicken the surrounding liquid and create a silky texture. That behavior is not the same as raw spoilage slime. Rinsing briefly removes debris while preserving more of the surface character; prolonged soaking can dilute flavor and waterlog the cluster. Separate tightly joined stems so grit at the base can be removed, then cook the mushrooms thoroughly in a clean pan or simmering broth.
+Use calibrated sensors at block height and record actual room response after misting or ventilation changes. Do not spray developing clusters forcefully. Compare one variable at a time across matched blocks, because strain behavior and room geometry can make copied schedules unreliable.
 
-For soup, add nameko when the broth is ready and simmer until the caps and stems are tender; vigorous reduction concentrates the liquid, so season after observing the final thickness. For a drier sauté, use a broad hot pan in small batches. Surface water must evaporate before browning can occur, and crowding turns the method into steaming. A small amount of oil can carry aroma, but very high heat may scorch sugars before the cap coating releases cleanly.
+## Harvest, cooling, and quality
 
-Nameko should not be substituted mechanically for every mushroom in a recipe. Its compact size and slippery texture work differently from the broad, meaty caps described in the [shiitake species guide](/mushrooms/shiitake-mushroom-guide/). Use the intended texture as the decision: broth and glossy sauces benefit from the coating, while a crisp preparation needs more drainage, surface area, and heat management.
+Harvest timing affects cap expansion, surface condition, shelf life, and culinary texture. Record cluster mass and developmental stage rather than relying on a generic day count. Cut cleanly without tearing a large crater from the block, remove damaged tissue, and cool promptly.
 
-## Define the lookalike safety boundary
+Condensation inside packaging can accelerate quality loss. Breathable or purpose-designed packaging, stable refrigeration, clean handling, and short inventory cycles matter more than cosmetic gloss. Keep lot records so a storage failure can be traced to harvest, cooling, or packaging rather than blamed on the mushroom’s normal mucilage.
 
-The highest-consequence comparison is not a convenient visual twin but any brown-spored wood-growing mushroom that could be mistaken for nameko by an inexperienced collector. *Galerina marginata* contains amatoxins and cannot be excluded by cap color, clustering, or a photograph. Other *Pholiota* species also overlap in brown color, scales, wood habitat, and spore deposit. Regional species sets differ, and diagnostic microscopy or DNA may be required.
+## Evidence and safety boundary
 
-Do not taste a wild specimen, and do not use the existence of cultivated edible nameko as evidence that a wild cluster is edible. Apply the site's [identification safety checklist](/identification/mushroom-identification-safety-checklist/), retain complete specimens, and obtain in-person assessment from a qualified local identifier. If anyone develops symptoms after eating a wild mushroom, contact emergency services or the relevant poison center promptly and retain uncooked material, photographs, and meal details.
+Taxonomy databases support name and lineage; they do not validate a photographed meal. Cultivation reports can describe a particular strain and substrate without establishing universal targets. Nutrition results also depend on fresh-versus-dry basis, analytical method, and production material.
 
-## Evidence limits and editorial status
+This page cannot confirm a wild mushroom for eating. If illness follows mushroom consumption, contact local emergency services or a poison center promptly and retain uncooked material, packaging, photographs, and timing information. Do not wait for an online identification.
 
-This page was reviewed editorially against the cited taxonomy, cultivation, taxonomic-study, poison-response, and food-handling sources. It has not been reviewed by a named mycologist, clinician, or food-safety professional. The cultivation paper supports claims about the sampled Japanese populations and production history; it does not establish universal strain performance. Laboratory or compositional research on nameko should not be converted into prevention or treatment claims.
+The cover is an original AI editorial image created for this page. It was checked against the site’s natural-light species covers for restrained color, coherent caps, stems, substrate, crop, and absence of text or watermark. It is not a field record. Editorial review only; no named clinician or field mycologist reviewed this article.
 
-Corrections are logged through substantive updates to the page. Readers who find a nomenclatural change, inaccessible source, or unsafe ambiguity should provide the exact passage and a primary or professional reference. The editorial team will preserve the original publication date and change the update date only when the evidence, structure, or practical value is materially revised.
+## Frequently asked questions
 
-## How to document a find
+### Is the glossy coating removed before cooking?
 
-1. Photograph the untouched cluster and its precise hardwood or cultivation-substrate attachment.
-2. Record whether the cap was naturally wet, tacky, or drying before handling, then photograph young and expanded caps.
-3. Document gill maturation, veil remnants, complete stems, and a measured rusty-brown spore deposit when appropriate.
-4. Preserve cultivated package, supplier, culture, and lot information separately from any wild comparison.
-5. Do not taste or clone a wild brown-spored wood mushroom while its identity remains unresolved.
+Preparation varies by dish and producer. The coating is often retained because it contributes body, but verified product quality and recipe instructions should guide handling.
+
+### Can nameko grow on any sawdust?
+
+No. Hardwood species, particle distribution, supplementation, moisture, processing, culture, and room conditions influence performance. A matched small trial is safer than assuming equivalence.
+
+### Does a brown spore print prove nameko?
+
+No. It narrows the comparison but overlaps many brown-spored fungi. Structure, ecology, geography, and sometimes microscopy remain necessary.
+
+### Why does market nameko look more uniform than wild mushrooms?
+
+Selected strains, concentrated substrate, controlled climate, synchronized initiation, and harvest grading reduce variation. Uniformity is a production outcome, not a wild identification mark.
+
+### Is nameko a medicinal mushroom?
+
+It is best treated here as a cultivated food species. Laboratory findings do not establish prevention or treatment in people, and this page makes no medical recommendation.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Pholiota microspora species record](https://www.gbif.org/species/9751347). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [Taxonomy Browser: *Pholiota microspora*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1538424). Current-name, synonym, lineage, and nomenclature checkpoint.
-3. Hirao AS, et al. [Japanese nameko mushrooms produced via sawdust cultivation exhibit a severe genetic bottleneck](https://pmc.ncbi.nlm.nih.gov/articles/PMC10012341/). *Mycoscience.* 2022;63(3):79–87. Cultivation history, population sampling, and wild-versus-cultivated diversity evidence.
-4. Lee H, et al. [Taxonomic study of the genus *Pholiota* in Korea](https://pmc.ncbi.nlm.nih.gov/articles/PMC7717605/). *Mycobiology.* 2020. Morphological overlap and ITS-supported separation context.
-5. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-6. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+1. [NCBI Taxonomy Browser — *Pholiota microspora*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pholiota+microspora). Lineage and name checkpoint.
+2. [GBIF species search — *Pholiota microspora*](https://www.gbif.org/species/search?q=Pholiota%20microspora). Occurrence and naming context; individual records require verification.
+3. [NAMA — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative poisoning-response guidance.
+4. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for verified produce.
 
-*Editorial review: August 30, 2026. No named expert review was performed. Taxonomy, regional range, and poison-response contacts should be rechecked at every substantive update.*
+Sources were assigned to specific claims rather than treated as endorsements. Editorial review completed October 6, 2026; no named clinical expert or field mycologist independently reviewed the page.

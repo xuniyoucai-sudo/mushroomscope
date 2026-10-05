@@ -201,6 +201,8 @@ Taxonomy note: field *Agaricus* names can be applied broadly in older sources, s
 
 Large anise-scented grassland collections require a different comparison path. The [horse mushroom guide](/mushrooms/horse-mushroom-guide/) documents its double ring, timed yellowing and complete-base record without treating those traits as food clearance.
 
+Do not transfer field-mushroom characters to a red-capped mulch fruiting: the [wine cap mushroom guide](/mushrooms/wine-cap-mushroom-guide/) distinguishes *Stropharia* by gill maturation, cogwheel ring, dark purple-brown spores, and wood-chip ecology.
+
 ## References
 
 Wood-growing clusters require a different evidence set: the [honey fungus guide](/mushrooms/honey-fungus-mushroom-guide/) combines host-zone mapping, rings, white spores, rhizomorph context, and tree-risk boundaries.

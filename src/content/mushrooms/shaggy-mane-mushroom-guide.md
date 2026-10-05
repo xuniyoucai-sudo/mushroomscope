@@ -6,6 +6,7 @@ keywords: ["shaggy mane mushroom", "Coprinus comatus", "shaggy mane identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-19
+updatedDate: 2026-10-06
 coverImage: "../../assets/species/shaggy-mane-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of white shaggy mane mushrooms progressing from cylindrical caps to black deliquescent margins"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -191,7 +192,7 @@ NAMA notes that onset timing can help clinicians evaluate syndromes, but readers
 
 The cover is an original AI editorial illustration showing the intended sequence from white cylindrical scaled caps to blackened margins. It was checked for clarity, separation from smooth common inky caps, natural habitat, and absence of text or watermark. It is not a voucher image and cannot confirm a specimen.
 
-Review is editorial; no named clinical expert reviewed this draft. Taxonomy, toxicity guidance, and emergency contacts require a final pre-publication check.
+Review is editorial; no named clinical expert or field mycologist reviewed this page. Current local toxicology and emergency guidance takes precedence over general web information.
 
 ## Frequently asked questions
 
@@ -215,8 +216,32 @@ It can suggest comparisons but cannot verify the base, spores, microscopic trait
 
 Growth pattern, soil disturbance, mixed species, and developmental stages can disappear once fruit bodies are separated.
 
+## Quantify deliquescence instead of calling it melting
+
+Deliquescence is a developmental sequence in which the cap margin and gills digest into dark fluid as spores mature. Mark time zero at collection, then photograph the same cap at fixed intervals under stable temperature and light. Measure the blackening front from the margin and note whether gills are white, pink, gray, or black.
+
+Temperature and handling change the rate. A cap left warm in a sealed container cannot be compared fairly with one cooled and ventilated. Record storage conditions and avoid using a collapsed specimen to infer its original proportions. A timed sequence turns a memorable process into repeatable evidence.
+
+## Separate shaggy scales from attached debris
+
+The white-to-tan shaggy patches are remnants of cap tissue arranged over the tall cylindrical surface. Soil or grass stuck to a wet cap can imitate irregular scales, while rain can flatten real patches. Photograph before brushing and again after gently clearing a small area. The underlying surface, attachment, and developmental pattern carry more weight than one adjective.
+
+Measure cap height as well as width. Shaggy mane's young elongated outline differs from many shorter ink caps, but proportions change quickly as the margin lifts. A series containing unopened, expanding, and deliquescing specimens makes that transition explicit.
+
+## Build a disturbed-ground site profile
+
+Lawns, path edges, compacted soil, parks, and recently disturbed ground are common contexts. Record mowing, irrigation, imported soil, buried wood, animal activity, and distance to roads or treated turf. Those observations help explain fruiting and independently assess whether a site is unsuitable for food collection.
+
+Repeated visits can reveal whether fruit bodies trace a buried organic layer, an irrigation edge, or a compaction boundary. Ecology can be mapped while specimens remain in place. The result is more informative than a generic “in grass” label and avoids turning every observation into a harvest recommendation.
+
+## Treat alcohol advice as a species-specific claim
+
+Warnings about alcohol are strongly associated with coprine-containing *Coprinopsis* species, especially common ink cap, and should not be copied mechanically onto shaggy mane. That does not make a remotely identified meal safe. It means the taxonomic distinction must be resolved rather than replaced with a blanket rule.
+
+If identity is uncertain, abstaining from experimentation is conservative. If symptoms occur after any mushroom meal, contact a poison center or medical service and report every food, drink, medication, and time point. Do not use a web comparison to self-diagnose a syndrome.
+
 ## References
 
 GBIF and NCBI support name and lineage checks. NAMA supports poisoning-syndrome and alcohol-interaction boundaries. FDA supports handling of verified produce. The guide avoids a universal edibility or alcohol promise because identity, reports, and individual circumstances vary.
 
-*Draft editorial review: August 30, 2026. Recheck accepted taxonomy, regional comparisons, and current toxicology guidance before publication.*
+*Editorial review updated October 6, 2026. No named field mycologist or clinician independently reviewed this page.*

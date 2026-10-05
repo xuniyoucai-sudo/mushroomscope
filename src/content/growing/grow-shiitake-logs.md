@@ -171,6 +171,8 @@ Group results by one variable at a time. If two tree species were used, keep str
 
 Log cultivation rewards patience and repeatable practice. Sound wood, authenticated spawn, prompt complete inoculation, moisture-aware shade, and conservative contamination decisions matter more than forcing a universal timeline.
 
+Growers comparing hardwood crops can use the [nameko guide](/mushrooms/nameko-mushroom-guide/) to separate nameko's viscid clustered fruiting and cool-fruiting block or log variables from this shiitake-log workflow.
+
 ## References
 
 1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)

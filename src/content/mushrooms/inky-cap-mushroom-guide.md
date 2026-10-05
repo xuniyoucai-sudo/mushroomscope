@@ -250,6 +250,8 @@ The clinically important claim concerns coprine-associated reactions documented 
 
 Record any suspected exposure with the mushroom source, amount, preparation, time eaten, alcohol timing, symptom onset, medications, and retained uncooked material. Flushing, headache, palpitations, nausea, or faintness after an uncertain mushroom meal warrants prompt professional advice; severe symptoms require emergency care. This page provides no clearance period and no food recommendation. NAMA's toxicology guidance and local poison services are the appropriate decision resources, while a photographed cap remains identification evidence rather than a medical diagnosis.
 
+The [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) follows the tall scaled cap and white-to-pink-to-black gill sequence while keeping alcohol claims specific to the correct ink-cap comparison.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Coprinopsis atramentaria* species record](https://www.gbif.org/species/5242740). Used to check the accepted name and occurrence-record context; a database record does not identify a reader's specimen.

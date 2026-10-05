@@ -129,6 +129,8 @@ Never use pores, a blue reaction, a popular rule of thumb, an app score, or a so
 
 If someone may have eaten an unidentified mushroom, contact local emergency services or a poison center promptly. Preserve uncooked material, leftovers, packaging, and photographs only if it is safe to do so. Do not wait for an online identification before seeking help.
 
+The [slippery jack guide](/mushrooms/slippery-jack-mushroom-guide/) applies pore, veil, glandular-dot, and timed weather observations to a pine-associated *Suillus* species.
+
 ## References
 
 1. [USDA Forest Service — Commercially Harvested Mushrooms of the Pacific Northwest](https://www.fs.usda.gov/pnw/pubs/pnw_gtr309.pdf)

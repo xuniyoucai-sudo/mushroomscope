@@ -200,6 +200,8 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 
 For claims about cooked food, lentinan, cholesterol, or dermatitis, the [shiitake health-benefits evidence guide](/health/shiitake-health-benefits/) separates the whole mushroom from extracts and defined preparations.
 
+For another East Asian hardwood decomposer, the [nameko mushroom guide](/mushrooms/nameko-mushroom-guide/) explains how gelatinous amber caps, brown spores, cluster development, and cool-fruiting production differ from shiitake.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

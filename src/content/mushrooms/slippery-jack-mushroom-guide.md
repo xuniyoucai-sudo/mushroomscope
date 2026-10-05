@@ -6,6 +6,7 @@ keywords: ["slippery jack", "Suillus luteus", "slippery jack identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-20
+updatedDate: 2026-10-06
 draft: false
 featured: false
 coverImage: "../../assets/species/slippery-jack-mushroom-editorial-v2.png"
@@ -136,9 +137,9 @@ Use the [bolete identification guide](/identification/bolete-identification-guid
 
 ## Editorial and evidence limits
 
-This stored draft has editorial review only and no named mycologist or clinician. It does not promise edibility from a checklist or recommend transplantation. Before publication, recheck taxonomy, introduced-range records, sources, related links, image disclosure, and local poison guidance while keeping `draft: true`.
+This page has editorial review only and no named mycologist or clinician. Databases support nomenclature and distribution context, not the identity or edibility of a photographed collection.
 
-## Publication-ready questions to answer from the record
+## Questions the field record should answer
 
 **Does every slimy brown bolete belong to *S. luteus*?** No. Rain alters cap texture and multiple *Suillus* species are viscid. Confirm yellow pores, ring history, glandular dots, pine relationship, spores, and region.
 
@@ -148,7 +149,7 @@ This stored draft has editorial review only and no named mycologist or clinician
 
 **Why mention plantations?** Pine-associated fungi can travel with planted hosts. That history helps explain occurrence but does not prove identity or authorize moving soil and seedlings.
 
-**What must happen before publication?** Verify introduced-range statements, confirm all linked pages are public, check FAQ visibility and Schema, inspect the accepted second-generation cover rather than the rejected overturned-specimen image, set a deliberate current publish date, and run the complete production build and internal-link audit.
+**What makes the record reviewable?** Connected photographs, measurements, pine evidence, a timed section, a spore deposit, locality, date, and an explicit list of contradictory characters.
 
 ## Example rain-to-dry observation sequence
 
@@ -158,9 +159,7 @@ Use a separate specimen for a section and spore deposit. Time every color observ
 
 For introduced populations, add plantation age, pine species, nearby nursery or soil movement where known, and local biosecurity rules. Do not publicize sensitive sites or encourage transplantation. These records make the page relevant to ecology and invasion pathways while keeping food advice conservative and subordinate to verified identification.
 
-The release editor should verify that “conditional” edibility is explained rather than used as a recommendation. Keep reaction, specimen condition, preparation tradition, and regional guidance visible together. Check that the ring is described as a character that can be damaged, not a perfect pass/fail test, and that cap slime is never equated with spoilage or safety. These distinctions are the page’s unique value beyond a generic bolete checklist.
-
-Finally, confirm that no internal link points to a draft and that the page does not compete with the general bolete guide. The species page owns the *S. luteus* and pine-plantation intent; the guide owns general pore and staining technique.
+“Conditional” edibility is not a recommendation. Reaction history, specimen condition, preparation tradition, and regional guidance belong beside the name. The ring is a damage-prone developmental character, not a perfect pass/fail test, and cap slime is never equivalent to either spoilage or safety. This species page owns the *S. luteus* and pine-plantation intent; the general bolete guide owns transferable pore and staining technique.
 
 ## A rain-to-dry slippery jack record
 
@@ -178,6 +177,24 @@ The stem above and below the ring can provide different information. Glandular d
 
 Introduced pine plantations complicate range assumptions. A record far outside the fungus’s presumed native distribution may still be plausible where compatible pines and nursery soil moved together. Note pine needle arrangement, plantation age, landscaping history, and whether fruit bodies follow individual root zones. This biogeographic context supports a hypothesis but does not replace regional keys or microscopy within difficult *Suillus* groups.
 
+## Map host confidence instead of guessing from proximity
+
+A useful host record distinguishes evidence levels. “Beneath a pine canopy” is weak where roots from several trees overlap. Needles still attached to twigs, cones, buds, bark, a planting plan, and repeated fruiting inside one root zone build a stronger case. Photograph that evidence during the same visit and state what remains uncertain.
+
+For a plantation transect, mark each fruiting point, distance to candidate trunks, pine species, stand age, slope, disturbance, and recent rainfall. Repeating the route shows whether fruiting tracks one planted line or merely the wettest ground. This adds ecological value without pretending proximity proves a mycorrhizal partner.
+
+## Measure pore and ring changes on a timed series
+
+Select intact young, middle-aged, and mature specimens from one population. Measure cap width, stem dimensions, pore density in a fixed area, ring position, and the height of glandular dots. Photograph the same neutral background and note elapsed time after sectioning. The aim is to distinguish development from interspecific difference.
+
+Young pores may be small and bright yellow; older tubes deepen in color and become easier to damage. A veil moves from closed membrane to skirt and sometimes a collapsed band. Recording that sequence prevents the oldest specimen from defining the population and gives a regional expert evidence that survives after fresh texture is lost.
+
+## Keep plantation ecology separate from food claims
+
+An introduced population can be ecologically notable even when no food decision is made. Mapping planted pines, nursery movement, soil disturbance, and fruiting weather answers a biogeography question. Food suitability adds separate questions about identity, site contamination, deterioration, preparation, and personal response.
+
+Do not collapse those decisions. A documented population can be valuable without harvest, while a known species from a polluted roadside can remain unsuitable for food.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Suillus luteus species record](https://www.gbif.org/species/7777157). Name and occurrence data supporting its broad introduced distribution with pines.
@@ -185,4 +202,4 @@ Introduced pine plantations complicate range assumptions. A record far outside t
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
 
-*Editorial status: no named mycologist reviewed this draft. Recheck the local *Suillus* set, introduced range and food-safety guidance before release.*
+*Editorial review updated October 6, 2026. No named field mycologist or clinician independently reviewed this page.*

@@ -197,6 +197,8 @@ Plot each bolete relative to trunks and repeat the map after later flushes. A co
 
 The name “pine bolete” is applied unevenly to members of the *Boletus edulis* complex. Record the regional key used, cap surface when wet and dry, pore color by age, reticulation distribution, reaction grid, host neighborhood, and spore measurements. Stop at complex level when those data do not resolve a local species concept. A precise uncertain record is preferable to transferring a European name to a superficially similar collection elsewhere.
 
+For a different pine partner, compare the [slippery jack guide](/mushrooms/slippery-jack-mushroom-guide/), where a viscid cap, yellow pores, ring development, and glandular dots define the field problem.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Boletus pinophilus species record](https://www.gbif.org/species/5954949). Accepted-name and Eurasian occurrence context used to limit geographic claims.

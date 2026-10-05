@@ -1,179 +1,193 @@
 ---
-title: "Stropharia rugosoannulata: Wine cap Species Guide"
-seoTitle: "Wine cap (Stropharia rugosoannulata) Species Guide"
-description: "Learn Wine cap identification, habitat, season, lookalikes, safety, food context, and cultivation limits with current taxonomy and sources."
-keywords: ["wine cap", "Stropharia rugosoannulata", "wine cap identification"]
+title: "Wine Cap Mushroom: Wood-Chip Ecology and Identification"
+seoTitle: "Wine Cap Mushroom Guide: Identification and Growing"
+description: "Identify wine cap mushrooms by burgundy caps, gray-purple gills, cogwheel rings, dark spores, wood-chip habitat, and managed garden-bed cultivation."
+keywords: ["wine cap mushroom", "Stropharia rugosoannulata", "wine cap identification", "growing wine caps"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
-publishDate: 2026-08-22
-updatedDate: 2026-09-27
+publishDate: 2026-10-06
+coverImage: "../../assets/species/wine-cap-mushroom-editorial-v1.png"
+coverAlt: "AI editorial image of burgundy wine cap-like mushrooms with pale stems and rings in hardwood chips"
+imageCredit: "Original AI editorial image created for MushroomScope"
+imageNote: "AI-generated editorial illustration; not a field photograph, voucher specimen, or identification evidence."
 draft: false
 featured: false
-coverImage: "../../assets/species/wine-cap-mushroom-editorial-v2.png"
-coverAlt: "Burgundy wine cap mushrooms with a textured ring growing in a hardwood-chip bed"
-imageCredit: "Original MushroomScope editorial illustration (AI-generated)"
-imageNote: "Visual context only; this AI-generated editorial image is not evidence for identifying a wild specimen."
-imageSource: "MushroomScope editorial production"
-imageLicense: "Original work; all rights reserved"
-relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "growing/mushroom-substrate-guide", "growing/outdoor-mushroom-bed"]
+relatedEntries: ["growing/mushroom-growing-beginners", "identification/how-to-identify-mushrooms", "mushrooms/field-mushroom-guide"]
 sources:
   - title: "GBIF — Stropharia rugosoannulata"
-    url: "https://www.gbif.org/species/2533347"
-  - title: "NCBI Taxonomy Browser"
-    url: "https://www.ncbi.nlm.nih.gov/taxonomy"
+    url: "https://www.gbif.org/species/2533275"
+  - title: "NCBI Taxonomy Browser — Stropharia rugosoannulata"
+    url: "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Stropharia+rugosoannulata"
   - title: "NAMA — Mushroom Poisoning Syndromes"
     url: "https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/"
   - title: "FDA — Selecting and Serving Produce Safely"
     url: "https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely"
 faq:
-  - question: "Can Wine cap be identified from one photograph?"
-    answer: "No. Identification requires the complete specimen, fertile surface, attachment, substrate, habitat, region, developmental stage, and sometimes microscopy or DNA."
-  - question: "Is wild Wine cap safe to eat?"
-    answer: "This page cannot clear a wild specimen for food. Obtain in-person confirmation from a qualified local identifier and follow local guidance; cooking cannot make a poisonous lookalike safe."
-  - question: "Where does Wine cap grow?"
-    answer: "A saprotroph of wood chips, mulch, and rich garden beds. Regional records and host associations should be checked before applying this summary to a local collection."
-  - question: "What is the spore print of Wine cap?"
-    answer: "The expected deposit is purple-brown, but print color overlaps among fungi and cannot confirm this species by itself."
-  - question: "Can Wine cap be cultivated at home?"
-    answer: "Authenticated commercial culture can be cultivated with a proven supplier method; keep clean batch records and discard suspect material."
+  - question: "Which character is most useful for recognizing wine caps?"
+    answer: "Use the combined pattern of a burgundy-to-tan cap, gray-lilac then purple-brown gills, thick pale stem, cogwheel-like ring, dark purple-brown spores, and wood-chip habitat."
+  - question: "Do wine cap mushrooms stay burgundy?"
+    answer: "No. Sun, rain, and age can fade caps toward tan, so color must be supported by gills, ring, spores, stem, substrate, and region."
+  - question: "Can wine caps grow in garden mulch?"
+    answer: "Authenticated spawn can colonize suitable hardwood-chip beds with adequate moisture and soil contact, but climate, chip condition, bed depth, competition, and maintenance affect results."
+  - question: "Are wine caps the same as field mushrooms?"
+    answer: "No. Field mushrooms belong to Agaricus and differ in cap, ring, gill development, ecology, and microscopic characters."
+  - question: "Can a photo prove a wild wine cap is edible?"
+    answer: "No. A regional identification and assessment of site contamination, freshness, preparation, and individual suitability are still required."
 scientificName: "Stropharia rugosoannulata"
-commonNames: ["Wine cap"]
-externalIds: { gbif: "2533347" }
-taxonomy:
-  kingdom: Fungi
-  phylum: Basidiomycota
-  class: Agaricomycetes
-  order: Agaricales
-  family: Strophariaceae
-  genus: Stropharia
+commonNames: ["Wine cap", "King stropharia", "Garden giant"]
+taxonomy: { kingdom: Fungi, phylum: Basidiomycota, class: Agaricomycetes, order: Agaricales, family: Strophariaceae, genus: Stropharia }
 identification:
-  summary: "Broad burgundy to reddish-brown caps that fade with age, pale crowded gills becoming purple-brown, and a substantial ring. True gills begin pale and mature toward purple-brown. Stout pale stem with a persistent cogwheel-like ring."
-  keyFeatures: ["Broad burgundy to reddish-brown caps that fade with age, pale crowded gills becoming purple-brown, and a substantial ring.", "True gills begin pale and mature toward purple-brown.", "Stout pale stem with a persistent cogwheel-like ring.", "Purple-brown."]
+  summary: "A robust wood-chip mushroom with wine-red young caps, gray-lilac to purple-brown gills, a thick pale stem, toothed ring, and dark purple-brown spores."
+  keyFeatures: ["Burgundy young cap", "Gray-lilac maturing gills", "Cogwheel-like ring", "Purple-brown spores", "Wood-chip habitat"]
 appearance:
-  cap: "Broad burgundy to reddish-brown caps that fade with age, pale crowded gills becoming purple-brown, and a substantial ring."
-  hymenium: "True gills begin pale and mature toward purple-brown."
-  stem: "Stout pale stem with a persistent cogwheel-like ring."
-  flesh: "Firm white flesh; cap color may fade tan in sun."
-  sporePrint: "Purple-brown."
+  cap: "Broad and convex then flatter, wine red to burgundy when young, often fading tan with weather and age."
+  hymenium: "Crowded attached gills, pale gray-lilac when young and dark purple-brown at maturity."
+  stem: "Thick, pale, often enlarged toward the base, with a substantial ring whose upper edge may appear toothed or cogwheel-like."
+  flesh: "Firm and white, with little dramatic color change when cut."
+  sporePrint: "Dark purple-brown."
 habitat:
-  summary: "A saprotroph of wood chips, mulch, and rich garden beds."
-  regions: ["Europe", "North America", "introduced elsewhere"]
-  substrates: ["hardwood chips", "mulch", "rich soil"]
+  summary: "A saprotrophic decomposer of hardwood chips, woody garden mulch, and rich disturbed ground."
+  regions: ["Europe", "North America", "temperate regions with cultivation or introduction"]
+  substrates: ["hardwood chips", "woody mulch", "compost-rich soil", "garden paths"]
 season:
-  summary: "Fruiting timing varies with geography, weather, elevation, substrate, and host condition."
-  months: ["May", "June", "July", "August", "September", "October"]
+  summary: "Often fruits after moist mild weather, commonly in spring or autumn depending on region."
+  months: ["April", "May", "June", "September", "October"]
 edibility:
-  status: edible
-  notes: "This database label is context, not remote clearance of a wild specimen; identity, preparation, spoilage, contamination, and individual reaction matter."
+  status: conditional
+  notes: "Cultivated and reported as edible, but this page does not approve a wild collection."
 toxicity:
-  level: none-known
-  notes: "Risk includes misidentification and individual reaction. Consult current local toxicology guidance before any food decision."
+  level: moderate
+  notes: "Misidentification, contaminated urban mulch, deterioration, and individual gastrointestinal response remain practical risks."
 nutrition:
-  summary: "No species-specific nutrient value is asserted without a matched laboratory record; composition varies with material, substrate, water content, maturity, and preparation."
+  summary: "Species composition varies by strain, substrate, maturity, water content, and analytical basis; no universal value is asserted."
 growingDifficulty:
   level: easy
-  notes: "Cultivation assessment assumes authenticated culture and a documented species-specific method."
+  notes: "Outdoor chip beds are accessible but still depend on authenticated spawn, suitable hardwood, moisture, soil contact, climate, and maintenance."
 similarSpecies:
-  - name: "Leratiomyces ceres"
-    differences: "usually smaller and bright red-orange on wood chips."
+  - name: "Agaricus species"
+    differences: "Differ in gill progression, spore color nuance, bruising or odor patterns, ecology, and ring structure."
   - name: "Other Stropharia species"
-    differences: "spore color and ring details require a current key."
+    differences: "Often differ in size, cap texture, ring development, substrate, and microscopic features."
 ---
 
-## Identification overview
+Wine cap is a large mulch-decomposing mushroom whose young burgundy cap makes it conspicuous in garden beds. The color is memorable but temporary. A defensible identification also needs the developing gill color, substantial stem, distinctive ring, dark purple-brown spore deposit, exact substrate, and a regional comparison set.
 
-Broad burgundy to reddish-brown caps that fade with age, pale crowded gills becoming purple-brown, and a substantial ring. True gills begin pale and mature toward purple-brown. Stout pale stem with a persistent cogwheel-like ring. Firm white flesh; cap color may fade tan in sun. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A purple-brown spore deposit is supporting evidence, never a species verdict.
+## Recognition at a glance
 
-## Habitat and season
+Young fruit bodies often have rounded wine-red caps and a veil enclosing pale gray gills. Expansion breaks the veil and leaves a prominent ring on a thick whitish stem. The gills progress through gray-lilac toward deep purple-brown as spores mature. Old caps may be broad and tan enough to lose the feature behind the common name.
 
-A saprotroph of wood chips, mulch, and rich garden beds. The documented range represented here includes Europe and North America and introduced elsewhere. Typical substrates or settings include hardwood chips and mulch and rich soil. Fruiting records commonly occur in May, June, July, August, September, October, but latitude, elevation, rainfall, and host condition shift the calendar.
+Use several ages from one fruiting rather than a single ideal specimen. The [complete identification workflow](/identification/how-to-identify-mushrooms/) explains how to connect field photographs, sections, deposits, and habitat without treating one feature as a password.
 
-Wine caps often fruit where hardwood chips meet rich soil, so “on the ground” is not a sufficient substrate record. Pull mulch aside beside—not through—the cluster and note chip species if known, chip age, depth, irrigation, compost additions, and whether white rope-like mycelium binds the bed. Photograph stems emerging through the chips and record whether the bed was intentionally inoculated. A managed mulch bed can explain abundance, but it does not authenticate every brown-capped mushroom growing there.
+## Cap color changes with weather and age
 
-## Similar species
+Fresh young caps range from red-brown through burgundy or port-wine tones. Sun exposure and heavy rain can bleach them toward ochre or tan. The surface may be slightly tacky when moist but is not defined by a thick gelatinous coat. Margin fragments can reflect a recently torn veil.
 
-- **Leratiomyces ceres — usually smaller and bright red-orange on wood chips.**
-- **Other Stropharia species — spore color and ring details require a current key.**
+Record color in neutral daylight with a scale. Camera saturation can exaggerate red, while forest shade can shift it toward purple. A mixed group of red buttons and faded adults is more informative than a tightly cropped cap photograph.
 
-Separate wine caps from other mulch inhabitants with a combination of the burgundy-to-tan cap sequence, pale young gills maturing purple-brown, a robust pale stem, and the thick radially grooved or cogwheel-like ring. *Leratiomyces ceres* is commonly smaller and orange-red, while other *Stropharia* may share dark spores without the same stature and ring. Photograph the ring before it tears or becomes coated with spores; microscopy and a regional key may still be necessary when weather erases the color contrast.
+## Gills and the purple-brown maturation sequence
 
-## Read the cap, gills, and ring as one profile
+The gills attach to the stem and begin pale gray, sometimes with a lilac cast. Developing spores progressively darken the faces to purple-gray and then purple-brown. This sequence distinguishes a young mushroom’s pale gills from a truly pale-spored species.
 
-Wine cap is a common name for *Stropharia rugosoannulata*, a robust agaric often encountered in wood-chip or mulch settings. A useful observation begins with the whole profile: a broad wine-red to reddish-brown cap, a stout pale stem, crowded true gills, and a substantial ring. Cap color changes with weather, sunlight, and age, so it is less dependable than a complete record. Young gills can be pale and later develop purple-brown tones as spores mature. Photograph both a young and mature specimen when possible, without assuming that either one image represents every stage.
+Make a deposit from a mature, undamaged cap. The expected print is very dark purple-brown rather than white or rusty orange. Color terminology varies with light and background, so preserve the actual deposit when expert review matters. A dark print supports a group; it does not alone establish *Stropharia rugosoannulata*.
 
-The conspicuous ring is often described as rugged or cogwheel-like, reflected in the species epithet *rugosoannulata*. It can be damaged, partly lost, or obscured by debris, and it should not be treated as a stand-alone confirmation. Record where it sits on the stem, how it looks above and below, and whether any veil remnants occur at the cap margin. A lengthwise cut shows flesh and stem structure but cannot replace habitat or a regional comparison. Do not taste a wild mushroom as an identification test.
+## Stem, base, and cogwheel ring
 
-A purple-brown spore deposit is compatible evidence once the mushroom has been documented intact. Make a print from a mature specimen only if it does not erase the evidence needed for another reviewer, and label the print with date and collection context. Spore color overlaps among fungi, while an incomplete print may reflect humidity or age. The best value of a print is as one checked character in a larger set, not as the final answer.
+The stem is robust, pale, and sometimes swollen toward the base. The partial veil often leaves a thick ring with a grooved or tooth-like upper margin, inspiring the “cogwheel” description. Spores falling from the gills may dust its upper surface dark purple-brown.
 
-## Distinguish a cultivated-bed context from a safe identification
+Rings tear, collapse, and weather. Photograph young enclosed specimens, newly opened caps, and mature stems from several angles. Lift one permitted specimen with its full base so swelling, attached mycelium, buried wood, and any unexpected basal structure remain visible.
 
-Wine caps are saprotrophic and may fruit in hardwood chips, mulch, rich garden beds, and other woody organic material. That setting can be meaningful, especially where authenticated spawn has been deliberately installed, but it is not a license to assume every red-brown mushroom in chips is a wine cap. Ask whether the bed was inoculated, what material was added, how long ago, and whether different mushrooms are fruiting in the same area. A garden can host many uninvited species as well as an intended crop.
+## Wood-chip ecology is evidence, not proof
 
-*Leratiomyces ceres* is one possible wood-chip comparison: it is commonly smaller and can be bright red-orange. Other *Stropharia* species require a current key because gill color, ring details, cap surface, and regional range may matter. The GBIF species record provides taxonomic and occurrence context, and the NCBI taxonomy resource is a separate nomenclature checkpoint; neither service identifies a home or wild specimen from a photograph. If a character conflicts with the expected profile, stop the food decision and seek local expertise.
+Wine caps are saprotrophs that exploit woody debris. They often appear in hardwood-chip paths, mulched vegetable gardens, landscape beds, and rich disturbed ground. Record chip type if known, particle age, soil contact, irrigation, bed depth, and whether fruiting follows recent mulch delivery.
 
-Document the substrate precisely. “Mulch” can mean fresh hardwood chips, aged landscaping material, mixed compost, straw, or soil with buried wood, each of which changes the comparison set. Include photos of the surrounding bed, the attachment point, the underside, the ring, and a group at different ages. Record the date, broad location, weather, and whether the mushrooms were from known commercial spawn. This makes an expert review far more useful than a detached cap photo.
+Mulch can host several fungi at once. Stems emerging centimeters apart do not guarantee one species or one mycelium. Photograph attachments before separating clusters, and never mix specimens in a food collection simply because all came from the same bed.
 
-## Use verified spawn and conservative garden practice
+## Distribution shaped by cultivation
 
-For home cultivation, start with authenticated commercial wine-cap spawn and follow the supplier’s strain-specific instructions. This guide does not prescribe a universal inoculation rate, depth, temperature, or harvest interval because those parameters vary by strain, substrate, climate, and supplier method. The related [substrate guide](/growing/mushroom-substrate-guide/) explains how substrate choice affects mushroom culture, and the [outdoor mushroom bed guide](/growing/outdoor-mushroom-bed/) provides a general planning framework. Neither should be used to identify an unexpected mushroom in an existing bed.
+The species is recorded broadly in temperate regions and is intentionally cultivated in gardens. Distribution is therefore influenced by spawn, horticultural material, and movement of wood chips. A record outside an expected historic range may be plausible without being automatically verified.
 
-Keep batch records: supplier, lot if supplied, inoculation date, wood-chip source, watering conditions, and any unusual growth. Use clean tools, avoid moving questionable material between beds, and do not attempt to “rescue” a crop that develops persistent abnormal odors, extensive slime, or unfamiliar fruiting bodies. A bed can be productive while still requiring careful observation; the presence of an intended species does not make unrelated visitors edible.
+Occurrence databases are useful for locality context, but image-only observations and cultivated records vary in evidentiary quality. Use a current regional key, especially where other dark-spored mulch fungi occur.
 
-Harvest only fruiting bodies already confirmed as the cultivated target, and separate them from unknown material. Refrigerate promptly and use normal clean food-preparation practices. FDA produce-safety advice supports hygienic handling, but it does not validate species identity. Cooking does not reliably render a poisonous lookalike safe, and individual digestive intolerance remains possible even with correctly identified food.
+## Comparisons that matter
 
-## Make food decisions after a complete check
+Some *Agaricus* also have rings and gills that darken, but their developmental colors, spore deposit, odors, bruising reactions, cap construction, and ecology differ. The [field mushroom guide](/mushrooms/field-mushroom-guide/) owns the *Agaricus campestris* intent and should not be collapsed into this mulch-specialist page.
 
-Wine caps have a culinary use context when identity is established and mushrooms are fresh, clean, and properly cooked. Before preparing a confirmed collection, inspect each specimen for decay, visible mold, abnormal persistent odor, or heavy insect damage. Discard compromised material rather than trimming it into a meal. Keep a first-time serving modest and avoid presenting a mushroom as risk-free; food reactions can be individual.
+Other *Stropharia* may be smaller, differently colored, more viscid, or differently ringed. Dark-spored genera in disturbed ground add further comparisons. If cap fading, ring damage, or immature spores remove key evidence, microscopy of spores and cystidia may be necessary.
 
-For an uncertain wild or garden collection, the correct next step is documentation and qualified in-person review, not an online comparison. Use this site’s [identification guide](/identification/how-to-identify-mushrooms/) and [safety checklist](/identification/mushroom-identification-safety-checklist/) to organize photos and observations. If an unidentified mushroom has been eaten and symptoms occur, retain leftovers, uncooked pieces, photographs, and timing information, then contact local emergency services or a poison center promptly. NAMA’s poisoning resource explains why those details matter.
+## A repeatable field record
 
-Do not make medical claims from a mushroom’s culinary reputation. The practical safety boundary is clear: a webpage can help describe a candidate and growing context, but it cannot clear a specimen for eating. An unresolved collection stays out of the kitchen.
+1. Photograph the bed, mulch, surrounding plants, and complete fruiting pattern.
+2. Record date, rainfall or irrigation, chip source, and bed age where known.
+3. Document buttons, newly expanded caps, and mature faded specimens.
+4. Photograph cap surface, gill attachment and color, ring edge, and full stem base.
+5. Section one specimen and record odor and immediate or delayed color change.
+6. Make a spore deposit and compare with a current regional key.
+
+This record is more useful than an isolated glamour photograph and makes contradictory evidence visible.
+
+## Establishing an outdoor bed
+
+Use authenticated commercial spawn rather than a wild mushroom clone. A suitable bed combines fresh-to-partly-aged untreated hardwood chips with ground contact and enough depth to buffer drying without creating a stagnant, saturated mass. Species of wood, chip size, local heat, rainfall, irrigation, bed dimensions, and competing organisms all affect colonization.
+
+Layering practices vary. Whatever method is chosen, label the culture, spawn lot, installation date, chip source, bed area, and approximate volume. A small comparison bed can reveal whether local materials work before a large investment. The [beginner growing guide](/growing/mushroom-growing-beginners/) covers clean sourcing and controlled learning goals.
+
+## Moisture without waterlogging
+
+Wood chips need sustained moisture for mycelial growth, especially at installation and during dry weather. Constant saturation, however, can exclude air and favor unwanted organisms. Inspect below the surface rather than judging by the color of the top chips.
+
+Shade, mulch depth, soil contact, and irrigation frequency interact. Record rainfall and irrigation together. If one zone performs poorly, compare moisture at equivalent depths and check whether roof runoff, slope, compacted soil, or tree roots created a different water balance.
+
+## Reading colonization and fruiting
+
+White mycelial fans between chips can indicate colonization, but appearance alone does not authenticate the species. Follow the labeled bed history. Fruiting may occur months after establishment and can pause through unsuitable weather. A generic promise of mushrooms in a fixed number of weeks ignores climate and spawn condition.
+
+When fruit bodies appear, compare their morphology with the expected crop rather than assuming that anything in the inoculated bed is wine cap. Outdoor beds are open ecosystems. Unrelated mushrooms can arrive by airborne spores or in the mulch.
+
+## Harvest and bed stewardship
+
+For an expertly verified crop, harvest before deterioration, keep soil and wood debris out of the container, cool promptly, and separate questionable specimens. Leave the bed structure intact rather than excavating large areas of colonized material. Adding chips may extend the resource, but timing and material should be recorded.
+
+Do not spread colonized chips into natural habitat or across property boundaries without checking local guidance. A useful garden decomposer can still move with horticultural material. Responsible cultivation includes containment and accurate labeling.
+
+## Food and site-safety limits
+
+Reports of edibility do not clear a specimen. Urban mulch can receive pesticides, pet waste, treated timber fragments, roadway deposition, or other contaminants. Site history matters independently of taxonomy. Old, waterlogged, moldy, or insect-damaged specimens should not be rescued by cooking.
+
+Only consider food after qualified local identification and a clean, traceable site. Cook thoroughly and begin conservatively within local guidance because individual gastrointestinal responses vary. If symptoms occur after mushroom consumption, contact emergency services or a poison center promptly and retain uncooked material, photographs, and meal timing.
+
+## Evidence and image boundary
+
+GBIF and NCBI support nomenclature, occurrence context, and lineage. They do not validate a particular garden collection. Cultivation observations are system-specific, and this page deliberately avoids universal temperature, yield, or nutrition claims that lack a matched strain and method.
+
+The cover is an original AI editorial image. It was checked beside established natural-light species covers for crop, clarity, restrained color, mulch texture, coherent caps, gills, stems and rings, and no text or watermark. It is not a voucher or safe identification reference. Editorial review only; no named clinician or field mycologist reviewed this article.
 
 ## Frequently asked questions
 
-### Why is the ring important on a wine cap?
+### Why did my wine-red caps turn tan?
 
-The robust, textured ring is a useful part of the profile, but it can be damaged or lost. Evaluate it with cap color, gill maturation, spore color, substrate, and the regional comparison set rather than using it alone.
+Expansion, sunlight, rain, and age commonly fade the pigment. Confirm the developmental series with gills, ring, spores, stem, and substrate rather than relying on color.
 
-### Can wine caps grow in ordinary mulch?
+### Does an inoculated bed contain only wine caps?
 
-They may fruit in suitable woody beds when grown from authenticated spawn, but many fungi also inhabit mulch. A red-brown mushroom in a bed is not identified by substrate alone.
+No. Outdoor beds receive spores and organisms from their surroundings. Every fruiting must still be checked.
 
-### Does a purple-brown spore print confirm wine cap?
+### Are softwood chips suitable?
 
-No. It is supporting evidence from a mature, documented specimen. Other fungi can overlap in print color, and a print cannot replace a full identification.
+Performance depends on wood species, age, chip structure, strain, and local conditions. Commercial guidance usually centers on suitable untreated hardwood; test uncertain material in a labeled small bed.
 
-### Is a home-grown wine cap automatically safe to eat?
+### Can wine caps improve every garden soil?
 
-No. Confirm that the fruiting body matches the authenticated cultivated species and that no unknown mushrooms are mixed in. Freshness, preparation, and individual tolerance also matter.
+They decompose woody material, but broad claims about crop yield, soil health, or remediation require site-specific evidence. Do not treat the bed as a universal amendment.
 
-### What should I do with an unfamiliar mushroom in an inoculated bed?
+### Is the cogwheel ring enough for identification?
 
-Photograph it in place, keep it out of food, compare it through a qualified local identifier if needed, and maintain a separate record from the intended crop. Seek urgent professional advice if an unidentified mushroom was eaten and symptoms develop.
-
-## Food and safety context
-
-Wine cap has a documented food-use context when the organism is correctly identified and the material is fresh, clean, and cooked. That reputation does not transfer to a wild specimen identified online. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.
-
-If illness follows a mulch-bed mushroom meal, contact the local poison center or emergency service promptly and say that a wood-chip species was suspected. Keep uncooked caps and complete stem bases, cleaning scraps, the culture or spawn label if the bed was inoculated, photographs of other mushrooms in the bed, and meal timing. Mixed flushes can occur in cultivated beds, so the fact that wine-cap spawn was added does not prove the identity of every fruit body harvested later.
-
-## Cultivation context
-
-Outdoor cultivation usually begins with authenticated *S. rugosoannulata* spawn layered through fresh, untreated hardwood chips or a documented chip-and-straw mix in a shaded bed. Record spawn lot, bed area and depth, chip source, installation date, moisture checks, and first fruiting rather than copying an indoor oyster schedule. Add water to keep the interior damp without creating stagnant, sour pockets. Before harvest, inspect each fruit body independently because unrelated mulch fungi can fruit through the same bed; an unexpected gill color, missing ring, different stature, slime, or persistent off odor is a reason to isolate the collection rather than rescue it for food.
-
-## How to document a find
-
-1. Photograph the habitat and growth habit before moving anything.
-2. Record location, date, weather, substrate, nearby trees, and odor without tasting.
-3. Photograph the cap, fertile surface, stem or attachment, and base in natural light.
-4. Measure several mature specimens and make a spore deposit when appropriate.
-5. Compare the complete record with a current regional key and qualified local expertise.
+No. It is useful only within the full pattern of cap development, gills, dark spores, robust stem, wood-chip ecology, geography, and comparison with local species.
 
 ## References
 
-1. Global Biodiversity Information Facility. [Stropharia rugosoannulata species record](https://www.gbif.org/species/2533347). Taxonomic backbone and occurrence context.
-2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
-3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.
-4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for mushrooms used as food.
+1. [GBIF — *Stropharia rugosoannulata*](https://www.gbif.org/species/2533275). Accepted-name and occurrence context; individual records require verification.
+2. [NCBI Taxonomy Browser — *Stropharia rugosoannulata*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Stropharia+rugosoannulata). Independent lineage checkpoint.
+3. [NAMA — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative poisoning-response context.
+4. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling principles for verified produce.
 
-*Editorial review: September 27, 2026. Taxonomy, mulch-bed ecology, regional comparisons, cultivation records, and poison-response contacts were rechecked editorially; no named mycologist or clinician reviewed this page.*
+Each source supports a defined claim and none serves as remote edibility approval. Editorial review completed October 6, 2026; no named clinical expert or field mycologist independently reviewed the page.

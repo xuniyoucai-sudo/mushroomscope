@@ -5,6 +5,7 @@ keywords: ["mushroom tissue cloning","clone mushroom to agar","mushroom inner ti
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-22
+updatedDate: 2026-10-06
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-tissue-cloning-editorial-v2.png"
@@ -127,6 +128,30 @@ If the goal is genetic diversity, spore work answers a different question from t
 Before the candidate leaves quarantine, confirm that its donor record, plate lineage, controls, transfers, storage location, and production trial are connected by IDs. Review images for every plate generation and retain failed branches instead of silently deleting them. State what testing was actually performed; visual inspection is not microbial sequencing or species authentication.
 
 Release only the specific working culture that passed the defined check. A sister branch from the same donor may have a different contamination history. Set a passage or time limit, preserve the master appropriately, and repeat a clean-plate and production check after unexplained drift. This makes cloning a documented selection process rather than a single dramatic transfer.
+
+## Track the donor-to-plate contamination route
+
+When a plate contaminates, record where growth first appeared rather than writing only “dirty.” Growth emerging exactly from the tissue may indicate organisms carried inside or introduced with the sample. A colony beginning at the plate edge suggests handling, sealing, or workspace exposure. Repeated satellites along a tool path point toward transfer technique.
+
+Use a coordinate sketch or photograph at inoculation and every observation. Include plate recipe, pour date, tissue position, donor surface condition, tool cycle, operator, incubation temperature, and first visible growth. This route map lets the next attempt change one likely failure point instead of sterilizing everything more aggressively without evidence.
+
+## Compare tissue positions within one donor
+
+Inner stem and cap-stem junction tissue can differ in handling ease, water content, bacterial load, and recovery speed. Run matched plates from labeled positions on one fresh cultivated donor. Keep tissue size, agar batch, tool protocol, incubation, and observation intervals constant.
+
+The fastest radial growth is not automatically the best culture. Score clean margin proportion, sectoring, aerial density, bacterial halos, lag time, and performance after one standardized transfer. Position-specific records are useful only when every fragment remains traceable.
+
+## Set a finite rescue budget
+
+Repeated transfers can consume time while preserving uncertainty. Define release gates first: no visible bacterial or mold growth across observation windows, stable morphology through specified transfers, a clean negative control, and satisfactory colonization and fruiting in a small matched trial.
+
+Also define a stop rule. If contamination follows tissue through repeated edge transfers, identity records are incomplete, or sectoring remains unstable, return to a fresh authenticated donor or culture. A finite rescue budget prevents a visually attractive plate from accumulating undocumented passage history.
+
+## Preserve passage and storage history
+
+Assign every culture an identifier connecting donor lot, clone date, tissue position, agar recipe, transfer number, operator, and storage location. Never reuse a discarded label. Photograph plates against the same background and record observations without opening them unnecessarily.
+
+Before long-term storage, test recovery on a paired plate and document the method. A stored culture is not safe merely because it is cold. Age, medium depletion, dehydration, contamination, and repeated subculture affect recovery. The [culture storage guide](/growing/mushroom-culture-storage/) covers matched recovery checks and inventory controls.
 
 ## Frequently asked questions
 

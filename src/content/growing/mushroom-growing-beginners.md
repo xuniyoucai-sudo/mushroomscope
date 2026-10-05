@@ -151,6 +151,8 @@ Success is not necessarily the largest cluster or a perfectly predicted harvest 
 
 Keep the notes even if the block fails. They let a supplier evaluate a real sequence, help you choose a smaller next experiment, and prevent you from repeating a guess that cannot be checked. Once you can make and read that record, expanding to substrate preparation or other growing methods is a meaningful next step.
 
+If an outdoor hardwood-chip bed is the intended first project, the [wine cap mushroom guide](/mushrooms/wine-cap-mushroom-guide/) covers authenticated spawn, bed moisture, open-ecosystem identification, and garden containment.
+
 ## References
 
 1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)
