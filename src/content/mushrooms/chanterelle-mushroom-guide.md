@@ -5,7 +5,8 @@ keywords: ["chanterelle identification", "Cantharellus cibarius", "chanterelle l
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-02
-updatedDate: 2026-08-24
+updatedDate: 2026-10-07
+revisionSummary: "Added a collection-level false-gill measurement protocol, host-and-region interpretation, and a timed lookalike separation workflow."
 draft: false
 featured: false
 coverImage: "../../assets/species/chanterelle-mushroom-editorial-v2.jpg"
@@ -175,6 +176,28 @@ Nutrition evidence should not be converted into treatment claims. Laboratory stu
 Chanterelles are not beginner block mushrooms. Oyster mushrooms digest prepared plant material directly; chanterelles depend on a living root partnership and the surrounding soil community. Establishing compatible inoculated trees is possible in specialist research and production systems, but fruiting may be slow and inconsistent. A packet advertised as a quick indoor chanterelle kit should be treated cautiously unless the supplier documents the organism, host system, and verified production results.
 
 For a practical home project, start with a reputable oyster or lion's mane fruiting block and follow its instructions. Do not transplant wild soil or remove tree roots in an attempt to move a chanterelle patch.
+
+## Measure false gills across a collection
+
+“False gills” is useful only when it describes structure rather than a color impression. Select one young, one middle-aged, and one mature fruit body from the same patch without assuming that every orange mushroom nearby is the same species. Photograph the underside at a low angle, then record whether the ridges are blunt or sharp-edged, whether they fork and reconnect, and how far they run down the stem. True lamellae usually present many discrete, blade-like plates with sharper edges; chanterelle folds are wrinkles of the cap tissue and commonly form cross-veins.
+
+Run a clean fingernail or blunt probe lightly across a small damaged area only when collecting is legal. Record whether the structures remain as fleshy folds or separate like thin blades. Do not turn this into a destructive test across the patch. A macro photograph with a ruler gives a stronger reusable record than “looks wrinkled,” especially when rain has swollen the folds or age has made them more pronounced.
+
+Cap margin and flesh belong in the same measurement set. Note cap diameter, margin waviness, stem width, whether the stem is solid, and whether the cut flesh is pale inside rather than uniformly orange. Odor can support a conclusion, but apricot-like descriptions vary with observer, temperature, and specimen condition. It should never outweigh underside anatomy or ecology.
+
+## Map trees, soil, and regional species concepts
+
+Chanterelles are ectomycorrhizal, so the meaningful substrate is a living root neighborhood, not merely “ground.” Record the dominant trees within roughly ten metres, whether the site is coniferous, hardwood, or mixed, and whether fruit bodies arise scattered through soil and moss rather than directly from a log. Buried wood can confuse this observation, so include a side view of the attachment and surrounding litter.
+
+The name *Cantharellus cibarius* has historically been applied broadly. North American, European, and other regional collections can belong to different species complexes that share a yellow chanterelle form. A page-level photograph cannot resolve every member of that complex. The practical field claim should therefore stay at the level supported by the record: chanterelle-like collection, locally keyed taxon, or laboratory-supported species. This regional boundary improves accuracy without erasing the useful identification intent of the page.
+
+## Separate lookalikes in a fixed order
+
+Start with attachment and growth form. Jack-o'-lantern mushrooms (*Omphalotus*) commonly grow in dense clusters from wood or buried roots and have many true, sharp gills; toxicity makes that separation urgent. Next examine the underside. False chanterelle (*Hygrophoropsis aurantiaca*) has crowded, thin, repeatedly forked true gills and often a softer, more uniformly orange form. Then check flesh, stem, host setting, and spore evidence with a current regional key.
+
+Do not make color the first gate. Yellow, orange, peach, and faded cream occur across age, moisture, camera balance, and several taxa. A safer sequence is growth substrate → underside structure → flesh/stem → tree association → regional key. If any decisive view is missing, retain the observation as unresolved. No combination of webpage traits makes an unknown wild mushroom safe to eat; seek qualified local, in-person confirmation before any food decision.
+
+For a broader process, use the [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/). The [edible mushroom lookalikes guide](/identification/edible-mushroom-lookalikes/) explains why matching an attractive feature cannot substitute for eliminating dangerous alternatives.
 
 ## References
 

@@ -127,7 +127,7 @@ Serve immediately on warm plates because sautéed mushrooms continue releasing m
 
 ## Ingredient choices and serving ideas
 
-Cremini mushrooms are a reliable all-purpose choice because their shape holds up in a skillet. White button mushrooms use the same method. Oyster mushrooms are thinner and cook differently, so use the dedicated [garlic-butter oyster mushroom recipe](/recipes/garlic-butter-oyster-mushrooms/) when they are the main ingredient.
+Cremini mushrooms are a reliable all-purpose choice because their shape holds up in a skillet. White button mushrooms use the same method. Oyster mushrooms are thinner and cook differently, so use the dedicated [garlic-butter oyster mushroom recipe](/recipes/garlic-butter-oyster-mushrooms/) when they are the main ingredient. Dense king oyster stems need the thicker cuts and two-stage finish in the [pan-seared king oyster method](/recipes/king-oyster-mushroom-skillet/).
 
 Rinse mushrooms briefly under running water or brush away debris, then dry them before they reach the skillet. FDA recommends keeping mushrooms refrigerated at **40°F / 4°C or below**, starting with clean hands and surfaces, and separating produce from raw animal foods. Do not use soap, detergent, or produce wash on mushrooms. See [FDA’s produce-safety guidance](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) for the underlying handling advice.
 

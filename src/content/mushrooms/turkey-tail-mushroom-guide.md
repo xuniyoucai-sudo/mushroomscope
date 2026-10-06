@@ -5,8 +5,8 @@ keywords: ["Trametes versicolor","turkey tail","mushroom identification","mushro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-18
-revisionSummary: "Replaced generic species templates with turkey-tail-specific pore, context, host, voucher, cultivation, and preparation boundaries."
+updatedDate: 2026-10-07
+revisionSummary: "Added pore-density measurement, bracket cross-section records, substrate succession, and a strict separation between field identity and extract evidence."
 draft: false
 featured: false
 coverImage: "../../assets/species/turkey-tail-mushroom.jpg"
@@ -206,6 +206,32 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 
 
 For a side-by-side decision record, use the [structure-first turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) to compare the pore layer, bracket thickness, hair zones, host, and aging effects.
+
+## Count pores instead of describing the underside as white
+
+The lower surface carries more separating value than the colorful bands above it. Photograph a clean, mature underside beside a millimetre scale and count pore openings across several one-millimetre spans rather than estimating from memory. Repeat near the margin and closer to the attachment because pore visibility changes with age and angle. Record whether the surface is genuinely poroid, smooth, toothed, or maze-like and whether bruising or age has shifted it from white toward cream.
+
+A phone macro lens can distort the edge of the frame, so place the scale and central pore field on the same plane. Report the range you can actually resolve. “Several tiny round pores per millimetre” is stronger than a copied universal number when the image does not support exact counting. If pores cannot be seen, the record is incomplete no matter how convincing the concentric cap bands look.
+
+## Cut one bracket and document the tissue stack
+
+Where collection is permitted and abundant material exists, make a radial cross-section through one representative bracket. Record total thickness, the thin context above the tubes, tube-layer depth, flexibility when fresh, and whether the upper surface is finely hairy or velvety. Turkey tail is thin and leathery rather than thick, woody, or fleshy. Older material may become algae-stained, brittle, or eroded, so include bracket age in the note.
+
+Compare several brackets on the same log before treating them as one population. *Stereum* species can share zoned colors but have a smooth underside rather than pores. Other *Trametes* may have larger, angular, elongated, or maze-like pores and thicker context. The field decision should be built from underside, thickness, upper-surface texture, and substrate together—not from a rainbow pattern.
+
+## Place the bracket in wood-decay succession
+
+Record tree type, log diameter, bark retention, moisture, contact with soil, and whether the wood remains structurally firm. Turkey tail participates in white-rot decomposition of hardwood, but a common-name label does not prove a host species or decay mechanism from appearance alone. Revisit photographs across a season when possible: new pale margins, spore-producing undersides, overwintered bands, algae, and insect damage reveal different stages of the same colony.
+
+This succession record also limits overcollection. A log covered in brackets is habitat and an active decomposition site, not an unlimited supplement source. Photographing repeated development can add more ecological evidence than removing many fruit bodies.
+
+## Keep field identity separate from extract evidence
+
+An identified *Trametes versicolor* bracket is not equivalent to a standardized research preparation. Studies may use defined polysaccharide fractions, hot-water extracts, cultured material, specified doses, or clinical contexts that a home tea and retail powder do not reproduce. Species identity, material used, extraction method, dose, comparator, population, and outcome must all match before a finding is transferred.
+
+Do not use this species page to diagnose disease, replace treatment, or claim that a wild collection has clinical benefit. Product contamination, interactions, allergies, variable labeling, and treatment delays remain relevant. The [turkey tail evidence guide](/health/turkey-tail-benefits-evidence/) evaluates human evidence and product boundaries; the [supplement guide](/health/mushroom-supplements-guide/) explains label and extract checks. Keeping those anchors explicit prevents the species guide from competing with the health intent.
+
+For field comparison, use the dedicated [turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) and preserve the necessary safety rule: a webpage cannot authenticate a specimen or clear it for consumption.
 
 ## References
 

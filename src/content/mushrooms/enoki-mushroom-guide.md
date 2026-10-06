@@ -168,7 +168,7 @@ Trim away the compact substrate base while keeping sound stems together, then se
 
 Raw enoki has appeared in salads and online recipes, but its outbreak history makes “traditional” or “fresh” an inadequate safety argument. Check the package and current recall notices, prevent its juices from contacting ready-to-eat foods, wash hands and utensils, and cook thoroughly according to local public-health advice. Discard packages that are recalled, leaking, slimy, abnormally discolored, or foul-smelling; rinsing does not correct a recalled product.
 
-This culinary intent is separate from the [shiitake noodle stir-fry](/recipes/shiitake-noodle-stir-fry/), where enoki could be a texture variation but cannot simply replace shiitake’s broader caps and stronger browning behavior. Ingredient substitutions should account for moisture release and cooking time rather than treating every cultivated mushroom as mechanically identical.
+This culinary intent is separate from the [shiitake noodle stir-fry](/recipes/shiitake-noodle-stir-fry/), where enoki could be a texture variation but cannot simply replace shiitake’s broader caps and stronger browning behavior. The [enoki and tofu soup](/recipes/enoki-mushroom-tofu-soup/) instead trims the compact base, separates small bundles, and cooks them through in broth. Ingredient substitutions should account for moisture release and cooking time rather than treating every cultivated mushroom as mechanically identical.
 
 ## Health Benefits
 

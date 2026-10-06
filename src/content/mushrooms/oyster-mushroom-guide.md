@@ -6,8 +6,8 @@ keywords: ["Pleurotus ostreatus","oyster mushroom","mushroom identification","mu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-18
-revisionSummary: "Replaced generic templates with Pleurotus-complex, cluster measurement, wood-connection, crop-interface, and product-form boundaries."
+updatedDate: 2026-10-07
+revisionSummary: "Added host-decay mapping, cluster-level measurements, Pleurotus lookalike boundaries, and cultivation strain-to-room interpretation."
 draft: false
 featured: false
 coverImage: "../../assets/species/oyster-mushroom.jpg"
@@ -200,6 +200,32 @@ Treat a cultivated cluster as two textures. The thin cap and outer gill-bearing 
 
 Salt timing is a texture decision, not a universal prohibition. Early salt can draw moisture into the pan, which is useful if the cook allows that liquid to evaporate before browning; later salt makes the dry-browning stage easier to see. Finish only after the liquid has cleared and the thickest attachment pieces are hot and tender. This mechanism distinguishes a species guide from the site's recipe pages: the [garlic-butter oyster method](/recipes/garlic-butter-oyster-mushrooms/) provides quantities and timing, while this section explains why cluster geometry changes the method.
 
+
+## Read the cluster as a growth record
+
+An oyster mushroom cluster changes from tight primordia to broad shelves, and one photograph can hide that sequence. Record cap width for at least five fruit bodies, stem position, gill depth, and the angle at which each shelf leaves the wood. Young caps may be convex with rolled margins; expanding caps flatten, overlap, and expose strongly decurrent gills. Old caps can crack, fade, collect debris, and lose the texture expected from market mushrooms.
+
+Photograph the entire cluster before removing anything, then show the underside and the exact wood attachment. Note whether stems are truly lateral, short and off-centre, or more developed because the fruiting surface faced upward. That orientation effect matters: morphology produced on a vertical trunk is not identical to morphology produced from the top of a buried stump or a cultivation block.
+
+## Record host and decay stage
+
+“Growing on wood” is too broad for a strong Pleurotus record. Identify the host as far as evidence allows, distinguish hardwood from conifer, and state whether it is living, recently dead, or well decayed. Photograph bark, end grain, leaves, buds, or nearby branches rather than guessing a tree from one weathered surface. Record whether fruit bodies emerge from an exposed wound, cut stump face, fallen log, or buried root.
+
+This host-decay map helps separate ecology from a food claim. *Pleurotus ostreatus* is a wood decomposer, but several related oyster species overlap in field appearance and differ by region, season, host, and microscopic characters. A cluster can be confidently placed near an oyster group without a photograph proving the exact title species. Current regional keys and, when needed, microscopy or sequencing set the species boundary.
+
+## Compare oyster-shaped fungi deliberately
+
+Begin with the fertile surface. Oyster mushrooms have true gills running down toward the attachment, generally pale spore deposits, and pliable flesh when fresh. Angel wings (*Pleurocybella porrigens*) are thinner, paler, associated mainly with conifer wood, and deserve conservative treatment because food-safety history and taxonomy cannot be reduced to cap color. Other shelf-like fungi may have pores, teeth, smooth undersides, tough corky flesh, or orange coloration that redirects the identification immediately.
+
+Keep every cluster separate. Different fungi can fruit from the same log, and one verified cluster does not authenticate a neighboring fan. Do not use grocery-store familiarity as field clearance. Cooking cannot neutralize an identification error, and this page cannot determine whether a wild specimen is edible.
+
+## Translate cultivation conditions by strain and room
+
+For authenticated commercial culture, temperature and fresh-air targets belong to a strain and fruiting phase rather than to the common name alone. Record strain or supplier, block formula, inoculation date, incubation temperature, fruiting trigger, room temperature, relative humidity, and carbon-dioxide reading at the cluster height. Long stems and small caps can indicate insufficient fresh-air exchange, but the same appearance can also reflect cultivar, crowding, light, or developmental stage.
+
+Change one variable per matched group. If airflow is increased, keep block age, strain, hydration, room position, and harvest endpoint as similar as possible. Compare cap-to-stem ratio, cluster mass, surface cracking, and contamination—not just total yield. A sensor reading far from the fruit bodies may miss the humid, carbon-dioxide-rich boundary layer between overlapping caps.
+
+The [home oyster cultivation guide](/growing/grow-oyster-mushrooms-home/) covers room workflow, while the [oyster mushroom nutrition guide](/health/oyster-mushroom-nutrition/) answers cooked-food composition questions. Those are separate intents from this species record and should be linked with explicit anchors rather than merged.
 
 ## References
 

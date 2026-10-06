@@ -192,6 +192,8 @@ For a countertop blender, follow its hot-liquid capacity and venting instruction
 
 Return the base to gentle heat before adding cream or a plant-based substitute. Do not boil aggressively after dairy is added. Check viscosity on a warm spoon: the soup should coat it lightly but still pour. It thickens as it cools, so a serving-temperature sample is more useful than judging a bubbling pot. Restore an over-thick base with measured stock, then correct salt only after the final volume is set.
 
+For a light broth built around fine cultivated stems rather than a blended creamy base, use the [enoki mushroom and tofu soup](/recipes/enoki-mushroom-tofu-soup/). Its staged method and product-specific handling address a separate cooking intent.
+
 ## References
 
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce-cleaning and cross-contamination boundaries for mushrooms and onion.
