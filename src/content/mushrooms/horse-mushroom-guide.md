@@ -6,7 +6,8 @@ keywords: ["horse mushroom", "Agaricus arvensis", "horse mushroom identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
-updatedDate: 2026-09-24
+updatedDate: 2026-10-08
+revisionSummary: "Added developmental gill staging, ring-section anatomy, odor controls, and a contamination-aware pasture transect protocol."
 draft: false
 featured: false
 coverImage: "../../assets/species/horse-mushroom-editorial-v2.png"
@@ -188,6 +189,24 @@ Large grassland *Agaricus* can change quickly after emergence. Link at least thr
 Time reactions on a fresh longitudinal cut. Note the first color at 15 seconds, the strongest color by two minutes and any fading after ten minutes at the cap margin, central flesh and stem base separately. Horse mushroom candidates may show slow yellowing and an anise-like odor, whereas intense chrome yellow at the base paired with an inky or phenolic odor increases concern for the yellow-stainer group. Neither reaction is an edibility test; the complete base, ring, mature gills, habitat and regional species set still have to agree.
 
 Pasture history can resolve apparent contradictions. Record whether the site is old grazed grassland, fertilized amenity turf, a stable margin or newly imported topsoil, plus recent rain and mowing. A fruit body beside a tree is not automatically mycorrhizal, and a lawn occurrence does not distinguish horse mushroom from hazardous *Agaricus* lookalikes. Preserve one lawful dried voucher with the field photographs when a regional expert needs microscopy or sequencing.
+
+## Stage gill color against veil opening
+
+Gill color is most useful when it is tied to development. Photograph a closed button without tearing the veil, a newly opened cap with pale gray-pink gills, and a mature cap whose free gills have become chocolate brown. Label every image by specimen. A sequence prevents the pale gills of an immature *Agaricus* from being compared with the mature state of another collection, and it keeps “pink gills” from functioning as a timeless species label.
+
+At each stage, photograph the narrow gap between gill ends and stem. Note whether the gills are truly free or merely appear detached after drying. If a button must remain intact for high-consequence *Amanita* comparison, do not sacrifice it for a premature spore print; use a mature companion from the same documented group.
+
+## Section the ring before calling it double
+
+The substantial ring is often described as double, but a collapsed skirt can hide its construction. Photograph upper and lower surfaces in side light, then make a small radial section through the ring and stem on a permitted specimen. Record lower-surface scales or cogwheel-like patches, attachment height, thickness, tears and whether the ring persists across ages. These observations separate structure from the vague phrase “large ring.”
+
+Pair the ring section with a stem-base section. Apply identical pressure to cap edge and basal flesh, then photograph at zero, five and fifteen minutes. Slow dull yellowing with anise-like odor is different evidence from rapid bright chrome-yellow basal staining with a phenolic odor, but neither response alone proves a name.
+
+## Run odor observations with controls
+
+Odor is subjective and easily contaminated by soil, storage bags, cut grass or disinfectant. Smell an intact cap, a freshly cut stem base and a clean-air control separately; record “not detected” rather than “absent.” Ask observers to write a description before discussing it. Anise, almond, ink and phenol labels can otherwise converge through suggestion.
+
+For grassland transects, record road distance, manure, irrigation, pet traffic, turf treatment and the position of each arc. This distinguishes useful ecological evidence from site-safety evidence: a convincing *A. arvensis* record beside a treated verge still does not create suitable food material.
 
 ## References
 

@@ -5,7 +5,8 @@ keywords: ["Grifola frondosa","maitake","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-17
+updatedDate: 2026-10-08
+revisionSummary: "Added a measured three-rosette comparison, root-zone recurrence mapping, and explicit separation from two basal polypore guides."
 draft: false
 featured: false
 coverImage: "../../assets/species/maitake-mushroom.jpg"
@@ -193,6 +194,24 @@ This record separates three claims that are often blurred together. The fruit bo
 ## Keep the health-evidence intent separate
 
 This page documents the organism, host and morphology. The separate [maitake benefits evidence review](/health/maitake-benefits-evidence/) evaluates preparation-specific studies and label matching without turning a species observation into a treatment claim.
+
+## Use a three-rosette measurement sheet
+
+When maitake, black-staining polypore and Berkeley's polypore share a regional comparison set, build one sheet rather than choosing by overall silhouette. Count major fronds, measure the median width of ten caps, record cap thickness at a consistent distance from the margin, photograph pore geometry with scale, and section the shared base. Add a timed bruise series from untouched control, pore surface and internal flesh.
+
+Maitake usually resolves into many smaller gray-brown spoon-shaped caps. The [black-staining polypore guide](/mushrooms/black-staining-polypore-guide/) documents a large tan-brown rosette whose fresh damaged tissue progressively turns charcoal to black. The [Berkeley's polypore guide](/mushrooms/berkeleys-polypore-guide/) emphasizes fewer, broader, thicker and paler fans. These are hypotheses to test together, not three thumbnails from which to vote.
+
+## Map the root zone across years
+
+Give each rosette a fixed position relative to the trunk, compass bearing and measured distance. Photograph from the same marked viewpoint and record host condition, rain, soil disturbance and whether the fruiting arises at the trunk flare, an exposed root, a buried root line or a removed stump. Annual recurrence at one point supports persistent below-ground activity but does not prove that every year's fruit body has the same identity.
+
+Keep the fungal record separate from a tree-risk conclusion. A new or expanding fruiting zone near a path, building or parked vehicle is a reason to request qualified arboricultural inspection, not a basis for predicting failure from cap mass. Do not excavate roots or remove buttress tissue to pursue the attachment.
+
+## Separate wild identity, cultivated food and extract evidence
+
+A wild rosette record asks which organism is fruiting at a particular root system. A cultivated food record asks whether authenticated *G. frondosa* was grown, stored and cooked safely. An extract study asks whether a defined preparation, dose and population changed a measured outcome. The shared common name “maitake” does not make those evidence streams interchangeable.
+
+This separation protects the species guide from competing with the nutrition hub or the dedicated evidence article. Use this page for taxonomy, host ecology, morphology, lookalikes and cultivation variables; use the site's health resources for food composition and clinical-evidence boundaries.
 
 ## References
 

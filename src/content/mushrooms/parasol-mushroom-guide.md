@@ -6,7 +6,8 @@ keywords: ["parasol mushroom", "Macrolepiota procera", "parasol mushroom identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-21
-updatedDate: 2026-09-24
+updatedDate: 2026-10-08
+revisionSummary: "Added regional range limits, quantitative stem-pattern records, mature-spore controls, and lawn exposure mapping."
 draft: false
 featured: false
 coverImage: "../../assets/species/parasol-mushroom-editorial-v2.png"
@@ -186,6 +187,24 @@ For home growers interested primarily in a dependable food crop, the [beginner m
 ## Editorial evidence boundary
 
 This page received editorial review, not review by a named clinical toxicologist or professional field mycologist. It organizes observable characters and cites taxonomy, government field information and clinical toxicology literature. It cannot identify a specimen remotely. For symptoms after any wild-mushroom exposure, contact local emergency services or a poison center promptly and retain uncooked material, trimmings, photographs and timing details for professional assessment.
+
+## Quantify the stem pattern instead of naming it
+
+“Snakeskin” is memorable but imprecise. Photograph a cleaned strip below the ring beside a millimeter scale and describe whether brown bands form continuous zigzags, broken transverse scales, scattered flecks or a nearly smooth surface. Record what fraction of the lower stem carries the pattern and whether it continues onto the bulb. Mud, abrasion and overexposure can erase contrast, so include an uncleaned view and a neutral-gray exposure reference.
+
+Repeat the record on two mature specimens. True parasol candidates should present a coherent suite—tall stature, patterned lower stem, substantial movable ring, free pale gills, intact non-volvate base and white mature deposit. A cap-first identification that ignores the stem loses the character with the greatest practical separating value from several *Chlorophyllum* comparisons.
+
+## Control spore maturity before interpreting color
+
+A pale immature deposit cannot exclude green-spored *Chlorophyllum molybdites*. Select a fully expanded cap with mature gills, split the print across black and white nonabsorbent surfaces, cover it against drafts and note elapsed time. Photograph the deposit in daylight beside a white balance card. Keep the cap, stem and print under one specimen number.
+
+If the deposit is weak, repeat with another mature cap rather than increasing contrast digitally. Green-gray spores, a smooth stem or pronounced red-orange flesh response redirects the determination. A white deposit supports but does not prove *Macrolepiota procera*, because other large lepiotoid fungi also print pale.
+
+## Bound the name by region and habitat
+
+European treatments of *M. procera* cannot be copied uncritically onto every large parasol-like mushroom worldwide. Record country, ecoregion, elevation and whether the site is old pasture, woodland edge, irrigated lawn or disturbed fill. Consult a current regional key and preserve a voucher when the name would extend a known range.
+
+For lawns, map irrigation heads, mowing lines, fertilizer or pesticide use, road runoff and pet traffic. Those details support the ecology of a fairy ring and independently assess contamination. Even a locally confirmed edible species from a chemically treated or polluted site should remain outside a food workflow.
 
 ## References
 

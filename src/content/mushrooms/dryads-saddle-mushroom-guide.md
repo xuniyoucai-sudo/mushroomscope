@@ -157,6 +157,8 @@ Annual brackets collapse, are removed, or become unrecognizable, while the under
 
 When revisiting, photograph from the same compass direction and repeat the height and cap measurements. Record whether the previous bracket scar persists, whether new brackets emerge along the same wound, and whether the host crown or root plate has changed. This longitudinal record adds ecological and management value without pretending that fruit-body recurrence alone measures decay severity.
 
+Large root-zone rosettes require a different path from the laterally attached, dark-scaled fans described here. The [Berkeley's polypore guide](/mushrooms/berkeleys-polypore-guide/) covers a few broad pale fronds, while the [black-staining polypore guide](/mushrooms/black-staining-polypore-guide/) uses a timed darkening test on a many-fronded basal mass. These contextual links do not make cap outline diagnostic; confirm attachment and pores.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Cerioporus squamosus* species record](https://www.gbif.org/species/113360077). Taxonomic and occurrence context.
