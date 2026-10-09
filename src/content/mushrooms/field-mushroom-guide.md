@@ -6,7 +6,7 @@ keywords: ["field mushroom", "Agaricus campestris", "field mushroom identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-09-28
+updatedDate: 2026-10-10
 revisionSummary: "Added a managed-grassland contamination screen, stage-linked gill record, yellow-stainer exclusion protocol, and field-specific evidence language while removing reusable identification templates."
 draft: false
 featured: false
@@ -202,6 +202,26 @@ Taxonomy note: field *Agaricus* names can be applied broadly in older sources, s
 Large anise-scented grassland collections require a different comparison path. The [horse mushroom guide](/mushrooms/horse-mushroom-guide/) documents its double ring, timed yellowing and complete-base record without treating those traits as food clearance.
 
 Do not transfer field-mushroom characters to a red-capped mulch fruiting: the [wine cap mushroom guide](/mushrooms/wine-cap-mushroom-guide/) distinguishes *Stropharia* by gill maturation, cogwheel ring, dark purple-brown spores, and wood-chip ecology.
+
+## Map a fairy ring before it disappears
+
+A fruiting arc is useful evidence only when its geometry and vegetation are recorded. Stand outside the patch and photograph the entire curve with a fixed landmark in frame. Measure the chord between the outermost mushrooms, the deepest distance from that chord to the arc, and the spacing between successive fruit bodies. Mark whether mushrooms occur on the greener outer edge, the dry inner edge, or both. Those observations distinguish a persistent underground colony from a coincidental scatter after rain.
+
+Return after forty-eight hours if access is permitted. New buttons may extend the same radius while older caps flatten and darken. Record mowing, irrigation, fertilizer, livestock dung, buried roots, and recent turf installation because each can explain a grassland flush without proving *Agaricus campestris*. The [mushroom habitat workflow](/identification/mushroom-habitat-identification/) provides a way to keep substrate evidence separate from a visual species guess.
+
+## Compare cap, gill, and stem measurements as a cohort
+
+Choose three intact specimens at button, expanding, and mature stages. For each, record cap width, stem length and width, gill color, ring condition, basal shape, odor, and the location and timing of any yellowing or reddening. A genuine developmental series should show pink gills becoming chocolate brown as spores mature; it should not require borrowing a pink-gilled cap from one patch and a brown spore print from another.
+
+Field mushrooms often have a low, compact proportion compared with tall woodland or garden *Agaricus*, but proportions vary with turf density and weather. Use ratios rather than adjectives: cap width divided by stem length and stem width measured just below the ring. A sudden chrome-yellow reaction at the stem base, especially with a phenolic or ink-like odor, changes the comparison toward the yellow-staining group even if the cap resembles a meadow mushroom.
+
+Large scaly lawn mushrooms require a different pathway: compare their mature spores, stem ornament, ring and staining in the [shaggy parasol guide](/mushrooms/shaggy-parasol-mushroom-guide/) rather than stretching an *Agaricus* key to fit them.
+
+## Separate pasture history from present-day cleanliness
+
+Short grass is not automatically a clean food site. Ask how the ground has been managed: grazing animals can add dung and veterinary residues; municipal turf can receive herbicide or fertilizer; old orchards and roadside verges can retain pollutants; floodwater can move contaminants across an otherwise rural field. Record the land-use evidence independently of identity.
+
+This produces two conclusions rather than one. The first is taxonomic: how strongly the collection supports the *A. campestris* group. The second is exposure-based: whether the site history is sufficiently known for any food discussion. A strong identification does not repair an unsuitable collection site, and a clean-looking pasture does not resolve a weak identification.
 
 ## References
 

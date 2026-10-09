@@ -87,7 +87,7 @@ similarSpecies:
 
 ## Identification overview
 
-Very large umbrella-like cap with brown scales, free pale gills, and a tall snakeskin-patterned stem with a movable ring. Crowded white free gills. Tall hollow stem with brown zigzag pattern and a thick movable ring. White, soft in the cap and fibrous in the stem. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white spore deposit is supporting evidence, never a species verdict.
+Very large umbrella-like cap with brown scales, free pale gills, and a tall snakeskin-patterned stem with a movable ring. Crowded white free gills. Tall hollow stem with brown zigzag pattern and a thick movable ring. White, soft in the cap and fibrous in the stem. Observe several ages because rain, drying, insects, and decomposition can alter color and texture. Photograph the undisturbed growth, upper surface, fertile surface, complete attachment, and a lengthwise section. A white spore deposit is supporting evidence, never a species verdict. Coarse scales, a plainer stem and orange-red cut flesh instead require the separate [shaggy parasol comparison](/mushrooms/shaggy-parasol-mushroom-guide/).
 
 ## Habitat and season
 

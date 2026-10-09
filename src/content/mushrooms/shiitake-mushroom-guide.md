@@ -6,7 +6,7 @@ keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom gro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-18
+updatedDate: 2026-10-10
 revisionSummary: "Replaced generic templates with shiitake-specific development, East Asian range, system variables, dermatitis, and preparation boundaries."
 draft: false
 featured: false
@@ -201,6 +201,26 @@ Children, older adults, pregnant people, and immunocompromised individuals can f
 For claims about cooked food, lentinan, cholesterol, or dermatitis, the [shiitake health-benefits evidence guide](/health/shiitake-health-benefits/) separates the whole mushroom from extracts and defined preparations.
 
 For another East Asian hardwood decomposer, the [nameko mushroom guide](/mushrooms/nameko-mushroom-guide/) explains how gelatinous amber caps, brown spores, cluster development, and cool-fruiting production differ from shiitake.
+
+## Track log colonization as a moisture-and-bark problem
+
+For outdoor logs, record tree species, felling date, diameter, bark damage, inoculation date, spawn type, and shaded storage position. The useful moisture question is not whether a log feels damp at the surface; it is whether the wood has retained enough internal water for colonization without remaining in stagnant contact with soil. Weighing one representative log after inoculation and after soaking provides a repeatable local reference even when an absolute moisture meter is unavailable.
+
+Wax loss, split bark, exposed sapwood, and end checking create different drying routes. Mark damaged zones on a simple log diagram and compare where the first fruit bodies emerge. Heavy fruiting near a permanently wet end can indicate uneven hydration rather than a superior strain. Conversely, a colonized log that produces nothing after seasonal cooling may need a soak and temperature shift, not additional spawn.
+
+Keep competitor fungi in the same record. Turkey-tail-like brackets, *Trichoderma* patches, and unfamiliar crusts do not all imply the same failure, but they show that the substrate is biologically contested. Do not move visibly contaminated logs into a clean indoor fruiting area. The [log cultivation guide](/growing/grow-mushrooms-on-logs/) covers drilling and sealing; this species record adds the shiitake-specific interpretation of bark retention and fruiting position.
+
+## Compare sawdust blocks by biological efficiency, not cap count
+
+For supplemented blocks, retain the wet substrate mass, estimated dry substrate mass, inoculation rate, colonization time, browning period, opening method, flush dates, and trimmed fresh yield. Biological efficiency uses fresh mushroom mass divided by dry substrate mass, so comparing it with an unlabelled wet-bag yield produces a false ranking. The site’s [yield and biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) explains the denominator.
+
+Cap number is a quality variable rather than a yield measure. High carbon dioxide, restricted openings, strain behavior, and timing can produce many small caps or elongated stems. Photograph the block from the same distance at pinning and harvest, then record largest cap diameter and the share of damaged or overmature fruit bodies. That makes a trial useful for choosing an opening and harvest window instead of merely declaring one block “better.”
+
+## Preserve the food-versus-extract boundary in citations
+
+A nutrient table for cooked shiitake, a laboratory experiment on isolated compounds, and a clinical trial of a standardized preparation answer different questions. When evaluating a claim, write down the material, dose, route, comparator, population, duration, and measured outcome. If any of those fields differ from an ordinary serving of cooked caps, do not translate the result into a food promise.
+
+The same boundary applies to safety. Thorough cooking addresses ordinary culinary handling, while shiitake dermatitis is a distinctive delayed flagellate eruption reported after raw or undercooked exposure and occasionally under other circumstances. A suspected reaction needs medical assessment; it is not a home test of mushroom quality or proof that every future exposure will behave identically.
 
 ## References
 

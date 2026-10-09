@@ -76,6 +76,8 @@ University of Florida's oyster mushroom material uses “decurrent” for gills 
 
 Before assigning an attachment term, hold the specimen so the cap edge, gill plane, and stem are all visible. Note whether the stem is central, off-center, lateral, or nearly absent; the [mushroom stem-features guide](/identification/mushroom-stem-features/) gives a separate record for that part of the observation. A lateral-stemmed wood-inhabiting mushroom can make a junction look different from a centrally stemmed ground species, especially after the cap curls or dries.
 
+For a worked example, the [deer mushroom guide](/mushrooms/deer-mushroom-guide/) follows free gills from a pale young stage to pink maturity and keeps that junction tied to a ringless stem, woody substrate, complete base and pink-brown spore deposit.
+
 Write a plain-language note next to the technical term. For example: “Pale gills appear to continue 3–5 mm down an off-center stem; two young specimens photographed.” This preserves the observation if a later key uses a different term or if another observer sees the boundary differently. Never scrape, cut, or remove the stem base merely to make the underside look tidier: the hidden base can hold decisive structures.
 
 Growth stage is part of the observation. In very young caps the gills may be concealed by the margin; in aging caps they may separate, darken, curl, or become insect-damaged. Photograph several fruit bodies from the same cluster where collection is lawful. If they do not agree, report the variation. A field record is stronger when it preserves variation than when it makes every specimen fit one label.

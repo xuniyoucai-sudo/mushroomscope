@@ -5,7 +5,7 @@ keywords: ["Hericium erinaceus","lion's mane","mushroom identification","mushroo
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-20
+updatedDate: 2026-10-10
 draft: false
 featured: false
 coverImage: "../../assets/species/lions-mane-mushroom.jpg"
@@ -177,6 +177,30 @@ Compare like developmental stages. Early branches may lengthen into a normal too
 An authenticated culture may still produce a poor-quality crop. Record mass, tooth length range, color, firmness, aroma, attached substrate, insect damage, bruising, trim loss, and time to cooling for each harvest lot. These fields help distinguish identity from market quality and make later comparisons with the [harvest timing guide](/growing/when-to-harvest-mushrooms/) reproducible. They also prevent a larger but overmature fruit body from being treated automatically as a better result.
 
 For photographs used in public identification material, include the attachment point and more than one side of the fruit body. A clean studio image can illustrate kitchen form but removes the wood relationship and growth architecture needed for a field record. Conversely, a wild photograph may document ecology without establishing food condition, legal collection, or the identity of a packaged supplement.
+
+## Use tooth length as a timed developmental measurement
+
+Photograph one marked fruit body every twelve to twenty-four hours with a millimeter scale beside, not pressed into, the tissue. Measure teeth at the upper, middle, and lower portion because gravity and local humidity can create different lengths on the same fruit body. Record color under the same lighting. A sequence from compact knobs to distinct pendent teeth is more informative than comparing unrelated white masses photographed on different days.
+
+Teeth that remain short while branches elongate suggest a fruiting-environment problem or a different *Hericium* architecture; they do not by themselves prove another species. Pair the measurements with the number and position of branch points, the size of the unbranched core, the wood attachment, and regional range. The [tooth-fungus feature guide](/identification/mushroom-gill-types/) is a morphology starting point, while a regional key is needed for a species conclusion.
+
+## Read hardwood host evidence conservatively
+
+Lion’s mane is associated primarily with hardwoods, including wounded or dead portions of standing trees and fallen wood. Record whether the fruit body emerges from a trunk wound, branch stub, cavity margin, log end, or buried root. Photograph bark, leaves, buds, and the wider tree when they are available, but label the host as unknown if those characters do not support a reliable tree identification.
+
+A fruit body on a living tree indicates colonized wood, not a measured decay volume or an automatic need for removal. Location matters: a cavity at a major union, recent cracking, crown decline, and targets beneath the tree are structural observations for a qualified arborist. The mushroom record can help locate the concern but cannot substitute for a tree-risk assessment.
+
+## Tune blocks with a position map instead of one room reading
+
+Place temperature, relative-humidity, and carbon-dioxide observations beside the block position and time. A single wall sensor may miss the boundary layer inside a crowded shelf. Map blocks near the humidifier, fresh-air inlet, door, top shelf, and center of the rack; then compare tooth development, branching, yellowing, and surface drying across those positions.
+
+Long sparse branches with poorly developed teeth often align with inadequate fresh-air exchange, while cracked or browned tips can align with direct airflow or unstable surface moisture. Change one variable at a time and keep an untreated comparison block. That discipline prevents a simultaneous increase in fan speed, misting, and temperature from producing an impressive but uninterpretable crop response.
+
+## Keep culinary quality separate from supplement evidence
+
+For food use, freshness, complete cooking, storage time, and individual tolerance are the relevant decisions. For extracts or supplements, identity testing, fruit-body versus mycelium content, extraction method, dose, contaminants, and study population become separate evidence fields. Research on isolated erinacines, hericenones, cells, or animals cannot be presented as proof that a culinary serving prevents or treats neurological disease.
+
+Readers looking specifically at human evidence should use the [lion’s mane benefits review](/health/lion-s-mane-benefits/) rather than treating this species page as a clinical recommendation. The pages have distinct jobs: this one documents biology, identification, ecology, cultivation, and food handling; the health review evaluates the limits of intervention evidence.
 
 ## Frequently asked questions
 

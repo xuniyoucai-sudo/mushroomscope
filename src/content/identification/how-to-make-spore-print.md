@@ -118,6 +118,8 @@ If someone may have eaten a wild mushroom, seek urgent local medical or poison-c
 
 A pale print can support a *Flammulina* comparison only when it remains tied to the same intact cluster, stem bases, gills, and host wood. The [velvet shank guide](/mushrooms/velvet-shank-mushroom-guide/) shows why pale spores are supporting evidence while rusty-brown spores, a ring zone, or mixed clusters require a stop and wider comparison.
 
+A pink-brown deposit likewise needs anatomy and substrate. The [deer mushroom record](/mushrooms/deer-mushroom-guide/) shows how free gills and direct hardwood attachment support *Pluteus*, while an attached gill junction or a volva redirects the comparison.
+
 ## References
 
 1. [Iowa State University Extension — Tips for Collecting and Identifying Mushrooms](https://yardandgarden.extension.iastate.edu/how-to/tips-collecting-and-identifying-mushrooms)
