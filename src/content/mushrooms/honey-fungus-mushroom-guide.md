@@ -205,6 +205,8 @@ For a tree near a building, path, play area, or utility, record occupancy, lean,
 
 Keep two conclusions in the notes: the fungal determination and the tree-management decision. One may remain uncertain while the other still warrants action—for example, an unidentified root-decay fungus beside a high-use path can justify professional assessment even before species confirmation. Conversely, an old cluster on a dead stump does not prove that every nearby healthy tree requires removal.
 
+For another stump-cluster comparison, the [brick cap guide](/mushrooms/brick-cap-mushroom-guide/) shows how purple-brown spores, ring absence, and changing gill color separate *Hypholoma* from white-spored *Armillaria*.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Armillaria mellea species record](https://www.gbif.org/species/2536891). Taxonomic backbone and occurrence context.

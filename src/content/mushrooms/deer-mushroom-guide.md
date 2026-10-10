@@ -202,6 +202,8 @@ No. It may be buried, damaged, or stuck in the substrate. Excavating the entire 
 
 Include habitat and log, cap surface, mature and young gills, gill-stem junction, entire stem, excavated base, wood attachment, section, and spore deposit. Keep every image linked to one numbered collection.
 
+The [rooting shank guide](/mushrooms/rooting-shank-mushroom-guide/) covers another mushroom that can appear terrestrial above buried wood, but differs through its deep pseudorhiza, white spores, and non-free pale gills.
+
 ## References
 
 The cited databases and professional safety resources support taxonomic searching, placement, wood-decay context, and conservative response to exposure. Species-level interpretation should use a current regional *Pluteus* treatment and, where necessary, microscopy or DNA evidence.

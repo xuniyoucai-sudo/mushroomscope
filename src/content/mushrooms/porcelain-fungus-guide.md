@@ -163,6 +163,8 @@ Keep original images, observation date, region, host evidence, cap and stem meas
 
 If material is lawfully collected for formal study, link the voucher number and repository to the photographs rather than treating a loose dried cap as self-explanatory. Drying removes much of the gloss and translucency that attracted attention in the field. Notes made before drying—especially cap mucilage, ring condition, growth orientation, and beech attachment—therefore remain essential evidence.
 
+Within the same broad family, the [rooting shank guide](/mushrooms/rooting-shank-mushroom-guide/) contrasts exposed beech clusters with a solitary terrestrial-looking fruit body connected to buried wood by a pseudorhiza.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Mucidula mucida* species record](https://www.gbif.org/species/2539204). Taxonomic and occurrence context.

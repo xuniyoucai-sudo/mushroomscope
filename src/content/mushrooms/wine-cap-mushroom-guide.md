@@ -183,6 +183,8 @@ They decompose woody material, but broad claims about crop yield, soil health, o
 
 No. It is useful only within the full pattern of cap development, gills, dark spores, robust stem, wood-chip ecology, geography, and comparison with local species.
 
+After a mulch bed fruits, map the cluster positions and measure remaining chip depth rather than assuming the entire bed is equally colonized. Patchy moisture, fresh chip additions, soil contact, and shade can shift emergence within a few meters and explain why one edge produces while another stays quiet.
+
 ## References
 
 1. [GBIF — *Stropharia rugosoannulata*](https://www.gbif.org/species/2533275). Accepted-name and occurrence context; individual records require verification.

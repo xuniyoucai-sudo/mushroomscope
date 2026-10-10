@@ -174,6 +174,8 @@ Selected strains, concentrated substrate, controlled climate, synchronized initi
 
 It is best treated here as a cultivated food species. Laboratory findings do not establish prevention or treatment in people, and this page makes no medical recommendation.
 
+For cultivated clusters, note cap diameter, slime condition, stem length, substrate block code, and harvest-room position before refrigeration. Those production details help distinguish strain and environment effects from field characters and keep a market-name observation tied to a traceable crop.
+
 ## References
 
 1. [NCBI Taxonomy Browser — *Pholiota microspora*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pholiota+microspora). Lineage and name checkpoint.

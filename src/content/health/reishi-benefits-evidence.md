@@ -5,8 +5,8 @@ keywords: ["reishi clinical evidence", "Ganoderma lucidum systematic review", "r
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-23
-revisionSummary: "Rebuilt the evidence review with study-design limits, product-equivalence checks, safety triage, and a practical claim-evaluation framework."
+updatedDate: 2026-10-11
+revisionSummary: "Added outcome-level evidence grading, an intervention equivalence record, oncology communication boundaries, and a correction-ready claim ledger without implying clinical review."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -130,6 +130,36 @@ If a clinician agrees that a trial is reasonable, avoid changing several supplem
 It is accurate to say that defined *Ganoderma* preparations have been studied in humans and that laboratory findings justify continued research. It is also accurate to say that trials are heterogeneous, important bias concerns remain, and results cannot be generalized across retail products.
 
 It is not supported to say that reishi treats cancer, replaces oncology care, reliably prevents disease, or broadly “boosts” the immune system. Market availability is not FDA preapproval for effectiveness. Until well-designed, independently replicated trials show clinically meaningful benefits for a clearly characterized preparation, reishi should be described as investigational rather than proven therapy.
+
+## Grade each outcome instead of grading “reishi” once
+
+Evidence certainty belongs to a specific outcome in a defined population, not to an ingredient as a whole. A trial can provide low-certainty evidence about a short-term immune marker while providing no usable evidence about survival, fatigue, infection, sleep, or quality of life. Combining those outcomes under a single “clinically proven” badge erases the distinction that matters to patients.
+
+For every claim, record the population, comparator, intervention, follow-up, outcome definition, number randomized, number analyzed, missing data, and adverse-event collection. Then note the main limitations: randomization and allocation concealment, blinding, selective reporting, imprecision, indirectness, inconsistency, and publication bias. A statistically significant result in a small trial can remain highly uncertain when confidence intervals are wide or the outcome was one of many explored.
+
+Surrogate markers deserve their own column. Cytokines, lymphocyte subsets, antioxidant assays, and ex vivo measurements may help explain mechanisms, but a marker change is not automatically a benefit a person can feel or value. The article should not translate “affected an immune parameter” into “boosts immunity,” especially when stronger immune activity could be irrelevant or undesirable in a particular clinical setting.
+
+## Keep an intervention equivalence record
+
+Before using a paper to describe a retail product, build a side-by-side record. Capture the organism name and authentication method; fruiting body, mycelium, spores, or mixture; growth substrate; extraction solvent, time, and temperature; extract ratio; marker compounds and assays; contaminants; dose; schedule; batch; and storage. Missing fields are not minor paperwork—they define how far the evidence can travel.
+
+A hot-water fruiting-body extract cannot automatically validate raw powder, an alcohol tincture, cracked spores, or mycelium grown on grain. Even products with the same milligram number may deliver different material because labels report raw-equivalent weights, extract weights, blends, or proprietary complexes. The correct conclusion when equivalence cannot be established is “not demonstrated,” not “probably similar.”
+
+Maintain a dated claim ledger linking every user-facing sentence to its supporting source and evidence level. When a source is retracted, corrected, superseded, or found to study a different preparation, update the sentence and correction record. This editorial method improves traceability but does not constitute review by a named clinician, pharmacist, oncologist, or mycologist.
+
+## Oncology claims require unusually narrow language
+
+Cancer treatment decisions are time-sensitive and depend on diagnosis, stage, biomarkers, treatment plan, organ function, and interactions. Reishi should never be framed as a replacement for surgery, radiation, chemotherapy, immunotherapy, targeted therapy, endocrine therapy, or supportive care. A person receiving oncology treatment should discuss the exact product and complete ingredient list with the treating team before use.
+
+Adjunctive trial language also needs discipline. “Studied alongside treatment” does not mean “proven to improve treatment,” and a response-rate signal does not establish longer survival or better quality of life. Differences in background therapy, cancer type, stage, preparation, and follow-up prevent casual pooling into a broad anticancer promise. The Cochrane review's conclusion remains a useful boundary: the available evidence does not justify first-line use.
+
+Record harms with the same attention as hoped-for benefits. Trials may be too small or short to detect uncommon liver injury, bleeding, allergic reaction, or interactions. Absence of a reported event can reflect weak monitoring rather than proof of safety. Product contamination, substitution, and undeclared ingredients add risks that efficacy trials of a defined preparation may not measure.
+
+## A correction-ready summary for readers
+
+The stable conclusion is not that research has stopped; it is that current human evidence remains product-specific and insufficient for broad prevention or treatment claims. Laboratory findings can motivate trials. Small clinical studies can refine hypotheses. Neither step establishes that an uncharacterized retail product improves a clinically important outcome.
+
+Readers should focus on four questions: What exact preparation was tested? In whom? Against what comparator? On which patient-important outcome? If an advertisement cannot answer all four from the cited paper, the citation is not adequate support for the claim. If a new high-quality trial changes an outcome-level conclusion, this page should update the relevant claim, date, and reasoning rather than rewriting the entire ingredient as “proven” or “debunked.”
 
 ## References
 

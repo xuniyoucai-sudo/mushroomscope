@@ -6,8 +6,8 @@ keywords: ["oyster mushroom lookalikes", "oyster mushroom identification", "mush
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
-revisionSummary: "Expanded the lookalike guide to 1500+ words with a fuller documentation workflow, confidence checklist, regional caution, and emergency safety boundaries."
+updatedDate: 2026-10-11
+revisionSummary: "Added a specimen-level Pleurotus comparison matrix, angel-wing and jack-o'-lantern separation, mixed-cluster controls, and host-plus-season evidence boundaries."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "identification/how-to-identify-mushrooms", "identification/mushroom-gill-types"]
@@ -139,6 +139,44 @@ No. A spore print can support an identification, but it does not replace cap, gi
 ### Can store-bought oyster mushrooms help me learn?
 
 Yes, for learning general structure and cooking behavior. Store-bought mushrooms are identified food products, while wild specimens require separate, local, in-person identification.
+
+## Build a specimen-level comparison matrix
+
+Do not compare “the cluster” as one object. Give each sampled fruit body a number and record cap width, cap color, surface, margin, gill attachment, stem position, stem base, flesh thickness, odor, spore deposit, exact wood, and position on the log. Mixed fruitings are possible, and a small brown mushroom between oyster-like shelves does not inherit their identity.
+
+For a *Pleurotus* hypothesis, look for a shell- or fan-shaped cap, pale gills that run down a short lateral or off-center stem, firm white flesh, a pale print, and a direct wood attachment. Record cap-to-stem geometry from the side. A nearly absent stem on one fruit body and a visible lateral stem on another can both occur, but truly central stems across the whole collection should widen the comparison.
+
+Photograph a clean vertical section through one mature cap. Show flesh thickness, gill depth, stem insertion, and attachment tissue. This section distinguishes a fleshy agaric from thin leathery fans and can reveal insect damage or decay that an attractive upper surface hides.
+
+## Separate angel wings by substrate and body construction
+
+Angel wings, often treated as *Pleurocybella porrigens*, form pale overlapping fans and can resemble small white oysters. They are typically thinner and more delicate, with little or no stem, and are strongly associated with conifer wood in their documented range. Oyster mushrooms are generally more substantial and many familiar species favor hardwood, although host use must be checked regionally.
+
+Do not use whiteness alone. Record whether the cap is translucent or opaque, how easily it tears, flesh thickness at the attachment, gill arrangement, and the actual tree. Conifer versus hardwood is valuable only when the host was identified from defensible evidence. Barkless wet wood labeled from memory can turn a useful distinction into false confidence.
+
+Historical poisoning reports associated with angel wings make casual food clearance especially inappropriate. Taxonomy, geography, health context, and causation are complex, but the practical rule is simple: an unresolved pale fan on conifer wood should not be treated as an oyster meal.
+
+## Distinguish jack-o'-lantern clusters
+
+Jack-o'-lantern mushrooms (*Omphalotus* species) may form dense orange clusters from stumps, roots, or buried wood. They have well-developed stems and true decurrent gills, so “gills running down a stem on wood” does not belong exclusively to oysters. Their orange pigmentation, clustered upright posture, and orange flesh point away from typical pale or gray oysters, but faded photographs can mute color.
+
+Photograph the intact base and a lengthwise section. Record whether stems arise separately or from a shared base, whether cap and flesh remain orange internally, and whether the growth is upright rather than laterally shelf-like. Bioluminescence is not a safe field requirement: it may be weak, require darkness and dark adaptation, and be absent from a casual observation.
+
+The [chanterelle versus jack-o'-lantern guide](/identification/chanterelle-vs-jack-o-lantern/) covers *Omphalotus* structure in more detail. A poisonous orange cluster should never be dismissed because a phone image made it look tan.
+
+## Compare wood-growing gilled clusters beyond shape
+
+*Crepidotus* species can form small stemless or lateral caps on wood, often with brown spores rather than the pale deposit expected from oysters. *Phyllotopsis nidulans* can be orange to buff, hairy, and strong-smelling. *Lentinellus* may have serrated gill edges and tougher flesh. *Panellus* and other small wood fungi can overlap in silhouette while differing in spores, texture, and microscopic anatomy.
+
+Make a real spore deposit from a mature cap. Judge a sufficiently thick deposit on both light and dark surfaces. Then use a hand lens to inspect gill edges, cap hairs, and attachment. A pale print narrows the set but does not establish *Pleurotus*; microscopy and a regional key may be needed for small, weathered, or atypical collections.
+
+## Treat host and season as testable evidence
+
+Record the host independently of the mushroom. Photograph bark, end grain, buds, leaves, cones, and nearby living counterparts. State uncertainty when wood cannot be identified. Also record whether it is a standing dead tree, fallen log, stump, buried root, or wound on a living tree and whether decay is firm, fibrous, or crumbly.
+
+Season helps distinguish locally plausible species and explains texture. Cold-tolerant oysters can fruit late in the year, while warm-season *Pleurotus* and lookalikes shift the regional comparison set. Frost, drought, and repeated wetting change color, margin shape, and odor. Date and weather support anatomy; they do not override a contradictory spore deposit or substrate.
+
+For repeated sites, map each flush on the log. A later fruiting several meters along the same fallen trunk may be a separate organism. Repetition is useful ecological evidence, but it should not turn yesterday's confirmed cluster into automatic clearance for today's mushrooms.
 
 ## References
 

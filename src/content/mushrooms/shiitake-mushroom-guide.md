@@ -208,7 +208,7 @@ For outdoor logs, record tree species, felling date, diameter, bark damage, inoc
 
 Wax loss, split bark, exposed sapwood, and end checking create different drying routes. Mark damaged zones on a simple log diagram and compare where the first fruit bodies emerge. Heavy fruiting near a permanently wet end can indicate uneven hydration rather than a superior strain. Conversely, a colonized log that produces nothing after seasonal cooling may need a soak and temperature shift, not additional spawn.
 
-Keep competitor fungi in the same record. Turkey-tail-like brackets, *Trichoderma* patches, and unfamiliar crusts do not all imply the same failure, but they show that the substrate is biologically contested. Do not move visibly contaminated logs into a clean indoor fruiting area. The [log cultivation guide](/growing/grow-mushrooms-on-logs/) covers drilling and sealing; this species record adds the shiitake-specific interpretation of bark retention and fruiting position.
+Keep competitor fungi in the same record. Turkey-tail-like brackets, *Trichoderma* patches, and unfamiliar crusts do not all imply the same failure, but they show that the substrate is biologically contested. Do not move visibly contaminated logs into a clean indoor fruiting area. The [shiitake log cultivation guide](/growing/grow-shiitake-logs/) covers drilling and sealing; this species record adds the shiitake-specific interpretation of bark retention and fruiting position.
 
 ## Compare sawdust blocks by biological efficiency, not cap count
 

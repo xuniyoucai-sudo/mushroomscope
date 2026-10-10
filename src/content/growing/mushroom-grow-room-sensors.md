@@ -139,6 +139,8 @@ Carbon-dioxide concentration can differ sharply between a breathing cluster, a s
 
 Air temperature does not equal substrate core temperature. Colonizing blocks generate metabolic heat, and wet-bulb effects near fog can cool a probe.
 
+Store calibration checks beside crop records, not in a separate notebook that loses the batch connection. A sensor reading becomes actionable only when its device ID, location, calibration date, sampling interval, and corresponding room event are preserved together.
+
 ## References
 
 1. [NIST Calibration Services](https://www.nist.gov/calibrations)

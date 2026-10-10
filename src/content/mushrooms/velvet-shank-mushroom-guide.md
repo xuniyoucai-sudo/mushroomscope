@@ -183,6 +183,8 @@ Commercial enoki form reflects controlled light, carbon dioxide, temperature, an
 
 For every wild cluster, make the deadly *Galerina* boundary explicit. Preserve the lower stem, look for a ring or ring zone without assuming its absence is decisive, document mature gill and spore color, and obtain local in-person review. If an unknown mushroom was eaten, keep specimens and meal remnants and contact a poison service promptly rather than waiting for an online verdict.
 
+When several ringless brown-capped mushrooms share a hardwood stump, compare the collection with the [brick cap field workflow](/mushrooms/brick-cap-mushroom-guide/), especially mature gill color and the purple-brown versus white spore result.
+
 ## References
 
 For a pale beech-wood cluster with translucent mucilaginous caps, white gills, and delicate rings, use the [porcelain fungus guide](/mushrooms/porcelain-fungus-guide/) rather than applying the darker-stemmed velvet-shank pattern.

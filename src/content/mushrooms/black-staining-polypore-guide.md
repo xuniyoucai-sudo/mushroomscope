@@ -184,6 +184,8 @@ GBIF supports the accepted-name and geographic checkpoint. Missouri Department o
 
 The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened beside the site's maitake and dryad's saddle references and checked for a large root-zone rosette, localized rather than universal blackening, visible pores, realistic woodland light, restrained color, sharp natural texture, clean crop, and absence of text, watermark or logo. The dark marks deliberately illustrate a reaction concept; they do not establish diagnostic timing.
 
+Record the boundary between bruised gray tissue and truly blackened tissue at fixed intervals rather than relying on memory. A photograph at cutting, ten minutes, and one hour separates an immediate handling mark from the progressive dark reaction that gives this polypore its common name.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Meripilus sumstinei*](https://www.gbif.org/taxon/72ZWY). Accepted-name, synonyms and occurrence checkpoint.

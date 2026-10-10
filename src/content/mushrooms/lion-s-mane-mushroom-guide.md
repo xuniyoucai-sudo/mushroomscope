@@ -200,7 +200,7 @@ Long sparse branches with poorly developed teeth often align with inadequate fre
 
 For food use, freshness, complete cooking, storage time, and individual tolerance are the relevant decisions. For extracts or supplements, identity testing, fruit-body versus mycelium content, extraction method, dose, contaminants, and study population become separate evidence fields. Research on isolated erinacines, hericenones, cells, or animals cannot be presented as proof that a culinary serving prevents or treats neurological disease.
 
-Readers looking specifically at human evidence should use the [lion’s mane benefits review](/health/lion-s-mane-benefits/) rather than treating this species page as a clinical recommendation. The pages have distinct jobs: this one documents biology, identification, ecology, cultivation, and food handling; the health review evaluates the limits of intervention evidence.
+Readers looking specifically at human evidence should use the [lion’s mane benefits review](/health/lion-s-mane-benefits-evidence/) rather than treating this species page as a clinical recommendation. The pages have distinct jobs: this one documents biology, identification, ecology, cultivation, and food handling; the health review evaluates the limits of intervention evidence.
 
 ## Frequently asked questions
 
