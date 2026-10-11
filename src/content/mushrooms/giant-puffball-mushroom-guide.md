@@ -150,6 +150,8 @@ Record a giant puffball as an evidence chain: undisturbed habitat, complete base
 
 ## References
 
+The [common earthball guide](/mushrooms/common-earthball-fungus-guide/) explains why a coarse thick rind and purple-black maturing interior belong to a different, poisonous field problem.
+
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/2537430). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser — *Calvatia gigantea*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Calvatia+gigantea). Independent nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poison-response context.

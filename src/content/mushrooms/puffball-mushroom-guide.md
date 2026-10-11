@@ -166,6 +166,8 @@ Very small nest-like cups with loose disk-shaped contents are not miniature puff
 
 ## References
 
+Compare the [common earthball guide](/mushrooms/common-earthball-fungus-guide/) before applying any puffball name to a thick-skinned, coarsely scaled round fungus with a darkening interior.
+
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/5243177). Taxonomic placement and nomenclature.
 2. Missouri Department of Conservation. [A Guide to Missouri’s Edible and Poisonous Mushrooms](https://mdc.mo.gov/sites/default/files/mo_nature/downloads/page/MushroomGuide.pdf). Regional identification and lookalike context.
 3. Penn State Extension. [Giant Puffball](https://extension.psu.edu/programs/master-gardener/counties/pike/publications/sights-of-the-season/fall/giant-puffball). Morphology, habitat, and life-cycle context.

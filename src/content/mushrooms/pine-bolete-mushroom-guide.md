@@ -6,7 +6,8 @@ keywords: ["pine bolete", "Boletus pinophilus", "pine bolete identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-19
-updatedDate: 2026-10-01
+updatedDate: 2026-10-12
+revisionSummary: "Added a host-neighborhood confidence table, pore-aging controls, and a market-versus-field identity boundary for the regional Boletus edulis complex."
 draft: false
 featured: false
 coverImage: "../../assets/species/pine-bolete-mushroom-editorial-v2.png"
@@ -198,6 +199,18 @@ Plot each bolete relative to trunks and repeat the map after later flushes. A co
 The name “pine bolete” is applied unevenly to members of the *Boletus edulis* complex. Record the regional key used, cap surface when wet and dry, pore color by age, reticulation distribution, reaction grid, host neighborhood, and spore measurements. Stop at complex level when those data do not resolve a local species concept. A precise uncertain record is preferable to transferring a European name to a superficially similar collection elsewhere.
 
 For a different pine partner, compare the [slippery jack guide](/mushrooms/slippery-jack-mushroom-guide/), where a viscid cap, yellow pores, ring development, and glandular dots define the field problem.
+
+## Score host confidence before using the pine name
+
+Separate visible proximity from biological evidence. Give a collection one point for a pine trunk inside the mapped root neighborhood, one for attached diagnostic cones or needle bundles, one for repeated fruiting beneath the same pine group, and one for exclusion of equally plausible ectomycorrhizal trees. This is a field-recording aid, not a validated identification score: even four points cannot replace morphology, microscopy, geography, or a current regional key.
+
+Record contradictory evidence in the same table. A bolete beside pine in a mixed birch–oak planting has lower host specificity than one in a documented single-species plantation. Imported soil, landscaping, and wide root systems weaken the apparent relationship between the nearest trunk and the fungus. The table makes that uncertainty visible instead of converting “near pine” into a species conclusion.
+
+## Keep market porcini and a field voucher as separate objects
+
+A package labeled porcini can contain dried or sliced members of the *Boletus edulis* complex whose cap, pore layer, stem base, host, and locality are no longer available. Do not use package color to train a field identification, and do not attach a precise species name to a meal from a broad trade label. For traceability, record the producer, country of origin, lot, ingredient declaration, whole versus sliced form, and whether an authenticated scientific name is provided.
+
+A field voucher requires the opposite evidence: intact cap, pores at known maturity, complete reticulated stem, timed reaction grid, host neighborhood, locality, and regional interpretation. Keeping the two records separate prevents culinary familiarity with “porcini” from becoming false confidence about an unknown wild bolete.
 
 ## References
 

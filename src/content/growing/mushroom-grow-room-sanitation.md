@@ -5,7 +5,8 @@ keywords: ["mushroom grow room sanitation","clean mushroom grow room","mushroom 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-18
-updatedDate: 2026-09-26
+updatedDate: 2026-10-12
+revisionSummary: "Added risk-based verification sites, corrective-action release rules, and a room-turn record that separates cleaning evidence from chemical application."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-grow-room-sanitation-editorial-v2.png"
@@ -118,13 +119,25 @@ Set escalation rules before a failure. The procedure should name who can place a
 
 Verification records should preserve unfavorable results. Record the exact location, time, room status, method, acceptance limit, result, correction, and resample. ATP, visual inspection, sanitizer concentration, and microbiological tests measure different things; none should be relabeled as proof that a room is sterile. Trend comparable measurements and investigate recurrence rather than rewarding a low room-wide average that conceals one persistent drain or joint.
 
-## Frequently asked questions
+## Build a verification map from product and water movement
+
+Choose verification sites because contamination can arrive, survive, or travel there—not because they are easy to swab. Mark overhead condensate paths, humidifier reservoirs, door handles, harvest-contact surfaces, rack joints, wheels, floor-wall seams, and every drain. Then overlay the direction of airflow, hose splash, employee movement, harvest containers, and waste. The intersection of a persistent niche with a transfer route deserves more attention than an isolated clean-looking wall.
+
+Rotate noncritical sites while keeping several fixed sentinels so trends remain comparable. Record room, asset ID, surface condition, crop stage, time since cleaning, method, result, and corrective action. A pass/fail total without locations cannot distinguish a one-time miss from a recurring engineering defect.
+
+## Define release failure before the room is cleaned
+
+A room-turn procedure should state who can release the room and what blocks release: visible substrate, standing water, unresolved condensate, incorrect chemical concentration, incomplete wet contact time, damaged food-contact surfaces, or a failed program-specific verification result. Write the decision rule before seeing the result so production pressure cannot quietly redefine a failure as acceptable.
+
+When a room fails, contain it, identify the exact failed step, reclean the affected zone, reapply a label-authorized product when appropriate, repeat the relevant verification, and document the disposition. Do not erase the first result. The paired failure and corrective record is the evidence that the system learned rather than merely produced a clean final checkbox. Link recurring moisture defects to the [grow-room sensors guide](/growing/mushroom-grow-room-sensors/) and contamination patterns to the [contamination guide](/growing/mushroom-contamination-guide/).
 
 ## Prevent the sanitation process from contaminating clean areas
 
 Cleaning itself moves soil. High-pressure water can aerosolize debris, floor splash can reach racks, and a brush used in a drain can transfer contamination to a food-contact surface. Work from higher and cleaner surfaces toward lower and dirtier ones, keep drain tools dedicated, control hose pressure, and remove clean portable equipment before washing the room. Do not clean while exposed harvested mushrooms are present.
 
 Release the room only after surfaces are visibly clean, required contact time is complete, residues are handled according to the label, standing water is removed, and verification meets the written limit. Record deviations such as a clogged drain, damaged seal, expired test strip, or incomplete temperature cycle. A signature without these observations is not verification. Repeated failures at the same niche should trigger equipment or drainage redesign, not merely more chemical.
+
+## Frequently asked questions
 
 ### Cleaning and sanitizing are separate operations?
 

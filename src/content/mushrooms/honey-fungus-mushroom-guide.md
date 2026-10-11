@@ -209,6 +209,8 @@ For another stump-cluster comparison, the [brick cap guide](/mushrooms/brick-cap
 
 ## References
 
+For a ringless yellow cluster with olive-gray gills and purple-brown spores, use the [sulfur tuft guide](/mushrooms/sulfur-tuft-mushroom-guide/) rather than extending a honey-fungus label from clustered growth alone.
+
 1. Global Biodiversity Information Facility. [Armillaria mellea species record](https://www.gbif.org/species/2536891). Taxonomic backbone and occurrence context.
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Independent lineage and nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.

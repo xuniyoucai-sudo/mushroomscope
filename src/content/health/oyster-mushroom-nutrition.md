@@ -5,12 +5,13 @@ keywords: ["oyster mushroom nutrition", "oyster mushroom protein", "oyster mushr
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-26
-updatedDate: 2026-09-26
+updatedDate: 2026-10-12
 draft: false
 featured: false
 evidenceLevel: moderate
 reviewStatus: editorial
-reviewDate: 2026-09-26
+reviewDate: 2026-10-12
+revisionSummary: "Added a raw-to-cooked yield worksheet, explicit protein/fiber intent answers, and a label-versus-database evidence ladder without extending food data to extracts."
 coverImage: "../../assets/health/oyster-mushroom-nutrition-editorial-v2.png"
 coverAlt: "Cultivated oyster mushroom cluster beside a cooked serving and kitchen scale for a food-composition comparison"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -115,6 +116,18 @@ Buy cultivated mushrooms from a traceable source, refrigerate them promptly, and
 Follow recalls for the named product and lot. Foodborne risk is not visible in a nutrient panel, and a clean-looking cluster is not proof that every production and handling control succeeded. People at greater risk from foodborne illness should follow advice from their healthcare team and public-health authorities.
 
 Allergic or other adverse reactions can occur. Trouble breathing, facial or throat swelling, fainting, confusion, severe weakness, persistent vomiting, or other severe symptoms require urgent care. Preserve the package, lot, leftovers, preparation details, amount eaten, and timing. Do not use an online nutrition article to determine whether a wild specimen was edible or whether a serious reaction is safe to watch at home.
+
+## Use a yield worksheet instead of copying one nutrition number
+
+For one home batch, record the raw edible mushroom mass after trimming, the mass and label data for every added ingredient, and the final cooked mass after the pan has stopped losing visible water. Divide the finished batch into weighed portions. This preserves total recipe nutrients while acknowledging that evaporation changes the per-100-gram denominator. It also reveals when oil, butter, or sauce—not the mushroom—accounts for most calories or sodium.
+
+Keep three columns: matched database or package value, amount used, and contribution to the full recipe. Mark any substitution, such as a generic raw oyster entry used for a labeled king oyster product, as an uncertainty rather than hiding it behind decimal precision. A household worksheet does not create laboratory data; it creates a transparent estimate that another reader can reproduce.
+
+## Answer protein and fiber queries at the meal level
+
+Oyster mushrooms contain both protein and fiber. The practical answer is that a fresh serving contributes modest amounts of each because much of its weight is water. It should not be presented as a concentrated protein replacement without comparing the complete meal. If mushrooms replace meat on texture alone, check what will supply the protein, iron, vitamin B12, calories, and other nutrients the former meal provided.
+
+For fiber, compare the cooked portion with the whole plate. Beans, whole grains, vegetables, nuts, and seeds may contribute much more than a garnish of mushrooms. This is why the general [nutrition guide](/health/mushroom-nutrition-guide/) owns broad “are mushrooms fiber or protein” searches, while this page answers the species-specific food question. The [oyster species guide](/mushrooms/oyster-mushroom-guide/) remains the identification and ecology page, and the oyster hub organizes cultivation and cooking rather than competing for nutrition intent.
 
 ## Frequently asked questions
 

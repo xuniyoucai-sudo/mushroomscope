@@ -112,6 +112,8 @@ Use a mature cap across white and dark nonabsorbent surfaces, cover it against d
 
 The [spore-print method](/identification/how-to-make-spore-print/) gives a repeatable setup. Spore color is particularly important in stump clusters because it separates several high-risk pathways: white-spored *Armillaria*, rusty-brown *Galerina* and many *Pholiota*, and purple-brown *Hypholoma*.
 
+The new [sulfur tuft guide](/mushrooms/sulfur-tuft-mushroom-guide/) documents the yellow-to-olive gill sequence that must be compared before treating a brick-colored cluster as *H. lateritium*.
+
 A purple-brown print supports the genus-level direction but does not prove *H. lateritium*. Keep it attached to notes about cap development, gill color, ring absence, host, and region.
 
 ## Document the stem and fleeting veil evidence
