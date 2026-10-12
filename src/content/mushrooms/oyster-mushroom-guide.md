@@ -227,6 +227,8 @@ Change one variable per matched group. If airflow is increased, keep block age, 
 
 The [home oyster cultivation guide](/growing/grow-oyster-mushrooms-home/) covers room workflow, while the [oyster mushroom nutrition guide](/health/oyster-mushroom-nutrition/) answers cooked-food composition questions. Those are separate intents from this species record and should be linked with explicit anchors rather than merged.
 
+Small pale fans are not automatically oysters; compare the forked underside in the [crimped gill fungus guide](/mushrooms/crimped-gill-fungus-guide/).
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

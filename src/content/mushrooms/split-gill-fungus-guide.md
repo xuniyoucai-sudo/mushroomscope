@@ -6,7 +6,7 @@ keywords: ["split gill fungus", "Schizophyllum commune", "split gill mushroom id
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-04
-updatedDate: 2026-10-04
+updatedDate: 2026-10-13
 coverImage: "../../assets/species/split-gill-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of small gray-white split gill fans showing radiating folded gills on a fallen hardwood branch"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -197,6 +197,12 @@ Record bark temperature and relative humidity only with sensor location and inst
 GBIF and NCBI support name and lineage checkpoints. CDC supports the boundary between environmental fungi and fungal disease, not a diagnosis from exposure. NAMA supports conservative poisoning response.
 
 The cover is an original AI editorial image checked for small hairy fans, lateral hardwood attachment, visible radiating split folds, realistic scale, forest light, clarity, and no text or watermark. It is not a diagnostic underside plate or medical evidence. No named mycologist, pulmonologist, or occupational hygienist reviewed this draft.
+
+## Quantify the fold response instead of describing it vaguely
+
+A repeatable hydration record separates observation from impression. Select three numbered fans that remain attached to the same branch. Photograph each with a millimeter scale before rain or controlled humidification, then again at fixed intervals such as 15, 30, and 60 minutes. Record fan projection, margin angle, lamellar opening, mass only if a lawful detached voucher is used, and air temperature. Do not combine measurements from different fruit bodies into a false time series.
+
+The useful result is not that the fungus “revived,” but which paired lamellar edges reopened, how quickly, and whether old damaged tissue behaved differently from fresh margins. Compare this architecture with the broader forked folds in the [crimped gill fungus guide](/mushrooms/crimped-gill-fungus-guide/). If a fan remains rigid, report its condition rather than forcing a species conclusion from an expected response. Preserve unedited images and label any controlled wetting so a later reader can separate field weather from a staged observation.
 
 ## Frequently asked field questions
 

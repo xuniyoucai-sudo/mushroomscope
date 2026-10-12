@@ -233,6 +233,8 @@ Do not use this species page to diagnose disease, replace treatment, or claim th
 
 For field comparison, use the dedicated [turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) and preserve the necessary safety rule: a webpage cannot authenticate a specimen or clear it for consumption.
 
+The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) shows why a fresh lilac surface that tears into teeth redirects a turkey-tail comparison.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.

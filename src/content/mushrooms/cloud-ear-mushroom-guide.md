@@ -6,7 +6,7 @@ keywords: ["cloud ear fungus", "Auricularia cornea", "cloud ear mushroom", "clou
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-14
-updatedDate: 2026-10-02
+updatedDate: 2026-10-13
 revisionSummary: "Added hydration-state morphometrics, host-and-climate record separation, dried-product mass balance, and traceability-based culinary controls."
 coverImage: "../../assets/species/cloud-ear-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale tan cloud ear fruit bodies attached laterally to a damp tropical hardwood branch"
@@ -201,6 +201,12 @@ Avoid damaging living trees to obtain a close-up. A telephoto or careful angle o
 The cover is an original AI editorial illustration checked for pale gelatinous ear-like lobes, hardwood attachment, tropical environment, natural light, clarity, and distinction from the site's darker wood ear image. It is not a field photograph or voucher and cannot resolve species.
 
 Review is editorial. No named clinician, taxonomist, or cultivation specialist reviewed this draft, and the page does not provide medical or food clearance.
+
+## Separate hydration gain from species identity
+
+Cloud ear tissue can expand dramatically after wetting, but expansion is a condition measurement, not a species test. For a lawful voucher, record dry mass, dimensions at three fixed axes, water temperature, immersion time, drained mass, and texture after standardized draining. Keep one unsoaked reference and photograph both under the same light. Discard any sample showing mold, sour odor, or unknown storage history rather than turning the trial into a food experiment.
+
+Pair the hydration record with wood attachment, vein pattern, hairiness, color, and microscopic evidence required by the regional key. Similar Auricularia names have shifted with molecular work, so a retail label or rehydration ratio cannot establish species. The outcome belongs in a condition-and-provenance note: what material was tested, where it came from, and which identification evidence remains unresolved.
 
 ## Frequently asked questions
 

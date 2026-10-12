@@ -136,6 +136,8 @@ If someone may have eaten an unknown mushroom, contact the appropriate poison se
 
 Zoned brackets need an underside comparison: the [turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) separates minute pores from smooth *Stereum* surfaces and coarser relatives.
 
+For a developmental example, the [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) follows small pores as their walls split into teeth.
+
 ## References
 
 The British Mycological Society identification guidance supports evidence-led field work and expert referral. GBIF can help check accepted names and geographic records, while records still require critical interpretation. North American Mycological Association poisoning guidance supports conservative emergency action. Use current regional monographs for species-level determinations because pore characters and names vary among continents and lineages.

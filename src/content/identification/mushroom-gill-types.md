@@ -140,6 +140,8 @@ The [saffron milk cap guide](/mushrooms/saffron-milk-cap-mushroom-guide/) shows 
 
 For brittle-gilled collections that exude droplets, continue with the [mushroom latex documentation guide](/identification/mushroom-latex-field-guide/) rather than treating white or colored milk as a species shortcut.
 
+The [crimped gill fungus guide](/mushrooms/crimped-gill-fungus-guide/) documents forked wrinkles that resemble gills without behaving like ordinary blades.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

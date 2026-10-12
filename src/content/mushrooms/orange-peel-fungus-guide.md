@@ -6,7 +6,7 @@ keywords: ["orange peel fungus", "Aleuria aurantia", "orange cup fungus", "orang
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-04
-updatedDate: 2026-10-04
+updatedDate: 2026-10-13
 coverImage: "../../assets/species/orange-peel-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of irregular bright orange peel fungus cups fruiting on damp disturbed mineral soil"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -213,6 +213,12 @@ Record drainage after both light and sustained rain, because a surface that look
 GBIF and NCBI support name and occurrence checkpoints. USDA NRCS supports soil-context tools, not a contamination test. NAMA supports conservative poisoning response.
 
 The cover is an original AI editorial image checked for irregular orange cups, smooth inner surfaces, paler textured exteriors, stemless soil attachment, varied stages, realistic scale, natural light, and no text, watermark, or literal citrus. It is not a voucher. No named mycologist, soil scientist, toxicologist, or clinician reviewed this draft.
+
+## Map disturbed-soil succession at one site
+
+Orange peel fungus often appears where mineral soil has been exposed, but “disturbed ground” is too broad to explain a record. Mark a small plot and record bare-soil percentage, compaction, slope, drainage, nearby vegetation, vehicle or foot traffic, and the time since excavation or grading. Photograph the same plot after rainfall intervals, keeping camera position and scale constant. Count cups by size class rather than treating a bright patch as one organism.
+
+This site history helps separate a temporary early-successional flush from persistent fruiting and prevents an attractive orange cup from being detached from its ecology. Note whether cups arise from mineral soil, buried woody fragments, gravel, or a moss edge. Compare brittle cup walls, smooth inner surface, and pale exterior across several ages; those observations are more useful than orange color alone. When the disturbance date is unknown, record the visible evidence and the land manager’s account separately instead of converting an estimate into a fact.
 
 ## Frequently asked field questions
 
