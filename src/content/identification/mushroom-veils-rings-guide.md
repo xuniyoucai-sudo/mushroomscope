@@ -87,6 +87,8 @@ An apparent ring may be a water line, cracked stem surface, handling abrasion, o
 
 A persistent ring remains conspicuous at maturity; an evanescent ring collapses or disappears early. Those words require observations across stages or strong support from a current description. On a single mature specimen, use “not observed.” Insect grazing and handling can remove tissue.
 
+The [funeral bell guide](/mushrooms/funeral-bell-mushroom-guide/) applies this distinction to a high-risk wood-growing species whose young veil can become only a faint, spore-stained stem zone at maturity.
+
 Before testing ring mobility, photograph its original position. Move it only if a regional key uses that feature and the specimen can be lawfully collected. A detached ring provides less evidence than an intact one with documented orientation.
 
 ## Recognize a cortina and spore-stained fibers

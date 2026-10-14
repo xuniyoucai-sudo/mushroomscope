@@ -6,6 +6,7 @@ keywords: ["portobello mushrooms", "portobello nutrition", "how to cook portobel
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-09
+updatedDate: 2026-10-14
 coverImage: "../../assets/species/portobello-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of three fresh mature portobello caps, including one showing dark brown gills, on a kitchen worktable"
 imageCredit: "Original AI editorial image created for MushroomScope"
@@ -185,6 +186,18 @@ The distinction also clarifies sustainability comparisons. Yield, substrate inpu
 This guide received editorial review only. No named dietitian, chef, grower, or clinician reviewed it, and it makes no treatment claim. Check nutrition against a current matched USDA entry and the actual recipe.
 
 The cover is an original AI editorial image showing the mature commercial stage. It is not a tested batch, nutrient analysis, farm record, or wild-identification reference.
+
+## Run a cap-moisture cooking trial
+
+Portobello cooking advice becomes more useful when water loss is measured. Weigh three similarly sized caps after trimming. Leave one intact, score one shallowly, and cut one into equal strips. Cook each with the same oil, heat, salt timing, pan-position rotation, and endpoint. Weigh cooked portions and collected liquid separately.
+
+Calculate cooked yield as cooked weight divided by raw trimmed weight. Strips expose more surface and often lose water faster, while a whole cap can retain liquid in its gill cavity. Scraping gills removes mass, so record it. Repeat with another package before generalizing from one cap.
+
+The trial supports recipe decisions without turning texture into nutrition mythology. Lower cooked yield concentrates nutrients per 100 grams of cooked food but does not create protein or make portobello equivalent to meat. Pair the yield with the [mushroom nutrition guide](/health/mushroom-nutrition-guide/) and state whether values refer to raw weight, cooked weight, or a finished dish.
+
+## Separate retail maturity from wild identification
+
+The portobello label belongs to a traceable cultivated production chain. Its open cap and dark gills show maturity within *Agaricus bisporus* cultivation; they are not a field key. Wild material requires an intact base, odor, staining, gill development, spores, habitat, regional comparisons, and expert review.
 
 ## References
 

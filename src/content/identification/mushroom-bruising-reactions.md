@@ -5,6 +5,7 @@ keywords: ["mushroom bruising","mushroom color change"]
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-23
+updatedDate: 2026-10-14
 draft: false
 featured: false
 coverImage: "../../assets/identification/mushroom-bruising-reactions-editorial-v2.png"
@@ -117,6 +118,14 @@ Temperature, water content, tissue age, oxygen exposure, and injury severity can
 The cover is an original AI-assisted editorial illustration showing separate cut specimens with blue and yellow reaction areas. It was checked against the site’s bolete and specimen-photography images for visible anatomy, restrained natural color, neutral work surface, clear crop, and absence of text or watermark. The depicted mushrooms are explanatory composites, not vouchers and not identification evidence.
 
 This page has editorial review status. No named mycologist, toxicologist, or clinician reviewed it. NAMA and Poison Help support the emergency boundary; they do not identify a reader’s specimen. Corrections should preserve the distinction between a documented color reaction and a taxonomic conclusion.
+
+## Build a reaction matrix instead of a color anecdote
+
+For a variable collection, divide one fresh specimen into four labeled test zones: intact cap surface, cap flesh, upper stem, and stem base. Apply the same light pressure to surface zones and make clean cuts through flesh. Photograph at zero, one, five, and fifteen minutes beside one neutral reference. Record temperature, moisture, age, and whether change begins at the cut edge or diffuses through intact tissue.
+
+This matrix preserves location-dependent reactions that “turned blue” loses. It can separate rapid basal yellowing from slow cap browning or a pore reaction from unchanged flesh. Compare only specimens from the same numbered collection; combining neighboring mushrooms creates a fictional character set.
+
+Use results to test a regional key, never to reverse-engineer edibility. If a predicted reaction fails, revisit age, exposure, timing, and alternative taxa. Preserve negative results because an absent reaction under documented conditions can be useful, while an undocumented absence is weak evidence.
 
 ## Frequently asked questions
 

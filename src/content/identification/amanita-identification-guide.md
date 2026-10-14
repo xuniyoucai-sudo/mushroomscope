@@ -6,6 +6,7 @@ keywords: ["Amanita identification", "Amanita volva", "Amanita veil", "death cap
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-10
+updatedDate: 2026-10-14
 coverImage: "../../assets/identification/amanita-identification-editorial-v2.png"
 coverAlt: "AI editorial illustration of varied Amanita-like mushrooms showing white gills, a skirt ring, cap patches, and two forms of basal veil remnants"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -207,6 +208,14 @@ Photograph before removal if safe. Trees can support recurring fruiting, so one 
 The cover is an original AI editorial illustration designed to show variation in universal-veil remnants, a partial-veil ring, white gills, and full bases. It was regenerated after the first candidate showed an overly regular base that could mislead. The accepted image remains illustrative, not a genus template or voucher.
 
 This draft has editorial review only; no named toxicologist, clinician, or taxonomist reviewed it. Medical statements are limited to public-health guidance and do not constitute treatment advice.
+
+## Score veil evidence across a developmental series
+
+When several fruit bodies are present, create a veil ledger rather than describing only the largest cap. For each numbered specimen, record cap-remnant position, ring development, basal bulb shape, volval limb or zones, and whether rain, soil, slugs, or handling removed tissue. Arrange photographs from unopened button through mature and weathered stages without assuming nearby mushrooms are identical.
+
+This series tests developmental explanations. A ring visible on young specimens but collapsed on old ones differs from a consistently ringless species. Concentric volval zones, a free sack-like volva, and friable cap patches represent different universal-veil architectures. Excavation must preserve the entire base; a knife cut at soil level destroys the evidence.
+
+Mixed fruitings remain possible. If one specimen has incompatible gills, spores, base anatomy, or veil development, separate it and restart the comparison. For food safety, unresolved membership invalidates the collection. For documentation, retaining the outlier under a separate number may reveal a second species.
 
 ## Frequently asked questions
 

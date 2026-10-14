@@ -142,6 +142,8 @@ For brittle-gilled collections that exude droplets, continue with the [mushroom 
 
 The [crimped gill fungus guide](/mushrooms/crimped-gill-fungus-guide/) documents forked wrinkles that resemble gills without behaving like ordinary blades.
 
+The [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) provides a contrasting case: thick, relatively distant waxy gills must be read with a smooth cap, ringless stem, grassland history, and regional red-waxcap alternatives.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

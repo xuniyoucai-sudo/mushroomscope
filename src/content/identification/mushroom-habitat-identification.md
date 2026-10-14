@@ -138,6 +138,8 @@ When uploading an observation, separate directly observed substrate from inferre
 
 Tiny cups on mulch or a decaying twig need the same substrate discipline. The [fluted bird's nest fungus guide](/mushrooms/fluted-birds-nest-fungus-guide/) shows how wood-chip history, cup development, inner fluting, and peridioles combine; “on soil” would erase the woody material supporting that record.
 
+For fungi of old, low-nutrient turf, the [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) shows how mowing, moss cover, fertilizer history, repeated visits, and the wider grassland-fungi assemblage matter more than the word “lawn.”
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.
