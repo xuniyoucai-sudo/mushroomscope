@@ -134,6 +134,8 @@ Stem features organize a hypothesis but cannot establish food safety. Never eat 
 
 The [parasol mushroom guide](/mushrooms/parasol-mushroom-guide/) shows why ring mobility, lower-stem zigzags and an excavated base must remain linked to one specimen rather than being inferred from separate photographs.
 
+The [destroying angel guide](/mushrooms/destroying-angel-mushroom-guide/) provides a specimen-level example of why a saclike volva must be excavated, while the [fly agaric guide](/mushrooms/fly-agaric-mushroom-guide/) shows concentric basal veil zones that can support a different Amanita hypothesis.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Lineage and current-name context; a database name does not replace specimen characters.

@@ -5,8 +5,8 @@ keywords: ["when to harvest cultivated mushrooms", "mushroom cultivation", "home
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-25
-revisionSummary: "Replaced generic cultivation templates with species-specific harvest windows, cooling-delay records, and a measured first-versus-second-flush quality comparison."
+updatedDate: 2026-10-15
+revisionSummary: "Added a cluster maturity index, destructive shelf-life sampling, and a saleable-yield comparison that separates gross mass from quality."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/grow-oyster-mushrooms-home", "growing/grow-shiitake-logs"]
@@ -184,6 +184,24 @@ Compare packaging only within a matched crop. Note package type, fill mass, cond
 A second flush may differ in cluster count, individual size, maturity synchrony and trimming loss. Record gross harvested mass, clean usable mass and days from rehydration or rest to first harvest. Dividing usable mass by block or dry-substrate basis answers a different question from reporting the single largest cluster. Keep these denominators visible when deciding whether waiting for another flush is worthwhile.
 
 Also record what ended the observation: the planned number of flushes, declining quality, contamination, pests, block breakdown or a supplier-defined limit. A late cluster should not be served merely to improve cumulative yield. The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) explains yield denominators; this page keeps the maturity and handling decision separate from production accounting.
+
+## Build a cluster maturity index for one strain
+
+Calendar age is weak because temperature, carbon dioxide, humidity, light, and block history change development. For one named strain and production method, define three to five observable stages. An oyster trial might score margin roll, cap angle, gill exposure, cluster firmness, and visible spore release; lion's mane might score tooth length, color, density, and softening. Photograph a marked cluster against a scale at fixed intervals and record the stage without removing it.
+
+Harvest replicate clusters at adjacent stages rather than selecting only the most attractive examples. Measure gross mass, trim loss, damaged units, handling firmness, cooling time, and saleable mass after the chosen storage interval. The resulting index is local: it helps staff make the same decision under the same system, but it should not be published as a universal species threshold.
+
+## Use destructive samples to test shelf-life assumptions
+
+Visual inspection of intact packages can miss internal moisture and tissue breakdown. From each trial stage, reserve labeled packages for predetermined opening times. At each time, record package temperature, condensation, odor without tasting, surface tackiness, discoloration, compression damage, and mass loss. Discard any sample with unsafe or unexplained spoilage; never return an opened test package to sale.
+
+Keep cooling delay separate from storage duration. A cluster held warm for two hours before refrigeration has a different history from one cooled promptly, even if both are assessed on day four. Logging harvest-to-cooler and time to target product temperature makes the comparison actionable.
+
+## Compare saleable yield, not just harvested weight
+
+A later harvest may weigh more because caps expanded or retained water, yet create more trimming, fragility, spores, or short shelf life. Calculate saleable yield as accepted packed mass divided by harvested mass, and report the rejection reasons. Pair it with labor minutes per kilogram and the proportion of packages still acceptable at the declared assessment time.
+
+Use matched blocks across rack positions and more than one flush. If first and second flushes differ, preserve flush number as a factor instead of averaging it away. Record the full decision in the [batch-record guide](/growing/mushroom-batch-records/) and use the [flush-management framework](/growing/mushroom-flush-management/) before deciding that a heavier but lower-quality stage is economically better.
 
 ## References
 

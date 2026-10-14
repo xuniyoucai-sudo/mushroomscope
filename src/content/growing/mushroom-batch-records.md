@@ -5,6 +5,8 @@ keywords: ["mushroom batch records", "mushroom farm traceability", "mushroom cul
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-15
+updatedDate: 2026-10-15
+revisionSummary: "Added a genealogy checksum, sensor-excursion attribution rules, and a mock recall scored by completeness and elapsed time."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-batch-records-editorial-v2.png"
@@ -110,6 +112,24 @@ Corrective action is not the same as editing the SOP. Verify whether the change 
 Select one finished harvest lot and work backward to all contributing cultivation batches, spawn, culture, substrate lots, operators, rooms, and process records. Then choose one input lot and work forward to every affected bag and harvest. Time the exercise and list dead ends, ambiguous quantities, missing units, and inaccessible files. A record system that works only for the person who created it is fragile.
 
 Back up electronic files, control permissions, and test restoration. Protect paper from moisture and loss. Set retention based on applicable requirements and operational learning, then dispose of expired records securely. The goal is a trustworthy chain that supports action, not the largest possible archive.
+
+## Add a genealogy checksum at every split and merge
+
+A batch identifier becomes unreliable when a grower divides one culture among several grain jars, combines jars into bulk substrate, or harvests multiple blocks into one sales lot without recording the transformation. Treat each split or merge as a transaction. The record should name every parent, every child, operator, timestamp, measured quantity, unit, and reason. After the transfer, reconcile the parent quantity against the sum of children plus documented waste. The arithmetic will not prove biological identity, but a mismatch exposes a missing container or transcription error while the event is still recoverable.
+
+Use a simple checksum during one trial: starting wet substrate mass equals assigned bag masses plus spill and retained sample within a declared scale tolerance. At harvest, cluster weights plus trim, rejected material, and unharvested estimate should reconcile with the lot total. Never force numbers to balance after the fact. Record the variance and investigate whether the cause was scale drift, tare error, water loss, an unlabeled container, or a skipped entry.
+
+## Attribute sensor excursions to a crop zone
+
+An environmental alert is useful only when it can be joined to the affected blocks. Store sensor ID, calibration date, rack and height, sampling interval, timezone, and the beginning and end of an excursion. Then attach the event to the batch positions actually exposed. A room-average temperature cannot show that a top shelf overheated near a light or that a humidifier wetted one corner.
+
+For a deviation review, compare an affected position with a contemporaneous control position from the same inoculum and substrate lot. Record colonization progress, pin timing, yield, visible stress, and disposition without assuming the alarm caused every difference. This converts a generic climate graph into evidence that can guide the next rack layout.
+
+## Run a timed mock recall before trusting the system
+
+Choose one finished harvest lot and start a timer. Reconstruct its culture, spawn lot, substrate inputs, treatment cycle, inoculation event, room positions, environmental deviations, harvest containers, cooler entry, and final destinations. Score both completeness and elapsed time. List every gap rather than filling it from memory.
+
+Reverse the exercise with one input lot: identify every culture, bag, harvest, and destination that could contain it. The forward and backward populations should agree. A record system that can produce attractive batch summaries but cannot answer both questions is not yet traceable. Repeat after changing labels, software, staff, or workflow, and keep the failed test as a corrective-action record.
 
 ## Frequently asked questions
 

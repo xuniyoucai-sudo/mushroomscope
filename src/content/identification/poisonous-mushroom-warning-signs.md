@@ -151,6 +151,8 @@ Compare the [horse mushroom record](/mushrooms/horse-mushroom-guide/) with the [
 
 Small brown mushrooms on wood require an equally strict stop rule. The [funeral bell safety guide](/mushrooms/funeral-bell-mushroom-guide/) explains why a fragile ring zone, rusty spores, and log habitat cannot safely separate a mixed food collection without microscopy and local expertise.
 
+Two high-risk patterns deserve separate study: the [fly agaric profile](/mushrooms/fly-agaric-mushroom-guide/) explains a muscimol/ibotenic-acid syndrome, while the [destroying angel profile](/mushrooms/destroying-angel-mushroom-guide/) explains delayed amatoxin risk. Neither pattern can be cleared from a cap-only photograph.
+
 ## References
 
 1. North American Mycological Association. [Mushroom Poisonings](https://namyco.org/interests/toxicology/mushroom-poisonings/).

@@ -243,6 +243,8 @@ Different species can fruit together. Separation preserves the relationship betw
 
 CDC MMWR reports support the severity, delayed-risk, regional-misidentification, and prompt-response boundaries. NAMA supports syndrome distinctions and expert identification context. GBIF supports the genus taxonomic framework. This guide emphasizes evidence preservation and stopping rules rather than edible identification.
 
+For applied examples, compare the red, warted, concentrically zoned base in the [fly agaric guide](/mushrooms/fly-agaric-mushroom-guide/) with the free sac and all-white high-risk architecture in the [destroying angel guide](/mushrooms/destroying-angel-mushroom-guide/). These examples show why “Amanita” is a structural starting point, not an edibility conclusion.
+
 ## References
 
 1. Centers for Disease Control and Prevention. [Amanita Species Mushroom Poisonings — Northern California, November 2025–March 2026](https://www.cdc.gov/mmwr/volumes/75/wr/mm7520a2.htm). Public-health evidence for delayed amatoxin risk, visual misidentification limits, and immediate poison-control response.
