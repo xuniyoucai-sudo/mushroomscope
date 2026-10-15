@@ -78,6 +78,8 @@ The [porcini guide](/mushrooms/porcini-mushroom-guide/) applies this evidence ra
 
 Learn enough tree identification to document bark, leaves or needles, branching, cones, and habitat, but keep uncertainty explicit. “Probable oak; leaf photographed” is better than a confident unsupported host. A mushroom associated with birch in one region may have different close relatives with other hosts elsewhere, so use a current regional key.
 
+The [orange birch bolete field guide](/mushrooms/orange-birch-bolete-guide/) demonstrates how to report birch within root range while still recording aspen, conifers, and other competing hosts in a mixed stand.
+
 Saprotrophic mushrooms also respond to vegetation because plants shape litter, moisture, pH, and deadwood. Tree notes remain useful even when no direct symbiosis is claimed. The goal is to define the ecological candidate set, not to turn one tree into a species diagnosis.
 
 ## Describe moisture, terrain, and disturbance

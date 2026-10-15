@@ -93,6 +93,8 @@ A lack of visible change also needs context. Old, dry, frozen, waterlogged, or r
 
 Photograph the stem while it is still attached, then record the top, middle, and base separately. Look for a net-like raised pattern, fine dots, coarse scabers, longitudinal fibers, bruising, cavities, or color zones. Describe what is visible instead of deciding too early that a pattern is “reticulation.” Side lighting can reveal whether markings are raised, recessed, or merely differences in color.
 
+For a worked example of discrete dark scabers rather than a raised net, the [orange birch bolete guide](/mushrooms/orange-birch-bolete-guide/) combines three-height stem photography with birch-host evidence and a timed cap-to-base section series.
+
 The complete base matters even when no cup-like structure is expected. A broken stem can hide attachment, basal color, mycelium, or substrate. Where collecting is permitted, loosen the soil around one representative specimen and lift it without slicing off the base. Keep soil and leaf litter with the habitat record, but do not carry an unknown specimen loose beside food.
 
 Measure rather than estimate. Cap width, total height, stem width at several points, and the relative thickness of the tube layer can help a local expert compare descriptions. Measurements should be tied to the individual specimen; a ruler placed somewhere in the scene without sharing the mushroom's plane can distort scale.

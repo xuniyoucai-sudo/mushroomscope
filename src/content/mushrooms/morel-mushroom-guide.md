@@ -6,6 +6,8 @@ keywords: ["morel mushrooms", "morel identification", "true morel vs false morel
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
+updatedDate: 2026-10-16
+revisionSummary: "Added cap-pit measurements, full longitudinal section controls, burn-site ecology boundaries, cooking traceability, and false-morel stop rules."
 draft: false
 featured: false
 coverImage: "../../assets/species/morel-mushroom-editorial-v2.png"
@@ -150,6 +152,22 @@ Some morel species or regional lineages are associated with burn settings, but a
 Do not use an unverified wild collection as food or cultivation material. Morel cultivation is specialized, and a successful method depends on an authenticated organism and a species- or strain-specific protocol. This guide does not offer a home-growing recipe.
 
 ## References
+
+## Quantify the ridges, pits, and cap attachment
+
+Photograph the cap straight on and in profile with a scale. Record cap height and width, the number of primary vertical ridges across a defined view, pit depth, ridge color, and whether the lower cap edge joins the stem directly or hangs free as a skirt. These measurements make a collection reviewable without pretending that one ratio separates every *Morchella* species.
+
+Make a full longitudinal cut from cap apex through the stem base. A typical morel should show a continuous hollow interior rather than cottony chambers or a cap attached only near the top. Keep both halves beside the intact specimen number. The [false morel comparison](/identification/false-morel-vs-morel/) explains why a partial kitchen slice is weaker than a complete section photographed before cooking.
+
+## Treat burn-site occurrence as ecology, not proof
+
+Post-fire morels can fruit in particular western forest systems, but a blackened landscape does not identify a mushroom. Record fire year, burn severity at the plot, elevation, tree community, soil disturbance, aspect, snowmelt timing, and whether fruit bodies arise inside or outside the burn edge. Orchard, floodplain, landscaped, and unburned forest morels occupy different ecological contexts.
+
+Avoid converting occurrence maps into collection permission. Fire closures, unstable trees, erosion, private land, and commercial-harvest rules can change access. Photograph and leave specimens when legal status is unclear.
+
+## Keep verified identity attached to preparation
+
+Morels have a culinary history, but raw or undercooked material can cause illness and individual reactions vary. Keep each lot traceable to the identification record, discard spoiled or contaminated specimens, cook thoroughly, and avoid serving a large first portion. Do not mix uncertain *Gyromitra*, *Verpa*, or other wrinkled fungi into a verified lot. If symptoms occur, preserve uncooked material, leftovers, photographs, and timing details for poison-control or medical responders.
 
 1. Global Biodiversity Information Facility. [*Morchella* taxon record](https://www.gbif.org/taxon/5V59). Taxonomic placement and current catalogue context.
 2. Michigan Department of Natural Resources. [Morel Mushroom Identification Tips](https://www.michigan.gov/dnr/things-to-do/morels/morel-identification). True-morel structure and false-morel warning signs.

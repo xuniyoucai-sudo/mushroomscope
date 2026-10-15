@@ -6,6 +6,8 @@ keywords: ["paddy straw mushroom", "Volvariella volvacea", "paddy straw mushroom
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
+updatedDate: 2026-10-16
+revisionSummary: "Added developmental volva-to-pink-gill records, straw-bed thermal logging, Amanita separation, harvest traceability, and explicit crop-failure gates."
 draft: false
 featured: false
 coverImage: "../../assets/species/paddy-straw-mushroom-editorial-v2.png"
@@ -124,6 +126,24 @@ For a cultivated batch, use the same discipline in a different form. Photograph 
 The most useful result from either record may be uncertainty. If essential features were not captured, the responsible conclusion is “not identified” or “do not harvest this batch yet,” not a confident species or food label. That restraint protects readers from exactly the kind of error that attractive mushroom photos can encourage.
 
 ## Frequently asked questions
+
+## Track the egg stage into a mature pink-spored mushroom
+
+The most useful paddy-straw record is a labeled developmental series from one bed, not a row of unrelated market specimens. Photograph intact buttons before harvest, then section one lengthwise to show the cap, gills, stem, and enclosing volva. Repeat with an expanding specimen and a mature specimen whose gills have shifted toward salmon pink. Record elapsed time and bed temperature; warm conditions can compress these changes into a short interval.
+
+Keep the volva attached to every specimen number. Its presence is essential but not exclusive: dangerous *Amanita* species also develop inside universal veils. Paddy straw mushrooms should develop free gills that become pink with spore maturity and lack the persistent white-gilled, white-spored pattern expected in many lethal Amanitas. A pink deposit supports *Volvariella* placement but does not compensate for a missing base or mixed collection.
+
+## Log the straw bed as a heat and moisture system
+
+For a managed crop, measure rather than describe the bed as merely warm and damp. Record substrate dry mass, water added, treatment method, spawn lot and rate, bed depth, internal temperature at fixed points, room temperature, humidity observations, ventilation changes, and the time to pinning. A center that stays hotter than the margins can produce uneven colonization or favor competitors; a saturated base can fail even when the surface looks dry.
+
+Change one variable at a time and keep an untreated or previous-cycle comparison when practical. Stop the crop if identity is uncertain, unexpected fruit bodies appear, sour or putrid odor develops, colored growth expands, or temperature behaves outside the authenticated culture supplier's method. Harvest weight alone cannot distinguish a safe crop from a contaminated one.
+
+## Preserve harvest identity through the kitchen handoff
+
+Assign each harvest a bed, date, time, and culture lot. Keep buttons from an authenticated crop separate from any volunteer mushrooms around compost, straw piles, or outdoor beds. Record cold-storage start time and reject slimy, damaged, odorous, or poorly traceable material. The similar closed forms of paddy straw mushrooms and Amanita buttons make an unlabeled mixed basket unacceptable.
+
+These controls add user value beyond a generic edibility label: they connect a verified production organism to a specific harvest and preserve the developmental evidence needed to investigate a problem. Food handling begins only after that chain is intact.
 
 ### Can a paddy straw mushroom be identified from one photograph?
 

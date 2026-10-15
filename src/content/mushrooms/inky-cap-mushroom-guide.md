@@ -260,3 +260,4 @@ The [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) follows the tall
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling context for verified produce; it does not establish identity or make common inky cap a recommended food.
 
 *Editorial review: September 8, 2026. No named toxicologist or clinician reviewed this page. Recheck toxicology wording, accepted taxonomy, and emergency contacts at every substantive revision.*
+For a coarse-veiled, gray-brown cluster on buried hardwood, use the [scaly inkcap guide](/mushrooms/scaly-inkcap-mushroom-guide/) to record veil patches, substrate, timed gill darkening, and microscopy before deliquescence erases the evidence.

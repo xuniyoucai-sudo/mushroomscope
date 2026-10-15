@@ -6,6 +6,8 @@ keywords: ["coral tooth fungus", "Hericium coralloides", "coral tooth mushroom i
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-26
+updatedDate: 2026-10-16
+revisionSummary: "Added branch-and-tooth transects, wood-interface evidence, Hericium separation, age-condition scoring, and specimen-linked microscopy."
 draft: false
 featured: false
 coverImage: "../../assets/species/coral-tooth-mushroom-editorial-v2.png"
@@ -155,6 +157,24 @@ Use the [mushroom photo checklist](/identification/mushroom-photo-checklist/) to
 Compare the complete record with a current regional key and local occurrence data. Image recognition can assemble candidates, but cannot inspect microscopy or repair missing habitat evidence. The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) explains why agreement among observations is still not remote food clearance.
 
 ## References
+
+## Measure branches and teeth along a fixed transect
+
+Choose an undamaged branch from base to tip and photograph it beside a scale. At three marked positions, record branch diameter, tooth length, tooth density across one centimeter, and the direction in which teeth hang. Repeat on a second branch. Coral tooth should combine a branched *Hericium* architecture with many pendent teeth; a single close-up of spines cannot show how the fruit body is organized.
+
+Record whether teeth lengthen toward mature lower branches while young tips remain shorter. Developmental variation can otherwise be mistaken for multiple species. Do not combine dimensions from different fruit bodies without labels, and do not let a generated or decorative image stand in for measured field evidence.
+
+## Expose the wood interface without destroying it
+
+Photograph the complete attachment to a log, snag, wound, or fallen hardwood. Record whether wood is standing or down, bark remains, decay is firm or soft, and the fruiting emerges from a wound, cut surface, or buried section. Tree identity should be supported by bark, leaves, buds, wood anatomy, or a qualified observer rather than assumed from forest type.
+
+This interface separates coral tooth ecology from ground-dwelling hedgehog mushrooms. The [hedgehog mushroom guide](/mushrooms/hedgehog-mushroom-guide/) covers cap-and-stem fruit bodies whose teeth descend from a conventional cap in soil and litter. Lion's mane forms a more compact unbranched or minimally branched mass of long teeth; coral tooth builds an openly branched frame.
+
+## Score condition separately from the species name
+
+Record white, cream, yellowing, and browning areas as percentages of the visible fruit body. Note firmness, odor, waterlogging, insect galleries, and debris caught between branches. Yellowing can accompany age or drying, while widespread brown softness and sour odor indicate condition loss. Identity does not rescue degraded material.
+
+If microscopy is needed, tie the spore deposit and tissue mount to the photographed branch and voucher. Record calibrated spore measurements and the structures required by a current regional key. A database sequence is useful only when it comes from a documented, interpretable specimen.
 
 For a ground-dwelling toothed comparison, the [hedgehog mushroom guide](/mushrooms/hedgehog-mushroom-guide/) explains how cap-and-stem form, decurrent teeth, tree context, and measured tooth density separate *Hydnum* records from branching wood-attached *Hericium*.
 
