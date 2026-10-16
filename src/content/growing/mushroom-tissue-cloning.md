@@ -5,7 +5,8 @@ keywords: ["mushroom tissue cloning","clone mushroom to agar","mushroom inner ti
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-22
-updatedDate: 2026-10-06
+updatedDate: 2026-10-17
+revisionSummary: "Added donor-tissue geometry controls, paired plate attribution, sector-transfer decision rules, and a contamination-cause ledger."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-tissue-cloning-editorial-v2.png"
@@ -180,6 +181,20 @@ Tear the fruit body open to expose tissue that has not touched the exterior. The
 ### Transfer a tiny piece without crossing dirty surfaces?
 
 Use a sterile cooled tool to lift a very small internal fragment and place it on agar without contacting gloves, container walls, plate rim, or the donor surface. Open the plate only as much and as long as needed.
+
+## Run a paired donor-tissue trial instead of judging one plate
+
+A clone plate cannot reveal whether a result came from the donor, the cut, the transfer path, or the medium unless the workflow creates comparisons. Start with one fresh, correctly identified cultivated fruit body and divide the inner tissue into four numbered pieces from two locations: two from the upper stem core and two from the cap-stem junction. Record each piece's approximate dimensions before it touches agar. Very large pieces carry more hidden microbes; tiny pieces dry and are difficult to recover. Keeping geometry similar makes growth-time differences interpretable.
+
+Place the four pieces on separately labeled plates from the same agar batch. Add an unopened control plate that experiences the same room time and handling but receives no tissue. Photograph every plate from the bottom at 24-hour intervals without opening it. If the control develops growth, the medium, pour, storage, or room exposure is implicated. If all tissue plates show the same organism beginning at the tissue edge, the donor or surface pathway is more plausible. One clean plate among several dirty plates argues for recovery and transfer rather than declaring the entire donor unusable.
+
+Predefine a transfer rule before growth appears. For example, transfer only a clean, organized leading edge that is physically separated from bacterial sheen, colored sporulation, or irregular satellite colonies. Record the clock time, distance from donor, and sector angle. Do not cut through suspicious growth to reach an attractive outer edge. A second transfer should preserve the parent plate identifier so later failure can be traced to its lineage.
+
+## Keep a contamination-cause ledger
+
+Use a short code for where contamination first appears: C for the cut tissue, E for an agar edge, R for a random remote colony, and K for the control. Add morphology and time-to-appearance rather than guessing an organism name. A translucent bacterial halo beginning at the donor is a different process from a green sporulating colony appearing three centimeters away on day five. The ledger turns repeated failures into a pattern that can be tested.
+
+Change one variable per repeat. If donor-centered bacteria dominate, compare a smaller inner-tissue excision while keeping technique and medium constant. If edge colonies dominate, inspect plate sealing and condensation paths. If control plates fail, stop cloning and repair the preparation process. This decision tree is more useful than repeatedly transferring any white growth, and it protects the [liquid-culture workflow](/growing/mushroom-liquid-culture-guide/) from receiving an unverified lineage.
 
 ## References
 

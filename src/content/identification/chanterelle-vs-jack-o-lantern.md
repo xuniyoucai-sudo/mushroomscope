@@ -72,6 +72,8 @@ Both groups occur in more than one species and region. Color, season, host assoc
 
 ## Compare false ridges with true blade-like gills
 
+If the underside has crowded, repeatedly forked orange blades but the cluster and wood attachment do not fit jack-o'-lantern, compare the complete record with the [false chanterelle species guide](/mushrooms/false-chanterelle-mushroom-guide/). That third intent is narrower than this high-consequence two-way comparison and still requires substrate, flesh, region, and mature spores.
+
 The underside is the most useful visible comparison. Chanterelles have blunt, shallow, forked ridges or folds that are part of the cap tissue and usually run down the stem. They can look wrinkled or vein-like. Jack-o'-lanterns have numerous thin, sharp-edged, separable true gills with a more regular blade structure.
 
 Photograph the underside straight on and in side light. Focus close enough to show whether the structures are blunt folds or thin blades, and include where they meet the stem. Do not rely on an oversharpened or compressed image; digital processing can turn soft ridges into false sharp lines.

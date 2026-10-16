@@ -5,7 +5,8 @@ keywords: ["spent mushroom substrate reuse","spent mushroom blocks compost","mus
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-21
-updatedDate: 2026-10-05
+updatedDate: 2026-10-17
+revisionSummary: "Added input-provenance sorting, salt and stability screening, matched soil-amendment trials, and destination-specific release gates."
 draft: false
 featured: false
 coverImage: "../../assets/growing/spent-mushroom-substrate-editorial-v2.png"
@@ -147,6 +148,22 @@ Yes, remove bags, filters, ties, and labels before an approved organic reuse.
 ### Is spent substrate safe as animal feed?
 
 Do not use it as feed without qualified, species-specific guidance and compliance with local rules.
+
+## Sort spent substrate by input history before choosing a destination
+
+“Spent mushroom substrate” is not one material. A pasteurized straw block, a supplemented hardwood bag, and commercial button-mushroom compost differ in fiber, nitrogen, minerals, salts, plastics, and remaining biological activity. Record species grown, base substrate, supplements, treatment method, crop count, additives, contamination history, and storage time. Remove filter patches, ties, labels, and bag fragments before weighing the material. Unknown input history should narrow the allowed reuse, not be filled in from appearance.
+
+Create three release categories. Material from a documented clean crop can enter a controlled garden or compost trial. Material with localized competitor growth can be isolated for municipal green-waste rules or a hot-compost process where permitted, but it should not be spread through indoor growing areas. Material exposed to chemicals, persistent pests, sewage, or unknown industrial inputs needs destination advice from the relevant waste authority. Fruiting exhaustion does not mean sanitary stability.
+
+Measure moisture by weighing a small sample before and after complete drying with appropriate equipment, or at minimum document squeeze behavior consistently. Check pH and electrical conductivity on a standardized water extract when using the material near seedlings. High soluble salts, ammonia odor, heat generation, or oxygen-depleted sour odor are pause signals. A dark color and earthy smell alone cannot prove maturity.
+
+## Test an amendment against an untreated control
+
+For garden use, compare equal containers or marked plots with the same soil and plant. Apply a modest, measured dry-mass equivalent of processed substrate to the treatment while leaving the control unchanged. Keep irrigation and light the same. Record germination, plant height, visible nutrient stress, soil-surface mold, drainage, and harvest mass where relevant. The goal is not to prove that the material is universally beneficial but to discover whether this documented batch helps, harms, or makes no practical difference in that context.
+
+Do not treat one lush plant as evidence. Use several replicates and calculate the treatment average and spread. If salinity or nitrogen immobilization is plausible, include an observation schedule long enough to capture delayed stress. Keep the trial away from sensitive natural areas; moving a living substrate can also move fungi, insects, and plant pathogens.
+
+Record the final destination and quantity. A batch ledger connecting original formula, crop performance, storage, screening, treatment, and destination supports both waste reduction and root-cause analysis. It also prevents the [sanitation workflow](/growing/mushroom-grow-room-sanitation/) from being undermined by repeatedly carrying uncertain blocks back through clean production space.
 
 ## References
 

@@ -151,7 +151,7 @@ Harvest law and conservation guidance differ. Obtain landowner permission, respe
 
 Jack-o-lantern mushrooms (*Omphalotus* species) are the most important comparison because they are poisonous and can cause intense vomiting, abdominal pain, and diarrhea. They commonly fruit in dense clusters from stumps, roots, or buried wood and have numerous thin, sharp true gills. Color is unreliable: both groups can be yellow-orange, and cameras or artificial lighting can shift it.
 
-The false chanterelle, *Hygrophoropsis aurantiaca*, usually has softer flesh and many thin, repeatedly forked gills. Smooth chanterelles and yellowfoot chanterelles are legitimate relatives but have different structures and geographic patterns. The presence of other edible *Cantharellus* or *Craterellus* species does not reduce the need to establish the identity of the specimen actually collected.
+The [false chanterelle guide](/mushrooms/false-chanterelle-mushroom-guide/) documents how *Hygrophoropsis aurantiaca* usually has softer flesh and many thin, repeatedly forked true gills. Smooth chanterelles and yellowfoot chanterelles are legitimate relatives but have different structures and geographic patterns. The presence of other edible *Cantharellus* or *Craterellus* species does not reduce the need to establish the identity of the specimen actually collected.
 
 The [black trumpet guide](/mushrooms/black-trumpet-mushroom-guide/) treats a dark, hollow *Craterellus* form whose fertile surface is smoother and less ridge-like than the underside expected here. That comparison is useful for structure and habitat, not as a shortcut to an edible verdict.
 

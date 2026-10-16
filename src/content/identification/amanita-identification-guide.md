@@ -130,6 +130,8 @@ Older mushrooms may lose rings, cap patches, and basal material. Documenting sev
 
 ## Death caps and destroying angels
 
+For an olive to yellow-green cap with white free gills, a skirt ring, and a sack-like volva, use the [death cap safety guide](/mushrooms/death-cap-mushroom-guide/) to document the whole base and understand why delayed symptoms demand immediate poison-center or emergency contact after possible ingestion.
+
 Amatoxin-containing *Amanita* include death-cap and destroying-angel groups. Typical field profiles may combine pale or olive caps, white gills, rings, and sac-like volvas, but real specimens can be weathered, fragmented, or atypical. Appearance alone does not reveal toxin content.
 
 Amatoxin illness can begin after a delay, and a person may seem to improve before severe liver injury becomes apparent. Do not wait for a visual identification or symptom progression before contacting emergency services or poison control.

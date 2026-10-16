@@ -159,6 +159,10 @@ A poisoning investigation must consider more than the mushroom a collector inten
 
 This reconstruction is for responders and identifiers, not a home clearance procedure. Keep suspect material away from food, children, and pets, and follow poison-control instructions for packaging. A positive name can help, but a delayed amatoxin-compatible exposure should receive urgent medical attention even when the remaining fragments cannot be identified to species. Conversely, a photograph of one harmless lookalike cannot prove that a different fragment was absent from the meal. The unit of safety is the complete exposure history, not the best-looking specimen saved afterward.
 
+## Keep pale death caps in the comparison set
+
+Not every deadly member of *Amanita* section Phalloideae is uniformly white. Pale forms of [death cap](/mushrooms/death-cap-mushroom-guide/) can overlap with destroying angels, while typical olive pigment may be weak after rain or hidden in a button. Preserve the complete volva, ring, mature gills, host context, and regional evidence; from a safety standpoint an unresolved deadly amanita requires the same emergency boundary.
+
 ## References
 
 1. CDC. [Amanita poisoning outbreak report](https://www.cdc.gov/mmwr/volumes/66/wr/mm6621a1.htm). Clinical course and public-health context.

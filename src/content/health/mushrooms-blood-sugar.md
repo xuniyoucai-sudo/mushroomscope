@@ -5,8 +5,8 @@ keywords: ["mushrooms blood sugar","mushrooms diabetes evidence","mushroom gluco
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-25
-updatedDate: 2026-09-28
-revisionSummary: "Added carbohydrate-accounting examples, evidence-tier separation, CGM interpretation limits, and supplement interaction questions without expanding treatment claims."
+updatedDate: 2026-10-17
+revisionSummary: "Added meal-matched comparison design, medication and symptom stop rules, denominator controls, and a clearer food-versus-supplement evidence boundary."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -156,6 +156,22 @@ Their structures and evidence differ, so effects should not be assumed equivalen
 ### How should I compare meals?
 
 Keep portions and measurement timing consistent, record the full recipe, and interpret patterns with a qualified diabetes professional.
+
+## Compare meals without turning the result into a treatment claim
+
+Someone using clinician-approved glucose monitoring can learn more from a matched meal comparison than from one unusual reading, but the exercise cannot diagnose diabetes or establish a therapy. Choose two ordinary meals on different days that are similar in available carbohydrate, portion size, preparation, time of day, and accompanying fat and protein. In one meal, use a measured serving of a familiar cooked culinary mushroom; in the other, omit it without changing the rest of the plate. Record the product, raw and cooked weights, cooking method, and full meal composition.
+
+Use only the monitoring schedule already recommended by the person's clinician or device instructions. Note sleep, recent activity, acute illness, alcohol, stress, and medication timing because each can change the curve. Do not alter insulin, glucose-lowering medicine, or carbohydrate rescue plans to make the comparison look cleaner. Dizziness, sweating, confusion, faintness, severe thirst, vomiting, or readings outside the individual's clinical action plan require the prescribed response and professional care, not another experimental meal.
+
+Repeat matched pairs before interpreting a pattern. Compare within-person results, not a friend's device trace, and preserve the denominator: a 100-gram raw mushroom value is not interchangeable with a cooked serving incorporated into a mixed meal. Sensor lag, compression, hydration, and ordinary day-to-day variability can exceed the apparent difference. A small change cannot establish that mushrooms “control” blood sugar.
+
+## Keep culinary food and concentrated products in separate evidence lanes
+
+Whole cooked mushrooms contribute water, fiber, protein, and small amounts of digestible carbohydrate within a meal. Extracts, powders, gummies, and capsules can concentrate different compounds and may not match the species, dose, preparation, or contaminant profile studied in a paper. Evidence about a laboratory extract cannot be transferred to a serving of food, and a culinary observation cannot validate a supplement claim.
+
+For any product, record the scientific species name, part used, extraction ratio or carrier, lot number, serving, independent testing information, and all added sugars or starches. Discuss concentrated products with a pharmacist or clinician when taking diabetes medicines, anticoagulants, immunosuppressants, or other drugs. The [supplements guide](/health/mushroom-supplements-guide/) explains label and interaction questions; the [nutrition guide](/health/mushroom-nutrition-guide/) covers food composition without assigning medical effects.
+
+A useful conclusion is limited: this measured meal produced this observed response under these recorded conditions. It does not support stopping treatment, changing a dose, or promising prevention. Clinical targets and medication decisions belong with a qualified professional who can review the complete health context.
 
 ## References
 
