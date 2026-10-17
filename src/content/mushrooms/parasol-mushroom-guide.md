@@ -164,7 +164,7 @@ For a deposit, use a mature cap and place portions over adjoining black and whit
 
 ## Compare the lawn lookalike before discussing food
 
-*Chlorophyllum molybdites* deserves a deliberate comparison because it produces large, scaled, ringed mushrooms in lawns and managed grassy places. Mature greenish spores are a powerful separating character, but waiting for green gills is unsafe: young fruit bodies can remain white-gilled. Note lawn irrigation, warm weather, mowing, fairy-ring growth and disturbed soil, then pair habitat with spore deposit, stem ornamentation, bruising, ring form and local range.
+*Chlorophyllum molybdites* deserves a deliberate comparison because it produces large, scaled, ringed mushrooms in lawns and managed grassy places. The [green-spored parasol guide](/mushrooms/green-spored-parasol-mushroom-guide/) follows its gill maturation, full-base record, lawn ecology, and poison response. Mature greenish spores are a powerful separating character, but waiting for green gills is unsafe: young fruit bodies can remain white-gilled. Note lawn irrigation, warm weather, mowing, fairy-ring growth and disturbed soil, then pair habitat with spore deposit, stem ornamentation, bruising, ring form and local range.
 
 This is not a minor upset-stomach footnote. Published case reports and reviews document severe vomiting, diarrhea and abdominal pain after *C. molybdites* ingestion, sometimes requiring hospital care. Cooking is not a dependable correction for a mistaken identity. If a collection lacks a mature deposit or the full stem and base, stop the food discussion rather than filling gaps with cap resemblance.
 

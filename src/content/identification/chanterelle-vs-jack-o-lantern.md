@@ -66,6 +66,8 @@ Treat orange color as low-weight evidence. Diffuse daylight, rain, fading, phone
 
 Chanterelles generally arise from soil as mycorrhizal partners of living trees. They may be solitary, scattered, or loosely grouped, but they do not normally form a dense fused cluster from one wood base. Jack-o'-lantern mushrooms grow from wood, stumps, roots, or buried wood and often form conspicuous clusters. Photograph the group before picking and inspect the attachment rather than assuming that a ground-level cluster is terrestrial.
 
+For the full species-side record—including regional *Omphalotus* boundaries, orange flesh, true-gill mapping, and poison response—continue to the [jack-o'-lantern mushroom guide](/mushrooms/jack-o-lantern-mushroom-guide/).
+
 Buried roots and stumps can hide the wood connection. Excavate carefully around one specimen where legal and photograph attached fibers or woody material. Conversely, chanterelles beside a log may still be growing from soil. Habitat is a strong clue only when the actual substrate and growth pattern are documented.
 
 Both groups occur in more than one species and region. Color, season, host association, and size vary. Use a current local key and qualified local expertise rather than applying one North American or European comparison worldwide.

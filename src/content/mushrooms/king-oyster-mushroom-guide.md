@@ -5,7 +5,8 @@ keywords: ["Pleurotus eryngii","king oyster mushroom","mushroom identification",
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-27
+updatedDate: 2026-10-18
+revisionSummary: "Added a wild-versus-crop evidence split, stem-density cooking trial, crop-shape variable matrix, and Mediterranean host boundary."
 draft: false
 featured: false
 coverImage: "../../assets/species/king-oyster-mushroom.jpg"
@@ -184,6 +185,30 @@ For cultivated king oysters, buy intact, firm fruit bodies without wet collapse 
 
 Recall action is lot-specific: follow the producer and regulator notice rather than relying on smell or appearance, and discard affected packages as directed. Anyone with mushroom allergy should avoid the food. After illness involving a wild or mislabeled mushroom, contact emergency services or a poison center promptly and preserve the uncooked material, packaging, lot code, meal amount, and symptom timeline for professional assessment.
 
+
+## Separate a cultivated product from a wild species claim
+
+Retail king oysters are selected and grown for thick stems, modest caps, uniform clusters, and transport durability. Those traits describe a product form, not a complete wild identification. A market label may also use “king oyster” for material sold within a broader *Pleurotus eryngii* complex. Preserve supplier, origin, lot, and label wording when species identity matters.
+
+A wild candidate needs the complete base, fertile surface, substrate or plant association, region, and current local key. In the Mediterranean and adjacent areas, members of the complex are associated with roots and remains of particular Apiaceae plants. A thick-stemmed oyster-like mushroom on an unidentified stump in another region should not be forced into *P. eryngii* from silhouette alone.
+
+Photograph host-plant remains, surrounding vegetation, cap, decurrent gills, base, and a section. Record whether fruit bodies arise from soil, buried plant tissue, or obvious wood. When the plant association is missing or the collection is outside a familiar range, a genus-level result is more defensible than a culinary name.
+
+## Measure stem density and heat penetration
+
+King oyster stems are dense enough that surface browning can occur before the center reaches the desired texture. Cut cylinders of equal length from one sound stem and prepare three geometries: thick coins, lengthwise planks, and a scored intact section. Weigh each portion, use equal oil and pan temperature, and record thickness at the center.
+
+Track time to first browning, turning time, final mass, and center texture after a short rest. An instant-read thermometer can document heat penetration, but temperature alone does not define palatability. Thick coins often retain more moisture; planks expose fibers and brown broadly; scoring increases surface area but can accelerate moisture loss. The point is to link texture to geometry rather than repeating a generic sauté instruction.
+
+Calculate cooked yield from the prepared raw mass, not the untrimmed package weight. Report cap and stem separately if both are tested. This prevents a recipe from treating a thick stem as interchangeable with the thinner, faster-cooking caps of common oyster clusters.
+
+## Test crop-shaping variables with matched blocks
+
+For cultivation, compare genetically matched blocks with the same substrate dry mass, moisture, inoculation rate, colonization time, and placement. Change only one variable such as fresh-air exchange, light duration, fruiting temperature, or cluster thinning. Log carbon dioxide at canopy height rather than elsewhere in the room.
+
+Measure days to pinning, stem length and width, cap diameter, cluster count, fresh yield, defects, and biological efficiency. Elevated carbon dioxide can favor stem elongation and restricted caps, while more air can broaden caps but increase drying risk. Temperature and humidity modify those responses, so a single attractive cluster is not enough to identify the causal setting.
+
+Define the target before judging success. A restaurant may value uniform stem planks, while a market may prefer balanced caps and stems. Record discarded tissue and saleable yield separately. This turns crop shaping into a reproducible production decision instead of an aesthetic claim.
 
 ## References
 

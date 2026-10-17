@@ -5,8 +5,8 @@ keywords: ["Flammulina filiformis","enoki","mushroom identification","mushroom g
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-27
-revisionSummary: "Separated cultivated enoki from wild Flammulina identification, added production-variable records, recall-aware handling, and texture-based cooking decisions."
+updatedDate: 2026-10-18
+revisionSummary: "Added a package-to-pan cold-chain audit, cluster-level spoilage rules, farm-condition interpretation, and a controlled cooking-yield comparison."
 draft: false
 featured: false
 coverImage: "../../assets/species/enoki-mushroom.jpg"
@@ -204,6 +204,30 @@ Temperature abuse and time cannot be reconstructed from appearance. A white clus
 The familiar long white stem and tiny pale cap are production phenotypes shaped by strain, light, carbon dioxide, temperature, humidity, and crowding. Wild fruit bodies exposed to normal light and ventilation can develop darker, broader caps and short, velvety stems. Therefore a market cluster should not be used as the sole visual template for identifying a woodland specimen. Conversely, a brown velvet-stemmed mushroom on wood cannot be assumed to be an escaped grocery enoki.
 
 For a cultivation comparison, change one recorded variable at a time. Photograph the same strain at pinning, early elongation, and harvest; record substrate dry mass, inoculation date, incubation temperature, fruiting temperature, relative humidity, carbon-dioxide reading at canopy height, light schedule, fresh yield, and abnormalities. A dense stem is not automatically a success if caps abort, bases become waterlogged, or airflow and hygiene controls are compromised. The [mushroom batch records guide](/growing/mushroom-batch-records/) provides a traceable format for separating strain effects from room effects.
+
+## Audit one package from cold case to pan
+
+Record the package lot, origin, use-by date, refrigeration temperature at purchase, time out of refrigeration, and the temperature of the home refrigerator shelf. Do not rely on a refrigerator dial. Place a calibrated thermometer beside the package for a representative reading, and keep raw enoki separated from ready-to-eat food and clean utensils.
+
+Before opening, reject leaking, swollen, damaged, or recalled packages. After opening, inspect the cluster base as well as the cap tips. Unusual slime, sour or fermented odor, colored growth, excessive free liquid, or loss of structural integrity are discard signals; rinsing does not reverse spoilage. When a recall applies, follow the official notice rather than trying to rescue the lot through cooking.
+
+Write the sequence as a traceable record: purchase time, cold-storage interval, preparation surface, cooking start, and leftovers cooled and refrigerated. This is more useful than the phrase “kept chilled,” and it separates food-safety controls from the unrelated question of how wild *Flammulina* is identified.
+
+## Explain the cultivated shape with production variables
+
+Long white stems and tiny pale caps are a farm-created phenotype. Growers manipulate light, carbon-dioxide concentration, temperature, airflow, density, and physical sleeves to favor stem elongation and restrict cap expansion. A wild fruiting with darker caps and velvety lower stems can therefore look dramatically different without belonging to an unrelated genus.
+
+For a crop record, log strain or supplier, substrate formula and dry mass, inoculation date, incubation temperature, fruiting temperature, relative humidity, carbon dioxide at canopy height, light schedule, fresh-air events, cluster density, and harvest date. Photograph the same marked cluster daily with a scale. The data reveal which variable changed morphology instead of crediting every long stem to genetics.
+
+Change one factor at a time in matched containers. A higher-airflow treatment may widen caps and shorten stems, but it can also dry margins; lower temperature may slow development while changing texture. Compare marketable yield, stem length, cap diameter, defects, and days to harvest, not appearance alone.
+
+## Run a controlled cooking-yield comparison
+
+Divide one sound lot by mass into equal portions. Cook one portion whole, one with the compact base trimmed and clusters separated, and one cut into shorter lengths, using the same pan, oil mass, heat, and starting temperature. Record time to steam release, browning, final mass, and texture after five minutes of rest.
+
+The dense cluster base can trap debris and create uneven cooking, while a crowded pan prolongs steaming. Separating small bundles increases exposed surface and makes doneness easier to judge. Cook thoroughly and avoid using raw cultivated enoki as a garnish, particularly for people at higher risk from foodborne illness.
+
+Report yield as cooked mass divided by raw prepared mass. This denominator makes comparisons reusable and prevents a visually larger serving from being mistaken for better retention. Flavor preference remains subjective; the experiment is designed to explain water loss, browning, and handling, not to manufacture a universal “best” method.
 
 ## References
 

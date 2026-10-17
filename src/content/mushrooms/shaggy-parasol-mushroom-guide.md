@@ -121,7 +121,7 @@ The rhacodes group produces a pale deposit. A distinct gray-green or green depos
 
 ### Green-spored parasol
 
-*Chlorophyllum molybdites* can share a large scaled cap, free gills, ring, and lawn habitat. Its mature green spore deposit is the decisive field distinction, often accompanied by gray-green mature gills. It is associated with substantial gastrointestinal illness. Never assume a lawn parasol is safe because the gills looked white when young.
+*Chlorophyllum molybdites* can share a large scaled cap, free gills, ring, and lawn habitat. Its mature green spore deposit is the decisive field distinction, often accompanied by gray-green mature gills. The [green-spored parasol species guide](/mushrooms/green-spored-parasol-mushroom-guide/) documents a controlled print, developmental sequence, and exposure response. It is associated with substantial gastrointestinal illness. Never assume a lawn parasol is safe because the gills looked white when young.
 
 ### True parasol
 
