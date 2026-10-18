@@ -82,6 +82,8 @@ similarSpecies:
 
 *Galerina marginata* is a small wood-growing mushroom containing amatoxins. Its ordinary brown appearance is precisely why it deserves a dedicated safety guide: it can occur near mushrooms people collect, its fragile veil may disappear, and wet and dry caps can look like different species. No single photograph, common name, spore color, or app result can make a similar cluster safe.
 
+An orange-brown mushroom arising from soil among spruce with a pointed dry cap and cobwebby veil needs the separate [deadly webcap safety workflow](/mushrooms/deadly-webcap-mushroom-guide/); both candidates demand urgent action after possible ingestion, but their toxins and ecology differ.
+
 This page explains how to document a suspected funeral bell and how to avoid mixing it with food collections. It does not teach a positive “edible versus deadly” shortcut. If ingestion may have occurred, skip identification debate and contact emergency or poison-control services immediately.
 
 ## Treat the substrate as part of the specimen

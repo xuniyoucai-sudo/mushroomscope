@@ -97,6 +97,8 @@ A cortina is a fine, cobweb-like partial veil. It stretches from cap margin to s
 
 As spores mature, they may coat cortina remnants and the upper stem. Record the deposit color and compare it with a controlled spore print when appropriate. Rusty fibers can be important in *Cortinarius*, but one rusty zone does not establish the genus. Gill attachment, cap and stem texture, ecology, odor, microscopic characters, and local taxonomy remain necessary.
 
+The [deadly webcap guide](/mushrooms/deadly-webcap-mushroom-guide/) applies this sequence to a spruce-associated orellanine hazard and explains why a vanished cortina or delayed symptoms must never be treated as reassurance.
+
 Differentiate veil fibers from cobweb mold or spider silk. Mold may spread irregularly over damaged tissue and substrate; spider silk can extend beyond the mushroom to leaves. A partial veil should make developmental sense between cap margin and stem.
 
 ## Excavate volvas and bulbs intact

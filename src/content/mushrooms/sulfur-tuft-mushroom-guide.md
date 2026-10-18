@@ -78,6 +78,8 @@ similarSpecies:
 
 The **sulfur tuft** (*Hypholoma fasciculare*) should be documented as a complete organism in context, not matched from one dramatic feature. Document sulfur tuft by clustered wood growth, sulfur-yellow caps, olive-gray gills, purple-brown spores, ringless stems, and dangerous stump-growing lookalikes. The workflow below connects habitat, development, internal or fertile structures, microscopy limits, and conservative safety decisions. It cannot authenticate a specimen or authorize eating.
 
+A cluster with dry ochre caps, coarse projecting brown scales, a scaly lower stem, and a rusty-brown rather than purple-brown deposit belongs in the [shaggy scalycap comparison](/mushrooms/shaggy-scalycap-mushroom-guide/), not under sulfur tuft.
+
 ## Start with the stump, not the yellow cap
 
 Sulfur tuft is a wood decomposer, and the first useful photograph is the entire substrate. Show whether the group emerges from a standing stump, a fallen log, an exposed root, or apparently from soil above buried wood. Record bark, decay stage, tree evidence, cluster position, and nearby woody material. A surface label such as “forest floor” can hide the most informative ecological clue.

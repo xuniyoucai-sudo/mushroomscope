@@ -107,6 +107,8 @@ Outside the expected range, document whether fruiting occurs near a mushroom far
 
 Other *Pholiota* species may have scaly rather than smoothly gelatinous caps, different stem ornamentation, larger fruit bodies, or different wood preferences. Some retain obvious veil material; others do not. Age and rain can erase exactly the characters a photograph seems to emphasize.
 
+For the dry, coarsely upturned-scale comparison, use the [shaggy scalycap identification guide](/mushrooms/shaggy-scalycap-mushroom-guide/); its rusty spores do not make an unknown wild *Pholiota* equivalent to cultivated nameko.
+
 Honey fungi (*Armillaria*) are not nameko. They commonly have pale spore deposits rather than the brown deposit expected here, and their ecology can include pathogenic interaction with living trees and dark rhizomorphs. Small brown genera also include species that are not food. Never use cap color and log growth as a two-feature edibility test.
 
 ## A collection record that can be checked

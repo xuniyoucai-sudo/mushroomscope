@@ -5,8 +5,8 @@ keywords: ["turkey tail clinical research", "Trametes versicolor PSK", "turkey t
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-25
-revisionSummary: "Added an evidence-transfer boundary for PSK-era trials, a treatment-era applicability check, and a product-lot decision record for oncology discussions."
+updatedDate: 2026-10-19
+revisionSummary: "Added an absolute-effect extraction protocol, modern-regimen compatibility review, adverse-event attribution plan, and explicit stop rules for product decisions."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -181,6 +181,24 @@ For an older trial, record the exact comparator and background therapy before as
 A clinical conversation is more productive when it concerns the exact container rather than a product category. Photograph the front label, Supplement Facts panel, other ingredients, warnings, lot and expiration information. Record the proposed amount, start date, reason for use, cited study and every prescription, over-the-counter medicine and supplement already taken. If the seller cites PSK or PSP, ask for evidence that the lot's identity, composition and dose match that preparation; an extraction ratio or total-polysaccharide number alone does not establish the match.
 
 The record should also state the decision and owner: avoid, defer pending more information, or use only under the treating team's plan. If use proceeds, document what outcome is being monitored, the review date and the stop conditions. New rash, gastrointestinal symptoms, laboratory changes or treatment changes should be evaluated without informal stop-and-rechallenge experiments. The published [mushroom supplement guide](/health/mushroom-supplements-guide/) explains the broader product-risk process, while the [mushroom photo checklist](/identification/mushroom-photo-checklist/) shows why field images cannot authenticate a supplement ingredient or establish edibility.
+
+## Extract absolute effects before discussing relevance
+
+For each trial, copy the number randomized, number analyzed, follow-up duration, event counts in each group, absolute risk difference, and uncertainty interval. A relative effect without baseline risk can make a small or unstable difference appear large. If only a graph or adjusted hazard ratio is available, say that an absolute estimate could not be verified instead of reconstructing precision from a promotional summary.
+
+Record missing data and competing events. In oncology research, deaths from other causes, treatment discontinuation, crossover, stage differences, and changes in background therapy can affect interpretation. A statistically significant result in a small subgroup is weaker when the subgroup was not prespecified or when many comparisons were tested. The aim is not to dismiss older PSK studies but to keep their numerical result attached to the design that produced it.
+
+### Check compatibility with a modern regimen
+
+Create a second table for the current treatment plan: diagnosis and stage, treatment goal, surgery status, chemotherapy, targeted therapy, immunotherapy, radiation, transplant context, organ function, allergies, and every medicine or supplement. Then ask the oncology pharmacist which interactions or overlapping adverse effects are known, plausible, or unstudied. An absence of a documented interaction is not proof of compatibility.
+
+Timing deserves explicit review. A product taken near surgery, during a laboratory abnormality, or while a new anticancer drug is being started can make attribution harder even if no direct interaction is established. The treating team may prefer avoidance, a defined pause, or monitoring. Those are individualized clinical decisions; this page cannot supply a universal schedule.
+
+### Define stop rules and attribution before use
+
+If a clinician-supported plan proceeds, write the starting lot, dose, date, expected purpose, review date, monitoring owner, and stop conditions before the first dose. Stop rules may include allergic symptoms, gastrointestinal effects that threaten hydration or treatment adherence, new liver or kidney abnormalities, a treatment change, a recall, or loss of product traceability. Emergency symptoms require urgent care rather than a planned follow-up.
+
+Do not stop and restart the product informally to prove causation. Rechallenge can be unsafe and can obscure the cause of an adverse event. Preserve the container and lot details, record the full timeline, and let the care team decide whether medical evaluation, regulatory reporting, or permanent discontinuation is appropriate. This process protects both patient safety and the quality of the evidence available for the next decision.
 
 ## References
 

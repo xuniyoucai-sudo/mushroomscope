@@ -6,6 +6,8 @@ keywords: ["mushroom antioxidants","ergothioneine mushrooms","glutathione mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-24
+updatedDate: 2026-10-19
+revisionSummary: "Added a species-to-serving comparison protocol, processing mass balance, biomarker interpretation ladder, and a claim-audit workflow while preserving editorial health boundaries."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -91,6 +93,22 @@ Compare foods per 100 grams in the same cooked state and per realistic portion. 
 When reading a headline, identify whether the evidence is chemical, cell-based, animal, observational, or interventional. Check the species, preparation, dose, comparator, outcome, study duration, conflicts, and replication. Ask whether the reported effect is clinically important rather than merely statistically detectable. The [nutrition evidence hub](/health/mushroom-nutrition-guide/) separates compound mechanisms from food-level conclusions.
 
 ## A reader's evidence worksheet
+
+Use a fixed worksheet before comparing an antioxidant number. Record the accepted species name, strain or cultivar if known, fruiting body or mycelial material, substrate, flush, harvest maturity, storage time, preparation, extraction solvent, analytical method, unit, moisture basis, and sample count. If one paper reports dry extract and another reports cooked fresh food, mark them non-comparable until a defensible conversion can be made. Do not silently treat a concentrated extract as a serving.
+
+For each health claim, add an evidence rung: chemical assay, cell study, animal study, observational human study, short human intervention with biomarkers, or controlled human trial with a clinical outcome. The rung prevents a strong laboratory signal from being narrated as disease prevention. Record the comparator, absolute result, uncertainty interval, adverse events, attrition, preregistration, funding, and whether the analyzed outcome was primary or exploratory.
+
+### Track cooking with a mass balance
+
+A cooking comparison needs starting raw mass, final cooked mass, water gained or lost, discarded liquid, and the compound measured in the edible portion. A higher concentration per 100 grams after roasting may reflect water loss rather than creation or improved absorption. A lower concentration after boiling may partly reflect movement into broth; whether that is a loss depends on whether the liquid is consumed. Report both concentration and estimated amount retained from the starting batch when data permit.
+
+Home cooking advice should remain modest because laboratory methods, mushroom thickness, temperature, time, and food matrix differ. The practical goal is a well-cooked, palatable food within a varied diet, not maximizing one assay at the expense of food safety or meal quality. The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) explains why water and serving denominators can reverse an apparent ranking.
+
+### Separate biomarkers from outcomes
+
+An oxidative-stress biomarker can be useful when it is validated, measured reliably, prespecified, and connected to the study question. It is still not automatically a patient-important outcome. Ask how variable the marker is, whether multiple markers were tested, whether the change exceeds measurement noise, and whether a corresponding change occurred in symptoms, function, disease events, or quality of life.
+
+For observational ergothioneine findings, record whether exposure came from diet recall, a blood measure, or another estimate. Each has different error. Then list major confounders and the study's attempts to address them. A biologically plausible association can justify further trials without supporting a personal dose target or a supplement recommendation.
 
 ## Bioavailability is the bridge laboratory claims often skip
 
