@@ -1,6 +1,6 @@
 ---
 title: "Easy Sautéed Mushrooms with Garlic and Herbs"
-seoTitle: "Easy Sautéed Mushrooms with Garlic & Herbs"
+seoTitle: "Sautéed Mushrooms: Garlic & Herb Recipe"
 description: "Sauté cremini mushrooms with garlic and herbs using a wide-pan method, clear batch sizes, realistic timing, and safe storage advice."
 keywords: ["sautéed mushrooms", "sauteed mushrooms with garlic", "how to sauté mushrooms", "cremini mushroom recipe"]
 category: recipes

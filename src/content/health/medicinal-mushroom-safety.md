@@ -1,5 +1,6 @@
 ---
 title: "Medicinal Mushroom Safety: Products, Interactions, and Red Flags"
+seoTitle: "Medicinal Mushroom Safety & Interactions"
 description: "Evaluate medicinal mushroom supplement safety through identity, dose, interactions, quality testing, adverse-event response, and evidence limits."
 keywords: ["medicinal mushroom safety","mushroom supplement interactions","mushroom extract side effects"]
 category: health

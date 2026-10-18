@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Tissue Cloning: From Inner Tissue to a Clean Culture"
+seoTitle: "Mushroom Tissue Cloning: Clean Culture Guide"
 description: "Clone cultivated mushroom tissue to agar with realistic sterility limits, donor selection, transfer tracking, contamination triage, and identity safeguards."
 keywords: ["mushroom tissue cloning","clone mushroom to agar","mushroom inner tissue culture"]
 category: growing

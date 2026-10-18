@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Strain Trial Design: Compare Cultures Without Fooling Yourself"
+seoTitle: "Mushroom Strain Trial Design Guide"
 description: "Design a mushroom strain trial with a defined question, replicated blocks, controlled variables, blind grading, complete failures, and cautious conclusions."
 keywords: ["mushroom strain trial", "compare mushroom strains", "mushroom cultivation experiment"]
 category: growing

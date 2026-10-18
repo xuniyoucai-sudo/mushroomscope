@@ -1,7 +1,7 @@
 ---
 title: "Common earthball: Field Identification, Lookalikes, and Safety"
 seoTitle: "Common earthball (Scleroderma citrinum) Identification Guide"
-description: "Document common earthball by its coarse scaly rind, soil attachment, dark maturing gleba, woodland ecology, puffball differences, toxicity, and safe field recording."
+description: "Document common earthball by its scaly rind, soil attachment, dark maturing gleba, woodland ecology, puffball differences, and toxicity."
 keywords: ["common earthball", "Scleroderma citrinum", "common earthball identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

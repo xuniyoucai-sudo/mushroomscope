@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Flush Management: Decide When to Rest, Refruit, or Retire a Block"
+seoTitle: "Mushroom Flush Management Guide"
 description: "Manage mushroom flushes with defined harvest windows, block condition checks, room capacity, water control, quality records, and conservative exit decisions."
 keywords: ["mushroom second flush", "mushroom flush management", "when to retire mushroom block"]
 category: growing

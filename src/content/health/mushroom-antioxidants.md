@@ -1,5 +1,6 @@
 ---
 title: "Antioxidants in Mushrooms: Ergothioneine, Glutathione, and Evidence"
+seoTitle: "Mushroom Antioxidants: Evidence Guide"
 description: "Understand mushroom antioxidants, laboratory assays, food variability, human evidence, and why ergothioneine findings do not prove disease prevention."
 keywords: ["mushroom antioxidants","ergothioneine mushrooms","glutathione mushrooms"]
 category: health

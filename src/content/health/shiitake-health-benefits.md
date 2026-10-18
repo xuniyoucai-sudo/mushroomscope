@@ -1,5 +1,6 @@
 ---
 title: "Shiitake Health Benefits: Nutrition, Lentinan, and Evidence Limits"
+seoTitle: "Shiitake Benefits: Evidence & Safety"
 description: "Review shiitake nutrition, lentinan research, dermatitis, supplement equivalence, and why food evidence does not establish disease treatment."
 keywords: ["shiitake health benefits", "shiitake nutrition", "lentinan evidence"]
 category: health

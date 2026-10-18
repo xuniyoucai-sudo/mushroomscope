@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Batch Records: Build Traceability From Culture to Harvest"
+seoTitle: "Mushroom Batch Records & Traceability"
 description: "Build mushroom batch records that connect culture, substrate, rooms, observations, harvests, deviations, and corrective actions without false precision."
 keywords: ["mushroom batch records", "mushroom farm traceability", "mushroom cultivation log"]
 category: growing

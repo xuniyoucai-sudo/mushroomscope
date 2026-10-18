@@ -1,7 +1,7 @@
 ---
 title: "Dog Stinkhorn: Egg Stage, Gleba, Insects, and Lookalikes"
 seoTitle: "Dog Stinkhorn Identification and Lookalikes"
-description: "Document Mutinus caninus from white egg to slender pink-orange column, dark gleba, insect dispersal, buried wood habitat, rapid collapse, and stinkhorn lookalikes."
+description: "Document Mutinus caninus from white egg to pink-orange column, dark gleba, insect dispersal, buried wood habitat, collapse, and stinkhorn lookalikes."
 keywords: ["dog stinkhorn", "Mutinus caninus", "dog stinkhorn identification", "stinkhorn egg"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

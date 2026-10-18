@@ -1,7 +1,7 @@
 ---
 title: "Sulfur tuft: Field Identification, Lookalikes, and Safety"
 seoTitle: "Sulfur tuft (Hypholoma fasciculare) Identification Guide"
-description: "Document sulfur tuft by clustered wood growth, sulfur-yellow caps, olive-gray gills, purple-brown spores, ringless stems, and dangerous stump-growing lookalikes."
+description: "Document sulfur tuft by clustered wood growth, yellow caps, olive-gray gills, purple-brown spores, ringless stems, and dangerous lookalikes."
 keywords: ["sulfur tuft", "Hypholoma fasciculare", "sulfur tuft identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

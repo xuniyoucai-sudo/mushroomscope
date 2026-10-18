@@ -1,7 +1,7 @@
 ---
 title: "Honey Fungus: Armillaria mellea Identification and Tree Ecology"
 seoTitle: "Honey Fungus (Armillaria mellea): Identification Guide"
-description: "Identify honey fungus through clusters, rings, white spores, rhizomorphs, host evidence, and regional Armillaria limits, with conservative food and tree-risk guidance."
+description: "Identify honey fungus through clusters, rings, white spores, rhizomorphs, host evidence, regional Armillaria limits, and tree-risk boundaries."
 keywords: ["honey fungus", "Armillaria mellea", "honey fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

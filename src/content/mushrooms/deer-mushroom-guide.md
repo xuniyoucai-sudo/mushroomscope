@@ -1,7 +1,7 @@
 ---
 title: "Deer Mushroom: Free Gills, Pink Spores, and Hardwood Habitat"
 seoTitle: "Deer Mushroom (Pluteus cervinus) Identification Guide"
-description: "Document deer mushrooms by smooth fawn caps, free gills, pink spores, ringless stems, hardwood attachment, and separation from Entoloma, Volvariella, and similar Pluteus."
+description: "Document deer mushrooms by fawn caps, free gills, pink spores, ringless stems, hardwood attachment, and Entoloma or Volvariella differences."
 keywords: ["deer mushroom", "Pluteus cervinus", "deer mushroom identification", "Pluteus mushroom"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

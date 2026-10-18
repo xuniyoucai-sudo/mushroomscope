@@ -1,7 +1,7 @@
 ---
 title: "Rooting Shank Mushroom: Pseudorhiza, Cap, and Habitat"
 seoTitle: "Rooting Shank (Hymenopellis radicata) Guide"
-description: "Document rooting shank mushrooms by wrinkled tan caps, white gills, ringless fibrous stems, a long buried pseudorhiza, woody attachment, and regional lookalikes."
+description: "Document rooting shank by wrinkled tan caps, white gills, ringless stems, a buried pseudorhiza, woody attachment, and regional lookalikes."
 keywords: ["rooting shank mushroom", "Hymenopellis radicata", "rooting shank identification", "rooting mushroom pseudorhiza"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

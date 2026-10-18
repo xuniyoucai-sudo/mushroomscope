@@ -1,5 +1,6 @@
 ---
 title: "Mushrooms and Blood Sugar: Food Evidence Without Treatment Claims"
+seoTitle: "Mushrooms & Blood Sugar: Evidence Guide"
 description: "Review mushrooms, carbohydrate quality, meal context, glucose studies, medication safety, and why food associations do not prove diabetes treatment."
 keywords: ["mushrooms blood sugar","mushrooms diabetes evidence","mushroom glucose studies"]
 category: health

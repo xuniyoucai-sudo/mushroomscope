@@ -1,5 +1,6 @@
 ---
 title: "Mushrooms for Weight Management: Satiety, Substitution, and Evidence"
+seoTitle: "Mushrooms & Weight Management Evidence"
 description: "Assess mushroom calories, satiety, food substitution, trial design, realistic portions, and why mushrooms are not a stand-alone weight-loss treatment."
 keywords: ["mushrooms weight management","mushrooms weight loss evidence","mushroom satiety"]
 category: health

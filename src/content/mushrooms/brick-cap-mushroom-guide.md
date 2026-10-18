@@ -1,7 +1,7 @@
 ---
 title: "Brick Cap Mushroom: Wood Habitat, Gills, and Lookalikes"
 seoTitle: "Brick Cap Mushroom (Hypholoma lateritium) Guide"
-description: "Document brick cap mushrooms by hardwood clusters, brick-red caps, changing gill color, purple-brown spores, ringless stems, and separation from sulfur tuft and Galerina."
+description: "Document brick caps by hardwood clusters, brick-red caps, changing gills, purple-brown spores, ringless stems, and sulfur tuft or Galerina differences."
 keywords: ["brick cap mushroom", "Hypholoma lateritium", "brick cap identification", "brick top mushroom"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

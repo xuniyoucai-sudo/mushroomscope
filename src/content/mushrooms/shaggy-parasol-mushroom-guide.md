@@ -1,7 +1,7 @@
 ---
 title: "Shaggy Parasol Mushroom: Scales, Staining, and Lookalikes"
 seoTitle: "Shaggy Parasol Mushroom Identification Guide"
-description: "Document shaggy parasols by coarse cap scales, a thick ring, reddening flesh, pale spores, habitat, and separation from true parasols and green-spored lookalikes."
+description: "Document shaggy parasols by cap scales, a thick ring, reddening flesh, pale spores, habitat, and true or green-spored parasol differences."
 keywords: ["shaggy parasol mushroom", "Chlorophyllum rhacodes", "shaggy parasol identification", "shaggy parasol lookalikes"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

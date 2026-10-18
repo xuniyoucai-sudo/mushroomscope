@@ -1,5 +1,6 @@
 ---
 title: "How to Grow Lion's Mane Mushrooms at Home"
+seoTitle: "Grow Lion's Mane at Home: Step-by-Step Guide"
 description: "Lion's mane needs clean culture, hardwood-based substrate, high humidity without saturation, and adequate fresh air for compact fruiting bodies."
 keywords: ["how to grow lion's mane mushrooms at home", "mushroom cultivation", "home growing"]
 category: growing

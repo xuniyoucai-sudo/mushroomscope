@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Yield and Biological Efficiency: Calculate Comparable Batches"
+seoTitle: "Mushroom Yield & Biological Efficiency"
 description: "Calculate mushroom yield and biological efficiency with dry-substrate mass, harvest boundaries, flush records, quality grades, losses, and honest comparisons."
 keywords: ["mushroom biological efficiency","calculate mushroom yield","mushroom batch records"]
 category: growing

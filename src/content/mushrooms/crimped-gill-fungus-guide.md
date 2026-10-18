@@ -1,7 +1,7 @@
 ---
 title: "Crimped Gill Fungus: Folded Underside and Field Identification"
 seoTitle: "Crimped Gill Fungus (Plicaturopsis crispa) Guide"
-description: "Identify crimped gill fungus by thin clustered fans, hairy zoned caps, forked wrinkled folds, hardwood attachment, moisture response, and careful lookalike separation."
+description: "Identify crimped gill fungus by clustered fans, hairy zoned caps, forked wrinkled folds, hardwood attachment, moisture response, and lookalikes."
 keywords: ["Crimped gill fungus", "Plicaturopsis crispa", "Crimped gill fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

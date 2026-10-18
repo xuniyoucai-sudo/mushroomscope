@@ -1,7 +1,7 @@
 ---
 title: "Black-Staining Polypore: Timed Bruising and Root Ecology"
 seoTitle: "Black-Staining Polypore Identification Guide"
-description: "Document Meripilus sumstinei using its basal rosette, pale pores, timed black bruising, hardwood-root attachment, cap architecture, regional range, and lookalikes."
+description: "Document Meripilus sumstinei by its basal rosette, pale pores, timed black bruising, hardwood-root attachment, regional range, and lookalikes."
 keywords: ["black-staining polypore", "Meripilus sumstinei", "blackening polypore", "rooster of the woods"]
 category: mushrooms
 author: "MushroomScope Editorial Team"

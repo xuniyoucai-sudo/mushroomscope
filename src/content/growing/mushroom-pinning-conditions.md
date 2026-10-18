@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Pinning Conditions: Humidity, Air, Light, and Timing"
+seoTitle: "Mushroom Pinning Conditions Guide"
 description: "Diagnose mushroom pinning through colonization readiness, fresh air, surface moisture, temperature, light, species-specific cuts, and observation logs."
 keywords: ["mushroom pinning conditions","mushroom primordia","initiate mushroom fruiting"]
 category: growing

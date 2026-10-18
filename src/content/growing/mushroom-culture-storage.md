@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Culture Storage: Working Plates, Slants, and Inventory"
+seoTitle: "Mushroom Culture Storage: Plates & Slants"
 description: "Store mushroom cultures with a master-and-working system, sealed slants, temperature records, passage limits, recovery tests, and traceable inventory."
 keywords: ["mushroom culture storage","store mushroom agar slants","mushroom culture library"]
 category: growing

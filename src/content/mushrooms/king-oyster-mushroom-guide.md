@@ -1,5 +1,6 @@
 ---
 title: "King Oyster Mushroom: Pleurotus eryngii Ecology and Cultivation"
+seoTitle: "King Oyster Mushroom: Ecology & Cultivation"
 description: "Understand king oyster morphology, Mediterranean plant associations, controlled crop shaping, dense-stem cooking, food evidence, and wild-identification limits."
 keywords: ["Pleurotus eryngii","king oyster mushroom","mushroom identification","mushroom growing guide"]
 category: mushrooms
