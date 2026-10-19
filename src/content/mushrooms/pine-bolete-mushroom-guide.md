@@ -214,6 +214,8 @@ A field voucher requires the opposite evidence: intact cap, pores at known matur
 
 ## References
 
+For a slimmer chestnut-capped bolete with yellow pores, variable blue bruising, and a fibrous rather than strongly netted stem, use the [bay bolete guide](/mushrooms/bay-bolete-mushroom-guide/) as a separate comparison instead of widening the pine-bolete concept.
+
 1. Global Biodiversity Information Facility. [Boletus pinophilus species record](https://www.gbif.org/species/5954949). Accepted-name and Eurasian occurrence context used to limit geographic claims.
 2. National Center for Biotechnology Information. [*Boletus pinophilus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Boletus+pinophilus). Nomenclatural checkpoint for this pine-associated member of the *B. edulis* group.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.

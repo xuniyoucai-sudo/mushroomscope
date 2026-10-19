@@ -156,6 +156,8 @@ Cap proportions can change rapidly during autolysis; the [shaggy mane guide](/mu
 
 ## References
 
+The [fairy ring champignon guide](/mushrooms/fairy-ring-champignon-guide/) shows why a low umbo must be paired with hygrophanous color change, gill spacing, a wiry stem, white spores, and mapped grassland ecology.
+
 1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)
 2. [Global Biodiversity Information Facility — Species Search](https://www.gbif.org/species/search)
 3. [Mushroom Observer](https://mushroomobserver.org/)

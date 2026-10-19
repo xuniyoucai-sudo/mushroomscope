@@ -135,6 +135,8 @@ The [slippery jack guide](/mushrooms/slippery-jack-mushroom-guide/) applies pore
 
 ## References
 
+The [bay bolete species guide](/mushrooms/bay-bolete-mushroom-guide/) applies this workflow to timed pore bruising, stem ornamentation, woodland host evidence, and separation from the *Boletus edulis* complex.
+
 1. [USDA Forest Service — Commercially Harvested Mushrooms of the Pacific Northwest](https://www.fs.usda.gov/pnw/pubs/pnw_gtr309.pdf)
 2. [Michigan State University Extension — Michigan's Wild Harvested Mushrooms](https://archive.lib.msu.edu/DMC/extension_publications/e2777/E2777-2002.PDF)
 3. [Montana State University — Collecting Fungi and Mushrooms for Identification](https://urbanipm.montana.edu/resources/submitting-mushrooms.html)

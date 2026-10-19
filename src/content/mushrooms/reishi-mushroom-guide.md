@@ -6,8 +6,8 @@ keywords: ["Ganoderma lingzhi","reishi","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-28
-revisionSummary: "Replaced shared species and health templates with Ganoderma-specific laccate morphology, pore/context records, host attachment, antler-form variables, product identity, and evidence boundaries."
+updatedDate: 2026-10-20
+revisionSummary: "Added specimen-linked lacquer, pore, tissue, and sampling records to strengthen Ganoderma separation without extending product or clinical claims."
 draft: false
 featured: false
 coverImage: "../../assets/species/reishi-mushroom.jpg"
@@ -229,6 +229,22 @@ Document the actively growing margin, lacquered upper surface, pore surface, tub
 
 Do not estimate age from size alone. Substrate resources, fruiting position, weather, insect activity, and interrupted growth all affect form. If repeated visits are possible, photograph the same bracket from fixed positions and record dates, margin expansion, pore development, and deterioration. That sequence supports an observation about development; it does not prove extract composition, potency, or clinical value.
 
+## Record lacquer, resin bands, and pore change as separate characters
+
+The varnished upper surface can look red-brown, chestnut, yellow-banded, or nearly black depending on growth zone, moisture, age, and reflected light. Photograph the actively expanding margin and mature center in the same frame with a neutral color reference. Note whether the surface is genuinely laccate, merely wet, dusted with spores, cracked by sun, or colonized by algae. “Shiny red conk” collapses several different observations into one weak label.
+
+Use a soft dry brush on one small documented area rather than polishing the whole bracket. Brown spore dust can coat both the conk and nearby bark, while rain can temporarily darken the crust. On the underside, mark a tiny pore area and record the immediate and delayed color after light pressure. Bruising behavior supports a specimen record but should not be generalized across every age or *Ganoderma* species.
+
+Section a permitted specimen through the margin and older center. Measure crust, context, and tube depth separately, describe tissue color and zoning, and keep the section photograph linked to the upper and pore surfaces. The ratio can change across one conk, so a single edge measurement should not be presented as its total anatomy. These records create a reproducible morphology dataset; they do not measure triterpenes or polysaccharides.
+
+## Design a sampling plan for a difficult Ganoderma determination
+
+When species resolution matters, decide before cutting which evidence will be collected. Assign a specimen code, photograph attachment and host, retain a dried voucher where lawful, and divide tissue so morphology, microscopy, culture, or sequencing can be traced to the same fruit body. Sampling several neighboring conks without labels can mix ages or organisms and make a molecular result impossible to connect to the published photograph.
+
+Host identification deserves its own confidence statement. Bark alone may be inadequate on dead or landscaped wood; photograph leaves, buds, branching, cut surfaces, and site history when available. If a conk emerges from buried roots, map distance and direction rather than assigning the nearest trunk automatically. Record whether the host name was observed, inferred, or confirmed by a plant specialist.
+
+For sequence-based work, preserve laboratory, marker, primers, quality controls, raw-data accession, and reference method. A closest database hit is not automatically a current species determination, particularly in a nomenclaturally difficult group. Reconcile the molecular result with type-based literature and morphology, and publish uncertainty when the evidence does not resolve *G. lingzhi*, *G. lucidum* sensu lato, or another regional lineage.
+
 
 ## References
 
@@ -240,4 +256,4 @@ Do not estimate age from size alone. Substrate resources, fruiting position, wea
 6. NCBI Taxonomy. [Ganoderma lingzhi, Taxonomy ID 1233435](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1233435). Current database record with a nomenclature disclaimer and linked taxonomic literature.
 7. Yao Y-J, et al. [Re-Examination of the Holotype of Ganoderma sichuanense and a Clarification of the Identity of Chinese Cultivated Lingzhi](https://pmc.ncbi.nlm.nih.gov/articles/PMC10051598/). Type-material and phylogenetic reassessment; used to explain the later-synonym interpretation rather than to relabel older studies silently.
 
-*Last editorial review: September 2, 2026. This page received editorial review only; no named mycologist or clinical expert reviewed it. Scientific names, product regulation, and public-health recommendations should be rechecked at every substantive update.*
+*Last editorial review: October 20, 2026. This page received editorial review only; no named mycologist or clinical expert reviewed it. Scientific names, product regulation, and public-health recommendations should be rechecked at every substantive update.*

@@ -140,4 +140,6 @@ For a developmental example, the [violet-toothed polypore guide](/mushrooms/viol
 
 ## References
 
+For a species-level example, the [bay bolete guide](/mushrooms/bay-bolete-mushroom-guide/) combines pore color with timed bruising, stem surface, woodland host evidence, and an olive-brown spore deposit rather than treating blue staining as a verdict.
+
 The British Mycological Society identification guidance supports evidence-led field work and expert referral. GBIF can help check accepted names and geographic records, while records still require critical interpretation. North American Mycological Association poisoning guidance supports conservative emergency action. Use current regional monographs for species-level determinations because pore characters and names vary among continents and lineages.

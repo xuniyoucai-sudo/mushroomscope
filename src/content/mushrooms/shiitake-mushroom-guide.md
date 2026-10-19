@@ -6,8 +6,8 @@ keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom gro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-10
-revisionSummary: "Replaced generic templates with shiitake-specific development, East Asian range, system variables, dermatitis, and preparation boundaries."
+updatedDate: 2026-10-20
+revisionSummary: "Added strain-provenance and matched harvest-cohort audits to the existing shiitake development, cultivation, dermatitis, and evidence boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/shiitake-mushroom.jpg"
@@ -222,6 +222,22 @@ A nutrient table for cooked shiitake, a laboratory experiment on isolated compou
 
 The same boundary applies to safety. Thorough cooking addresses ordinary culinary handling, while shiitake dermatitis is a distinctive delayed flagellate eruption reported after raw or undercooked exposure and occasionally under other circumstances. A suspected reaction needs medical assessment; it is not a home test of mushroom quality or proof that every future exposure will behave identically.
 
+## Audit strain identity before comparing cultivation results
+
+A commercial name is not a stable biological measurement. Two suppliers may use the same marketing label for different cultures, while one culture can acquire a new retail name. Preserve supplier, catalog identifier, lot, receipt date, storage history, inoculum format, and any strain documentation before a log or block is started. If identity is central to the comparison, retain a clean reference culture and use an appropriate laboratory method rather than inferring strain from cap color.
+
+Run new spawn beside a familiar control on substrate prepared in the same batch. Randomize block positions because shelf height, door drafts, humidifier distance, and light can imitate strain effects. Record contamination and units discarded in the denominator; reporting yield only from surviving bags makes an unreliable culture appear productive. The [strain-trial design guide](/growing/mushroom-strain-trial-design/) provides a framework for replication and prespecified outcomes.
+
+Treat culture drift, contamination, and labeling error as separate hypotheses. A slow block may reflect damaged spawn, excessive supplement, overheating, poor gas exchange, or a mixed culture. Photograph colonization boundaries and fruit-body form, but do not rename an unusual phenotype without identity evidence. This provenance chain connects the culture label to log or block behavior without pretending appearance proves genetics.
+
+## Compare harvest cohorts with water and maturity held visible
+
+Fresh yield alone can reward a wetter crop. For each flush, record harvest time, cap-opening stage, trimmed fresh mass, number of saleable fruit bodies, rejected mass, and a small representative dry-matter sample where the study design permits. Compare blocks at a common maturity rule—for example, a defined margin angle—not merely on the same calendar day. A later harvest can add water and cap expansion while reducing shelf life.
+
+Keep first flush, later flushes, and cumulative yield separate. Rehydration treatment, rest interval, block mass loss, surface damage, and room occupancy all affect the next crop. A system that produces a large first flush but fails afterward answers a different production question from one that provides moderate repeated harvests. Report biological efficiency with its dry-substrate denominator and room-days with the harvest data.
+
+Quality observations should be measured rather than aesthetic. Record cap diameter distribution, stem proportion, surface cracking, physical damage, insect presence, and time to cooling. These variables help distinguish strain, climate, opening, and harvest-window effects; they do not establish nutrient superiority or medicinal potency.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
@@ -231,4 +247,4 @@ The same boundary applies to safety. Thorough cooking addresses ordinary culinar
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General produce handling guidance.
 6. Stephany MP, et al. [Shiitake Mushroom Dermatitis: A Review](https://pubmed.ncbi.nlm.nih.gov/27566177/). *American Journal of Clinical Dermatology.* 2016;17(5):485–489. Clinical pattern and raw-or-undercooked exposure boundary.
 
-*Editorial review: August 31, 2026. No named clinician, mycologist or cultivation specialist reviewed this page. Scientific names and public-health recommendations should be rechecked at every substantive update.*
+*Editorial review: October 20, 2026. No named clinician, mycologist or cultivation specialist reviewed this page. Scientific names and public-health recommendations should be rechecked at every substantive update.*

@@ -6,8 +6,8 @@ keywords: ["honey fungus", "Armillaria mellea", "honey fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
-updatedDate: 2026-10-02
-revisionSummary: "Added host-zone mapping, rhizomorph sampling boundaries, cluster-stage measurements, and a tree-risk decision record distinct from species identification."
+updatedDate: 2026-10-20
+revisionSummary: "Added root-zone transects, substrate-linked sampling, and decay-evidence escalation while preserving identification and arboricultural boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/honey-fungus-editorial-v3.jpg"
@@ -207,6 +207,22 @@ Keep two conclusions in the notes: the fungal determination and the tree-managem
 
 For another stump-cluster comparison, the [brick cap guide](/mushrooms/brick-cap-mushroom-guide/) shows how purple-brown spores, ring absence, and changing gill color separate *Hypholoma* from white-spored *Armillaria*.
 
+## Run a root-zone transect without turning it into a diagnosis
+
+When several plants decline near fruiting, establish a measured line from the primary cluster across plausible root zones. At fixed points, record surface fruiting, stumps, buried-wood evidence, soil moisture, compaction, grade change, irrigation leaks, and visible root condition. Repeat the same line after heavy rain and during the next fruiting period. This creates a spatial record without claiming that every symptom shares one cause.
+
+Do not trench through structural roots or peel sound bark to complete the map. Non-destructive observations come first; an arborist or plant-pathology service should decide whether targeted root-collar exposure, wood sampling, culture, or molecular testing is justified. A negative visual search for rhizomorphs does not exclude *Armillaria*, and a black cord found in soil does not quantify decay.
+
+Link every sample to coordinates on the sketch, host tissue, depth, date, and collector. Keep a fruit-body voucher separate from root or bark material. If the laboratory identifies *Armillaria* from one sample, report the sampled host and position rather than extending that result to every tree inside a visually convenient circle.
+
+## Escalate from fungal evidence to wood-condition evidence
+
+Fruit bodies, rhizomorphs, and mycelial fans can support a fungal diagnosis, but tree-risk decisions require information about the tree and remaining wood. Record cavities, root-plate movement, recent limb failure, crown dieback, lean change, targets, occupancy, and severe weather exposure. Professional tools may assess sound transmission, resistance, root condition, or decay extent; their output still needs interpretation in the whole-tree context.
+
+Separate detection, extent, and consequence in the report. “Armillaria detected” answers whether evidence of the fungus was found. It does not state how much load-bearing wood remains, whether the infection is active throughout the root system, or how likely failure is within a time window. Conversely, urgent target exposure can justify restricting access while species work remains incomplete.
+
+Management records should name the objective: protect people, preserve a valued tree, reduce inoculum near susceptible planting, or document a dead stump. Removal, replanting, drainage, irrigation, and monitoring choices differ among those objectives. This decision chain is more useful than a universal instruction to dig out every root or apply a chemical cure.
+
 ## References
 
 For a ringless yellow cluster with olive-gray gills and purple-brown spores, use the [sulfur tuft guide](/mushrooms/sulfur-tuft-mushroom-guide/) rather than extending a honey-fungus label from clustered growth alone.
@@ -218,4 +234,4 @@ For a ringless yellow cluster with olive-gray gills and purple-brown spores, use
 5. Royal Horticultural Society. [Honey fungus](https://www.rhs.org.uk/disease/honey-fungus). Garden symptoms, rhizomorph biology, regional species, and management context.
 6. Science & Advice for Scottish Agriculture. [Armillaria diagnostics](https://www.sasa.gov.uk/rd/pest-pathogen-diagnostics/armillaria). Regional species separation and PCR diagnostic context.
 
-*Editorial review: October 2, 2026. This article has editorial review only and no named mycologist, clinician, or arborist review. Taxonomy, regional range, tree-risk advice, and poison-response contacts should be rechecked at every substantive update.*
+*Editorial review: October 20, 2026. This article has editorial review only and no named mycologist, clinician, or arborist review. Taxonomy, regional range, tree-risk advice, and poison-response contacts should be rechecked at every substantive update.*

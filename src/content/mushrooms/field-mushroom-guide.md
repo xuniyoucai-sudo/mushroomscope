@@ -225,6 +225,8 @@ This produces two conclusions rather than one. The first is taxonomic: how stron
 
 ## References
 
+If a lawn collection consists of small buff caps with relatively spaced pale gills and wiry ringless stems, the [fairy ring champignon guide](/mushrooms/fairy-ring-champignon-guide/) defines that separate grassland hypothesis; it should not be folded into an *Agaricus* identification from habitat alone.
+
 Wood-growing clusters require a different evidence set: the [honey fungus guide](/mushrooms/honey-fungus-mushroom-guide/) combines host-zone mapping, rings, white spores, rhizomorph context, and tree-risk boundaries.
 
 1. Global Biodiversity Information Facility. [*Agaricus campestris* species record](https://www.gbif.org/species/5243458). Taxonomic name and occurrence context.
