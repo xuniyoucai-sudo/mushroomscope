@@ -164,6 +164,8 @@ A stinkhorn egg is another reason the cut must pass through the entire structure
 
 Very small nest-like cups with loose disk-shaped contents are not miniature puffballs. Document those structures in place and compare the [fluted bird's nest fungus guide](/mushrooms/fluted-birds-nest-fungus-guide/), which explains peridioles, fluted cup walls, and rain-splash dispersal on woody debris.
 
+For a smaller woodland species with detachable conical spines, netlike scars, and a narrowed sterile base, use the [common puffball guide](/mushrooms/common-puffball-mushroom-guide/) rather than extending the general puffball pattern to a species name.
+
 ## References
 
 Compare the [common earthball guide](/mushrooms/common-earthball-fungus-guide/) before applying any puffball name to a thick-skinned, coarsely scaled round fungus with a darkening interior.

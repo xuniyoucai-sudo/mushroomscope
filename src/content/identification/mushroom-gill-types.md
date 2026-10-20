@@ -144,6 +144,8 @@ The [crimped gill fungus guide](/mushrooms/crimped-gill-fungus-guide/) documents
 
 The [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) provides a contrasting case: thick, relatively distant waxy gills must be read with a smooth cap, ringless stem, grassland history, and regional red-waxcap alternatives.
 
+For a dark-spored species whose gill edges may carry bead-like droplets without organized cap dissolution, use the [weeping widow guide](/mushrooms/weeping-widow-mushroom-guide/) and keep moisture observations tied to a timed specimen record.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

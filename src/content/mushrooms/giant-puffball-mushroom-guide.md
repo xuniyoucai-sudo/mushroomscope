@@ -148,6 +148,8 @@ This article has editorial review status and no named mycologist or clinician re
 
 Record a giant puffball as an evidence chain: undisturbed habitat, complete base, three-axis measurements, surface condition, and one centered top-to-base section per specimen. The interior must be uniformly white and structureless to describe it as immature; any internal mushroom outline or mature discoloration stops the food pathway. Add a maturity series, mature spore evidence, regional comparison, and expert review when a species-level determination matters.
 
+The [common puffball guide](/mushrooms/common-puffball-mushroom-guide/) covers small pear-shaped fruit bodies with detachable spines and a sterile base; those features and scale separate its intent from this giant, mostly smooth species profile.
+
 ## References
 
 The [common earthball guide](/mushrooms/common-earthball-fungus-guide/) explains why a coarse thick rind and purple-black maturing interior belong to a different, poisonous field problem.

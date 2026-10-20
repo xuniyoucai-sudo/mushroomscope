@@ -161,6 +161,8 @@ Phone processing can brighten a gray cap, sharpen patch edges, and hide the fine
 
 When an observation contains only mature black remains, do not reconstruct the young veil pattern from a nearby decorative image. The safe conclusion may be “deliquescent dark-spored mushroom on wood.” A later visit after suitable weather can supply the missing early stage without overclaiming the first record.
 
+The [weeping widow guide](/mushrooms/weeping-widow-mushroom-guide/) covers a tawny fibrous relative with ragged veil and gill-edge droplets that does not normally deliquesce; that contrast helps keep dark-spored family resemblance from becoming a false species match.
+
 ## References
 
 1. GBIF. [*Coprinopsis variegata* species record](https://www.gbif.org/species/2534224). Accepted-name and occurrence context, subject to record-level verification.

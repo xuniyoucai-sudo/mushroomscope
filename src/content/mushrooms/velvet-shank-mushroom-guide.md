@@ -6,8 +6,8 @@ keywords: ["velvet shank", "Flammulina velutipes", "velvet shank identification"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-19
-updatedDate: 2026-10-04
-revisionSummary: "Replaced generic field templates with a cluster-level stem gradient, spore-deposit chain of custody, freeze-thaw observations, regional Flammulina limits, and explicit Galerina stop rules."
+updatedDate: 2026-10-21
+revisionSummary: "Added freeze-thaw cohort tracking, stem-texture measurements, and a mixed-stump exclusion protocol for brown-spored lookalikes."
 draft: false
 featured: false
 coverImage: "../../assets/species/velvet-shank-mushroom-editorial-v3.png"
@@ -184,6 +184,24 @@ Commercial enoki form reflects controlled light, carbon dioxide, temperature, an
 For every wild cluster, make the deadly *Galerina* boundary explicit. Preserve the lower stem, look for a ring or ring zone without assuming its absence is decisive, document mature gill and spore color, and obtain local in-person review. If an unknown mushroom was eaten, keep specimens and meal remnants and contact a poison service promptly rather than waiting for an online verdict.
 
 When several ringless brown-capped mushrooms share a hardwood stump, compare the collection with the [brick cap field workflow](/mushrooms/brick-cap-mushroom-guide/), especially mature gill color and the purple-brown versus white spore result.
+
+## Track one cluster through a freeze-thaw cycle
+
+Mark one cluster, photograph it before frost, after thaw, and after the next wet period, and record minimum temperature, cap width, surface condition, gill color, and whether the same stems remained attached. Separate survival of existing fruit bodies from a new flush at the same wound.
+
+Freeze-thaw exposure can darken caps, flatten margins, and make surfaces glossy or water-soaked. Those changes weaken color comparisons while lower-stem texture, ring evidence, spore result, and wood attachment remain useful. Do not interpret a damaged ring zone as proof of absence or mix a new cluster with old stems for a print.
+
+## Measure the velvet rather than using the word impressionistically
+
+Photograph each stem on four sides with a scale. Record the pale upper zone, transition, and dark velvety lower zone as proportions of total length. Under magnification, distinguish fine dense hairs from soil, wood fibers, mold, or discoloration. Repeat on young and mature stems from one cluster.
+
+A detached base, uniformly smooth dark stem, or ring should lower confidence and reopen the comparison. Retain the photographed stem with the exact cap used for any spore deposit.
+
+## Exclude mixed species on one stump
+
+Divide fruit bodies into attachment-level clusters and give each a separate code. Look for differences in cap texture, gill maturation, ring tissue, stem base, and spores. Never combine loose caps into a communal print or assume all brown caps touching one stump are one species.
+
+Any rusty-brown deposit, convincing ring or ring zone, or stem lacking the expected dark velvet closes the food question and requires wider local assessment. This boundary matters especially for *Galerina marginata*: the goal is to keep contradictory evidence attached to the correct specimen and stop before an unsafe conclusion.
 
 ## References
 

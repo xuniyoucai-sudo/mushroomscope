@@ -6,8 +6,8 @@ keywords: ["saffron milk cap", "Lactarius deliciosus", "saffron milk cap identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-20
-updatedDate: 2026-10-04
-revisionSummary: "Replaced generic field templates with a timed latex-and-staining protocol, pine-host evidence, regional orange-milkcap boundaries, and a specimen-level food decision record."
+updatedDate: 2026-10-21
+revisionSummary: "Added a host-confidence transect, matched latex timing controls, and evidence boundaries for introduced pine landscapes."
 draft: false
 featured: false
 coverImage: "../../assets/species/saffron-milk-cap-editorial-v3.jpg"
@@ -165,6 +165,20 @@ Make a clean gill cut and record the latex immediately, after one minute, and af
 The *Lactarius deliciosus* name has been applied broadly, while related orange milkcaps partition among conifers and regions. Photograph nearby trees from base to canopy and collect cones, needles, or twigs when permitted. Record whether fruit bodies repeat beneath the same host line or occur near planted pines outside their native range. A park planting, plantation, dune pine, and mixed forest create different biogeographic questions even when the mushroom looks similar.
 
 Mycorrhizal dependence also explains why this is not a straightforward indoor substrate species. A grow-bag recipe for saprotrophic oyster mushrooms does not transfer to a fungus whose life cycle is integrated with living roots. Reports of cultivation should specify the host plant, inoculation method, establishment interval, climate, and whether fruiting was actually documented. This ecological constraint distinguishes a scientific cultivation report from a generic “mushroom growing” claim.
+
+## Build a host-confidence transect instead of naming the nearest pine
+
+Mark the center of the fruiting patch and walk four short transects toward the nearest plausible trees. At each fruit body record distance, direction, litter, visible roots, and the identity confidence of needles, cones, bark, or planting records. Repeat the map after the next rainfall. A line of milkcaps that follows one pine root zone across visits is better evidence than one cap photographed beside an isolated needle.
+
+Mixed woodland requires explicit uncertainty. Pine, spruce, fir, birch, and oak roots can overlap far beyond their trunks. Write “pine evidence present within the mapped root zone” when that is what the photographs support; do not convert proximity into a proven partner. If host distinction controls the regional key, preserve a voucher and seek local review rather than assigning the European species concept from orange color.
+
+Introduced-pine landscapes add a biogeographic question. Record whether the site is a plantation, park, windbreak, or native forest. A fungus can travel with planted hosts, but that history needs records rather than familiarity. Link every habitat photograph, fruit-body series, and voucher to the same collection number.
+
+## Run a matched latex-and-stain observation
+
+Select two fresh fruit bodies of different ages from the same lawful collection. Make the same cut across three gills on each, photograph the first latex within seconds, then repeat at one, five, and fifteen minutes in stable light. Record air temperature, recent rain, and latex abundance. On a separate area, apply one standardized pressure mark and photograph green change without confusing it with the cut-latex sequence.
+
+This paired design reveals age and moisture effects that a single cut hides. If the older specimen produces little latex, do not replace the missing result with cap color. If the two specimens behave differently, report the variation and widen the comparison. Do not taste latex or pool observations from nearby milkcap species.
 
 ## References
 
