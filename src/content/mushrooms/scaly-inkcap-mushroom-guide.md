@@ -163,6 +163,8 @@ When an observation contains only mature black remains, do not reconstruct the y
 
 The [weeping widow guide](/mushrooms/weeping-widow-mushroom-guide/) covers a tawny fibrous relative with ragged veil and gill-edge droplets that does not normally deliquesce; that contrast helps keep dark-spored family resemblance from becoming a false species match.
 
+For smaller honey-brown clusters with removable mica-like veil grains rather than coarse pale patches, the [glistening inkcap guide](/mushrooms/glistening-inkcap-mushroom-guide/) documents the separate *Coprinellus micaceus* group and explains why close relatives may require microscopy.
+
 ## References
 
 1. GBIF. [*Coprinopsis variegata* species record](https://www.gbif.org/species/2534224). Accepted-name and occurrence context, subject to record-level verification.

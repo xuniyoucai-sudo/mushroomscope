@@ -6,7 +6,8 @@ keywords: ["split gill fungus", "Schizophyllum commune", "split gill mushroom id
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-04
-updatedDate: 2026-10-13
+updatedDate: 2026-10-22
+revisionSummary: "Added lamella-edge aperture measurements, wet-dry movement controls, wood-surface microclimate mapping, and exposure-aware specimen handling."
 coverImage: "../../assets/species/split-gill-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of small gray-white split gill fans showing radiating folded gills on a fallen hardwood branch"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -225,6 +226,38 @@ No. Moisture, age, light, and substrate influence color. Structure and microscop
 ### Can gloves replace respiratory precautions?
 
 No. Gloves reduce direct contact, while spores are an inhalation issue. Avoid generating airborne material and use appropriate controls.
+
+## Measure the split edge as an aperture, not a metaphor
+
+The apparent “split gill” is a paired lamella-edge structure that can roll or separate as moisture changes. Select five intact lamellae on one fruit body and photograph a perpendicular cross-view with a millimeter scale. At a fixed point 5 mm from the cap margin, measure the distance between the two visible edge lips. Repeat on neighboring lamellae and report the median and range.
+
+Repeat the measurement after a documented humidity change without forcing the edges apart. A true response should occur across several intact lamellae, while a single wide gap may be tearing, insect damage, or camera angle. Preserve the raw images and state the software or reticle used. This converts “the gills open when wet” into a collection-specific observation.
+
+Do not mistake the paired edges for two ordinary gills. Trace each structure back toward its origin and compare thin sections under magnification when a formal determination matters.
+
+## Run a wet-dry comparison with matched handling controls
+
+Use three similar fruit bodies from the same attachment when collection is legal. Leave one in its field state, expose one to a controlled humid chamber without direct wetting, and expose one to the same container and handling time without added humidity. Photograph at fixed intervals with unchanged magnification, light, and orientation.
+
+Record mass, cap curvature, lamella-edge aperture, and surface texture. The dry-handling control reveals changes caused by warmth, container compression, or time rather than moisture. Rehydration is reversible movement of existing tissue, not proof of new growth or survival of the underlying mycelium.
+
+Because *Schizophyllum* produces abundant airborne spores, conduct only the minimum justified manipulation, keep containers closed outside imaging, and avoid aerosol-generating handling. People with respiratory vulnerability should not run indoor rehydration demonstrations.
+
+## Map microclimate across one piece of wood
+
+A branch can contain sun-exposed dry bark, a humid lower surface, a soil-contact zone, and a freshly broken end within a short distance. Mark fruit-body positions along the wood and record surface orientation, bark cover, decay stage, shade, distance from soil, and moisture with the same method at each point.
+
+Compare occupied and unoccupied points rather than describing the entire log as “damp.” After rain, revisit at fixed intervals to see which surfaces retain moisture and which fruit bodies reopen. This supports a local microhabitat interpretation without claiming that one branch represents the species worldwide.
+
+If the wood is part of a building or retained tree, species presence does not quantify structural loss. Keep fungal documentation separate from a qualified building or arboricultural assessment.
+
+## Separate specimen preservation from exposure control
+
+Photograph the colony and both cap surfaces outdoors before collecting. If a voucher is justified, take a minimal piece into a rigid labeled container without brushing, scraping, or blowing on the fertile surface. Dry it in equipment designed to contain or exhaust spores away from occupied rooms. Do not use a household food dehydrator that will later handle food.
+
+Label substrate, date, location precision, moisture state, and any microscopy. Clean tools and the work surface according to the field or laboratory protocol. Gloves reduce direct contact but do not control airborne particles; ventilation, containment, and minimized manipulation address a different exposure route.
+
+Clinical disease caused by *Schizophyllum* is uncommon and cannot be diagnosed from finding the fungus nearby. Persistent respiratory symptoms require medical assessment with relevant exposure history, not removal of one visible fruit body as proof of cause.
 
 ## References
 

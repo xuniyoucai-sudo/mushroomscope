@@ -6,7 +6,8 @@ keywords: ["jelly tooth fungus", "Pseudohydnum gelatinosum", "jelly tooth fungus
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-16
-updatedDate: 2026-10-01
+updatedDate: 2026-10-22
+revisionSummary: "Added tooth-density transects, conifer-decay position mapping, hydration-state measurements, and a voucher-preservation protocol for gelatinous tissue."
 draft: false
 featured: false
 coverImage: "../../assets/species/jelly-tooth-mushroom-editorial-v2.png"
@@ -195,6 +196,36 @@ Repeat the transect after rain and after a dry interval. Hydrated teeth may hang
 Fruit bodies can emerge from the underside or side of conifer wood that is partly buried, moss-covered, or advanced in decay. Clear only enough litter to show whether tissue is continuous with bark, exposed sapwood, a cut face, or soil beside the log. Record wood diameter, bark persistence, decay class, soil contact, and whether the substrate is a branch, stump, or structural root.
 
 Do not infer conifer from decay color alone. Photograph diagnostic bark, cones, needles, or an attached branch when present; otherwise report “probable conifer wood” and preserve a small lawful wood sample separately. That distinction keeps the record testable and prevents generic forest-floor language from replacing substrate evidence.
+
+## Measure tooth density along a fixed underside transect
+
+“Toothed underside” is useful only when the structures are measured. Place a flexible millimeter scale beside an intact lobe and photograph a straight 20 mm transect from near the attachment toward the outer margin. Count projections crossing three 5 mm subsegments, then measure the longest intact teeth in each segment. Report the camera angle and exclude zones crushed against the log.
+
+The distribution can change across the fruit body: teeth may be shorter or sparse near an expanding margin and longer on mature sheltered tissue. Repeat the transect on at least three lobes from the same attachment and on any apparently different neighboring cluster. A smooth gelatinous fold, torn edge, or water droplet should not be entered as a tooth.
+
+This method helps separate *Pseudohydnum* architecture from jelly fungi with smooth fertile surfaces. It does not by itself establish the species, because maturity, damage, microscopy, substrate, and region still matter. Link every measurement to the overview photograph and specimen code.
+
+## Map fruiting position against conifer decay
+
+Record the woody substrate at three scales: the whole fallen trunk or stump, a one-meter section around the cluster, and the exact attachment. Estimate diameter, bark cover, contact with soil, moisture exposure, and a repeatable decay class. Note whether fruit bodies occupy the sheltered underside, a barkless side, a broken end, or the upper rain-exposed surface.
+
+Conifer identification should rest on retained needles, cones, bark, branch arrangement, or a documented stand record—not on an assumption that every dark fallen log is spruce or fir. If the host cannot be resolved, “decayed conifer wood” is the more accurate field statement. The [habitat guide](/identification/mushroom-habitat-identification/) can keep host confidence separate from direct substrate evidence.
+
+Revisit the log after rain and a dry interval. New lobes at the same decay boundary may show that moisture position predicts fruiting better than compass direction, but one log cannot establish a universal preference.
+
+## Quantify hydration without confusing expansion with growth
+
+Choose one fresh lobe that can be measured without detaching the colony. Record length, width, thickness, mass if legally collected, and a standardized photograph. Dry a voucher at controlled gentle airflow, record dry mass, then rehydrate a subsample in a measured volume of clean water for fixed intervals. Report temperature, time, drained-rest period, and mass after blotting with the same method.
+
+The mass gain describes water uptake by that sample; it is not new fungal growth and it does not confirm identity. Compare tooth visibility, translucence, elasticity, and dimensional recovery before and after hydration. Discard the liquid rather than treating it as food or an extract.
+
+Field specimens also cycle between swollen and contracted states. A dry, thin, tooth-obscured remnant may revive after rain, so record recent weather before calling two appearances different taxa.
+
+## Preserve gelatinous tissue with its diagnostic underside
+
+Gelatinous fungi can adhere to paper, fold onto themselves, and dry into an unreadable film. Photograph every surface first. Divide a legal minimal voucher so one piece preserves the cap surface, one preserves the toothed underside, and one retains the wood attachment. Dry pieces on a nonstick mesh with steady airflow, separated by specimen code.
+
+Do not seal wet tissue in plastic for transport. Short transport in a rigid ventilated container limits crushing; refrigeration is only a temporary delay, not preservation. Record fresh color and dimensions because dried material will change both. If DNA or culture work is planned, follow the receiving laboratory's clean-sampling and storage instructions rather than improvising from a food-storage method.
 
 ## References
 

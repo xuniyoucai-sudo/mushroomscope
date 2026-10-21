@@ -166,7 +166,7 @@ The [chanterelle versus jack-o'-lantern guide](/identification/chanterelle-vs-ja
 
 ## Compare wood-growing gilled clusters beyond shape
 
-*Crepidotus* species can form small stemless or lateral caps on wood, often with brown spores rather than the pale deposit expected from oysters. *Phyllotopsis nidulans* can be orange to buff, hairy, and strong-smelling. *Lentinellus* may have serrated gill edges and tougher flesh. *Panellus* and other small wood fungi can overlap in silhouette while differing in spores, texture, and microscopic anatomy.
+*Crepidotus* species can form small stemless or lateral caps on wood, often with brown spores rather than the pale deposit expected from oysters. *Phyllotopsis nidulans* can be orange to buff, hairy, and strong-smelling; the [orange mock oyster guide](/mushrooms/orange-mock-oyster-mushroom-guide/) separates its cap hairs, orange gills, broad wood attachment, odor, and pale deposit from a true *Pleurotus* record. *Lentinellus* may have serrated gill edges and tougher flesh. *Panellus* and other small wood fungi can overlap in silhouette while differing in spores, texture, and microscopic anatomy.
 
 Make a real spore deposit from a mature cap. Judge a sufficiently thick deposit on both light and dark surfaces. Then use a hand lens to inspect gill edges, cap hairs, and attachment. A pale print narrows the set but does not establish *Pleurotus*; microscopy and a regional key may be needed for small, weathered, or atypical collections.
 

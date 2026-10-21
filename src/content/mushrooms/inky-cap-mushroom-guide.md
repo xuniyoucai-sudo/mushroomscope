@@ -170,7 +170,7 @@ The dedicated [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) follow
 
 ## Mica cap comparison
 
-Mica caps, *Coprinellus micaceus*, are usually smaller and honey-brown. Fresh dry caps may carry sparkling veil grains resembling mica, although rain removes them. They also cluster on or near wood and deliquesce, making ecology alone insufficient.
+Mica caps, *Coprinellus micaceus*, are usually smaller and honey-brown. Fresh dry caps may carry sparkling veil grains resembling mica, although rain removes them. They also cluster on or near wood and deliquesce, making ecology alone insufficient. The [glistening inkcap guide](/mushrooms/glistening-inkcap-mushroom-guide/) gives that separate species-group intent a timed veil-grain, substrate, gill, spore, and microscopy workflow.
 
 Photograph cap granules before rain or handling, gill color by age, stem surface, and substrate. Species in these groups may require microscopy, and mixed fruitings on one stump are possible.
 
