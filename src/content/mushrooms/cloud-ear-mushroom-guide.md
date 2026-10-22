@@ -6,8 +6,8 @@ keywords: ["cloud ear fungus", "Auricularia cornea", "cloud ear mushroom", "clou
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-14
-updatedDate: 2026-10-13
-revisionSummary: "Added hydration-state morphometrics, host-and-climate record separation, dried-product mass balance, and traceability-based culinary controls."
+updatedDate: 2026-10-23
+revisionSummary: "Added attachment-foot mapping, lobe-thickness sampling, host-decay confidence, and split-lobe jelly lookalike separation."
 coverImage: "../../assets/species/cloud-ear-mushroom-editorial-v2.png"
 coverAlt: "AI editorial illustration of pale tan cloud ear fruit bodies attached laterally to a damp tropical hardwood branch"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -261,6 +261,24 @@ After soaking, inspect every fold under good light and rinse according to the ma
 Cloud ear contributes elastic crunch more than a soluble flavor base. Thick folded centers and thin margins soften at different rates. After verified rehydration and cleaning, slice large lobes into similarly thick pieces so heat reaches them consistently. In a stir-fry, remove excess surface water before the food enters hot oil; in soup, add timing should reflect the desired resilience rather than an assumption that longer cooking always improves texture.
 
 These mechanisms distinguish cloud ear from [snow fungus](/mushrooms/snow-fungus-guide/), whose branching fronds and production biology create a different hydration and mouthfeel problem. They also distinguish culinary performance from nutrition or health claims: a useful texture does not demonstrate a clinical effect.
+
+## Map each attachment foot before removing a lobe
+
+Cloud ear colonies can look like one fused mass even when individual lobes arise from separate attachment points. Number five lobes in an in-situ photograph, then trace each to the wood. Record attachment width, lobe height, maximum width, and the angle between the attachment and trunk. This distinguishes lateral ear-like growth from upright jelly fungi emerging through litter and prevents a pile of detached lobes from erasing the colony architecture.
+
+Use one cross-section per size class to measure thickness at the attachment, center, and rim. Pair those values with hydration state and recent rain. A thin wet rim and thick elastic base may be normal geometry; uniform swelling after rain may be hydration. Report the measurements rather than translating them into “young” or “old” without a developmental series.
+
+## Grade host and decay confidence separately
+
+Identify the host only to the level supported by bark, buds, leaves, wood anatomy, or a local arborist record. “Hardwood” is more honest than a guessed species. Separately record whether the wood is living, recently dead, decorticated, or advanced brown or white rot, and whether the fungus attaches to trunk, branch, stump, or buried root. Host identity and decay stage are different evidence fields and should not borrow confidence from each other.
+
+Photograph the wider tree, bark close-up, attachment, and a sound-to-decayed wood transition. If the apparent substrate is soil or buried woody debris and the fruit bodies stand as salmon-colored split funnels rather than lateral brown ears, use the [apricot jelly fungus guide](/mushrooms/apricot-jelly-fungus-guide/) as the comparison page. The link reflects a body-plan distinction, not an edibility judgment.
+
+## Audit dried-product identity as a chain, not a shape match
+
+Commercial dried material loses color, elasticity, thickness, and attachment evidence. A home rehydration test can document mass gain and texture but cannot reconstruct a missing voucher or prove a species. Retain the package name, ingredient declaration, lot, origin, supplier, purchase date, seal condition, and preparation instructions. Photograph a measured dry portion, record soak water and time, drain by a fixed method, and weigh again.
+
+Reject packages with insects, off odors, moisture damage, broken seals, or unexplained mixed material. Do not use a wild-field guide to overrule a recall or supplier warning. Culinary handling belongs to traceable food products; wild identification belongs to complete attached specimens. Keeping those workflows separate prevents a familiar market name from becoming false evidence for a woodland collection.
 
 ## References
 

@@ -6,6 +6,8 @@ keywords: ["common earthball", "Scleroderma citrinum", "common earthball identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-12
+updatedDate: 2026-10-23
+revisionSummary: "Added rind-thickness sections, maturation grids, substrate-depth records, and explicit separation from yellow-staining Agaricus buttons."
 coverImage: "../../assets/species/common-earthball-editorial.png"
 coverAlt: "Original AI editorial image showing common earthball fruit bodies and the field structures discussed in this guide"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -131,6 +133,24 @@ Occurrence databases help establish where named records exist, yet records vary 
 Number each fruit body before cutting. Record maximum width and height, rind thickness, scale dimensions, internal color, odor without tasting, base form, cord thickness, soil, slope, drainage, tree evidence, weather, and maturity. Photograph an untouched group, a cleaned base, a full vertical section, and a surface macro under neutral light.
 
 The AI cover is an editorial reconstruction, not a voucher or proof that the species occurs at a location. A publishable observation should connect images, notes, specimen, microscopy when needed, and a regional identification path.
+
+## Section the rind on a measured axis
+
+An earthball's outer wall is not just “thick.” Photograph the intact fruit body with its base, then cut one mature specimen from apex through attachment. Measure wall thickness at the top, side, and basal third with a millimeter scale. Record whether the interior is firm white, marbled, purple-black, powdery, or chambered. Link every section photograph to the intact specimen number so an attractive cross-section is not detached from surface and habitat evidence.
+
+Repeat the section on three size classes from the same colony when collection rules permit. A developmental grid can show the gleba changing from pale and solid to dark and powdery while the rind cracks or opens. Do not infer edibility from a white interior: several hazardous or unresolved puffball-like fungi are pale when immature, and an Amanita button may also be white inside but reveals organized cap, gill, and stem tissue on sectioning.
+
+## Record how deeply the base enters the substrate
+
+Clear soil from one side of the base and measure the depth to firm attachment. Note compact mineral soil, moss, litter, rotting wood, turf, or buried debris. Earthballs may have rootlike mycelial cords or a narrowed sterile base, but they do not have the cap, free gills, ring, and central stem of an Agaricus. Restore the site after the minimal inspection.
+
+This distinction is especially useful near lawns and paths where closed Agaricus buttons can appear ball-like. The [yellow stainer guide](/mushrooms/yellow-stainer-mushroom-guide/) follows gill development, basal chrome-yellow bruising, phenolic odor, and a chocolate-brown spore deposit. Cutting through the vertical center exposes that internal organization; a superficial slice across the cap may miss it.
+
+## Separate weather cracks from diagnostic surface texture
+
+Photograph a sheltered and exposed fruit body under the same diffuse light. Dry weather can exaggerate polygonal cracking, while rain and abrasion can smooth or darken the surface. Record scale height, crack depth, loose soil, and recent precipitation rather than treating every wart as permanent anatomy. Use raking light gently and avoid aggressive sharpening that invents texture.
+
+If the identification will support a range record, retain a mature dried voucher with rind, gleba, base, and habitat photographs. Microscopic spore ornamentation should be measured from mature material with calibrated optics and a stated sample size. An immature white gleba will not provide the same spore evidence, so developmental stage belongs beside every measurement.
 
 ## Frequently asked questions
 

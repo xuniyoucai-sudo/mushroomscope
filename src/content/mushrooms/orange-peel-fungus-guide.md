@@ -6,7 +6,8 @@ keywords: ["orange peel fungus", "Aleuria aurantia", "orange cup fungus", "orang
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-04
-updatedDate: 2026-10-13
+updatedDate: 2026-10-23
+revisionSummary: "Added cup-profile transects, disturbance-layer mapping, fracture tests, and an explicit apricot-jelly separation workflow."
 coverImage: "../../assets/species/orange-peel-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of irregular bright orange peel fungus cups fruiting on damp disturbed mineral soil"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -241,6 +242,24 @@ Yes. Soil disturbance can expose suitable surfaces, though appearance does not i
 ### Does a white spore cloud confirm the species?
 
 No. Many ascomycetes discharge pale spores. Mature spore morphology, tissue, ecology, and region are needed.
+
+## Measure the cup profile across a colony
+
+A single overhead photograph hides the character that gives orange peel fungus its name. Lay a ruler beside, not across, three fruit bodies and photograph each at soil level. Record cup depth, rim height, longest diameter, shortest diameter, and whether the base narrows to a point or spreads directly into the substrate. Repeat for a fresh cup, an expanding cup, and a flattened older specimen. This small series separates developmental change from variation between individuals.
+
+Map the same measurements along a one-meter transect through the colony. If deeper cups concentrate in shaded, moist depressions while exposed fruit bodies flatten and crack, microclimate is a plausible explanation that can be tested after the next rain. Do not turn the pattern into a species rule from one visit. Record slope, shade, surface moisture, and disturbance at each point so the observation remains interpretable.
+
+## Read the disturbed-soil layer rather than naming bare ground
+
+“On soil” is too broad for a useful ecology record. Photograph a clean vertical edge beside one fruit body and describe the upper few centimeters: compacted mineral soil, gravel, clay, wood chips, sawdust, charcoal, or mixed organic litter. Note tire tracks, path grading, excavation, fire scars, landscaping, or recent erosion. Orange peel fungus frequently attracts attention on disturbed ground, but the kind and age of disturbance matter more than the label.
+
+Do not excavate an entire colony. A narrow inspection beside one sacrificial specimen can show whether buried wood is present. If the substrate includes substantial decaying wood and the fruit bodies are translucent, resilient, and upright with longitudinal slits, compare the [apricot jelly fungus guide](/mushrooms/apricot-jelly-fungus-guide/) instead of forcing a cup-fungus name.
+
+## Separate brittle cups from gelatinous split lobes
+
+Use one edge fragment only after the intact record is complete. Fresh orange peel tissue should behave as a comparatively brittle cup-fungus flesh: it bends little before tearing or snapping and shows a distinct bright inner surface and paler, often finely textured outer surface. Apricot jelly is resilient, translucent, and tongue- or funnel-like, commonly with a vertical slit. A trampled cup and a collapsed jelly lobe can imitate each other in a photograph, so texture, profile, substrate, and repeated colony form must agree.
+
+Color is supporting evidence. Lock white balance or include a neutral reference, because phones can push both taxa toward the same saturated orange. Photograph the inner surface, outer surface, torn edge, and base under diffuse light. Avoid wetting a specimen merely to intensify color; added water changes gloss and texture.
 
 ## References
 

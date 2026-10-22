@@ -223,6 +223,8 @@ Short grass is not automatically a clean food site. Ask how the ground has been 
 
 This produces two conclusions rather than one. The first is taxonomic: how strongly the collection supports the *A. campestris* group. The second is exposure-based: whether the site history is sufficiently known for any food discussion. A strong identification does not repair an unsuitable collection site, and a clean-looking pasture does not resolve a weak identification.
 
+For a poisonous pale Agaricus comparison, the [yellow stainer guide](/mushrooms/yellow-stainer-mushroom-guide/) documents rapid basal chrome-yellow bruising and phenolic odor rather than treating any single yellow mark as decisive.
+
 ## References
 
 If a lawn collection consists of small buff caps with relatively spaced pale gills and wiry ringless stems, the [fairy ring champignon guide](/mushrooms/fairy-ring-champignon-guide/) defines that separate grassland hypothesis; it should not be folded into an *Agaricus* identification from habitat alone.

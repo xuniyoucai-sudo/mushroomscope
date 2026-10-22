@@ -208,6 +208,8 @@ Odor is subjective and easily contaminated by soil, storage bags, cut grass or d
 
 For grassland transects, record road distance, manure, irrigation, pet traffic, turf treatment and the position of each arc. This distinguishes useful ecological evidence from site-safety evidence: a convincing *A. arvensis* record beside a treated verge still does not create suitable food material.
 
+The [yellow stainer comparison](/mushrooms/yellow-stainer-mushroom-guide/) separates rapid basal chrome-yellow bruising and phenolic odor from the slower yellowing and anise-like odor sometimes recorded in horse-mushroom groups.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Agaricus arvensis species record](https://www.gbif.org/species/5243403). Taxonomic backbone and occurrence context.
