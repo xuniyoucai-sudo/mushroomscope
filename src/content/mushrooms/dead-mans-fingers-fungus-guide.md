@@ -235,6 +235,10 @@ The focal species is principally associated with hardwood in common descriptions
 
 Yes. Hard black tissue may remain after active spore production, so condition should accompany occurrence dates.
 
+## Separate blue-green wood staining
+
+Blue-green staining in hardwood with minute turquoise cups indicates a different observation pathway. The [green elfcup fungus guide](/mushrooms/green-elfcup-fungus-guide/) explains how to separate persistent pigment from the fruit bodies and why microscopy is usually needed for a species name.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Xylaria polymorpha* species record](https://www.gbif.org/species/8956209). Accepted-name and occurrence context.

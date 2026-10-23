@@ -6,7 +6,8 @@ keywords: ["collared earthstar", "Geastrum triplex", "earthstar fungus identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-03
-updatedDate: 2026-09-30
+updatedDate: 2026-10-24
+revisionSummary: "Added fixed-angle hydration trials, collar-fracture mapping, apical-mouth measurements, and population-stage sampling."
 coverImage: "../../assets/species/collared-earthstar-editorial-v2.png"
 coverAlt: "AI editorial image of three collared earthstars with split rays and central spore sacs on woodland litter"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -194,6 +195,24 @@ GBIF and NCBI support taxonomic and occurrence checkpoints. GBIF genus records h
 
 The AI editorial cover was checked for thick split rays, central sacs, a visible collar and apical pore, natural litter, clarity, restrained color, and no text or watermark. It intentionally shows a plausible field concept rather than a diagnostic specimen. No named mycologist or clinician reviewed this draft.
 
+## Run a fixed-angle hydration trial
+
+Choose three naturally detached or non-protected fruit bodies rather than uprooting an intact population. Place each on the same inert surface, photograph it dry from a fixed overhead mount, then expose the rays to a measured mist without wetting the spore sac directly. Record ray-tip distance, overall diameter, and time at five-minute intervals. Stop if tissue begins to tear.
+
+This trial documents movement in those specimens only. It must not be used to force a distinction between *Geastrum* and hygroscopic false earthstars without anatomy. Record whether the rays merely soften, arch, close around the sac, or remain fixed. Return specimens to their exact collection context only where local rules and hygiene permit.
+
+## Map collar fractures instead of checking a yes-or-no box
+
+The collar develops when layers of the outer wall split and separate around the central spore sac. Photograph the collar as a complete ring, broken arcs, loose flakes, or an absent/indeterminate structure. Measure the width of each surviving arc and note whether soil or litter hides part of it. A damaged collar should not be scored as a genuine absence.
+
+Make a developmental series from unopened, newly expanded, mature, and persistent dry fruit bodies in the same population. The collar may become more conspicuous and then erode. Pair that series with ray thickness and substrate notes so a late-stage remnant is not compared directly with a newly opened specimen.
+
+## Measure the apical mouth under neutral light
+
+Use a macro image perpendicular to the spore-sac apex with a millimeter scale in the same plane. Record mouth diameter, boundary sharpness, radial fibrils, folds, halo or depressed zone, and damage from rain or insects. Side lighting can reveal fibrils, but retain a diffuse-light frame so shadow is not mistaken for ornament.
+
+Do not puff spores solely to obtain an action photograph. A naturally disturbed mature sac can be filmed at normal speed with wind and raindrop context recorded. The resulting cloud demonstrates dispersal, not identity; mouth structure, ray construction, collar development, habitat, microscopy, and a regional key must still agree.
+
 ## Frequently asked field questions
 
 ### Why do the rays curl?
@@ -235,4 +254,4 @@ These three character sets mature and weather at different rates. A prominent co
 3. Global Biodiversity Information Facility. [*Geastrum* genus record](https://www.gbif.org/species/2525056). Genus-level diversity and occurrence context used to avoid treating one earthstar form as species proof.
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative response guidance for an uncertain wild-fungus exposure.
 
-*Editorial review: September 3, 2026. Taxonomy, regional keys, source URLs, and poison-response guidance should be rechecked at every substantive update. No named mycologist or clinician reviewed this article.*
+*Editorial review: October 24, 2026. Taxonomy, regional keys, source URLs, and poison-response guidance should be rechecked at every substantive update. No named mycologist or clinician reviewed this article.*

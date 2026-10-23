@@ -165,6 +165,10 @@ If material is lawfully collected for formal study, link the voucher number and 
 
 Within the same broad family, the [rooting shank guide](/mushrooms/rooting-shank-mushroom-guide/) contrasts exposed beech clusters with a solitary terrestrial-looking fruit body connected to buried wood by a pseudorhiza.
 
+## Related hardwood comparison
+
+For a contrasting hardwood saprotroph with a pink cap and raised reticulate relief rather than a smooth translucent white cap, see the [wrinkled peach mushroom guide](/mushrooms/wrinkled-peach-mushroom-guide/). The comparison is structural: cap relief, gill color, stem position, and host-decay context must be considered together.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Mucidula mucida* species record](https://www.gbif.org/species/2539204). Taxonomic and occurrence context.

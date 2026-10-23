@@ -117,7 +117,7 @@ Microscopy of mature spores can assess dimensions and surface ornamentation. Rec
 
 ## Compare scarlet elf cups by substrate
 
-The [scarlet elf cup profile](/mushrooms/scarlet-elf-cup-guide/) provides a direct contrast: scarlet inner tissue, a pale exterior, and buried hardwood attachment point away from the disturbed-soil pattern expected here.
+The [scarlet elf cup profile](/mushrooms/scarlet-elf-cup-guide/) provides a direct contrast: scarlet inner tissue, a pale exterior, and buried hardwood attachment point away from the disturbed-soil pattern expected here. Minute turquoise cups on pigment-stained wood belong to a different comparison covered in the [green elfcup guide](/mushrooms/green-elfcup-fungus-guide/).
 
 Species of *Sarcoscypha* commonly produce red cups on decaying hardwood, often in cool-season woodland. Orange peel fungus is characteristically ground-attached on disturbed soil and tends toward orange rather than scarlet.
 

@@ -210,6 +210,10 @@ Observations and literature may be filed under *Oudemansiella radicata* or *Xeru
 
 No. Respect land rules and living roots. One careful excavation where permitted, or a documented limitation where it is not, is enough for responsible observation.
 
+## Separate a pink netted wood mushroom
+
+Do not confuse the rooting shank's brownish wrinkled cap and long buried stem with the pink raised network of a wood-attached [wrinkled peach mushroom](/mushrooms/wrinkled-peach-mushroom-guide/). Showing the complete base and attachment resolves more than cap texture alone.
+
 ## References
 
 The linked GBIF and NCBI searches provide nomenclatural and occurrence checkpoints; Kew documents fungarium context; NAMA and Poison Control support conservative exposure response. Species-level assignment should use current regional literature and microscopy where field characters overlap.

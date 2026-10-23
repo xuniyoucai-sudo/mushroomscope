@@ -6,7 +6,8 @@ keywords: ["beefsteak fungus", "Fistulina hepatica", "beefsteak mushroom identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-01
-updatedDate: 2026-09-24
+updatedDate: 2026-10-24
+revisionSummary: "Added tube-bundle sampling, host-decay boundary mapping, exudate controls, and direct separation from pink reticulate wood mushrooms."
 coverImage: "../../assets/species/beefsteak-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of two red tongue-shaped beefsteak fungus brackets attached to an old oak trunk"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -180,6 +181,24 @@ Track color and exudate by age and location. Young upper surfaces may release re
 
 Host evidence should include more than the nearest tree name. Photograph the exact attachment at an oak or sweet-chestnut base, note whether it emerges from a wound, stump, exposed root or apparently bare soil over buried wood, and record previous pruning or decay cavities. *Fistulina hepatica* is associated with brown rot, but one fruiting does not quantify remaining sound wood or predict failure. Repeat photographs can document recurrence; only a site inspection by a qualified arborist can assess structural risk.
 
+## Quantify tube separation across the bracket
+
+On one legitimately collected mature specimen, mark three positions from growing margin to attachment. Cut narrow radial sections at the marks and photograph them at the same magnification. Record tube length, ease of mechanical separation, pore density across a measured line, and whether the context tears fibrously or releases moisture. The goal is a within-specimen profile, not a universal numerical key.
+
+Compare the margin and attachment because age is not uniform across a bracket. Short young tubes at the edge can differ sharply from older tubes near the host. Keep every section tied to its position; a loose underside fragment cannot show where it developed. This tube-bundle architecture provides stronger evidence than red color or a meat-like nickname.
+
+## Map the host-decay boundary instead of diagnosing the tree
+
+Photograph the attachment, buttress roots, cavities, old pruning wounds, and visible fruit bodies on a scaled sketch of the trunk. Record direct observations—crack, hollow, softened wood, exudate, crown dieback—without turning a fungus name into a stability verdict. A qualified arborist must assess targets, root condition, internal decay, wind exposure, and the whole tree where failure could harm people or property.
+
+Repeat the map in later seasons. A new bracket position or expanding cavity may justify professional inspection, but absence of a fruit body does not prove decay has stopped. Keep ecological documentation separate from management advice.
+
+## Control the red-exudate observation
+
+Young brackets can release reddish droplets or fluid when cut, but moisture, injury, and age change this response. Photograph an untouched surface first. If collection is permitted, make one standardized shallow cut and record droplet appearance at zero, five, and fifteen minutes beside an uncut control area. Do not squeeze the bracket to manufacture a dramatic result.
+
+Red moisture is not unique and cannot identify the species. Pair it with separate tubes, pale pores, tongue-like bracket form, and oak or chestnut attachment. The [wrinkled peach guide](/mushrooms/wrinkled-peach-mushroom-guide/) covers a different pink wood fungus with true gills, a short stem, and raised netted cap relief rather than a pored bracket.
+
 ## Frequently asked field questions
 
 ### Is reddish liquid unique to this species?
@@ -210,4 +229,4 @@ Use local common names as search aids, then anchor records to a scientific name 
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency-response context; not a substitute for clinical care.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). Handling context for already verified food material.
 
-*Editorial review: September 24, 2026. This revision added separate-tube anatomy, age-linked exudate records and attachment-scale host documentation. No named mycologist, arborist, clinician, or chef reviewed this page.*
+*Editorial review: October 24, 2026. This revision added separate-tube anatomy, age-linked exudate records and attachment-scale host documentation. No named mycologist, arborist, clinician, or chef reviewed this page.*

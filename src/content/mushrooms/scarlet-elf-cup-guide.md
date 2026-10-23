@@ -6,7 +6,8 @@ keywords: ["scarlet elf cup", "Sarcoscypha", "scarlet cup fungus", "red cup fung
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-02
-updatedDate: 2026-09-19
+updatedDate: 2026-10-24
+revisionSummary: "Added measured cup-profile transects, freeze-thaw interpretation, wood-burial tests, and explicit separation from minute green wood cups."
 coverImage: "../../assets/species/scarlet-elf-cup-editorial-v2.png"
 coverAlt: "AI editorial image of scarlet red cup fungi attached to a mossy fallen hardwood branch in spring woodland"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -188,6 +189,18 @@ GBIF and NCBI provide name, occurrence, and lineage checkpoints; they do not cer
 
 The cover is an original AI editorial image checked for smooth red inner cups, pale exteriors, woody attachment, spring woodland context, sharpness, natural color, and no visible text or watermark. It is not microscopy or voucher evidence. No named mycologist or clinician reviewed this draft.
 
+## Measure a cup profile without flattening it
+
+Choose five intact cups across the colony and photograph each beside a millimeter rule from above and at substrate level. Record opening width, total height, rim thickness, depth from rim to center, and the length of any visible stalk-like base. Preserve the same orientation in every frame. These measurements distinguish a deep young cup from a shallow weathered disc without forcing fragile tissue flat.
+
+Add an outer-surface score based on observations rather than impressions: uniformly pale, finely hairy, visibly roughened, or obscured by mud. For a species-level comparison, retain a small permitted voucher that links those measurements to microscopy. The exercise will not separate every *Sarcoscypha*, but it prevents color from silently replacing structure.
+
+## Interpret freeze, thaw, and buried wood together
+
+Cool-season cups may pass through frost, snow cover, thaw, and renewed hydration. Mark one small group and document rim cracking, color, cup depth, and tissue collapse before and after a weather event. Do not assume that a paler or flatter post-freeze cup is a different species. Label environmental change separately from development and decay.
+
+Trace the base gently through litter to its actual wood. A buried twig can make the cups appear terrestrial, while a nearby branch may be unrelated. The much smaller [green elfcup guide](/mushrooms/green-elfcup-fungus-guide/) offers a useful contrast: minute turquoise cups arise on blue-green stained hardwood rather than forming the larger scarlet-and-pale two-tone profile described here.
+
 ## Frequently asked field questions
 
 ### Can frost change the cup color?
@@ -217,4 +230,4 @@ An app may suggest the genus, but it cannot measure mature spores or reliably ev
 3. GBIF Secretariat. [Sarcoscypha austriaca, species 8689016](https://www.gbif.org/species/8689016). Separate close-species record used to keep the *S. coccinea* comparison explicit.
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). General exposure-response context; symptoms require medical or poison-center assessment rather than online species matching.
 
-*Last editorial review: September 2, 2026. This page received editorial review only; no named mycologist or clinician reviewed it. Recheck current regional keys, taxonomic records, and poison-response contacts before relying on the record.*
+*Last editorial review: October 24, 2026. This page received editorial review only; no named mycologist or clinician reviewed it. Recheck current regional keys, taxonomic records, and poison-response contacts before relying on the record.*
