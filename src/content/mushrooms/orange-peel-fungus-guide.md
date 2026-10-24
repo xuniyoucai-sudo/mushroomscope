@@ -261,6 +261,8 @@ Use one edge fragment only after the intact record is complete. Fresh orange pee
 
 Color is supporting evidence. Lock white balance or include a neutral reference, because phones can push both taxa toward the same saturated orange. Photograph the inner surface, outer surface, torn edge, and base under diffuse light. Avoid wetting a specimen merely to intensify color; added water changes gloss and texture.
 
+The [eyelash cup fungus guide](/mushrooms/eyelash-cup-fungus-guide/) addresses tiny hairy cups on wet decaying wood, a different scale and substrate from the larger ground-fruiting orange-peel form described here.
+
 ## References
 
 1. [GBIF — *Aleuria aurantia*](https://www.gbif.org/species/5258678). Taxonomic and occurrence context.

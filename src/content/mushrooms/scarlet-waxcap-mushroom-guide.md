@@ -161,6 +161,8 @@ Repeated records from a marked patch can reveal changes through the season. Phot
 
 ## References
 
+Record grass height and the fruit body's exposed height in the same frame. A cap hidden in tall wet turf can retain moisture and appear darker than one a few centimeters away in open grass. That microhabitat contrast is worth preserving, but it should not be promoted into a taxonomic character without broader, matched observations.
+
 1. Global Biodiversity Information Facility. [*Hygrocybe coccinea* species record](https://www.gbif.org/species/2538361). Taxonomy and occurrence context.
 2. NCBI. [Taxonomy Browser: *Hygrocybe coccinea*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Hygrocybe+coccinea). Independent nomenclatural checkpoint.
 3. Natural England. [Grassland fungi and waxcap habitat resources](https://publications.naturalengland.org.uk/publication/5909600931893248). Survey and habitat context.

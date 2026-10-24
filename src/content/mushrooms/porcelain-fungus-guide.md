@@ -6,7 +6,7 @@ keywords: ["porcelain fungus", "Mucidula mucida", "Oudemansiella mucida", "porce
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-02
-updatedDate: 2026-10-02
+updatedDate: 2026-10-25
 draft: false
 featured: false
 coverImage: "../../assets/species/porcelain-fungus-editorial-v2.png"
@@ -168,6 +168,18 @@ Within the same broad family, the [rooting shank guide](/mushrooms/rooting-shank
 ## Related hardwood comparison
 
 For a contrasting hardwood saprotroph with a pink cap and raised reticulate relief rather than a smooth translucent white cap, see the [wrinkled peach mushroom guide](/mushrooms/wrinkled-peach-mushroom-guide/). The comparison is structural: cap relief, gill color, stem position, and host-decay context must be considered together.
+
+## Map attachment angle across one beech limb
+
+A porcelain-fungus record becomes more useful when it explains how the colony occupies wood rather than showing only its brightest cap. Mark a one-meter section of fallen or standing dead beech and record every fruit-body base by distance, side of the limb, bark condition, and orientation. For ten representative stems, measure the angle between the initial emergence direction and the final cap plane. Repeat after several days without rotating the wood.
+
+This transect tests a specific developmental question: fruit bodies emerging sideways or downward can curve before the cap levels and exposes its gills toward the ground. It separates a gravity response from the species description. Also record whether clusters concentrate at bark fissures, exposed sapwood, branch scars, or continuously damp contact points. Do not claim that the visible pattern maps the full mycelium; it maps only fruiting positions during that observation window.
+
+## Compare cap mucilage with measured drying
+
+Choose three fresh caps at different exposures and photograph them at fixed distance under unchanged diffuse light. Without damaging the colony, record cap diameter, marginal translucency, visible debris adhesion, recent rainfall, air temperature, and relative humidity. Revisit at two-hour intervals through a natural drying period. A cap may lose mirror-like highlights while retaining a tacky surface, and the margin may become more opaque as water changes.
+
+This sequence prevents “not slimy today” from becoming a false exclusion. It also distinguishes normal dehydration from collapse, bacterial deterioration, or slug damage. Never spray a wild colony to manufacture the expected appearance. If a comparison specimen is collected lawfully, keep the field observation separate from any controlled hydration trial and label the treatment clearly.
 
 ## References
 

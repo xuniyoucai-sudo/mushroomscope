@@ -158,6 +158,8 @@ The safest conclusion separates identification confidence from use. Even a stron
 
 ## References
 
+For a checkable lawn record, photograph the same marked fruit body before and after the gills visibly mature, then pair those frames with the actual deposit surface. This short sequence prevents a green cast from lighting or grass reflection from being reported as spore color. Keep the complete stem base, ring, cap scales, and deposit tied to one numbered specimen.
+
 1. Kuo M. [*Chlorophyllum molybdites*](https://www.mushroomexpert.com/chlorophyllum_molybdites.html). Character-based description and North American comparisons.
 2. Global Biodiversity Information Facility. [*Chlorophyllum molybdites* species record](https://www.gbif.org/species/5240443). Taxonomic and occurrence context.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Gastrointestinal syndrome context.

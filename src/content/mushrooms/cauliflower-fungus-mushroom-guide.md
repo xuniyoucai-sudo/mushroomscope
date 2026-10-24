@@ -169,6 +169,8 @@ Commercial *Sparassis* production exists, but it is not equivalent to placing an
 4. Measure several mature specimens and make a spore deposit when appropriate.
 5. Compare the complete record with a current regional key and qualified local expertise.
 
+For a much smaller ground-fruiting comparison with cylindrical violet branches rather than broad cream ribbons, use the [violet coral fungus guide](/mushrooms/violet-coral-fungus-guide/). Its scale, substrate record, and microscopy pathway address a separate identification problem.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Sparassis crispa species record](https://www.gbif.org/species/2550247). Taxonomic backbone and occurrence context.

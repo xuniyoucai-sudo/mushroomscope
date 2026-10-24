@@ -6,7 +6,7 @@ keywords: ["mushroom culture storage","store mushroom agar slants","mushroom cul
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-07
-updatedDate: 2026-10-05
+updatedDate: 2026-10-25
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-grain-spawn-guide", "growing/mushroom-contamination-guide", "growing/sterilize-mushroom-substrate"]
@@ -114,6 +114,18 @@ After an excursion, preserve the logger record and the as-found state. Do not im
 The [grain spawn guide](/growing/mushroom-grain-spawn-guide/) covers a production expansion stage; this page keeps long-term stock and working material conceptually separate. The [sterilization and pasteurization guide](/growing/sterilize-mushroom-substrate/) explains why process control downstream cannot substitute for a traceable, verified master culture.
 
 Storage cannot rescue a questionable isolate. Use the [contamination guide](/growing/mushroom-contamination-guide/) to set conservative isolation and disposal decisions before a culture enters the master collection, then preserve only material with documented identity and clean growth.
+
+## Run a recovery test before promoting stored culture
+
+A storage label tells you where a culture has been, not whether it is ready to seed production. Define a recovery test before opening the master container. Transfer equal inoculum from the stored culture to at least three matched plates, include a fresh process-control plate, and record medium lot, inoculum dimensions, tool cycle, operator, temperature, and image position. Photograph at fixed intervals rather than judging vigor from one final plate.
+
+Set release criteria in advance: expected radial growth range for that strain and medium, sectoring limits, absence of unexpected colonies, and a rule for plates that disagree. A fast edge on one plate does not cancel contamination on another. If the culture passes, promote a clean edge through the documented working-culture path; if it fails, quarantine the set and return to an earlier authenticated generation rather than repeatedly subculturing around ambiguity.
+
+## Account for refrigerator position and thermal cycling
+
+Household and small laboratory refrigerators have gradients that can dominate a storage trial. Place a logging thermometer beside cultures at the front, rear, upper shelf, and lower shelf for a full door-opening cycle. Record maximum, minimum, time outside the chosen band, condensation, and proximity to the cooling plate. Rotate only if the protocol calls for rotation; otherwise location is an experimental variable that must remain traceable.
+
+Compare recovery by storage position using the same inoculum size and plate batch. This does not establish a universal temperature target, because species, strain, vessel, medium, and intended storage duration differ. It does reveal whether a weak recovery pattern follows a culture lineage or a warm, freeze-prone, or frequently disturbed refrigerator zone.
 
 ## Frequently asked questions
 

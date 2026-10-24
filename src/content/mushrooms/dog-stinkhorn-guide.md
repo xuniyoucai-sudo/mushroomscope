@@ -11,7 +11,7 @@ coverAlt: "AI editorial image of three slender dog stinkhorns with olive gleba a
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated habitat context, not a field photograph or food-identification aid."
 draft: false
-updatedDate: 2026-10-03
+updatedDate: 2026-10-25
 revisionSummary: "Published with egg-to-column development, gleba placement, insect dispersal, substrate, and lookalike evidence boundaries."
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
@@ -228,6 +228,18 @@ No. They support the dispersal interpretation but are not exclusive to one speci
 ### Can I compost removed stinkhorns?
 
 Bagging is preferable where preventing spread or pet access is the goal. Composting may redistribute colonized material and peridioles are not involved in this species.
+
+## Trace the egg-to-column sequence without guessing
+
+Dog stinkhorn observations are most informative when several developmental stages can be connected to the same patch. Place unobtrusive numbered markers beside, not through, unopened eggs and photograph from a fixed bearing with a scale. Record egg diameter, exposed or buried proportion, substrate moisture, and nearby woody debris. Revisit at short intervals during mild wet weather, noting the time at which the column ruptures the outer tissue, reaches full height, begins to lean, and collapses.
+
+Do not cut every egg open. A single lawful section can document the gelatinous layer, folded receptacle, and developing fertile head, while intact eggs provide the emergence sequence. This matters because unrelated puffballs and immature agarics can be damaged by casual “stinkhorn egg” assumptions. Link every close-up to its field marker so that a later column is not accidentally assigned to the wrong egg.
+
+## Measure gleba loss and insect traffic
+
+The dark olive gleba is temporary, and a washed or fly-visited mature column may look unlike a fresh individual. For three specimens, divide the fertile head into photographed quadrants and estimate visible gleba coverage at fixed intervals. At the same time, count insect visits for equal observation periods and record rain or direct splash. The goal is not to infer a universal dispersal rate; it is to distinguish an originally sparse coating from removal after emergence.
+
+Keep odor descriptions controlled. Record distance and wind direction before using terms such as carrion-like or sewage-like, and never taste the material. A low odor reading on an old, rain-washed specimen does not contradict a stronger fresh-stage description. The combination of developmental timing, quadrant coverage, insect activity, and weather produces a checkable account of why field appearance changes.
 
 ## References
 

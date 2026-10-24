@@ -156,6 +156,8 @@ Link a lawful dried sample to habitat photographs, both cap surfaces, measuremen
 
 ## References
 
+When folds are difficult to interpret, photograph one undamaged underside dry and again after natural humidity rises, without soaking it. Record whether the ridges merely swell or actually split, branch, or reconnect. This paired view adds evidence about the hymenial architecture while avoiding the misleading shadows created by a single oblique macro image.
+
 1. Global Biodiversity Information Facility. [Species search for *Plicaturopsis crispa*](https://www.gbif.org/species/search?q=Plicaturopsis%20crispa). Nomenclature and occurrence context.
 2. National Center for Biotechnology Information. [Taxonomy browser for *Plicaturopsis crispa*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Plicaturopsis%20crispa). Taxonomic and sequence-linked context.
 3. USDA Forest Service. [Fungi research](https://research.fs.usda.gov/). Forest fungal ecology and wood-decay context.

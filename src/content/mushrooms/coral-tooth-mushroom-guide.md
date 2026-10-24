@@ -156,6 +156,8 @@ Use the [mushroom photo checklist](/identification/mushroom-photo-checklist/) to
 
 Compare the complete record with a current regional key and local occurrence data. Image recognition can assemble candidates, but cannot inspect microscopy or repair missing habitat evidence. The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) explains why agreement among observations is still not remote food clearance.
 
+The [violet coral fungus guide](/mushrooms/violet-coral-fungus-guide/) covers a soil- or litter-fruiting clavarioid form without downward teeth. That contrast helps keep branching silhouette from overriding hymenium and substrate evidence.
+
 ## References
 
 ## Measure branches and teeth along a fixed transect

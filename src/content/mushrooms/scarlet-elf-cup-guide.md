@@ -223,6 +223,8 @@ Outer texture and hairs can guide microscopic sampling, and the pale exterior is
 
 An app may suggest the genus, but it cannot measure mature spores or reliably evaluate outer-hair form from a general photograph.
 
+For millimeter-scale orange-red discs whose dark marginal hairs resemble eyelashes, compare the [eyelash cup fungus guide](/mushrooms/eyelash-cup-fungus-guide/). It explains why spore ornamentation and hair measurements, not color alone, separate close species.
+
 ## References
 
 1. GBIF Secretariat. [Sarcoscypha coccinea, species 8156721](https://www.gbif.org/species/8156721). Taxonomic and occurrence-record checkpoint; a database record does not identify the photographed cups.

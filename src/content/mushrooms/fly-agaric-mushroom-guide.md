@@ -155,6 +155,8 @@ For education, label reconstructions and AI images explicitly and never place an
 
 ## References
 
+For veil evidence, map each cap patch and basal fragment to a numbered specimen before handling. Rain can remove cap warts while soil hides volval zones, so a mixed patch should not be reconstructed from the best cap on one mushroom and the best base on another. Whole-specimen linkage is more informative than a composite portrait.
+
 1. USDA Forest Service. [Fly agaric ecology and morphology](https://www.fs.usda.gov/wildflowers/beauty/mushrooms/amanita_muscaria.shtml). Host and field context.
 2. NCBI. [Taxonomy Browser: *Amanita muscaria*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Amanita+muscaria). Nomenclatural checkpoint.
 3. North American Mycological Association. [Mushroom poisoning syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Syndrome overview and response context.
