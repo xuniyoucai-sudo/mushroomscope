@@ -131,6 +131,8 @@ Record total height, fertile length, width, branching, host, and spores. A long 
 
 ## Compare candle-snuff fungus
 
+For the slender, frequently forked species with powdery white young tips, use the [candlesnuff fungus guide](/mushrooms/candlesnuff-fungus-guide/). It focuses on conidial coating, antler architecture, buried hardwood, and mature perithecial evidence rather than the broader blunt fingers typical here.
+
 *X. hypoxylon* often forms slimmer branched or antler-like stromata with pale powdery tips. Mature black bases can occur beside younger white branches. Its general color sequence overlaps but architecture is usually different.
 
 Search for multiple stages and avoid identifying fragments. Microscopy and regional keys complete the comparison.

@@ -6,6 +6,8 @@ keywords: ["blewit mushroom", "blewit identification", "blewit lookalikes", "Col
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-05
+updatedDate: 2026-10-26
+revisionSummary: "Added a daylight color-loss series, cortina-residue grid, and litter-layer attachment protocol for safer separation from violet Cortinarius."
 coverImage: "../../assets/species/blewit-mushroom-editorial-v2.png"
 coverAlt: "Editorial illustration of violet blewit mushrooms at several stages in damp beech leaf litter"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -174,6 +176,24 @@ The strongest field case combines several ages, crowded violet gills, a fibrous 
 The cover is an original AI editorial illustration, not a voucher photograph. It was visually checked for the intended cap, gill, stem, and habitat concept, but it must not be used to confirm a specimen. Review status is editorial; no named clinical expert reviewed this article.
 
 ## Frequently asked questions
+
+## Build a daylight color-loss series
+
+Violet pigment is most useful when its distribution and age are recorded. Select young, mid-aged, and expanded fruit bodies from the same patch and photograph them under diffuse daylight with one neutral reference. Record cap center, cap margin, gill face, gill edge, upper stem, lower stem, and cut flesh as separate color fields. Repeat after two hours indoors without changing white balance.
+
+Blewits can fade from violet toward buff or brown, especially across the cap, while sheltered gills or inner stem tissue retain more color. That pattern is more informative than calling the whole mushroom “purple.” It also prevents a saturated phone image from carrying more weight than spore color, web-like veil evidence, or base anatomy.
+
+## Search for cortina residue with a fixed grid
+
+Violet *Cortinarius* species are a critical comparison because some are toxic. Before handling, divide the stem visually into four quarters from cap to base. Under side light, inspect each quarter for rusty fibers, a ring zone, adhering brown spores, or fine cobwebby veil remnants. Photograph any residue with scale. Then inspect the cap margin and nearby litter for matching threads.
+
+A blewit should not be accepted merely because no obvious web is visible; rain, age, or handling can erase it. Pair the veil grid with a genuine spore deposit. Pale pinkish-buff spores support the blewit comparison, whereas rusty brown spores redirect the specimen toward *Cortinarius*. The [veil and ring guide](/identification/mushroom-veils-rings-guide/) explains how partial veils leave distributed evidence rather than a perfect ring.
+
+## Trace the litter-layer attachment
+
+Blewits often fruit in rich leaf litter, compost, or other organic debris. Lift one peripheral specimen with its base and an intact block of surrounding material where lawful. Photograph the transition from stem base through litter layers and note whether the mycelial mat binds leaves, wood chips, or soil. Do not infer a living-tree host from the nearest trunk.
+
+Record litter depth at three points, dominant leaf type, moisture, and whether the patch forms an arc or dense cluster. This context separates a litter decomposer from lookalikes whose ecology is tied more directly to tree roots. It also provides useful evidence when violet color has faded. Return the disturbed material after documentation and avoid excavating the center of the patch.
 
 ### Can a blewit lose all purple color?
 

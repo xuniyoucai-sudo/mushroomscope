@@ -229,6 +229,8 @@ Do not seal wet tissue in plastic for transport. Short transport in a rigid vent
 
 ## References
 
+Dark upright structures sharing the same log may be stromatic ascomycetes rather than toothed jelly fungi. The [candlesnuff fungus guide](/mushrooms/candlesnuff-fungus-guide/) explains how black bases, pale powdery antler tips, and embedded mature structures identify a different architectural pathway.
+
 1. Global Biodiversity Information Facility. [Pseudohydnum gelatinosum species record](https://www.gbif.org/species/5249353). Nomenclature and geographic occurrence context for the species complex.
 2. National Center for Biotechnology Information. [*Pseudohydnum gelatinosum* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Pseudohydnum+gelatinosum). Placement within Auriculariales, separate from fleshy *Hydnum* tooth fungi.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.

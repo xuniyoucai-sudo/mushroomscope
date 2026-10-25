@@ -6,7 +6,8 @@ keywords: ["medicinal mushroom safety","mushroom supplement interactions","mushr
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-26
-updatedDate: 2026-09-26
+updatedDate: 2026-10-26
+revisionSummary: "Added a lot-level exposure ledger, claim-to-evidence grading, and stop/rechallenge boundaries for supplement risk decisions."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -110,6 +111,24 @@ Supplement safety audit: write the claim in one sentence without words such as s
 Supplement traceability: photograph the full label and retain its lot number. Compare every ingredient with the paper rather than matching only the mushroom name. Ask what the control received and whether participants could guess their assignment. Look for preregistration and whether the reported primary outcome matches the registered one. A single study can inform a decision, but reliability grows through consistent results, appropriate methods, clinically meaningful endpoints, and independent replication.
 
 ## Frequently asked questions
+
+## Build a lot-level exposure ledger before interpreting symptoms
+
+Product category names are too broad for an adverse-event record. Copy the exact species as printed, fungal part, extract ratio, solvent if stated, serving mass, other ingredients, lot number, expiration, seller, and purchase channel. Photograph every label panel and retain the container. Record the first dose, dose changes, meals, concurrent medicines or supplements, symptom onset, symptom course after stopping, and any medical assessment.
+
+This ledger cannot prove causation, but it separates a reproducible exposure from “I took a mushroom product.” It also preserves information needed for a clinician, poison center, manufacturer, or regulator. Do not discard a suspect product until professionals advise on retention or testing, and do not mail biological material without instructions.
+
+## Grade each claim against the product actually sold
+
+For every desired outcome, write the exact claim in one row. In the next columns record study population, species and strain, fungal material, extraction method, dose, duration, comparator, outcome, adverse events, and funding. A cell that cannot be matched should remain blank rather than being filled by analogy.
+
+A laboratory antioxidant assay does not establish a clinical benefit. An observational association does not prove that a supplement caused an outcome. A trial of a standardized extract does not automatically apply to whole powder, myceliated grain, a multi-ingredient blend, or a different species. The [mushroom supplements guide](/health/mushroom-supplements-guide/) explains this product-equivalence problem; the purpose here is safety triage, not benefit scoring.
+
+## Do not perform an unsupervised rechallenge
+
+Symptoms that improve after stopping a product may raise suspicion, but deliberately restarting it can provoke a faster or more severe reaction. This is especially important after hives, swelling, wheeze, faintness, severe vomiting, jaundice, abnormal bleeding, or a clinically significant laboratory change. Seek professional guidance rather than testing the hypothesis at home.
+
+For mild nonspecific symptoms, a clinician may still need to consider food, infection, medicine changes, contaminants, and the underlying condition. Record what changed and when. A conservative stop rule protects the user while preserving uncertainty; it does not claim the product was proven responsible.
 
 ## What this guide deliberately does not clear
 

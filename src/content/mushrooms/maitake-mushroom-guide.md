@@ -5,8 +5,8 @@ keywords: ["Grifola frondosa","maitake","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-08
-revisionSummary: "Added a measured three-rosette comparison, root-zone recurrence mapping, and explicit separation from two basal polypore guides."
+updatedDate: 2026-10-26
+revisionSummary: "Added frond thickness and pore-density transects, basal attachment mapping, and evidence-based separation from Berkeley's and black-staining polypores."
 draft: false
 featured: false
 coverImage: "../../assets/species/maitake-mushroom.jpg"
@@ -214,6 +214,24 @@ A wild rosette record asks which organism is fruiting at a particular root syste
 This separation protects the species guide from competing with the nutrition hub or the dedicated evidence article. Use this page for taxonomy, host ecology, morphology, lookalikes and cultivation variables; use the site's health resources for food composition and clinical-evidence boundaries.
 
 ## References
+
+## Measure frond thickness and pore density across the rosette
+
+A maitake rosette is not uniform. Select an outer, middle, and inner frond without detaching them. At a fixed distance from each margin, measure thickness with a millimeter rule, photograph the upper surface and underside at the same scale, and count pores within a five-millimeter line. Repeat on three sectors of the rosette. Outer fronds are often thinner and more expanded; crowded interior lobes can be thicker, paler, or distorted by contact.
+
+This transect turns “many gray-brown leaves” into evidence another observer can compare. It also reveals mixed growth or damage. If one sector has much larger pores, different bruising, or a separate point of attachment, give it a separate field number rather than forcing one identification. The method does not create a numeric species cutoff; it documents whether the whole colony supports one coherent structure.
+
+## Trace the basal attachment and root-zone geometry
+
+Photograph the entire rosette in relation to the trunk before lifting litter. Mark the trunk center, rosette center, and visible buttress roots on a sketch, then measure their distances. Maitake can fruit at a trunk base or from buried roots away from the visible bole. A ground-level photograph that omits the tree makes that relationship impossible to assess.
+
+Where access rules permit, clear only loose leaves around one edge to show whether fronds converge into a shared branching core. Do not pry the whole mass from a living tree. Record whether the tree is living, declining, recently cut, or represented only by a stump. Fruiting supports a root-and-butt-rot assessment, but it does not by itself establish the current structural safety of a tree; that requires a qualified arborist examining the entire site.
+
+## Separate three large basal polypores by controlled observations
+
+Berkeley's polypore often develops fewer, broader, cream-to-tan caps from a massive base. Black-staining polypore tends to darken strongly after cutting or bruising. Maitake generally forms numerous smaller gray-brown fronds and does not show the same rapid, extensive black staining. These are population tendencies, not a one-feature key.
+
+Create three small observation windows on already damaged tissue: an untouched control, a gently pressed pore surface, and a clean cut edge. Photograph at zero, five, fifteen, and thirty minutes with the same lighting. Pair the response with frond dimensions, pore surface, host position, and rosette architecture. The [pore surface guide](/identification/mushroom-pore-surface-guide/) provides a structure-first vocabulary, while the [Berkeley's polypore guide](/mushrooms/berkeleys-polypore-guide/) covers the broad-cap comparison. Never use a staining result alone to decide that a wild collection is edible.
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
 2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.

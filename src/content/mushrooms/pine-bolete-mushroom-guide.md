@@ -93,6 +93,8 @@ Because this bolete fruits from soil, the missing attachment is a living root pa
 
 ## Similar species
 
+Pink-maturing pores and a coarse dark raised net redirect the comparison away from pine bolete and toward the [bitter bolete guide](/mushrooms/bitter-bolete-mushroom-guide/), which uses a no-taste evidence matrix rather than bitterness as a field test.
+
 - **Boletus edulis — typically paler brown and associated with several hosts.**
 - **Rubroboletus species — some poisonous boletes have red pores and blue staining.**
 

@@ -128,7 +128,7 @@ For packaged food, retain the exact label, origin, lot, preservation method, and
 
 ## Compare lookalikes by complete character sets
 
-*Tylopilus felleus*, the bitter bolete, may resemble a king bolete but often develops pinkish pores and darker coarse reticulation. Culinary sources emphasize bitterness, yet tasting an unknown mushroom is not an identification method recommended here.
+*Tylopilus felleus*, the bitter bolete, may resemble a king bolete but often develops pinkish pores and darker coarse reticulation. The [bitter bolete guide](/mushrooms/bitter-bolete-mushroom-guide/) provides a no-taste pore-maturation and stem-netting protocol. Culinary sources emphasize bitterness, yet tasting an unknown mushroom is not an identification method recommended here.
 
 Other boletes may have red pores, rapid blue staining, different stem ornamentation, or different hosts. Toxicity does not map cleanly onto one color rule, and the comparison list changes by continent. Use a current regional key and local expertise, not “avoid red and blue, eat the rest.”
 
