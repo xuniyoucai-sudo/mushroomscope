@@ -6,8 +6,8 @@ keywords: ["mushroom second flush", "mushroom flush management", "when to retire
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-16
-updatedDate: 2026-09-28
-revisionSummary: "Added block-level water-balance checks, cohort survival reporting, and an explicit later-flush decision ledger based on saleable yield and room capacity."
+updatedDate: 2026-10-27
+revisionSummary: "Added a paired second-flush trial, original-cohort denominators, and separate biological and room-capacity decision lines."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-flush-management-editorial-v2.png"
@@ -129,6 +129,20 @@ Compare later development with untreated or historically comparable blocks only 
 A useful later-flush report begins with every block eligible after the first harvest. For each decision date, record how many were resting, rehydrated, returned to fruiting, pinning, harvested, retired for safety, or retired for capacity. This survival-style view prevents the yield of a shrinking group of successful blocks from being presented as though the entire batch repeated fruiting.
 
 Add saleable grams and labor minutes for each interval, not just the cumulative harvest. A practical decision line might compare additional saleable grams per occupied shelf-day with the expected value of loading a new block, while keeping mandatory contamination and pest exits outside the economic calculation. The threshold belongs to the facility and market; publishing the inputs is more transferable than presenting one universal “number of flushes.”
+
+## Use paired shelf positions to test a second-flush decision
+
+Select blocks from one authenticated culture, substrate lot, inoculation session, and first-harvest window. Pair blocks by first-flush saleable mass and shelf position before randomly assigning one of two already approved post-harvest methods. Keep room targets, opening pattern, observation schedule, harvest definition, and retirement rules constant. Record every eligible block, including units retired before the second harvest.
+
+At fixed intervals, weigh blocks only when the protocol permits handling, photograph the same exposed face, and score surface condition, pins, aborts, pests, packaging damage, and suspect growth. Report second-flush saleable grams per originally assigned block, not only per successful block. Also report occupied shelf-days, labor minutes, water used, discard count, and the reasons for every exit. This prevents a small surviving subgroup from making a method appear broadly productive.
+
+The comparison answers a local operational question, not a universal biological rule. Repeat it across more than one batch before changing the standard process. If either treatment introduces pooling, abnormal odor, barrier damage, pests, or suspect growth, apply the predefined safety exit; do not keep the unit merely to complete the dataset.
+
+## Separate biological recovery from room-capacity value
+
+Create two decision lines before a batch enters its rest period. The biological line asks whether the block remains intact, free of rejection signs, and capable of entering the validated next stage. The capacity line compares expected additional saleable output with shelf-days, labor, cleaning, and the next-best use of the room. Passing the first line does not require passing the second.
+
+For each cohort, publish the number initially eligible, number returned to fruiting, number pinning, number harvested, and number retired by reason. Then show cumulative saleable mass both per harvested block and per initially eligible block. This dual denominator exposes survivorship bias and lets a home grower with spare space reach a different economic decision from a full production room without changing the safety standard.
 
 ## Frequently asked questions
 

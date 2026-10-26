@@ -64,7 +64,7 @@ Treat each ecological claim as a confidence statement. “On oak” requires woo
 
 ## Record the exact substrate before naming the habitat
 
-“On the ground” can mean mineral soil, leaf litter, moss over wood, buried roots, a decomposed log, wood chips, dung, or a cone. Photograph the attachment before moving the mushroom. If collection is legal, inspect the immediate base for wood fibers, bark, compacted needles, attached plant roots, or a buried branch. Do not assume terrestrial growth merely because no log is visible.
+“On the ground” can mean mineral soil, leaf litter, moss over wood, buried roots, a decomposed log, wood chips, dung, or a cone. Photograph the attachment before moving the mushroom. If collection is legal, inspect the immediate base for wood fibers, bark, compacted needles, attached plant roots, or a buried branch. Do not assume terrestrial growth merely because no log is visible. The [jelly baby fungus guide](/mushrooms/jelly-baby-fungus-guide/) demonstrates a damp-soil record, while the [earthfan fungus guide](/mushrooms/earthfan-fungus-guide/) shows why pine needles and nearby roots must be recorded separately from the true base.
 
 For wood, record standing tree, stump, fallen trunk, branch, manufactured chips, fence post, or buried construction material. Note whether bark remains, how soft the wood is, whether the fruit body emerges from a wound, and whether the host is living or dead. Photograph leaves, needles, cones, bark, and buds needed for host identification. “Hardwood” and “conifer” are useful only when supported by evidence.
 

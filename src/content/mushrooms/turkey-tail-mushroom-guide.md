@@ -233,7 +233,7 @@ Do not use this species page to diagnose disease, replace treatment, or claim th
 
 For field comparison, use the dedicated [turkey tail lookalikes guide](/identification/turkey-tail-lookalikes/) and preserve the necessary safety rule: a webpage cannot authenticate a specimen or clear it for consumption.
 
-The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) shows why a fresh lilac surface that tears into teeth redirects a turkey-tail comparison.
+The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) shows why a fresh lilac surface that tears into teeth redirects a turkey-tail comparison. A brown fan arising from soil or pine litter without a true pore layer belongs in a different comparison; the [earthfan fungus guide](/mushrooms/earthfan-fungus-guide/) maps that terrestrial rosette architecture.
 
 ## References
 

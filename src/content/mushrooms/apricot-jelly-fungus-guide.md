@@ -110,7 +110,7 @@ Compare whole colonies rather than isolated fragments. A trampled orange cup can
 
 Wood ears attach laterally to exposed wood and usually show an ear-like upper and lower surface. Witch's butter makes brain-like yellow folds, while many *Dacrymyces* begin as small cushions or pustules directly on wood. Coral-like *Calocera* branches rather than opening into broad split funnels. The [jelly tooth guide](/mushrooms/jelly-tooth-mushroom-guide/) adds a distinctly toothed fertile underside absent here.
 
-These contrasts organize observation; they do not guarantee a species name. Tiny or dried material can lose its characteristic profile, and several jelly fungi require microscopic study. Keep the substrate fragment with a numbered specimen rather than combining multiple colonies in one bag.
+These contrasts organize observation; they do not guarantee a species name. Tiny or dried material can lose its characteristic profile, and several jelly fungi require microscopic study. Keep the substrate fragment with a numbered specimen rather than combining multiple colonies in one bag. For a stalked woodland ascomycete whose fertile head remains distinct from its pale stem, compare the [jelly baby fungus guide](/mushrooms/jelly-baby-fungus-guide/) rather than forcing every soft fruit body into the jelly-fungus group.
 
 ## Build a hydration and recurrence record
 

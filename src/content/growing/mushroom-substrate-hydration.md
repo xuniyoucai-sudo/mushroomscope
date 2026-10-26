@@ -5,8 +5,8 @@ keywords: ["mushroom substrate hydration","substrate field capacity","mushroom s
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-22
-updatedDate: 2026-09-28
-revisionSummary: "Added wet- and dry-basis worked calculations, mixer sampling, heat-treatment mass reconciliation, and release criteria that distinguish recipe errors from local wet zones."
+updatedDate: 2026-10-27
+revisionSummary: "Added a substrate-specific drying-method validation and a mass-balance workflow for water redistribution through rest, filling, and cooling."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-substrate-hydration-editorial-v2.png"
@@ -153,6 +153,20 @@ Do not infer internal moisture uniformity from total bag mass alone. Water can m
 A release record should state ingredient lots, starting moisture assumption, dry solids, added water, mixing and rest times, sample positions, bag mass tolerance, visible free-water rule, heat-treatment mass change, and the person making the decision. Define hold and reject conditions before the batch is processed. This prevents a schedule deadline from turning an unusual wet zone into an accepted normal condition.
 
 After harvest, connect hydration to biological efficiency, contamination, colonization time, and residual block mass without changing several variables at once. The [yield and biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) supplies the dry-mass denominator, while [batch records](/growing/mushroom-batch-records/) preserve the lot and unit history needed to interpret the result.
+
+## Validate a drying method against the actual material
+
+When a production workflow needs a measured moisture value, define the sample and drying endpoint before comparing batches. Take equal-mass samples from preassigned mixer positions with a tool that does not preferentially collect fines or large particles. Weigh each sample in a labelled heat-stable container, dry it under the operation's validated laboratory or equipment method, cool it in a way that limits ambient moisture uptake, and reweigh until the stated endpoint is met.
+
+Record container tare, wet sample mass, each dry mass, drying conditions, balance resolution, elapsed cooling time, and any spilled material. Calculate water lost and dry solids from the unrounded readings. A kitchen oven, microwave, commercial moisture balance, and external laboratory method are not interchangeable merely because each prints a percentage. Volatile ingredients, scorching, incomplete drying, and moisture regained during cooling can bias the result in different directions.
+
+Compare the selected method with a trusted reference on the same substrate when practical, and recheck after ingredient, particle-size, supplementation, or equipment changes. The goal is not a universal target; it is a repeatable number whose uncertainty is understood well enough to support a local release range.
+
+## Track redistribution during rest, filling, and cooling
+
+Water can move after the mixer stops. At planned times, sample the upper, central, edge, and bottom zones or weigh mapped bags from early, middle, and late filling. Record rest duration, ambient conditions, drain configuration, and whether fines settle. After heat treatment, inspect the same bag positions for condensation, pooling, dry edges, and mass change only after units have reached the defined cooled state.
+
+Use a simple mass-balance ledger: incoming ingredient water, added water, drainage loss, representative treatment gain or loss, and unexplained difference. The ledger cannot show microscale airspace, but it identifies stages where water leaves, enters, or redistributes. If later bags are consistently wetter, test fill order or rest-time controls before lowering water for the entire recipe. If load-edge bags lose more mass, examine load geometry and barrier integrity before calling the substrate formulation wrong.
 
 ## Frequently asked questions
 
