@@ -168,3 +168,4 @@ Document the amethyst deceiver as a changing woodland organism: fresh cap color,
 2. National Center for Biotechnology Information. [NCBI Taxonomy Browser — *Laccaria amethystina*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Laccaria+amethystina). Independent nomenclature checkpoint.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poison-response context.
 4. First Nature. [*Laccaria amethystina*, Amethyst Deceiver](https://www.first-nature.com/fungi/laccaria-amethystina.php). Regional morphology, habitat, season, and spore description.
+For a larger woodland comparison with mixed violet, gray, and green cap tones, use the [charcoal burner guide](/mushrooms/charcoal-burner-mushroom-guide/): its crowded pale, unusually pliant gills and brittle Russula flesh contrast with the amethyst deceiver's spaced violet gills and fibrous stature.

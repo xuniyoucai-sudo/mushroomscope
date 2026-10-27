@@ -6,8 +6,8 @@ keywords: ["mushroom strain trial", "compare mushroom strains", "mushroom cultiv
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-17
-updatedDate: 2026-09-28
-revisionSummary: "Added practical randomization, sample-size reasoning, unit-level analysis, missing-data handling, and a decision table that separates biological effects from production value."
+updatedDate: 2026-10-28
+revisionSummary: "Added inoculum-lot nesting, contamination competing-risk accounting, sequential stopping rules, and a post-trial transfer check across rooms and seasons."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-strain-trial-editorial-v2.png"
@@ -135,6 +135,30 @@ Begin with an assignment table containing strain, block, position, inoculation l
 A decision table should show more than yield: median and spread of saleable mass, time to first harvest, room-days, failure proportion, grade distribution, and labor per saleable kilogram. If one strain yields more but occupies the room longer, state both outcomes. The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) provides denominator rules; the trial should not silently switch between gross harvest, successful bags, and all bags started.
 
 For missing observations, record why the value is absent. Equipment failure, a discarded contaminated bag, an overlooked harvest, and a crop that never pinned are not interchangeable zeros. Decide before analysis which events count as biological failure, measurement failure, or protocol deviation, and show a sensitivity comparison when that choice could reverse the operational decision.
+
+## Nest inoculum lots instead of confusing lot effects with strain effects
+
+If every bag of strain A comes from one spawn jar and every bag of strain B from another, “strain” is inseparable from jar quality, inoculum age, moisture, handling, or contamination. Prepare more than one independent inoculum lot per candidate when feasible and distribute each lot across room blocks. Record culture source, passage, lot, preparation date, operator, inoculation mass, and elapsed time to use.
+
+Treat production units as the experimental units only when their treatments were independently assigned. Multiple clusters harvested from one bag are repeated observations on the same unit, not extra replication. In analysis, retain the lot and block identifiers so an apparent winner driven by one exceptional batch is visible.
+
+## Treat contamination and no-fruit outcomes as competing results
+
+Yield among successful bags can favor a culture that also fails more often. Predefine contamination, stalled colonization, no pinning, malformed crop, and harvestable flush as separate outcomes with timestamps. Report both assigned-unit yield and successful-unit yield. The first represents operational expectation; the second helps diagnose biological performance after a unit reaches harvest.
+
+Do not simply remove contaminated bags unless the exclusion rule was written before opening the results and the cause is demonstrably unrelated to treatment. A survival-style time-to-event view can be useful when contamination and first harvest compete, but a small farm trial should present the raw unit ledger alongside any model.
+
+## Set sequential stopping rules before looking at rankings
+
+Repeatedly checking the leaderboard and stopping when one strain moves ahead inflates confidence. Define a maximum number of blocks, any interim review dates, and safety or futility conditions in advance. A safety stop might apply to a spreading contamination event; a futility stop might apply when both cultures fail an authenticated process control. Neither should be invented because the preferred strain is temporarily leading.
+
+Operational constraints sometimes force an early end. Preserve the assigned units, dates, and reason, and label the result incomplete. Do not convert a weather, equipment, or supply interruption into evidence that one genetic line is superior.
+
+## Confirm transfer across a second production context
+
+After selecting a candidate, repeat a smaller confirmation in a different room position, inoculum lot, or season while keeping the core protocol intact. The objective is not to recreate every condition at once but to test whether the decision survives one relevant source of variation. Predefine the minimum yield, quality, timing, and failure thresholds that would justify adoption.
+
+If the ranking reverses, investigate strain-by-environment interaction rather than averaging away the conflict. Temperature profile, substrate lot, block density, air movement, and harvest standard may explain why a culture fits one system but not another. The final recommendation should name the tested operating envelope instead of claiming a universally “best” strain.
 
 ## Frequently asked questions
 

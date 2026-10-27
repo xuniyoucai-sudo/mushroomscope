@@ -5,13 +5,13 @@ keywords: ["oyster mushroom nutrition", "oyster mushroom protein", "oyster mushr
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-26
-updatedDate: 2026-10-12
+updatedDate: 2026-10-28
 draft: false
 featured: false
 evidenceLevel: moderate
 reviewStatus: editorial
-reviewDate: 2026-10-12
-revisionSummary: "Added a raw-to-cooked yield worksheet, explicit protein/fiber intent answers, and a label-versus-database evidence ladder without extending food data to extracts."
+reviewDate: 2026-10-28
+revisionSummary: "Added a drained-yield protocol, species-and-product matching rules, sodium accounting for packaged foods, and an uncertainty budget for meal-level comparisons."
 coverImage: "../../assets/health/oyster-mushroom-nutrition-editorial-v2.png"
 coverAlt: "Cultivated oyster mushroom cluster beside a cooked serving and kitchen scale for a food-composition comparison"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -128,6 +128,24 @@ Keep three columns: matched database or package value, amount used, and contribu
 Oyster mushrooms contain both protein and fiber. The practical answer is that a fresh serving contributes modest amounts of each because much of its weight is water. It should not be presented as a concentrated protein replacement without comparing the complete meal. If mushrooms replace meat on texture alone, check what will supply the protein, iron, vitamin B12, calories, and other nutrients the former meal provided.
 
 For fiber, compare the cooked portion with the whole plate. Beans, whole grains, vegetables, nuts, and seeds may contribute much more than a garnish of mushrooms. This is why the general [nutrition guide](/health/mushroom-nutrition-guide/) owns broad “are mushrooms fiber or protein” searches, while this page answers the species-specific food question. The [oyster species guide](/mushrooms/oyster-mushroom-guide/) remains the identification and ecology page, and the oyster hub organizes cultivation and cooking rather than competing for nutrition intent.
+
+## Separate gross weight, drained weight, and edible cooked yield
+
+For canned, jarred, frozen, or pre-seasoned oyster mushrooms, the package weight may include brine, sauce, ice glaze, or substrate fragments that are not eaten. Record the declared net weight, any drained-weight statement, the mass after draining by a defined method, and the final cooked mass. Use the nutrition basis printed on that exact product when available; do not multiply a per-serving label by an improvised drained weight without checking how the manufacturer defines the serving.
+
+For a kitchen comparison, drain in the same sieve for the same time, blot or do not blot consistently, weigh before cooking, and weigh the finished batch after it stops steaming heavily. Divide the finished nutrients by the actual number of portions served. This procedure explains why a plate may appear nutrient-dense per 100 grams after water loss without claiming that heat created protein, fiber, or minerals.
+
+## Match the species and product before borrowing a database row
+
+“Oyster mushroom” can refer to several cultivated *Pleurotus* species, strains, and retail forms. A database row for raw *Pleurotus ostreatus* should not silently stand in for a pink oyster product, a king oyster stem, a dried powder, or a restaurant dish. Record the package species when supplied, country, raw or cooked state, preservation method, and whether the value comes from a label, a composite food database, or a laboratory paper.
+
+When no exact match exists, present the closest row as a comparison rather than a measurement. State the mismatch plainly and avoid extra decimal places. The species guide covers the anatomy and naming of the [oyster mushroom itself](/mushrooms/oyster-mushroom-guide/), while the broader [mushroom nutrition guide](/health/mushroom-nutrition-guide/) answers the cross-species fiber-versus-protein intent.
+
+## Count sodium and cooking fat as recipe inputs
+
+Fresh plain oyster mushrooms and brined or seasoned products can differ sharply in sodium. Sautéing also adds oil, butter, salt, or sauce that may contribute more calories or sodium than the mushrooms. Build the plate total from the mushroom record plus each measured ingredient instead of describing the result as intrinsic “oyster mushroom nutrition.”
+
+If oil remains in the pan, absorbed fat cannot be inferred perfectly from the amount poured. Report the recipe input and finished batch size, or analyze the food directly when precision matters. An uncertainty budget should flag database mismatch, water loss, unmeasured pan residue, serving division, and label rounding rather than hiding them behind a single precise-looking number.
 
 ## Frequently asked questions
 

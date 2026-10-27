@@ -151,3 +151,4 @@ For a dark-spored species whose gill edges may carry bead-like droplets without 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)
 2. [University of Washington Miller Library — Mushroom identification](https://depts.washington.edu/hortlib/pal/mushroom-identification/)
 3. [North Carolina Poison Control — Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms)
+Two useful structure-first comparisons are the [charcoal burner's unusually pliant crowded gills](/mushrooms/charcoal-burner-mushroom-guide/) and the [trooping funnel's strongly decurrent gills](/mushrooms/trooping-funnel-mushroom-guide/). Neither character is a one-step edibility test, but each shows how attachment and texture can narrow a documented comparison.

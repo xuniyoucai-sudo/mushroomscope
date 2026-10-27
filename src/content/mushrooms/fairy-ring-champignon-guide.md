@@ -181,3 +181,4 @@ Soil barriers, uneven moisture, compaction, nutrient patches, and incomplete fru
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling guidance for verified food products.
 
 *Editorial review: October 20, 2026. This article has editorial review only and no named mycologist or clinician review. Taxonomy, regional lookalikes, land-use exposure, and poison-response contacts should be rechecked at every substantive update.*
+For the contrasting large woodland form, see the [trooping funnel guide](/mushrooms/trooping-funnel-mushroom-guide/). Its broad depressed cap, central umbo, tall substantial stem, and crowded decurrent gills separate the intent from this small, wiry grassland species.

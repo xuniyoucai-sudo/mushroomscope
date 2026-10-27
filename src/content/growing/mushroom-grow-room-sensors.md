@@ -5,8 +5,8 @@ keywords: ["mushroom grow room sensors","humidity sensor calibration","mushroom 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-17
-updatedDate: 2026-09-28
-revisionSummary: "Replaced repeated control-point boilerplate with sensor-specific placement tests, drift diagnostics, logging rules, and controller commissioning checks."
+updatedDate: 2026-10-28
+revisionSummary: "Added response-time testing, condensation recovery, cable-and-wireless fault separation, and a sensor replacement decision protocol."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-grow-room-sensors-editorial-v2.png"
@@ -110,6 +110,30 @@ Before buying extra meters, map the air path and the places where crop blocks ac
 ### Use a swap test to separate place from device
 
 First colocate the two instruments long enough for their response to settle. Then exchange their original positions without changing the controller. If the difference follows the device, investigate calibration, contamination, response time, or configuration. If it follows the location, investigate airflow, radiant heat, fog, or rack obstruction. If neither pattern is stable, inspect timing and intermittent events. Record each phase; otherwise moving the probes erases the evidence needed to explain the disagreement.
+
+## Test response time, not only steady-state accuracy
+
+A logger can agree with a reference in a stable room yet respond too slowly for door openings, fog pulses, heater cycles, or exhaust changes. Place the device and a recently verified reference side by side, allow both to equilibrate, then expose them to the same safe step change. Record the time each takes to reach 63 percent and 90 percent of the final change. Repeat the test in the direction that matters operationally because wetting and drying responses may differ.
+
+Do not manufacture a humidity step with water sprayed onto the sensing element. Use a controlled chamber or a documented transfer between stable environments and stay within manufacturer limits. Response lag belongs in the control design: a slow sensor may be useful for trend logging but unsafe as the only input for rapid fog or ventilation control.
+
+## Qualify condensation recovery before returning a probe to control
+
+High humidity can push a surface below dew point even when the room average appears acceptable. After visible condensation or a saturated reading, remove the probe from automatic control, inspect its filter and cable entry, and follow the manufacturer's recovery procedure. Compare it with a reference only after temperature has equilibrated. Log the wet event, recovery time, offset, and whether hysteresis remains on the next dry-to-humid cycle.
+
+A reading that returns to a plausible number is not automatically trustworthy. Persistent bias, slow recovery, corrosion, or repeated saturation can justify replacement. Locate the moisture source—fog trajectory, cold wall, dripping rack, washdown, or rapid temperature fall—before installing another sensor in the same failure position.
+
+## Separate wireless, wiring, and sensing failures
+
+When a value freezes, first distinguish a stable environment from lost communication. Store the last sample timestamp, battery or supply voltage, signal quality, gateway receipt time, and controller input state alongside the measurement. A dashboard that repeats the last good number without an age flag can make a dead sensor look reassuringly steady.
+
+For wired probes, inspect connectors, shielding, cable routing, and water ingress without altering calibration settings. For wireless probes, test range with the room fully loaded because wet substrate, metal racks, and closed doors change radio paths. Alarm on stale data independently from high or low environmental thresholds.
+
+## Use a documented repair-or-replace gate
+
+Define acceptance before testing: allowed offset, repeatability, response time, recovery after saturation, and maximum service age for the application. A failed probe can be cleaned or serviced only when the manufacturer supports that procedure. Recheck it at more than one relevant point and record as-found and as-left results. Do not hide repeated adjustment by resetting the history.
+
+Replacement is appropriate when the probe cannot meet the acceptance band, shows unstable output, has compromised housing, or lacks traceable service information for a critical control. Keep the retired serial number in the batch record so later crop deviations can be traced to the actual instrument.
 
 ## Frequently asked questions
 
