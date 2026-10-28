@@ -146,6 +146,8 @@ The [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) provides a
 
 For a dark-spored species whose gill edges may carry bead-like droplets without organized cap dissolution, use the [weeping widow guide](/mushrooms/weeping-widow-mushroom-guide/) and keep moisture observations tied to a timed specimen record.
 
+Two new comparisons show why texture and development belong beside attachment: the [Common bonnet guide](/mushrooms/common-bonnet-mushroom-guide/) follows pale attached gills as they acquire a pinkish cast, while the [Purple brittlegill guide](/mushrooms/purple-brittlegill-mushroom-guide/) contrasts crumbly cream blades with the unusually pliant gills of the charcoal burner.
+
 ## References
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

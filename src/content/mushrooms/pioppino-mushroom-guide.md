@@ -6,8 +6,8 @@ keywords: ["pioppino", "Cyclocybe aegerita", "pioppino identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-27
-updatedDate: 2026-09-28
-revisionSummary: "Replaced generic templates with Cyclocybe name history, poplar-wood attachment records, cap-cracking development, cultivation variables, and texture-specific cooking guidance."
+updatedDate: 2026-10-29
+revisionSummary: "Added cap-crack moisture tracking, ring persistence across development, hardwood attachment mapping, and a cooked-yield browning trial."
 draft: false
 featured: false
 coverImage: "../../assets/species/pioppino-mushroom-editorial-v2.jpg"
@@ -137,6 +137,20 @@ The species is strongly associated in cultivation and literature with poplar, bu
 As a decomposer, the fungus participates in breaking down lignocellulosic wood. Fruiting marks a reproductive stage, not the full boundary of the organism in the substrate. Rain and temperature can synchronize clusters, while irrigation and climate control can produce crops outside a wild regional season. This is why a global month list should never be read as a local guarantee.
 
 If a cluster appears at the base of a living landscape tree, avoid turning a mushroom observation into a tree-risk diagnosis. Fungal fruiting can indicate colonized wood, but tree stability depends on the organism, decay extent, tree architecture, defects, exposure, and site use. Where people or property could be struck, consult a qualified arborist rather than cutting into roots or relying on a mushroom photograph.
+
+## Separate developmental cap cracking from damage
+
+Pioppino caps can show a cracked or crazed surface as they expand, but the pattern is affected by strain, growth rate, humidity and surface drying. A useful record follows marked caps rather than comparing unrelated photographs. Select five caps in one cluster, photograph them every 12 hours from the same angle and measure cap diameter, visible crack count and the widest crack. Log room humidity and any watering or airflow change at the same time.
+
+Distinguish cracks that widen with cap expansion from insect grazing, handling scars and a surface split caused by an abrupt dry interval. Include an unhandled neighboring cluster as a visual control. If cultivated material is being compared, keep strain, substrate lot, opening geometry and harvest stage explicit. The experiment can show an association within that batch; it cannot turn surface cracking into a universal species character.
+
+Track the partial veil in the same series. Photograph the youngest closed stage, the breaking veil and the mature ring zone. The ring may become thin, torn or obscured by spores. Its apparent absence on an old stem should not be treated like a verified absence across development. This series is particularly useful when comparing brown-spored wood-inhabiting mushrooms with different veil structures.
+
+## Quantify cooking behavior by usable yield
+
+For verified cultivated Pioppino, compare whole small clusters with separated caps and stems using equal starting masses. Cook in identical pans with the same oil mass, heat input and endpoint rule. Weigh the cooked portions and record time to visible browning, released liquid and the fraction trimmed before cooking. Texture notes should distinguish caps from stems rather than averaging the portion into one adjective.
+
+Report cooked-yield percentage as cooked mass divided by raw prepared mass. A treatment that browns quickly may also lose more water, while a high yield can remain pale or tough. This simple balance explains preparation tradeoffs without inventing a nutritional advantage. Wild collections remain outside the trial unless they have been independently identified and legally obtained; kitchen technique never resolves a dangerous lookalike.
 
 ## Lookalikes require a complete comparison
 

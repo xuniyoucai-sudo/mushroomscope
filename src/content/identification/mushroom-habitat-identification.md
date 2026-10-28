@@ -142,6 +142,8 @@ Tiny cups on mulch or a decaying twig need the same substrate discipline. The [f
 
 For fungi of old, low-nutrient turf, the [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) shows how mowing, moss cover, fertilizer history, repeated visits, and the wider grassland-fungi assemblage matter more than the word “lawn.”
 
+Wood and root-zone records pose different evidence problems. The [Common bonnet guide](/mushrooms/common-bonnet-mushroom-guide/) maps direct attachment to decaying hardwood, whereas the [Purple brittlegill guide](/mushrooms/purple-brittlegill-mushroom-guide/) separates probable oak or beech partnership from leaves that merely landed beside a fruit body. The [Matsutake guide](/mushrooms/matsutake-mushroom-guide/) extends that discipline to non-destructive shiro-edge transects and protected locality records.
+
 ## References
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.

@@ -138,6 +138,8 @@ Never eat a wild mushroom based on season, habitat, photographs, a single featur
 
 If a person may have eaten an unidentified wild mushroom, seek urgent local medical or poison-control advice. Do not wait for a seasonal prediction, social-media response, or web-page comparison. Retain uncooked material, leftovers, and photographs if it is safe to do so for professionals.
 
+Season labels should remain tied to region and host ecology. The [Matsutake guide](/mushrooms/matsutake-mushroom-guide/) shows how repeated transects, rainfall context and fruiting-arc records are more useful than treating “autumn” as a universal date window.
+
 ## References
 
 1. [US Forest Service Research — Collecting and describing macrofungi](https://research.fs.usda.gov/treesearch/7111)

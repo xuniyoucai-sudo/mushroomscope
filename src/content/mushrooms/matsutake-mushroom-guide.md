@@ -6,8 +6,8 @@ keywords: ["matsutake", "Tricholoma matsutake", "matsutake identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-09-28
-revisionSummary: "Added region-specific matsutake name boundaries, host and soil evidence, staged veil records, harvest traceability, and a clearer explanation of cultivation limits."
+updatedDate: 2026-10-29
+revisionSummary: "Added a shiro-edge field transect, aroma-blind comparison, host-root evidence scale, and harvest-pressure monitoring protocol."
 draft: false
 featured: false
 coverImage: "../../assets/species/matsutake-mushroom-editorial-v2.png"
@@ -159,6 +159,20 @@ Matsutake-group fungi form ectomycorrhizal partnerships with living trees. Their
 If harvesting is legal, minimize soil disturbance. Lift only the selected fruit body, replace displaced duff, avoid raking wide areas, and follow permits, quotas, and commercial-harvest rules. Leave immature and overmature specimens and avoid revealing sensitive sites. Different land managers may regulate personal and commercial collection separately.
 
 A good ecological observation notes whether mushrooms are solitary, scattered, or in arcs; how deeply they are buried; which trees dominate; and whether the same patch fruits across years. Photograph without clearing the entire surface. Those details improve identification and preserve the site better than aggressive excavation.
+
+## Map the shiro edge without turning it into a harvest map
+
+Matsutake ecology is often discussed through the *shiro*, the persistent below-ground zone of mycelium and associated roots from which fruit bodies may arise. A useful field record does not require digging across that zone. Establish a short, non-destructive transect perpendicular to the apparent fruiting arc. At fixed intervals, record litter depth, exposed mineral soil, canopy cover, dominant nearby trees, surface moisture and whether a fruit body is present. Use coarse public coordinates or withhold locality when collection pressure is a concern.
+
+Repeat the same marked transect after rain and in the following fruiting season. The evidence of interest is spatial recurrence and habitat change, not the number of holes excavated. Do not rake litter to reveal buttons, cut roots, or publish exact locations of vulnerable patches. Where permits allow one voucher, document the extraction point and restore the surface. Where collection is prohibited, photographs and measurements can still establish a valuable phenology record.
+
+Separate direct evidence from interpretation. A pine trunk and mapped roots near a fruiting arc support a host hypothesis; a fallen pine needle on mixed-forest soil does not. Soil odor, apparent whitened zones and sparse ground vegetation can be recorded, but they should not be presented as proof of a functioning shiro without the appropriate ecological study.
+
+## Test aroma descriptions without letting the name lead the observer
+
+The strong aroma associated with matsutake is culturally important but difficult to describe consistently. To reduce expectation bias, place coded fresh samples from the candidate and two locally plausible *Tricholoma* controls in separate ventilated containers. Ask observers to describe each independently before they see the proposed names. Record intensity and free-text comparisons; do not force a choice from a list built around the expected answer.
+
+An aroma match cannot override anatomy, geography or ecology. It is altered by age, temperature, handling and observer experience, and sniffing unknown deteriorated material closely is unnecessary. Use the result as one row in the comparison table beside cap fibers, veil stage, gill attachment, stem base, host evidence, spore deposit and microscopy. This keeps a memorable sensory cue from becoming a false single-character test.
 
 ## Food handling after verified identification
 

@@ -132,6 +132,8 @@ Odor can be recorded without close inhalation or prolonged handling. Describe it
 
 Select three to five fruit bodies of different apparent ages without overcollecting. Measure cap width, stem length and width, central depression, gill count across a defined arc, cuticle peel distance, and the result of the same gentle gill-pressure test. Photograph each specimen with a unique field number.
 
+For a purple-capped *Russula* with a different gill response, compare the [Purple brittlegill guide](/mushrooms/purple-brittlegill-mushroom-guide/). It records a dark-centered cap series, brittle cream gills and oak-or-beech root context rather than transferring the charcoal burner's flexible-gill character to every violet cap.
+
 Variation within the group matters. If only one cap has flexible gills or a different deposit color, the collection may be mixed or damaged. Keep potentially different specimens separated from the moment of collection through microscopy and drying.
 
 ## Preserve a useful voucher

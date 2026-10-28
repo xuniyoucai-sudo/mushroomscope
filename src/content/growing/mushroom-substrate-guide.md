@@ -155,6 +155,8 @@ Review yield and contamination by substrate batch before changing the recipe. A 
 
 For a new material, obtain a specification or trustworthy source description. Record species of wood or crop residue, particle size, moisture on receipt, storage conditions, and any supplement. If the origin or treatment history cannot be established, do not use it for culinary production.
 
+Species changes the meaning of a substrate choice. The [Beech mushroom guide](/mushrooms/beech-mushroom-guide/) follows hardwood-sawdust bottle geometry and cold transition records, while the [Pioppino guide](/mushrooms/pioppino-mushroom-guide/) links hardwood attachment, veil development and batch-specific surface drying.
+
 ## References
 
 1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)

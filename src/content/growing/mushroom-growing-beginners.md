@@ -153,6 +153,8 @@ Keep the notes even if the block fails. They let a supplier evaluate a real sequ
 
 If an outdoor hardwood-chip bed is the intended first project, the [wine cap mushroom guide](/mushrooms/wine-cap-mushroom-guide/) covers authenticated spawn, bed moisture, open-ecosystem identification, and garden containment.
 
+For a crop where bottle opening, crowding and a cool transition strongly shape the retail form, see the [Beech mushroom guide](/mushrooms/beech-mushroom-guide/). It separates authenticated production variables from claims about identifying wild *Hypsizygus*.
+
 ## References
 
 1. [Cornell Small Farms — Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/)

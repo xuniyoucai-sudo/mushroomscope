@@ -6,8 +6,8 @@ keywords: ["beech mushroom", "Hypsizygus marmoreus", "beech mushroom identificat
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-09-28
-revisionSummary: "Replaced generic species templates with cultivated-cluster morphology, Hypsizygus name boundaries, hardwood ecology, cold-fruiting variables, and product-specific handling guidance."
+updatedDate: 2026-10-29
+revisionSummary: "Added a bottle-neck cluster measurement, cap-color product boundary, cold-room transition trial, and batch-specific harvest quality record."
 draft: false
 featured: false
 coverImage: "../../assets/species/beech-mushroom-editorial-v2.png"
@@ -165,6 +165,20 @@ Commercial production commonly uses authenticated culture and supplemented hardw
 Beginners should start with a reputable ready-to-fruit block rather than cloning a store mushroom or wild collection. Confirm the species and strain on the supplier label, isolate the block from houseplants and food preparation areas, and follow the supplied fruiting range. Excess carbon dioxide can elongate stems and reduce cap development, while stagnant wet surfaces encourage bacterial problems. High humidity should support the developing cluster without leaving standing water on caps.
 
 Discard contaminated material according to supplier and local guidance. Green sporulation, black growth, spreading slime, or a persistent foul odor are reasons to isolate a block, not to harvest around the affected area. Do not taste a questionable crop to diagnose it. Keep a simple log of inoculation source, dates, temperature, humidity, airflow changes, and photographs; those records are more useful for troubleshooting than changing several variables at once.
+
+## Measure how container geometry shapes a Beech mushroom cluster
+
+The familiar long-stemmed, small-capped retail form is partly a production outcome, not an immutable wild character. In bottle culture, a restricted opening, crowding, carbon-dioxide history, light, humidity and harvest timing interact with strain genetics. To document the effect without making a one-variable claim, mark six containers from one inoculation lot and divide them between two opening geometries while keeping substrate recipe, fill mass, room position and handling schedule recorded.
+
+At pin appearance and every 24 hours thereafter, measure cluster height, the diameter of five marked caps, the length of five marked stems and the narrowest opening dimension. Record carbon dioxide at cap height only if the sensor has a documented response time and calibration check. A single room reading away from the cluster does not represent the boundary layer inside a crowded bottle mouth. Photograph each container from the same distance with a scale and neutral color card.
+
+Harvest all groups by the same written maturity rule rather than on the same clock time. Report saleable mass, trim mass, broken stems and caps beyond the chosen opening threshold. This separates morphology from yield and prevents a tall, visually uniform cluster from being called “better” without accounting for mass or defects. It also clarifies why a supermarket cluster should not be used as a visual standard for a wild *Hypsizygus* identification.
+
+## Track the cold transition as a process, not a temperature recipe
+
+Cold-fruiting studies and commercial practice show that temperature is important, but a strain response cannot be reduced to one universal set point. For a small authenticated-culture trial, log the actual substrate-core and room temperatures through the transition, along with relative humidity, fresh-air schedule and visible surface moisture. Define the start as the first verified change in room conditions and the response as a prewritten event such as primordia visible on half the containers.
+
+Compare time-to-event and failure modes by lot. Condensation, stalled pins, bacterial surface changes and uneven clusters deserve separate codes. Do not quietly remove failed bottles from the denominator. The useful result is a strain-and-system record that a grower can repeat, not a generic claim that every Beech mushroom culture requires the same temperature or number of days.
 
 ## A publication-ready verification checklist
 

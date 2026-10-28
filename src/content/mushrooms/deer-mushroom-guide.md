@@ -204,6 +204,8 @@ Include habitat and log, cap surface, mature and young gills, gill-stem junction
 
 The [rooting shank guide](/mushrooms/rooting-shank-mushroom-guide/) covers another mushroom that can appear terrestrial above buried wood, but differs through its deep pseudorhiza, white spores, and non-free pale gills.
 
+The [Common bonnet guide](/mushrooms/common-bonnet-mushroom-guide/) adds a second wood-decayer comparison: its attached pale gills, white deposit and clustered slender stems differ from the free gills and pink deposit expected in mature deer mushrooms.
+
 ## References
 
 The cited databases and professional safety resources support taxonomic searching, placement, wood-decay context, and conservative response to exposure. Species-level interpretation should use a current regional *Pluteus* treatment and, where necessary, microscopy or DNA evidence.
