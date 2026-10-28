@@ -156,4 +156,3 @@ Close the record with an explicit evidence grade: field characters only, field p
 ## References
 
 The sources listed in the page record support the accepted taxon, occurrence context, European conservation context, field methodology, and conservative poisoning response. They do not resolve a specimen from color alone. Use a current regional *Russula* key and retain voucher-linked microscopy for records that require species-level confidence.
-

@@ -148,4 +148,3 @@ Before leaving the site, check that the photograph set shows one unquestioned po
 ## References
 
 The sources listed in the page record support accepted taxonomy, specialist genus characters, regional comparison practice, and conservative poisoning response. They do not authenticate a reader's specimen. A confident record should be checked against a current regional key and, when required, voucher-linked microscopy.
-
