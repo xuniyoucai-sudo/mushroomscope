@@ -225,6 +225,8 @@ This produces two conclusions rather than one. The first is taxonomic: how stron
 
 For a poisonous pale Agaricus comparison, the [yellow stainer guide](/mushrooms/yellow-stainer-mushroom-guide/) documents rapid basal chrome-yellow bruising and phenolic odor rather than treating any single yellow mark as decisive.
 
+Spring grassland can also produce the pale, white-spored [St George's mushroom](/mushrooms/st-georges-mushroom-guide/). Its crowded pale gills and white deposit contrast with the pink-to-chocolate gill development and dark brown spores expected from an *Agaricus* field mushroom.
+
 ## References
 
 If a lawn collection consists of small buff caps with relatively spaced pale gills and wiry ringless stems, the [fairy ring champignon guide](/mushrooms/fairy-ring-champignon-guide/) defines that separate grassland hypothesis; it should not be folded into an *Agaricus* identification from habitat alone.

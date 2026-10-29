@@ -138,6 +138,8 @@ Zoned brackets need an underside comparison: the [turkey tail lookalikes guide](
 
 For a developmental example, the [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) follows small pores as their walls split into teeth.
 
+The [Scarletina bolete guide](/mushrooms/scarletina-bolete-guide/) applies pore-scale photography to a red-pored, blue-bruising species where untouched color must be recorded before a controlled pressure test.
+
 ## References
 
 For a species-level example, the [bay bolete guide](/mushrooms/bay-bolete-mushroom-guide/) combines pore color with timed bruising, stem surface, woodland host evidence, and an olive-brown spore deposit rather than treating blue staining as a verdict.

@@ -6,6 +6,7 @@ keywords: ["giant puffball", "Calvatia gigantea", "giant puffball identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-01
+updatedDate: 2026-10-30
 draft: false
 featured: false
 coverImage: "../../assets/species/giant-puffball-editorial-v2.png"
@@ -149,6 +150,16 @@ This article has editorial review status and no named mycologist or clinician re
 Record a giant puffball as an evidence chain: undisturbed habitat, complete base, three-axis measurements, surface condition, and one centered top-to-base section per specimen. The interior must be uniformly white and structureless to describe it as immature; any internal mushroom outline or mature discoloration stops the food pathway. Add a maturity series, mature spore evidence, regional comparison, and expert review when a species-level determination matters.
 
 The [common puffball guide](/mushrooms/common-puffball-mushroom-guide/) covers small pear-shaped fruit bodies with detachable spines and a sterile base; those features and scale separate its intent from this giant, mostly smooth species profile.
+
+## Quantify interior change instead of calling it simply white
+
+For a repeated-site study, photograph the centered cut face beside the same neutral gray card and ruler within two minutes of sectioning. Divide the radius into center, middle, and outer thirds, then record color, firmness, moisture, and odor separately in each zone. A fruit body that looks white from a distance may already have cream or yellow-green development near the center. That zoned record is more useful than an overall “young” label and prevents selective trimming from hiding maturity.
+
+Weigh a small documented cube from each zone only when collection is lawful and a research purpose justifies it. Dry the cubes under the same controlled method and report fresh and dry mass; do not turn those measurements into a culinary recommendation. The exercise distinguishes water loss from spore maturation and makes comparisons between rain-soaked and dry-weather fruit bodies explicit. It also preserves the fact that visual maturity and texture can change at different rates.
+
+For a population record, count intact white, transitional, and mature fruit bodies without cutting every individual. Section only a minimal representative sample and mark each sampled position on the site map. Return photographs can then show whether mowing, trampling, drought, or deliberate kicking changed the cohort. This approach adds phenology and disturbance evidence while leaving most fruit bodies available for spore dispersal and wildlife.
+
+The natural next comparison is the [field mushroom guide](/mushrooms/field-mushroom-guide/), whose gills, stem, and cap are immediately visible rather than enclosed in a uniform gleba. Linking these contrasting body plans helps a reader understand why a complete longitudinal section is decisive rather than merely another photograph.
 
 ## References
 

@@ -5,7 +5,7 @@ keywords: ["mushroom inoculation methods","agar liquid culture grain spawn"]
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-21
-updatedDate: 2026-09-28
+updatedDate: 2026-10-30
 revisionSummary: "Rebuilt a repetitive comparison into a receiver-first decision matrix with measurable inoculum doses, release gates, lineage controls, and method-specific failure diagnosis."
 draft: false
 featured: false
@@ -109,6 +109,18 @@ Give every receiver a unique ID connected to inoculum lot, parent vessel, method
 ### Release, hold, and reject are different outcomes
 
 Write three outcomes before observation. Release means the receiver meets the expected recovery pattern and has no recorded rejection sign. Hold means evidence is incomplete—for example, a liquid-culture agar test has not matured or one sector needs another observation. Reject means the prewritten contamination or integrity threshold was crossed. Never open a suspect jar merely to smell it; isolate it and follow a disposal method appropriate to the container and local rules.
+
+## Run a carrier comparison with one decision rule
+
+When two inoculation formats both appear plausible, compare them in a small blocked trial instead of relying on a general claim that one is faster. Prepare receivers from one substrate-treatment load, randomize positions, and allocate equal numbers to agar wedges, a validated liquid-culture dose, or a measured spawn carrier. Keep the species, culture lot, receiver mass, moisture, container, filter, incubation zone, and observation schedule constant. Include uninoculated controls from the same load.
+
+Define the primary outcome before inoculation. For example, use days until a fixed fraction of the visible substrate is colonized, not “looks vigorous.” Secondary outcomes can include first visible recovery, contamination rejection, time to full consolidation, and usable receiver yield. Record failures in the denominator. Removing contaminated vessels from the calculation makes a rapid but unreliable method look better than it is.
+
+Carrier mass and liquid volume require different accounting. Report agar wedge area and count, liquid volume plus culture concentration method where available, and spawn wet mass as a percentage of receiver wet mass. If dry-mass biological comparisons are intended, measure moisture rather than converting by assumption. This prevents “10 percent inoculation” from meaning three incompatible things across methods.
+
+Set a stop rule for the trial. A contamination signal in the control group invalidates a simple comparison because treatment or session exposure may dominate the result. A failure concentrated under one parent culture triggers lineage quarantine. A positional gradient across all treatments points toward temperature, airflow, or light variation. The [strain-trial design guide](/growing/mushroom-strain-trial-design/) extends this logic when genetics and inoculation carrier must be separated as experimental factors.
+
+After selecting a method, preserve the unsuccessful evidence. Archive receiver IDs, photographs, treatment load, parent culture, doses, holds, rejects, and disposal decisions. The objective is not to crown a universal winner; it is to choose a traceable method for one species, substrate, facility, and risk tolerance. Revalidate after changing culture lot, grain, hydration, sterilization cycle, container, or scale.
 
 ## Frequently asked questions
 

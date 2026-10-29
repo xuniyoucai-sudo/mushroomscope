@@ -11,7 +11,7 @@ coverAlt: "AI editorial image of gray-tipped and black dead man's fingers stroma
 imageCredit: "Original MushroomScope AI editorial image"
 imageNote: "Source: MushroomScope editorial production. Original work; all rights reserved. AI-generated woodland context, not a voucher specimen or tree-risk diagnosis."
 draft: false
-updatedDate: 2026-10-03
+updatedDate: 2026-10-30
 revisionSummary: "Published with developmental-stage, buried-wood, perithecial, microscopy, and tree-risk evidence boundaries."
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
@@ -240,6 +240,16 @@ Yes. Hard black tissue may remain after active spore production, so condition sh
 ## Separate blue-green wood staining
 
 Blue-green staining in hardwood with minute turquoise cups indicates a different observation pathway. The [green elfcup fungus guide](/mushrooms/green-elfcup-fungus-guide/) explains how to separate persistent pigment from the fruit bodies and why microscopy is usually needed for a species name.
+
+## Follow one stroma from conidial coating to ascospore maturity
+
+Choose a small, accessible cluster that can be revisited without damaging roots. Give each visible club a number on a site sketch and photograph it weekly from the same direction with a scale. Record the proportion covered by pale gray conidial powder, exposed black carbonized surface, cracks, insect damage, and any visible ostioles. Do not assume that two adjacent clubs are the same age; their surface states may diverge even when their bases appear fused.
+
+When mature sampling is permitted, take one thin cross-section from a designated stroma rather than cutting the entire cluster. Measure stroma width, cortical thickness, perithecial diameter, and distance from the perithecial layer to the surface. Photograph the section before mounting tissue. These spatial measurements separate the embedded flask-shaped perithecia of a xylariaceous stroma from superficial dots, polypore tubes, or random insect holes.
+
+Pair the anatomy with a discharge record. At high humidity, mature asci may release dark ascospores through the ostioles. Place a clean slide close to one labeled surface for a fixed interval, record temperature and humidity, and compare the deposit with a direct perithecial mount. A negative slide does not disprove the species: the stroma may be immature, exhausted, too dry, or sampled outside an active discharge period.
+
+The time series also improves decay interpretation. Photograph bark retention, wood softness, contact with soil, and whether new stromata follow a buried root line. It remains inappropriate to infer structural tree safety from fruit bodies alone. For another hardwood decomposer with a very different bracket body, compare the [Artist's conk guide](/mushrooms/artists-conk-mushroom-guide/); the contrast clarifies why host, internal anatomy, and fruit-body construction must be recorded together.
 
 ## References
 

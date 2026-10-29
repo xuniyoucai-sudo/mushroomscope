@@ -171,6 +171,8 @@ Blue staining is an identification character, not a direct edibility or toxicity
 
 They are mycorrhizal rather than ordinary saprotrophic crop mushrooms. Their living-root relationship makes a household sawdust-block recipe inappropriate; a fruiting claim needs host-linked, authenticated evidence.
 
+For a high-consequence red-pored comparison, use the [Scarletina bolete guide](/mushrooms/scarletina-bolete-guide/) to examine discrete red stem dots, untouched pore color, and a timed blue-oxidation sequence. Those characters differ from the bay bolete's yellowish pores and less ornamented stem.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Imleria badia* species record](https://www.gbif.org/species/2524505). Taxonomic backbone and occurrence context.

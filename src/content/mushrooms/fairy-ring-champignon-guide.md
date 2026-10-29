@@ -173,6 +173,8 @@ Mowing removes temporary fruit bodies but not the soil mycelium. Management shou
 
 Soil barriers, uneven moisture, compaction, nutrient patches, and incomplete fruiting can break a geometric ring into arcs. A partial arc still does not identify the species.
 
+For a larger, thick-fleshed spring grassland species with very crowded pale gills, compare the [St George's mushroom guide](/mushrooms/st-georges-mushroom-guide/). The season and ring habit overlap, but stature, gill spacing, stem texture, and spore evidence keep the two intents separate.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Marasmius oreades* species record](https://www.gbif.org/species/2537452). Taxonomic backbone and occurrence context.
