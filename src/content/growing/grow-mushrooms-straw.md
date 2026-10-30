@@ -5,7 +5,7 @@ keywords: ["how to grow oyster mushrooms on straw", "oyster mushroom straw subst
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-06
-updatedDate: 2026-08-24
+updatedDate: 2026-10-31
 revisionSummary: "Added straw sourcing and hydration controls, a stage-by-stage batch record, bag-opening boundaries, cluster observation, respiratory precautions, and harvest and later-flush decisions."
 draft: false
 featured: false
@@ -133,6 +133,22 @@ If the method supports another flush, record the post-harvest bag condition and 
 Growing a culinary species does not remove normal food-safety responsibilities. Harvest cleanly, avoid soaking fruit bodies, keep harvested mushrooms cool, and follow FDA produce-handling guidance. Do not eat from a batch you have designated as contaminated or suspect. If an unknown wild mushroom was involved at any stage, do not use this page to identify it or decide whether it is edible.
 
 For a first project, a ready-to-fruit block is often the better answer. It lets you practice fruiting and harvest handling while deferring the substrate-preparation steps. A controlled straw batch becomes more useful once you can maintain records and follow one source from preparation through harvest.
+
+## Run a paired moisture trial before changing the recipe
+
+Straw failures are often blamed on a single humidity reading even when the substrate began with an unknown water load. A safer improvement experiment starts with one preparation batch, one spawn lot, identical containers, and two or more weighed units. Record dry straw mass, mass after the documented soak and drainage, container tare, and packed wet mass. Do not add supplements during this baseline trial.
+
+Choose one supplier-supported drainage endpoint and apply it consistently. Then compare the units without changing temperature, opening schedule, or fruiting-hole pattern. Weigh them at fixed intervals if the container design permits it without contamination or excessive handling. Mass loss is not a direct moisture map, but it can reveal that one bag is drying faster or leaking while a surface humidity reading looks unchanged.
+
+Define stop rules before inoculation. A damaged package, persistent off-odor, colored sporulation, slime, unexpected heating, or a major measurement error moves that unit into isolation. Do not reopen it in the clean work area to diagnose it. The purpose of a paired trial is to learn from controlled differences, not to rescue every bag.
+
+## Calculate yield with the original dry-substrate denominator
+
+Record harvest mass by bag and flush, after removing obvious substrate debris in the same way each time. Keep first-flush and later-flush yields separate. For a basic biological-efficiency calculation, divide fresh mushroom mass by the original dry substrate mass and multiply by 100. State whether the denominator is straw alone or includes other dry ingredients; otherwise results from two growers are not comparable.
+
+Also record the number of saleable or usable clusters, discarded mass, days from inoculation to first pins, days to harvest, and reason for ending the batch. A high headline yield with long room occupancy, severe drying, or a large discard fraction may be less useful than a moderate repeatable crop. The [yield and biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) explains denominator and capacity distinctions in more detail.
+
+Compare only one planned change in the next batch—for example drainage duration or fill density—while keeping straw source, spawn lot, container, and environment as stable as practical. If several variables changed, label the run exploratory rather than claiming that one adjustment caused the result.
 
 ## References
 

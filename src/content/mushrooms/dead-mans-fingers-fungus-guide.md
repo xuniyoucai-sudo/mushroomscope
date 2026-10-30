@@ -139,6 +139,8 @@ Search for multiple stages and avoid identifying fragments. Microscopy and regio
 
 ## Separate earth tongues from wood clubs
 
+Not every black woodland ascomycete forms a club on buried wood. Compare the [black elfin saddle guide](/mushrooms/black-elfin-saddle-guide/) for a terrestrial folded fertile surface carried on a deeply ribbed, chambered stem.
+
 Species of *Geoglossum*, *Trichoglossum*, and related earth tongues tend to fruit from soil, grassland, or moss and have different tissue and spore characters. Their black clubs may look similar in a cropped photograph.
 
 Actual attachment is decisive for routing the key. Do not place a detached specimen on wood for photography.

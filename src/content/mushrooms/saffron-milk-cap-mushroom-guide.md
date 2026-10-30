@@ -91,6 +91,8 @@ Treat the pine association as specimen evidence. Photograph needles, cones, bark
 
 ## Similar species
 
+Color families do not define a milkcap species. Compare the [indigo milk cap guide](/mushrooms/indigo-milk-cap-mushroom-guide/) for blue latex and green staining, and the [woolly milkcap guide](/mushrooms/woolly-milkcap-mushroom-guide/) for a pink zoned cap, shaggy margin, white latex, and birch-root-zone evidence.
+
 - **Lactarius deterrimus — spruce-associated with different staining and ecology.**
 - **Other orange milkcaps — latex color changes and host trees distinguish regional species.**
 

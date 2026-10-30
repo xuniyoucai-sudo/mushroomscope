@@ -6,7 +6,7 @@ keywords: ["lobster mushroom", "Hypomyces lactifluorum", "lobster mushroom ident
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
-updatedDate: 2026-09-21
+updatedDate: 2026-10-31
 draft: false
 featured: false
 coverImage: "../../assets/species/lobster-mushroom-editorial-v2.png"
@@ -156,6 +156,22 @@ Sometimes broad host features remain, but heavy transformation can erase decisiv
 ### Are lobster mushrooms found outside forests?
 
 They depend on compatible host mushrooms associated with trees, so woodland soil is the typical context. A market, garden mulch, or landscaped setting removes ecological evidence and requires source verification.
+
+## Track transformation across one host body
+
+A lobster mushroom is a biological combination, not merely an orange color. Divide one lawful, fresh specimen into four mapped zones: cap center, cap margin, underside, and lower stem. For each zone, record crust thickness, surface texture, remaining host structures, firmness, odor without close inhalation, insect channels, and internal color. Photograph the boundaries where orange tissue meets exposed host tissue. Those transition zones are more informative than the most uniformly colored patch.
+
+Make a clean longitudinal section through the numbered specimen and compare the outer crust with the white interior. A continuous firm transformation differs from superficial orange powder over soft, dark, or waterlogged tissue. Record the observation without turning it into food clearance. Parasite coverage, underlying host identity, and spoilage are three separate questions, and a good section can leave all three partly unresolved.
+
+If several fruit bodies occur together, do not assume equal colonization. Score visible orange coverage in broad, stated bands and keep each body separate. A host with recognizable gills remaining on one side belongs in a different evidence class from a heavily deformed body with a blunt underside. This patch-level map can reveal whether differences are developmental, host-related, or simply caused by decay.
+
+## Audit the harvest chain instead of relying on the common name
+
+Commercial sale demonstrates that a product is called lobster mushroom; it does not document the identity and condition of every wild body. For purchased material, record seller, harvest region, lot or purchase date, packaging, temperature on arrival, and visible condition. Keep a photograph before cleaning. If the seller cannot provide basic traceability, preserve that uncertainty rather than replacing it with assumptions about a familiar market name.
+
+For a permitted personal collection, log collector, date, broad location, forest type, each specimen code, time to cooling, storage container, and any mixing between sites. Separate partially colonized, damaged, or unusually formed material immediately. A later expert should be able to connect every cut section and photograph to its original body.
+
+This chain is also ecological evidence. Repeated records can show season, forest association, and variation in parasite coverage without publishing sensitive coordinates. The [mushroom season guide](/identification/mushroom-season-guide/) provides a structure for comparing rainfall and timing across years; it should not be used to predict that a specimen found in the “right” month is correctly identified.
 
 ## References
 

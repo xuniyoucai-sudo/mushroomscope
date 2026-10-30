@@ -6,7 +6,7 @@ keywords: ["indigo milk cap identification", "Lactarius indigo", "blue milk mush
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-17
-updatedDate: 2026-10-03
+updatedDate: 2026-10-31
 revisionSummary: "Added a timed latex-and-staining series, host-neighborhood map, regional name limits, and voucher-ready measurement protocol."
 draft: false
 featured: false
@@ -165,6 +165,22 @@ Then state confidence honestly. “On humus under oak with pine eight metres awa
 The name *Lactarius indigo* is most useful when a regional treatment, morphology, ecology, and—where needed—microscopy agree. Blue or blue-gray milk caps elsewhere may belong to related taxa or may be interpreted differently by a current local flora. A page title cannot resolve that geography. Record the broad hypothesis first, preserve material only where legal, and ask which characters a regional key uses to separate the local blue milk caps.
 
 This boundary also prevents a culinary reputation from travelling farther than the identification. Market photos, translated common names, and restaurant labels rarely document a complete stem base, fresh latex sequence, host setting, or voucher. They can demonstrate that a name is used in commerce; they cannot authenticate a wild collection. For observations intended for a herbarium or expert review, include coordinates at an appropriate privacy precision, elevation, collector, collection number, substrate statement, host evidence, weather, photographs, and lawful disposition of the specimen.
+
+## Separate pigment evidence from camera evidence
+
+Blue is the feature most likely to be distorted by the recording process. Build a small color-control set before comparing specimens. Place a neutral gray card beside the undisturbed cap and photograph it in open shade, then repeat the frame after cutting the gills. Lock white balance and exposure between frames. Keep the original files because automatic “vivid” modes can shift gray-blue tissue toward electric cyan and can turn olive staining into bright green.
+
+Score cap, gill, stem, latex, and damaged flesh separately on a written scale. A specimen may have a deep blue cap, paler gills, and latex that looks more saturated only where it pools. Those differences are biological observations; averaging them into “the mushroom was blue” discards useful evidence. Also record the time since rain and whether the cap is wet, drying, sun-exposed, or old.
+
+For a repeatable comparison, sample the same three locations on several fruit bodies: cap center, mid-radius, and margin. Photograph the gill edge before damage, immediately after damage, and at the final timed interval. If different cameras are used, do not combine their apparent colors as though they were calibrated measurements. The goal is not to assign a digital color code to the species, but to show which tissue changed, how quickly, and under what light.
+
+## Build a specimen-level spore and voucher record
+
+A cream deposit can support a milkcap hypothesis, but it does not distinguish *Lactarius indigo* by itself. Use a mature cap on dark and light nonabsorbent surfaces, protect it from drafts, and record the duration. Link the deposit to the exact fruit body used for the latex series. Mixed caps from a patch can conceal more than one species.
+
+Microscopy should report spore length, width, ornament height, and the pattern of connecting ridges across a stated sample. Record the reagent, objective, calibration, and whether measurements include ornament. If cystidia or cap-cuticle structure are used by the regional key, photograph those preparations and retain the slide labels with the voucher number. One conveniently shaped spore is not a species measurement.
+
+Where collection is permitted, dry a representative specimen promptly with its cap, gills, complete stem base, field code, habitat map, and photographs. If no voucher can be kept, state that limitation. A future reviewer can reassess a preserved collection when names, regional distributions, or DNA reference sets change; an isolated saturated photograph cannot support that work.
 
 ## References
 

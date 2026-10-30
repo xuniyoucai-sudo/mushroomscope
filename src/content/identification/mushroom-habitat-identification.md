@@ -76,6 +76,8 @@ Many mushrooms form mycorrhizal associations with living trees, but the nearest 
 
 The [porcini guide](/mushrooms/porcini-mushroom-guide/) applies this evidence ranking to a bolete complex, while the [yellowfoot guide](/mushrooms/yellowfoot-mushroom-guide/) shows how moss, drainage, conifers, and late-season moisture describe a different mycorrhizal setting. Neither habitat pattern proves a species without matching morphology.
 
+For a host-specific contrast, the [woolly milkcap guide](/mushrooms/woolly-milkcap-mushroom-guide/) records birch-root-zone evidence while keeping proximity separate from a proved ectomycorrhizal partner. The [lobster mushroom guide](/mushrooms/lobster-mushroom-guide/) instead tracks a parasitized host fruit body in woodland soil, where parasite, host, and tree association remain distinct questions.
+
 Learn enough tree identification to document bark, leaves or needles, branching, cones, and habitat, but keep uncertainty explicit. “Probable oak; leaf photographed” is better than a confident unsupported host. A mushroom associated with birch in one region may have different close relatives with other hosts elsewhere, so use a current regional key.
 
 The [orange birch bolete field guide](/mushrooms/orange-birch-bolete-guide/) demonstrates how to report birch within root range while still recording aspen, conifers, and other competing hosts in a mixed stand.

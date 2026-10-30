@@ -143,6 +143,8 @@ Repeatability matters more than adding equipment. Review the first log and ident
 
 Move to spawn and substrate preparation only when you are ready to manage additional control points: culture identity, substrate sourcing, hydration, the documented heat-treatment method, clean handling, batch labeling, and disposal. The [substrate guide](/growing/mushroom-substrate-guide/) explains how species and process determine whether a material is suitable; it is not safe to substitute an improvised recipe just because two substrates look similar.
 
+When an authenticated oyster culture and a cited method make straw the next controlled project, the [oyster-on-straw guide](/growing/grow-mushrooms-straw/) adds paired moisture records, isolation rules, and dry-substrate yield denominators without turning a first grow into an improvised recipe.
+
 Before buying automation, ask what decision the device will improve. A timer cannot correct an unknown culture, an unclean harvest container, or a missing supplier range. Add equipment only when the log shows a repeated condition that can be measured and controlled safely.
 
 ## What a successful first grow looks like

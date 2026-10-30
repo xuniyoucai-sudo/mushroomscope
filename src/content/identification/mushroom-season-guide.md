@@ -100,6 +100,8 @@ Use one entry per observation. It takes only a few minutes and prevents a season
 
 ## Compare visits without inventing precision
 
+Seasonal patch records are especially useful when the visible body is a transformed host. The [lobster mushroom guide](/mushrooms/lobster-mushroom-guide/) separates fruiting date and forest setting from parasite coverage, underlying host uncertainty, and condition.
+
 A useful seasonal record compares the same place in the same way. Choose a repeatable route or a few observation points, then note approximate search time, recent weather source, visible ground moisture, substrate condition, and which fruiting bodies were present. If you did not measure soil temperature, rainfall, or humidity, leave those fields blank rather than estimating a precise number from memory.
 
 Photograph the wider site from a consistent direction when practical. This can reveal changes in shade, leaf cover, flooding, irrigation, mowing, fallen wood, or disturbance that a close mushroom image misses. Give each distinct fruiting body or cluster its own record number. A later visit can then be linked without merging two similar specimens into one false life history.

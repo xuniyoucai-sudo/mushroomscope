@@ -91,6 +91,8 @@ This is not administrative busywork. It prevents a common failure mode: changing
 
 ## Match the complexity to the skill you want to learn
 
+For a documented low-complexity bulk example, the [oyster-on-straw guide](/growing/grow-mushrooms-straw/) keeps straw source, hydration, heat treatment, spawn lot, container, and yield denominator in one auditable batch record.
+
 A ready-to-fruit block is often the clearest first system because the supplier has already made the culture and substrate decisions. You can practice observation, clean harvest handling, and one-variable troubleshooting without also trying to diagnose substrate formulation. The [beginner growing guide](/growing/mushroom-growing-beginners/) explains how to make that baseline.
 
 Preparing a substrate becomes worthwhile when you have a documented method and can keep the sequence controlled. Cornell describes cultivation as substrate preparation, inoculation, a spawn run, and fruiting; each stage has its own decision boundary. A moisture or treatment decision at preparation is not fixed by a fruiting-room humidity number later.
