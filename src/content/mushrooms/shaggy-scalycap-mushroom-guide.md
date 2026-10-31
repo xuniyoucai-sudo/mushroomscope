@@ -158,6 +158,8 @@ No website can confirm that a wild mushroom is safe to eat. The value of this pa
 
 ## References
 
+For a yellow wood agaric whose cap scales are wine-purple rather than coarse ochre-brown, compare the [plums and custard guide](/mushrooms/plums-and-custard-mushroom-guide/), including mature gill color, pale spores, conifer wood, and lack of a persistent ring.
+
 1. Natural History Museum. [*Pholiota squarrosa* species dictionary](https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NHMSYS0001493351). Accepted name, checklist, and common-name context.
 2. National Center for Biotechnology Information. [*Pholiota squarrosa* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=75321). Current name and lineage.
 3. Biological Records Centre. [Published interactions for *Pholiota squarrosa*](https://bioinfo.org.uk/html/Pholiota_squarrosa.htm). Host, substrate, and decay relationships compiled from the British and Irish checklist.

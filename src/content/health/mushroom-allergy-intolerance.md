@@ -5,8 +5,8 @@ keywords: ["mushroom allergy symptoms", "mushroom intolerance", "mushroom allerg
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-04
-revisionSummary: "Added an exposure-matrix and label-retention protocol that separates immediate allergy, delayed foodborne illness, wild-mushroom poisoning, and occupational spore or substrate exposure."
+updatedDate: 2026-11-01
+revisionSummary: "Added a symptom-timing decision record, ingredient and cross-contact reconstruction, and occupation-specific exposure controls without implying diagnosis."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/fruiting-body-vs-mycelium", "identification/mushroom-identification-safety-checklist"]
@@ -157,6 +157,22 @@ Review the plan after any new reaction rather than expanding restrictions indepe
 ## Reassess after the clinical question is answered
 
 If a clinician identifies a different ingredient, preparation problem, or non-allergic condition, update the avoidance plan rather than keeping a broader mushroom restriction indefinitely. Preserve the original reaction record and the basis for the revised plan so future clinicians can understand what changed.
+
+## Build a symptom-timing matrix before assigning a cause
+
+Create one row for every symptom and record first onset, peak, resolution, body system, and treatment. In parallel, list the exact mushroom species or product label, all other meal ingredients, preparation surfaces, leftovers, alcohol, medicines, exercise, and whether anyone else became ill. Immediate hives, wheeze, swelling, or circulatory symptoms raise a different clinical question from delayed vomiting shared by several diners, but timing alone does not diagnose either pathway.
+
+Preserve packaging and photograph the full ingredient panel, lot, best-before date, restaurant receipt, and supplement facts. “Mushroom blend” may include fruiting body, mycelium, grain carrier, flavoring, or several named species. A sauce can also contain dairy, nuts, soy, sulfites, or another trigger. The goal is not to choose a culprit at home; it is to give the clinician a record that can distinguish hypotheses.
+
+## Separate occupational exposure from eating a meal
+
+Growers and processors may encounter airborne spores, dried powders, substrate dust, disinfectants, latex gloves, and molds. Record the task, room, duration, ventilation state, visible dust, respiratory protection, and whether symptoms improve away from work. A symptom diary linked to shifts is more useful than the label “mushroom allergy,” yet it still cannot replace occupational-health assessment or supervised testing.
+
+Source control comes first: isolate dusty steps, maintain local exhaust, avoid dry sweeping, and follow the safety data and dilution instructions for cleaning chemicals. Respiratory protection must be selected, fitted, and managed within an appropriate workplace program. Do not ask a sensitized worker to reproduce symptoms as an informal challenge.
+
+## Define the scope of avoidance precisely
+
+After assessment, write whether the plan concerns one verified species, all culinary mushrooms, a supplement formulation, a workplace aerosol, or a non-fungal meal ingredient. Record the evidence supporting that boundary and the conditions for reassessment. A broad indefinite ban may be unnecessarily burdensome, while an assumption that cooked and raw forms are interchangeable may be unsafe. Changes belong with the treating professional.
 
 ## References
 

@@ -137,6 +137,8 @@ For ordinary observation, return the specimen to the field or dispose of it safe
 
 ## References
 
+The [common stinkhorn guide](/mushrooms/common-stinkhorn-guide/) applies this odor protocol to a timed gleba-and-insect record, showing why wind, temperature, stage, and distance must accompany a carrion-like description.
+
 ### Treat odor as a timed observation, not a label
 
 Odor records become more comparable when the observer notes where the sample was smelled, whether tissue was intact or freshly cut, the elapsed time after cutting, ambient temperature, and whether the specimen was wet, chilled, old, or stored in plastic. Smell the intact cap and stem first, then expose a small fresh surface outdoors or in a well-ventilated place. Do not inhale deeply, place tissue in the nose, taste an unknown mushroom, or deliberately smell a decomposed specimen. Write the first neutral description before reading a field-guide phrase; expectations can turn a faint general odor into an imagined “almond” or “anise” match.

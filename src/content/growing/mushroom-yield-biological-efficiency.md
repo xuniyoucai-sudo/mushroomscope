@@ -6,8 +6,8 @@ keywords: ["mushroom biological efficiency","calculate mushroom yield","mushroom
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-23
-updatedDate: 2026-09-28
-revisionSummary: "Added unit-level denominator audits, uncertainty reporting, and a worked comparison that separates biological output from saleable yield and room-time performance."
+updatedDate: 2026-11-01
+revisionSummary: "Added dry-mass method validation, harvest-boundary reconciliation, and decision thresholds that prevent denominator drift across batches."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-yield-biological-efficiency-editorial-v2.png"
@@ -159,6 +159,26 @@ No. Time, labor, energy, contamination, quality, and saleable yield also matter.
 For comparisons across rooms or strains, retain both the wet harvest log and the original dry-substrate calculation. A percentage copied without those two records cannot be audited, and changing the denominator between batches can create an apparent improvement even when the actual fresh harvest is unchanged.
 
 ## References
+
+## Validate the dry-substrate denominator with a retained sample
+
+A biological-efficiency calculation is only as comparable as its dry-mass denominator. For each new substrate formula, retain representative material before inoculation, weigh it on the same class of balance used for batching, dry it to constant mass with a documented method, cool it in a moisture-controlled container, and reweigh. Repeat enough subsamples to expose mixing variation rather than selecting one convenient scoop.
+
+Calculate dry-matter fraction for each subsample and report the spread. Apply the batch-level fraction only when sampling, mixing, and moisture addition make that inference defensible. Pellets, coarse chips, bran, and surface water can segregate. If the range is wide, improve mixing or stratify sampling before comparing strains. Do not back-calculate dry mass from an assumed recipe after unrecorded water or supplement changes.
+
+Validate the drying endpoint by repeating the dry-and-weigh cycle. If mass continues to fall, the earlier value was not a stable denominator. Record oven or dehydrator temperature, duration, sample geometry, balance resolution, and whether volatile components could complicate interpretation. The objective is an auditable operational measure, not laboratory precision claimed without the equipment.
+
+## Reconcile every harvest with a disposition ledger
+
+At each flush, divide measured mass into saleable product, trim, damaged but identified crop, samples, and discarded suspect material. The categories must sum to the gross harvested mass. Record fruit left on the block at the closing boundary, because one treatment harvested a day later can gain apparent yield simply by including more development time.
+
+Publish both biological yield and the outcome that matters operationally. Two blocks can share the same BE while differing in market grade, labor minutes, cycle length, contamination loss, or cooling capacity. A prespecified decision rule might require a minimum saleable yield and no unacceptable contamination increase, rather than awarding the trial to the highest percentage alone.
+
+## Use a denominator-change stop rule
+
+Before analysis, compare actual inoculum, supplement, container tare, hydration, and retained-sample results with the plan. If a treatment received an undocumented water correction or its dry-matter estimate falls outside the validated range, quarantine that comparison. Report it descriptively or repeat the batch; do not repair it by choosing a denominator that restores the expected ranking.
+
+This stop rule protects future learning. A clearly invalid comparison is cheaper than a false strain or recipe decision propagated through production. Keep the raw masses and formulas so a corrected analysis can be reproduced without overwriting the original record.
 
 1. [Cornell harvest-to-market business planning](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/24199-2/)
 2. [Cornell DIY substrate experiment](https://smallfarms.cornell.edu/2025/04/the-science-of-diy-mushroom-substrates/)

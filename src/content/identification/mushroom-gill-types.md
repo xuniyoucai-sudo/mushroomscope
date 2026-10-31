@@ -150,6 +150,8 @@ Two new comparisons show why texture and development belong beside attachment: t
 
 ## References
 
+The [plums and custard guide](/mushrooms/plums-and-custard-mushroom-guide/) uses a direct stem-junction view and a mature spore deposit to separate yellow attached gills from rusty-spored wood-growing lookalikes.
+
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)
 2. [University of Washington Miller Library — Mushroom identification](https://depts.washington.edu/hortlib/pal/mushroom-identification/)
 3. [North Carolina Poison Control — Mushrooms](https://www.ncpoisoncontrol.org/types-of-poisons/plants-and-mushrooms/mushrooms)

@@ -6,13 +6,14 @@ keywords: ["common inky cap", "Coprinopsis atramentaria", "inky cap alcohol inte
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-08
-updatedDate: 2026-09-30
-coverImage: "../../assets/species/inky-cap-mushroom-editorial-v2.png"
-coverAlt: "AI editorial illustration of smooth gray common inky caps clustered beside a decaying hardwood stump"
-imageCredit: "Original AI editorial illustration created for MushroomScope"
+updatedDate: 2026-11-01
+revisionSummary: "Added a timed deliquescence series, alcohol-risk evidence boundary, buried-wood mapping, and contradiction-led inkcap comparisons."
+coverImage: "../../assets/species/common-inkcap-editorial.png"
+coverAlt: "Gray common inkcap mushrooms at several ages beside buried hardwood, including one cap beginning to deliquesce"
+imageCredit: "Original AI-generated MushroomScope editorial image"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
-imageNote: "AI-generated editorial illustration; not a voucher photograph or sufficient evidence for identification, edibility, or alcohol safety."
+imageNote: "Original AI editorial habitat image; not a voucher photograph or sufficient evidence for identification, edibility, or alcohol safety."
 draft: false
 featured: false
 relatedEntries: ["identification/how-to-identify-mushrooms", "identification/mushroom-identification-safety-checklist", "identification/mushroom-spore-colors"]
@@ -253,6 +254,18 @@ Record any suspected exposure with the mushroom source, amount, preparation, tim
 The [shaggy mane guide](/mushrooms/shaggy-mane-mushroom-guide/) follows the tall scaled cap and white-to-pink-to-black gill sequence while keeping alcohol claims specific to the correct ink-cap comparison.
 
 ## References
+
+## Map buried wood before interpreting a lawn cluster
+
+A lawn-fruiting cluster can appear terrestrial even when roots, stump fragments, or construction timber lie below the turf. Create a simple plan view with the nearest trunk, former stump position, path edge, irrigation line, and every cluster marked. Probe only loose surface litter; do not cut living roots or excavate public ground. If new clusters recur in a line after rain, record the geometry as evidence for a buried woody resource, not as proof of a particular tree species.
+
+Separate substrate confidence into observed wood, strongly inferred buried wood, and unknown. A stem attached to a photographed fragment supports the first category. A cluster aligned with an old stump supports the second. Bare soil with no site history remains unknown. This discipline prevents the ecological description from becoming circular: “common inkcap uses buried wood, therefore any suspected common inkcap proves buried wood.”
+
+## Audit the alcohol evidence without inventing a safe interval
+
+For a suspected exposure, build two timelines: mushroom acquisition, storage, preparation, amount, and ingestion; then every alcohol-containing drink, food, medicine, or product before and after it. Record symptom onset and resolution separately. This structure helps a poison specialist evaluate temporal association while keeping identification uncertainty visible.
+
+Do not convert a published maximum delay, a symptom-free previous meal, or thorough cooking into an individualized clearance rule. The relevant preparation, amount, co-exposures, health conditions, and even species determination may differ. A safer page-level conclusion is narrower: common inky cap has a documented coprine-alcohol hazard, this guide does not recommend consumption, and concerning symptoms need professional advice.
 
 1. Global Biodiversity Information Facility. [*Coprinopsis atramentaria* species record](https://www.gbif.org/species/5242740). Used to check the accepted name and occurrence-record context; a database record does not identify a reader's specimen.
 2. National Center for Biotechnology Information. [Taxonomy Browser: *Coprinopsis atramentaria*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Coprinopsis+atramentaria). Used for the current taxonomic lineage and synonym check.

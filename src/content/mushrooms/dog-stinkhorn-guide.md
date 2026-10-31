@@ -243,6 +243,8 @@ Keep odor descriptions controlled. Record distance and wind direction before usi
 
 ## References
 
+For the larger white-stemmed comparison with a separate pitted cap, follow the [common stinkhorn guide](/mushrooms/common-stinkhorn-guide/) through egg section, gleba removal, volva, and insect-mediated dispersal rather than using odor alone.
+
 1. Global Biodiversity Information Facility. [*Mutinus caninus* species record](https://www.gbif.org/species/5239473). Accepted-name and occurrence context.
 2. National Center for Biotechnology Information. [*Mutinus caninus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Mutinus+caninus). Lineage and nomenclature checkpoint.
 3. Penn State Extension. [Stinkhorn Mushrooms](https://extension.psu.edu/stinkhorn-mushrooms). Egg development, gleba, insect dispersal, and landscape context.
