@@ -237,6 +237,8 @@ The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) s
 
 ## References
 
+Compare the pale round-pored underside here with the [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/), where fresh violet pores tear into teeth as brackets age.
+
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
 2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.

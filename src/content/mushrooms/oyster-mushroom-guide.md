@@ -231,6 +231,8 @@ Small pale fans are not automatically oysters; compare the forked underside in t
 
 ## References
 
+For the warm-fruiting species concept and strain-record boundary, see the [Phoenix oyster guide](/mushrooms/phoenix-oyster-mushroom-guide/), which keeps supplier labels separate from verified taxonomy.
+
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
 2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.

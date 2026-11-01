@@ -150,6 +150,8 @@ Two new comparisons show why texture and development belong beside attachment: t
 
 ## References
 
+The [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/) applies decurrent-gill documentation to a blue-green woodland species while keeping odor and color as supporting evidence.
+
 The [plums and custard guide](/mushrooms/plums-and-custard-mushroom-guide/) uses a direct stem-junction view and a mature spore deposit to separate yellow attached gills from rusty-spored wood-growing lookalikes.
 
 1. [University of Florida IFAS — Oyster Mushrooms](https://ask.ifas.ufl.edu/publication/PP384)

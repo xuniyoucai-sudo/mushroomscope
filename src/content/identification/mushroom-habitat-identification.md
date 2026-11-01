@@ -148,6 +148,8 @@ Wood and root-zone records pose different evidence problems. The [Common bonnet 
 
 ## References
 
+The [meadow waxcap field guide](/mushrooms/meadow-waxcap-guide/) shows how turf management, moss cover, repeat surveys, and complete grassland context should remain attached to a species record.
+
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.
 2. Global Biodiversity Information Facility. [Species Search](https://www.gbif.org/species/search). Occurrence records whose coordinates, date, basis of record, and identification quality must be evaluated before ecological use.
 3. Mushroom Observer. [Observation database](https://mushroomobserver.org/). Community records that can preserve habitat photographs and identification discussion when original evidence is supplied.

@@ -166,6 +166,8 @@ The original AI cover was compared with natural-light Chanterelle and Scarlet Wa
 
 ## References
 
+Compare blue-green color and a recorded anise odor in the [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/); funnel shape alone cannot separate these woodland species concepts.
+
 1. Global Biodiversity Information Facility. [*Infundibulicybe geotropa* search](https://www.gbif.org/species/search?q=Infundibulicybe%20geotropa). Taxonomic and occurrence context.
 2. National Center for Biotechnology Information. [*Infundibulicybe geotropa* taxonomy search](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Infundibulicybe+geotropa). Independent nomenclatural checkpoint.
 3. Natural History Museum. [*Infundibulicybe geotropa* species record](https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=BMSSYS0000046612). UK species-name and classification checkpoint.

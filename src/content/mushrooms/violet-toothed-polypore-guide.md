@@ -6,6 +6,8 @@ keywords: ["Violet-toothed polypore", "Trichaptum biforme", "Violet-toothed poly
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-13
+updatedDate: 2026-11-02
+revisionSummary: "Added underside maturation transects, hardwood-unit provenance, split-pore measurements, and a colony-level mixed-species exclusion protocol."
 coverImage: "../../assets/species/violet-toothed-polypore-editorial.png"
 coverAlt: "Original AI editorial image of violet-toothed polypore showing thin gray brackets and fresh violet toothed undersides on a fallen hardwood log"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -137,6 +139,24 @@ Create a row for each numbered bracket rather than one description for the log. 
 This specimen-level table also makes absence meaningful. “No violet observed” should specify whether the entire underside was visible, whether fresh margins existed, and whether rain, frost, abrasion, or age could have removed color. A conclusion based on five fully documented brackets is stronger than one based on a hundred unturned caps. Photograph the completed field sheet or transcribe it promptly so measurements do not become reconstructed memories.
 
 ## Frequently asked questions
+
+## Trace the underside transition on one numbered log
+
+The most useful violet-toothed record shows how a fresh poroid surface becomes torn and tooth-like. Number several brackets along one log and photograph each underside square-on with a scale. Record pore or tooth density across the same measured width, the length of torn partitions, color at the growing margin, and distance from the bracket edge. Do not combine the brightest violet margin from one log with the most developed teeth from another and describe them as one specimen.
+
+Repeat the transect after weathering if the site can be revisited without damage. Rain, frost, sunlight, insects, and age can fade violet tissue and enlarge tears. A dated sequence tests development more directly than arranging unrelated photographs by apparent age.
+
+## Prove that every bracket belongs to the same wood unit
+
+Map the log from base to broken end and mark each fruit body. Photograph bark, end grain, branch scars, and any point where two pieces touch. A thin bracket on an overlapping branch may belong to another fungus even when it appears inside the same colony. Host identification should rely on attached evidence rather than the nearest standing tree.
+
+Record whether the wood is standing, suspended, ground-contact, or deeply decayed. These conditions change moisture and fruit-body form but do not identify the fungus by themselves. If one bracket has a smooth underside, persistent round pores, or different context thickness, assign it a separate record until microscopy or sequence evidence connects it.
+
+## Measure torn pores without calling every projection a tooth
+
+Use a macro photograph perpendicular to the fertile surface and count structures across a known distance in fresh and older zones. Note whether partitions split from round or angular pores, whether projections are flattened or cylindrical, and whether they align with cracks or insect damage. Mechanical tears and aging can make several polypores look toothed.
+
+Where lawful collection is justified, retain one representative that includes upper surface, margin, context, and fertile layer. Label microscopy and photographs to that voucher. A measurement without specimen provenance cannot resolve a mixed colony later.
 
 ### Why is the underside violet only sometimes?
 

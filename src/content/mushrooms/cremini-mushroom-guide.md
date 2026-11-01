@@ -240,6 +240,8 @@ The crop depends on conditioned compost, a managed spawn run, a casing layer and
 
 ## References
 
+The [portobello guide](/mushrooms/portobello-mushroom-guide/) follows the same cultivated species into its mature open-cap stage and compares nutrition on equal edible mass.
+
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Used for a current lineage check; NCBI notes that nomenclature should also be assessed against specialist literature.
 2. U.S. Department of Agriculture. [FoodData Central](https://fdc.nal.usda.gov/). Food-composition reference; values vary by sample and preparation.
 3. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Production hygiene and preventive-control context.

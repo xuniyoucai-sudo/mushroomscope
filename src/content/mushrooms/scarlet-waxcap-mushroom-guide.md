@@ -161,6 +161,8 @@ Repeated records from a marked patch can reveal changes through the season. Phot
 
 ## References
 
+For a robust dry buff-apricot grassland comparison, use the [meadow waxcap guide](/mushrooms/meadow-waxcap-guide/), which separates thick decurrent gills and site-history evidence from scarlet color.
+
 Record grass height and the fruit body's exposed height in the same frame. A cap hidden in tall wet turf can retain moisture and appear darker than one a few centimeters away in open grass. That microhabitat contrast is worth preserving, but it should not be promoted into a taxonomic character without broader, matched observations.
 
 1. Global Biodiversity Information Facility. [*Hygrocybe coccinea* species record](https://www.gbif.org/species/2538361). Taxonomy and occurrence context.

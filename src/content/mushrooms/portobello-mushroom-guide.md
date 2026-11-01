@@ -6,7 +6,8 @@ keywords: ["portobello mushrooms", "portobello nutrition", "how to cook portobel
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-09
-updatedDate: 2026-10-14
+updatedDate: 2026-11-02
+revisionSummary: "Added maturity-stage mass accounting, matched raw-to-cooked nutrition comparison, cap-moisture endpoints, and a provenance boundary for retail versus wild Agaricus."
 coverImage: "../../assets/species/portobello-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of three fresh mature portobello caps, including one showing dark brown gills, on a kitchen worktable"
 imageCredit: "Original AI editorial image created for MushroomScope"
@@ -178,6 +179,24 @@ Use endpoints: surface browned, thickest portion tender, pooled liquid evaporate
 The mature cap comes from a managed *Agaricus* production system. Growers prepare and condition compost, introduce authenticated spawn, apply a casing layer, manage pinning and climate, and schedule harvests for a target market stage. Holding selected mushrooms longer allows caps to expand, but humidity, temperature, carbon dioxide, irrigation, disease pressure, and handling still affect quality.
 
 This makes portobello an expert rather than beginner crop in the site taxonomy. A household kit must be followed according to its supplier; it should not be improvised from wild tissue or treated like an oyster block. Unexpected molds, insects, sour odor, slime, or unplanned mushrooms are reasons to isolate the unit and follow disposal guidance, not to harvest around the problem.
+
+## Compare maturity stages on equal edible mass
+
+A fair cremini-versus-portobello comparison needs mushrooms from a defined lot and a common denominator. Weigh caps and stems before trimming, record removed casing and damaged tissue, then compare equal edible raw mass or equal cooked yield. Comparing “one cremini” with “one portobello” mostly measures different unit size.
+
+Track cap diameter, veil state, exposed-gill area, stem fraction, raw mass, cooked mass, and released liquid. Maturity can change geometry and texture without creating a new species or automatically concentrating every nutrient. Use matched FoodData Central entries only when food form and preparation align; otherwise report the mismatch instead of calculating false precision.
+
+## Separate water loss from ingredient gain
+
+Portobello shrinks during cooking as water leaves. Nutrients reported per 100 grams can therefore appear more concentrated even when the pan added nothing. Oil, soy sauce, cheese, and stuffing change the finished dish through ingredient gain. Record each addition by mass and keep the plain mushroom yield separate from the assembled recipe.
+
+For a cooking comparison, use caps of similar diameter and thickness, randomize them between methods, and define an endpoint such as tenderness plus no persistent pooled liquid. Weigh after a consistent rest. Report retained yield and browning observations rather than claiming one exact universal cooking time.
+
+## Preserve the retail provenance boundary
+
+A supermarket label, intact package, supplier lot, and cold-chain condition support a cultivated food identity. Once a mushroom is removed from that chain, a broad brown cap and dark free gills do not recreate provenance. Wild *Agaricus* comparisons require odor, staining, complete base, habitat, gill development, spore evidence, region, and qualified local interpretation.
+
+Keep package photographs and lot details with any adverse-reaction record. Symptoms may involve the mushroom, spoilage, another recipe ingredient, or cross-contact; a precise ingredient and timing record is more useful than assuming the mature cap itself was causal.
 
 The distinction also clarifies sustainability comparisons. Yield, substrate inputs, energy, packaging, transport, and waste belong to a defined production system. The size of one cap cannot establish that a meal has a particular environmental footprint. Use transparent producer or life-cycle data when such a claim matters.
 

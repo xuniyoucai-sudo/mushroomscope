@@ -146,6 +146,8 @@ After grilling, rest each cap gill-side down on a rack for a minute so free liqu
 
 ## References
 
+Use the [portobello selection and cooking guide](/mushrooms/portobello-mushroom-guide/) for maturity-stage provenance, moisture endpoints, and raw-to-cooked mass accounting before adapting this recipe.
+
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce handling for caps and uncooked toppings.
 2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigeration context for grilled caps stored apart from buns.
 3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; bun, marinade, cheese, and sauce determine the complete burger.

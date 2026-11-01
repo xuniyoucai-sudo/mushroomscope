@@ -6,7 +6,8 @@ keywords: ["phoenix oyster mushroom", "Pleurotus pulmonarius", "phoenix oyster m
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-31
-updatedDate: 2026-09-21
+updatedDate: 2026-11-02
+revisionSummary: "Added a warm-season strain identity audit, hardwood-vs-cultivation provenance test, and matched ventilation response trial with explicit failure denominators."
 draft: false
 featured: false
 coverImage: "../../assets/species/phoenix-oyster-mushroom-editorial-v2.png"
@@ -166,6 +167,24 @@ Summarize only parameters supported by a cited method or the culture supplier. D
 5. Compare the record with regional *Pleurotus* treatments; retain material when species-level resolution matters.
 
 ## References
+
+## Audit a warm-season name before comparing performance
+
+“Phoenix oyster” can be a supplier trade label, a common name applied to *Pleurotus pulmonarius*, or an informal description of any pale oyster that fruits in warm weather. Preserve the original label, supplier, lot, receipt date, and culture transfer history. Do not silently convert a trade name into a verified species determination. If species identity affects publication or a commercial claim, connect the culture to a voucher or sequence rather than relying on cap color.
+
+For wild records, separate observed facts from the name: hardwood attachment, region, recent temperatures, cap and gill measurements, spore deposit, and retained material. A cultivated block discarded outdoors can fruit in an apparently wild setting. Packaging fragments, uniform block-shaped substrate, or fruiting beside a production area should remain in the provenance record.
+
+## Compare fresh-air changes with a matched block pair
+
+Long stems and small caps are often attributed to carbon dioxide, but humidity, temperature, light, crowding, strain, and harvest age can overlap. Select two otherwise comparable blocks from the same inoculation lot. Keep substrate dry mass, water, container, incubation, fruiting temperature, light, and observation schedule aligned. Change only the planned fresh-air treatment and measure it rather than calling a room “stuffy” or “fresh.”
+
+Record cluster count, representative stem length and cap diameter, malformed or aborted clusters, fresh harvest mass, and every excluded block. Condensation and surface drying should be logged because increasing air exchange can change both carbon dioxide and water loss. Stop the comparison if contamination, fan failure, or a temperature split makes the treatment attribution unreliable.
+
+## Keep failures inside the yield denominator
+
+Calculate biological efficiency from total fresh harvest mass divided by initial dry substrate mass, and state which flushes and blocks are included. A warm-season strain does not demonstrate superior performance if contaminated or nonfruiting blocks disappear from the denominator. Report median block yield, range, rejection count, and harvest timing alongside the headline percentage.
+
+The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) provides the denominator method. These records distinguish a genuinely resilient warm-season culture from a visually impressive cluster produced by a small surviving subset.
 
 ### Compare warm-season records without erasing geography
 

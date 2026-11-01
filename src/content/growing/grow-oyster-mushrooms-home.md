@@ -160,6 +160,8 @@ For broader contamination containment and recordkeeping, see the [mushroom conta
 
 ## References
 
+The [Phoenix oyster cultivation record](/mushrooms/phoenix-oyster-mushroom-guide/) adds a matched fresh-air comparison and failure-inclusive yield denominator for warm-season strains.
+
 1. [Cornell Small Farms — Producing Specialty Mushrooms: Outdoor vs. Indoor Systems](https://smallfarms.cornell.edu/2019/04/producing-specialty-mushrooms-outdoor-vs-indoor-systems/)
 2. [Cornell Small Farms — The Three Sectors of the Specialty Mushroom Industry](https://smallfarms.cornell.edu/2020/04/the-three-sectors-of-the-specialty-mushroom/)
 3. [Penn State Extension — Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety)
