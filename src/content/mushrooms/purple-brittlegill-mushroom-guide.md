@@ -121,6 +121,8 @@ The [habitat-identification guide](/identification/mushroom-habitat-identificati
 
 Purple and red *Russula* species are numerous. The useful comparison set is regional and host-specific. *Russula fragilis* and related taxa may be smaller, fragile and variably purple-red. The *R. xerampelina* complex can include purple caps but brings its own odor, browning and microscopic characters. *Russula cyanoxantha* can overlap strongly in color, yet its gills are often unusually flexible and greasy-feeling rather than sharply brittle.
 
+Small violet woodland mushrooms with tough fibrous stems and thick, widely spaced gills belong on a different path; the [amethyst deceiver guide](/mushrooms/amethyst-deceiver-mushroom-guide/) shows how fading and construction separate that comparison from brittle *Russula* tissue.
+
 Create a matrix with the actual candidates named by a current local key. Include cap dimensions and color-zone ratios, cap-skin peeling, gill flexibility, gill and spore-deposit shade, stem dimensions, flesh changes, odor, host trees, region and microscopic data. Do not fill unknown cells from a website. The matrix should reveal which observation would genuinely discriminate the leading candidates.
 
 Cap color alone is especially vulnerable to confirmation bias. Compare raw files under the same white balance and include a neutral gray card when possible. Avoid smartphone “vivid” modes and social-media filters. The [spore-print guide](/identification/how-to-make-spore-print/) explains how to collect a deposit without mistaking paper color or a few scattered spores for a stable shade.

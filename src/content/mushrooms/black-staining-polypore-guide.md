@@ -6,6 +6,7 @@ keywords: ["black-staining polypore", "Meripilus sumstinei", "blackening polypor
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-08
+updatedDate: 2026-11-03
 draft: false
 featured: false
 coverImage: "../../assets/species/black-staining-polypore-editorial.png"
@@ -180,6 +181,24 @@ NAMA's syndrome overview can improve the information given to responders, but it
 
 ## Evidence and image limits
 
+## Calibrate blackening as a timed image series
+
+Use one fresh frond and mark four adjacent 15 mm squares on the pore surface. Leave the first untouched, press the second once with a rounded clean tool, cut the third through the tubes, and expose context in the fourth. Photograph all four in one frame at zero, five, fifteen, thirty, and sixty minutes under fixed diffuse light. Include a gray reference and do not change white balance between frames.
+
+Score each square by the proportion of its area that becomes gray, charcoal, or black rather than by an impression such as “fast.” A reaction that spreads through newly damaged tissue is more informative than an old black edge, but no score independently identifies *Meripilus*. Temperature, hydration, age, and decay affect the result, so record those conditions and retain the untouched control.
+
+## Separate North American and European name usage
+
+North American records commonly use *Meripilus sumstinei*, while European literature commonly centers *M. giganteus*. Historical databases and reused photographs can blur that geographic distinction. Preserve the name exactly as used by the current regional key, record the access date for taxonomy sources, and do not silently transfer measurements or host statements between species.
+
+For an occurrence outside the expected treatment, archive a dried voucher, underside photographs, reaction series, measurements, host evidence, and generalized locality. Sequence data without voucher provenance cannot repair a mixed or mislabeled collection, and a map point alone cannot settle the species concept.
+
+## Audit frond-level variation inside one rosette
+
+Blackening intensity can vary across a fruit body. Sample an outer young margin, a middle zone, and a basal older zone while keeping every sample numbered. Measure cap thickness, tube depth, pores per millimeter, and time to visible darkening for each zone. This design prevents the most dramatic patch from representing the whole rosette.
+
+Pair those measurements with photographs of attachment and host. A large root-zone rosette provides evidence of fungal activity, not a structural safety rating. When a living tree or occupied target is involved, pass the mapped observations to a qualified arborist rather than translating stain speed into a failure prediction.
+
 GBIF supports the accepted-name and geographic checkpoint. Missouri Department of Conservation accounts provide regional comparisons with maitake and Berkeley's polypore. The USDA reference supports the limit on translating one fungal sign into a structural prediction. NAMA supports emergency communication only.
 
 The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened beside the site's maitake and dryad's saddle references and checked for a large root-zone rosette, localized rather than universal blackening, visible pores, realistic woodland light, restrained color, sharp natural texture, clean crop, and absence of text, watermark or logo. The dark marks deliberately illustrate a reaction concept; they do not establish diagnostic timing.
@@ -194,4 +213,4 @@ Record the boundary between bruised gray tissue and truly blackened tissue at fi
 4. U.S. Department of Agriculture Forest Products Laboratory. [Wood Handbook](https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf). General wood-property limits; not a site diagnosis.
 5. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency-response context.
 
-*Editorial review: October 8, 2026. No named mycologist, arborist, clinician or chef reviewed this page.*
+*Editorial review updated November 3, 2026. No named mycologist, arborist, clinician or chef reviewed this page.*

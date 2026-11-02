@@ -90,6 +90,8 @@ The gills attach to the stem and begin pale gray, sometimes with a lilac cast. D
 
 Make a deposit from a mature, undamaged cap. The expected print is very dark purple-brown rather than white or rusty orange. Color terminology varies with light and background, so preserve the actual deposit when expert review matters. A dark print supports a group; it does not alone establish *Stropharia rugosoannulata*.
 
+For smaller blue-green members of the genus, compare the heavily scaled [verdigris agaric](/mushrooms/verdigris-agaric-mushroom-guide/) with the more sparsely scaled [blue roundhead](/mushrooms/blue-roundhead-mushroom-guide/); both differ from the robust wine-cap ring and wood-chip growth pattern.
+
 ## Stem, base, and cogwheel ring
 
 The stem is robust, pale, and sometimes swollen toward the base. The partial veil often leaves a thick ring with a grooved or tooth-like upper margin, inspiring the “cogwheel” description. Spores falling from the gills may dust its upper surface dark purple-brown.

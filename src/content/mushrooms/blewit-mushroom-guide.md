@@ -135,7 +135,7 @@ Weather can remove an obvious web, so its absence on one adult is weak evidence.
 
 ## Amethyst deceiver and close blewit relatives
 
-The amethyst deceiver, *Laccaria amethystina*, is normally smaller and more delicate. Its gills are thick and widely spaced rather than crowded, and the stem is slender. Rain fades both species, making proportions and gill spacing more useful than purple intensity.
+The [amethyst deceiver](/mushrooms/amethyst-deceiver-mushroom-guide/), *Laccaria amethystina*, is normally smaller and more delicate. Its gills are thick and widely spaced rather than crowded, and the stem is slender. Rain fades both species, making proportions and gill spacing more useful than purple intensity.
 
 *Lepista sordida* is often smaller and thinner-fleshed but can overlap closely. Other violet taxa vary by region. When macroscopic characters fail to separate plausible names, microscopy or DNA is an honest requirement rather than a detail to improvise.
 

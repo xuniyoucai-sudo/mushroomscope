@@ -6,6 +6,7 @@ keywords: ["brick cap mushroom", "Hypholoma lateritium", "brick cap identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-11
+updatedDate: 2026-11-03
 coverImage: "../../assets/species/brick-cap-mushroom-editorial.png"
 coverAlt: "Original AI editorial image of brick-red ringless mushrooms clustered on a weathered hardwood stump with one mature gill surface visible"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -164,6 +165,24 @@ Never assume that prolonged cooking repairs uncertainty. It cannot turn *Galerin
 
 ## Field record checklist
 
+## Build a maturity matrix before comparing color
+
+Select at least three intact fruit bodies that share one woody attachment: a closed or young cap, an expanding cap, and a fully sporulating cap. Give each a specimen suffix and record cap diameter, margin veil remnants, gill color, ring evidence, stem-base color, and spore deposition. Photograph all three under the same light and white balance.
+
+The matrix makes the expected pale-gray to smoky-purple gill transition visible without borrowing stages from unrelated clusters. It also reveals mixed fruiting, which is common enough on a stump to deserve an explicit check. If one cap produces rusty spores while the others produce purple-brown spores, isolate every specimen and reopen the *Galerina* or *Pholiota* comparison.
+
+## Test the substrate claim with a wood-unit map
+
+Draw the visible stump, log, or root as a single wood unit and mark each cluster’s position. For apparently terrestrial stems, trace only enough loose litter to show whether a buried root or chip continues beneath the base; do not excavate structural roots. Record bark type, decay class, moisture, and whether the wood is attached to a living tree.
+
+Revisit after rain and again later in the season. New clusters aligned on the same buried unit strengthen the substrate interpretation, while a nearby but separate cluster should keep its own collection number. The map separates “near hardwood” from “attached to documented hardwood,” a distinction that ordinary habitat captions often erase.
+
+## Use a stop-rule comparison for lethal Galerina
+
+Create a release checklist that must be complete before retaining the brick-cap hypothesis: a heavy purple-brown deposit from the exact cap, no rusty deposit in any collected neighbor, ring and veil anatomy documented across ages, attached gills shown intact, hardwood connection recorded, and microscopy consistent with a current regional key when the record matters. A missing item is not a negative character; it is a stop condition.
+
+Do not use cap redness, cluster size, cooking, or a taste test to override the stop rule. The purpose is not to clear food use but to prevent a familiar-looking stump cluster from skipping the dangerous comparison.
+
 - Cluster photographed in place with the actual stump, log, root, or buried wood
 - Host evidence and living/dead status recorded without guessing
 - Caps measured across young, expanding, and mature stages
@@ -199,3 +218,5 @@ Keep measurements, substrate and host evidence, developmental-stage notes, spore
 ## References
 
 The linked GBIF and NCBI resources provide taxonomic checkpoints; USDA Forest Service material supports wood-decay context; NAMA and Poison Control support conservative exposure guidance. Species-level decisions should use a current regional key and microscopy where necessary.
+
+*Editorial review updated November 3, 2026. No named mycologist, arborist, clinician, or toxicologist reviewed this page.*

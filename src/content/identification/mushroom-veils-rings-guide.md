@@ -59,6 +59,8 @@ A universal veil encloses much or all of the young fruit body. Expansion can lea
 
 Some mushrooms have both veil systems. Document each separately. Calling every white fragment “the veil” loses its origin and diagnostic value.
 
+The [verdigris agaric guide](/mushrooms/verdigris-agaric-mushroom-guide/) shows a fragile partial veil distributed between white cap-margin scales and a stem ring, while the related [blue roundhead](/mushrooms/blue-roundhead-mushroom-guide/) often retains fewer cap flecks and only a weak zone. Comparing several ages prevents rain-washed adults from being treated as naturally veil-free.
+
 ## Photograph the veil before it breaks
 
 ### Build a developmental sequence

@@ -6,6 +6,7 @@ keywords: ["Berkeley's polypore", "Bondarzewia berkeleyi", "Berkeley's polypore 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-08
+updatedDate: 2026-11-03
 draft: false
 featured: false
 coverImage: "../../assets/species/berkeleys-polypore-editorial.png"
@@ -170,6 +171,24 @@ The [identification safety checklist](/identification/mushroom-identification-sa
 
 ## Evidence and image limits
 
+## Quantify frond architecture without relying on the largest cap
+
+A single maximum width exaggerates whichever lobe happened to survive insects and trampling. For a comparable rosette record, count primary fronds at their junction with the shared base, then measure width, projection, and margin thickness on at least five fronds selected around the compass. Report the median alongside the range. Photograph the numbered fronds from above and repeat the numbering on an underside sketch so a pore measurement can be traced back to the same structure.
+
+Add a branching index: primary fronds divided by visible secondary divisions. Berkeley's polypore often invests in relatively few broad units, whereas maitake divides the fruiting mass more finely. The index is not a published diagnostic threshold, but it exposes whether “many” and “broad” came from measurement or memory. Stop using the comparison if crowding, grazing, or an incomplete buried base makes the count unreliable.
+
+## Pair pore measurements with tissue depth
+
+Photograph three underside fields at the outer, middle, and basal zones of one legal specimen. Count pores across a measured 10 mm line in each field, then section beside—not through—the photographed strip. Measure tube depth and total context thickness. This paired record distinguishes genuinely coarse angular pores on thick flesh from a distant image in which ordinary pores only appear large.
+
+Keep the section fresh and dry sections separate. Compression, dehydration, and insect galleries can all change apparent pore density and context thickness. A ruler laid above a curved surface is also misleading; place the scale in the same plane as the pore mouths and state when curvature prevents a reliable count.
+
+## Map recurrence around the host without diagnosing failure
+
+Where a rosette returns, establish a non-destructive polar map centered on the trunk. Record distance and bearing to every fruiting point, trunk circumference, visible root flare, wounds, canopy observations, and date. Repeat from the same reference point in later seasons. Movement among points can document the expression of an established root-associated fungus, but it does not reveal the complete decay column or remaining load-bearing wood.
+
+This map gives an arborist better provenance than a cropped fungus portrait while preserving the limit between fungal observation and tree-risk diagnosis. Do not drill, excavate roots, or recommend removal from the map alone.
+
 The Missouri Department of Conservation account supports the eastern North American morphology, season, habitat and lookalike framework. GBIF and NCBI serve as name, occurrence and lineage checkpoints. NAMA and FDA support emergency and handling boundaries, not species approval.
 
 The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened beside the site's maitake and dryad's saddle covers and checked for a broad pale rosette, visible pores, oak-base context, natural light, restrained color, clear crop, realistic texture, and absence of text, logo or watermark. Its deliberately broad pale fronds distinguish the page visually, but no generated image should be used to identify a wild fungus.
@@ -182,4 +201,4 @@ The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency communication context.
 5. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). Handling principles for already verified food material.
 
-*Editorial review: October 8, 2026. No named mycologist, arborist, clinician or chef reviewed this page.*
+*Editorial review updated November 3, 2026. No named mycologist, arborist, clinician or chef reviewed this page.*
