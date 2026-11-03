@@ -152,6 +152,8 @@ Microscopy is most useful when material is mature, traceable, and linked to phot
 
 When DNA is considered, preserve voucher identity and laboratory provenance. A sequence label without a checkable specimen can repeat a database error. Field morphology, ecology, microscopy, and sequence evidence should be reconciled, with disagreements reported rather than averaged away.
 
+For a pointed yellow-to-red waxcap that develops pervasive gray-black tissue changes, compare the timed reaction and nearly free gills in the [blackening waxcap guide](/mushrooms/blackening-waxcap-guide/) rather than treating all bright grassland waxcaps as one variable species.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Cuphophyllus pratensis* species record](https://www.gbif.org/species/3291564). Taxonomic backbone and mapped occurrence context.

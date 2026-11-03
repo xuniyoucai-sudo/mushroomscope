@@ -159,6 +159,8 @@ When revisiting, photograph from the same compass direction and repeat the heigh
 
 Large root-zone rosettes require a different path from the laterally attached, dark-scaled fans described here. The [Berkeley's polypore guide](/mushrooms/berkeleys-polypore-guide/) covers a few broad pale fronds, while the [black-staining polypore guide](/mushrooms/black-staining-polypore-guide/) uses a timed darkening test on a many-fronded basal mass. These contextual links do not make cap outline diagnostic; confirm attachment and pores.
 
+For a soft, brightly orange annual bracket with fine sulfur-yellow pores rather than a scaled cap and large angular pores, compare the [chicken of the woods guide](/mushrooms/chicken-of-the-woods-guide/) and keep host, age, and attachment evidence separate.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Cerioporus squamosus* species record](https://www.gbif.org/species/113360077). Taxonomic and occurrence context.

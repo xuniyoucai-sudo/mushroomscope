@@ -6,7 +6,7 @@ keywords: ["tinder fungus", "Fomes fomentarius", "tinder fungus identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-31
-updatedDate: 2026-10-01
+updatedDate: 2026-11-04
 draft: false
 featured: false
 coverImage: "../../assets/species/tinder-fungus-editorial-v2.png"
@@ -200,6 +200,24 @@ When a naturally broken specimen exposes stacked tube layers, measure each layer
 Record the host at species level where bark, buds, leaves, and site allow it, then map conk height, compass side, wound relationship, cavities, crown dieback, and visible root-zone changes. *Fomes fomentarius* is associated with white rot, but a photograph of one bracket cannot quantify residual wall thickness, root anchorage, or probability of failure.
 
 For trees near people or property, keep fungal documentation separate from the risk decision and refer the latter to a qualified arborist using an accepted tree-risk method. Removing the bracket neither removes internal decay nor treats the tree. Conversely, a conk is not a command for automatic felling; it is evidence that should trigger site-specific assessment.
+
+## Run an equal-area pore geometry comparison
+
+Hoof shape is a poor separator when perennial brackets have weathered. Photograph a 20 × 20 mm area of the lowest intact pore surface square-on, with the same scale and light on each candidate. Count openings crossing two fixed transects, then classify them as round, angular, elongated, branching, or damaged. Repeat at the fresh margin and an older central area.
+
+Tinder fungus should retain a fine, predominantly round pore field. By contrast, the [oak mazegill guide](/mushrooms/oak-mazegill-guide/) documents thick walls that stretch and reconnect into coarse daedaloid passages. Old insect damage can mimic elongated pores, so score galleries and torn walls separately. The comparison is strongest when host, context, and attachment are recorded alongside geometry.
+
+## Separate host identity from canopy proximity
+
+For a standing tree, photograph bark at the bracket, bark higher on the trunk, buds or leaves when present, and the crown architecture. For a log, include end grain and any attached twigs. Assign host confidence as confirmed, probable, or unknown and state the evidence. A conk on wood beneath an oak or birch canopy does not automatically belong to that tree.
+
+This discipline matters because tinder fungus commonly associates with birch and beech across much of its range, while oak mazegill is strongly tied to oak. Host evidence narrows the comparison set without replacing pore and tissue anatomy. Where bark has fallen and wood anatomy is ambiguous, retain an unknown host rather than converting landscape context into certainty.
+
+## Distinguish decay evidence from a hazard verdict
+
+Map bracket height, side of trunk, cavities, seams, dead branches, crown condition, lean, nearby targets, and any exposed decayed wood. Revisit fixed photographs after storms or management work. These observations establish change; they do not calculate residual wall thickness or failure probability.
+
+A fruit body confirms a wood-decay relationship, but tree risk also depends on species, defect geometry, loading, roots, site exposure, and occupancy. Refer consequential decisions to a qualified arborist. The fungal identification and the structural assessment should remain linked in the record while preserving their different evidence standards.
 
 ## References
 

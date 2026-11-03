@@ -6,7 +6,7 @@ keywords: ["chicken of the woods", "Laetiporus sulphureus", "chicken of the wood
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-23
-updatedDate: 2026-10-03
+updatedDate: 2026-11-04
 revisionSummary: "Added host-confidence mapping, pore-and-flesh aging measurements, regional species-complex limits, and collection-level food-risk separation."
 draft: false
 featured: false
@@ -184,6 +184,24 @@ When lawful local expertise has confirmed material for food, keep each cluster l
 Record raw mass, trimmed mass, cooking method, cooked mass, storage time, and the people served without turning a personal meal into a safety study. Adverse reactions have been reported with mushrooms sold under this common name, and a successful meal does not validate the identification of a later collection. Cooking is not a method for neutralizing an unknown lookalike. People with symptoms after ingestion should contact the relevant poison service or medical provider promptly and retain uncooked material, trimmings, leftovers, photographs, host notes, and timing information.
 
 This collection-level separation also improves ecological records. Several fruitings photographed on one log across time can show persistence and development; shelves from unrelated trees cannot be combined into one growth sequence. Give every observation a stable number so the host, morphology, images, measurements, and any expert determination remain connected.
+
+## Build a maturity transect across one cluster
+
+Number shelves from the youngest pale margin to the oldest attachment tissue without combining separate emergence points. At three fixed distances, measure shelf thickness, tube depth, pore density, surface moisture, and the force needed to bend a narrow permitted sample. Photograph every station with the same scale and white balance.
+
+This transect distinguishes developmental change from species difference. Fresh margins may be bright, moist, and comparatively flexible while attachment tissue is fibrous, chalky, insect-tunneled, or waterlogged. Record each condition rather than calling the whole cluster young. A meal decision, where lawful expert confirmation exists, still requires a separate assessment of contamination, freshness, host, and individual tolerance.
+
+## Reconcile host confidence with regional Laetiporus names
+
+Create a host packet before consulting a species key: bark close-up, leaves or buds when available, end grain on dead wood, trunk status, attachment height, and whether buried roots are involved. Score the host independently from the fungus. Then compare only *Laetiporus* taxa documented for that host and region.
+
+This prevents the broad common name “chicken of the woods” from erasing meaningful differences among sulfur-yellow, white-pored, rosette-forming, and conifer-associated taxa. Preserve a dried fragment and stable collection number if microscopy or sequencing may be needed. Do not transfer food history from one regional taxon and host combination to another without evidence.
+
+## Separate polypore pore architectures at equal scale
+
+Photograph a 20 × 20 mm underside area at the growing margin and again near the attachment. Chicken of the woods should show a fine pore layer, even when the cap surface is bold orange. An underside with thick branching walls belongs in a different structural comparison, such as the [oak mazegill guide](/mushrooms/oak-mazegill-guide/), while gills, teeth, or folds contradict a *Laetiporus* placement.
+
+Weathering can enlarge or tear pores, so label damage separately and use the freshest intact zone. Equal-scale images prevent a macro crop from making tiny pores look maze-like. Pore geometry, host, context, growth form, and region should agree before a species-level name is used.
 
 ## References
 

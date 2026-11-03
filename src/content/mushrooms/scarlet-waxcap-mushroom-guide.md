@@ -6,6 +6,7 @@ keywords: ["scarlet waxcap", "Hygrocybe coccinea", "scarlet waxcap identificatio
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-14
+updatedDate: 2026-11-04
 coverImage: "../../assets/species/scarlet-waxcap-editorial-v2.png"
 coverAlt: "Original AI editorial image of scarlet waxcaps in mossy grassland, including smooth red caps and one view of thick orange-red gills"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -158,6 +159,24 @@ This format makes uncertainty visible. It also prevents a later observer from tr
 When uploading a record, distinguish observed characters from the proposed name. A useful observation can remain “red waxcap” if photographs show the cap, gills, stem, base, scale, and habitat. Add the key consulted, alternatives excluded, alternatives still possible, and whether microscopy was performed. Do not select a species merely because a platform requests a narrow label.
 
 Repeated records from a marked patch can reveal changes through the season. Photograph from the same direction, avoid trampling, and record mowing between visits. If a verifier revises the name, retain the original evidence and revision history. That audit trail is more useful for conservation than false certainty.
+
+## Use a paired blackening control in mixed waxcap turf
+
+A red waxcap that merely darkens as it dries is not demonstrating the tissue reaction used for the blackening waxcap. When both hypotheses are locally plausible, select two comparable, legally collected specimens and photograph them under the same light. Apply one small pressure mark to cap margin and stem, then repeat the frame at zero, five, fifteen, and thirty minutes. Keep exposure and white balance fixed.
+
+In *H. coccinea*, an old bruise may dull or become water-soaked, but the cap, gills, flesh, and stem should not progress together toward the pervasive charcoal state described in the [blackening waxcap guide](/mushrooms/blackening-waxcap-guide/). A positive control is useful only when each specimen remains separately labeled; never mix tissue or infer the scarlet identity solely from a negative reaction.
+
+## Measure grassland continuity without inventing a soil diagnosis
+
+Record a 2 m radius around each fruiting point: moss cover, sward height, bare soil, slope, shade, mowing or grazing, drainage, and visible enrichment. Repeat the same quadrat after rain and across seasons. This creates a habitat record without pretending that one waxcap can reveal exact soil chemistry or land-use history.
+
+Map scarlet, meadow, and blackening waxcaps as separate points rather than a single colorful assemblage. Co-occurrence can strengthen the case that a site supports waxcap grassland, but it cannot identify an individual fruit body. Preserve uncertainty in both directions: a maintained lawn can hold old fungal continuity, while a species-rich-looking photograph may cover only a small transient flush.
+
+## Audit gill attachment across cap expansion
+
+Photograph one young, one expanding, and one mature cap from the same population. At each stage, measure the angle of the gills near the stem and record whether attachment is adnate, notched, or slightly decurrent. Cap expansion can change the apparent angle; a torn junction can manufacture a false free gill.
+
+Pair those measurements with gill thickness, spacing, cap profile, stem texture, and the timed bruise series. This developmental matrix adds more value than another red-cap description and leaves a later reviewer enough evidence to revisit the name when regional waxcap taxonomy changes.
 
 ## References
 

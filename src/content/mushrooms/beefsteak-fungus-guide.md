@@ -221,6 +221,8 @@ Water content, pigment, surface wear, tube development, microbes, and insects ch
 
 Use local common names as search aids, then anchor records to a scientific name and evidence. Food-like metaphors do not describe taxonomy or safety.
 
+The [chicken of the woods guide](/mushrooms/chicken-of-the-woods-guide/) provides a contrasting host-linked record for layered orange shelves with sulfur-yellow pores, rather than reddish flesh, separable tubes, and a beefsteak-like cut surface.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Fistulina hepatica* occurrence and taxonomy record](https://www.gbif.org/species/2531012). Used as a geographic-occurrence checkpoint, not as a complete regional identification key.
