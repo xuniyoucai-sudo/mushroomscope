@@ -198,6 +198,8 @@ The cover is an original AI editorial image, not a field observation or voucher.
 
 ## References
 
+When a red-brown porcini-like bolete is specifically associated with pine, the [pine bolete guide](/mushrooms/pine-bolete-mushroom-guide/) adds a root-zone host map, maturity-paired pore record, and stem-reticulation protocol rather than relying on a market name.
+
 1. GBIF. [*Boletus edulis* taxon record](https://www.gbif.org/taxon/MCH9). Classification, synonyms, bibliography, and occurrence context.
 2. Species Fungorum Plus, Royal Botanic Gardens, Kew. [*B. edulis* checklist](https://www.gbif.org/dataset/bf3db7c9-5e5d-4fd0-bd5b-94539eaf9598/taxon/356530). Nomenclatural context.
 3. NCBI. [*B. edulis* taxonomy query](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Boletus+edulis). Independent lineage checkpoint.

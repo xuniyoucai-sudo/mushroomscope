@@ -135,6 +135,8 @@ The [slippery jack guide](/mushrooms/slippery-jack-mushroom-guide/) applies pore
 
 ## References
 
+The [pine bolete guide](/mushrooms/pine-bolete-mushroom-guide/) applies this workflow to a pine-associated red-brown bolete, with paired maturity stages and a four-rotation map of stem reticulation.
+
 The [bay bolete species guide](/mushrooms/bay-bolete-mushroom-guide/) applies this workflow to timed pore bruising, stem ornamentation, woodland host evidence, and separation from the *Boletus edulis* complex.
 
 1. [USDA Forest Service — Commercially Harvested Mushrooms of the Pacific Northwest](https://www.fs.usda.gov/pnw/pubs/pnw_gtr309.pdf)

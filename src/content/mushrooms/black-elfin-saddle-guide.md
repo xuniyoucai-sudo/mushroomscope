@@ -153,4 +153,6 @@ List unresolved points explicitly. “Dark *Helvella* with a strongly lacunose s
 
 ## References
 
+Pale folded material follows a different comparison path. The [white saddle fungus guide](/mushrooms/white-saddle-fungus-guide/) focuses on ivory lobes, a deeply fluted pale stem, cap attachment, and the regional limits of the name *Helvella crispa*.
+
 The sources in the page record support the accepted name, detailed morphology, regional key characters, and conservative poisoning response. They do not authenticate a reader's specimen or establish food safety.

@@ -179,6 +179,8 @@ Check three endpoints together: crisp dry coating, a tender hot center, and no p
 
 ## References
 
+Branched maitake needs a geometry-specific approach. The [crispy maitake recipe](/recipes/crispy-maitake-mushrooms/) compares open fronds, medium branches, and dense cores before choosing roasting time.
+
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Handling boundary for cultivated mushrooms before oil and crumb coating.
 2. U.S. Food and Drug Administration. [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely). Refrigerator-temperature and prompt-storage context for the short-lived leftovers.
 3. USDA. [FoodData Central](https://fdc.nal.usda.gov/). Ingredient-composition reference; actual coating pickup and optional Parmesan change the serving estimate.

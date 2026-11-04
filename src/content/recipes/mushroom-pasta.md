@@ -147,6 +147,8 @@ Browse more [mushroom recipes](/recipes/) or learn about the cultivated species 
 
 ## References
 
+The [wild mushroom pizza method](/recipes/wild-mushroom-pizza/) uses separate pre-cooking lanes and a topping moisture ledger when several verified cultivated mushroom textures share one high-heat bake.
+
 1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely) — produce purchasing, washing, and cross-contamination controls.
 2. [FDA — Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely) — refrigerator temperature and prompt-storage guidance.
 3. [USDA FoodData Central](https://fdc.nal.usda.gov/) — composition records for defined foods and preparation states, not a nutrient calculation for this complete dish.

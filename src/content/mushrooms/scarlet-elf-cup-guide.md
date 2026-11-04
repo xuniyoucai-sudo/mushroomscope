@@ -227,6 +227,8 @@ For millimeter-scale orange-red discs whose dark marginal hairs resemble eyelash
 
 ## References
 
+For a woodland cup that is ochre-buff rather than scarlet and stands as a narrow split ear, use the [hare's ear fungus guide](/mushrooms/hares-ear-fungus-guide/) to compare both cup surfaces, the lateral slit, base, and microscopic limits.
+
 1. GBIF Secretariat. [Sarcoscypha coccinea, species 8156721](https://www.gbif.org/species/8156721). Taxonomic and occurrence-record checkpoint; a database record does not identify the photographed cups.
 2. National Center for Biotechnology Information. [Taxonomy Browser: Sarcoscypha coccinea](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Sarcoscypha+coccinea). Lineage and linked sequence-record context; specialist literature remains necessary for nomenclature.
 3. GBIF Secretariat. [Sarcoscypha austriaca, species 8689016](https://www.gbif.org/species/8689016). Separate close-species record used to keep the *S. coccinea* comparison explicit.

@@ -6,8 +6,8 @@ keywords: ["crispy roasted maitake", "roasted maitake mushrooms", "maitake recip
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-10
-updatedDate: 2026-09-28
-revisionSummary: "Replaced stale pre-publication test language and added cluster-density sorting, pan-contact mapping, oil pickup checks, and staged edge-versus-core doneness."
+updatedDate: 2026-11-05
+revisionSummary: "Added a cluster-density trial, oil-by-mass controls, rack-position calibration, and a measured re-crisping workflow for repeatable edge texture."
 coverImage: "../../assets/recipes/crispy-maitake-mushrooms-editorial-v2.png"
 coverAlt: "AI editorial illustration of browned maitake clusters with crisp frilled edges on a dark sheet pan"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -200,6 +200,30 @@ Distribute oil with a large bowl and clean hands or a brush, lifting branches so
 Evaluate three zones before removal: the finest tips should be crisp and browned, mid-branches should bend before breaking, and the dense base should be hot and tender. Turn clusters by supporting the base rather than grabbing fragile fronds. Remove finished airy pieces early and give dense pieces additional contact time instead of forcing every shape to follow one timer.
 
 ## References
+
+## Run a cluster-density trial before scaling the recipe
+
+Maitake does not cook like a tray of identical slices. Dense central branches retain steam while thin outer fronds brown quickly. For a new supplier or unusually large cluster, divide 300 grams into three 100-gram groups: small open fronds, medium branched pieces, and dense core pieces. Keep oil and salt proportional to mass and place each group in a labeled third of the same preheated pan.
+
+Record starting thickness, occupied pan area, first visible edge browning, underside color at the first turn, and final mass. The purpose is not to publish a universal minute. It is to identify which geometry finishes first in the actual oven. Dense pieces can be split again or started earlier; delicate fronds can be removed before they become brittle and bitter.
+
+## Control oil by mushroom mass and contact area
+
+“Drizzle with oil” produces inconsistent results because narrow fronds expose more surface than a compact core. Weigh the cleaned mushrooms and measure the oil before tossing. Start with the recipe amount, distribute it in a wide bowl, and inspect for dry floury surfaces and pooled oil. Add only a measured increment when coverage is incomplete.
+
+Record oil used per 100 grams and the approximate area occupied on the pan. Oil transfers heat and supports browning, but excess oil can collect in branch junctions and make the center heavy. A glossy film is different from visible puddles. Keeping mass, oil, and area together makes a later batch reproducible without claiming that every maitake cluster has the same absorption.
+
+## Calibrate oven rack and pan recovery
+
+Home ovens cycle, and opening the door can drop surface temperature sharply. Preheat the pan on the intended rack, then note rack position, pan material, convection setting, and the time between removing the pan and returning it loaded. Use an oven thermometer if available, but judge doneness from dry edges, browned contact points, aroma, and resilient rather than wet branch centers.
+
+If the lower surface darkens before moisture escapes, move the rack upward or use a lighter pan on the next trial. If the tops dry while the underside stays pale, improve pan contact and preheat recovery. Change one variable at a time. This is the roasting counterpart to the species-specific texture decisions in the [maitake guide](/mushrooms/maitake-mushroom-guide/).
+
+## Re-crisp leftovers with a mass checkpoint
+
+Cool leftovers promptly in a shallow container and refrigerate according to food-safety guidance. For reheating, weigh a portion, spread it without overlap on a preheated pan, and stop when the edges are dry and hot throughout. A before-and-after mass can reveal whether the batch is merely warm or has actually released retained moisture.
+
+Do not chase the original texture until thin tips burn. Refrigeration softens crisp surfaces as moisture redistributes, so reheating is a controlled compromise. Add fresh acid or herbs after the oven rather than soaking the stored mushrooms beforehand. Discard leftovers with off odor, slime, mold, or an unsafe storage history.
 
 FDA guidance supports cleaning, refrigeration, and kitchen-separation statements. USDA FSIS supports cooling, storage, and reheating limits. FoodData Central is the appropriate starting point for ingredient-matched nutrition rather than estimates. Cornell's material establishes the cultivated specialty-mushroom context. No independent logged kitchen test was performed or claimed; cluster weights, tray material, oven mode, timing, and weight loss are variables readers can record when calibrating their own equipment.
 

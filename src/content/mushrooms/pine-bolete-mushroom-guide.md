@@ -6,8 +6,8 @@ keywords: ["pine bolete", "Boletus pinophilus", "pine bolete identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-19
-updatedDate: 2026-10-12
-revisionSummary: "Added a host-neighborhood confidence table, pore-aging controls, and a market-versus-field identity boundary for the regional Boletus edulis complex."
+updatedDate: 2026-11-05
+revisionSummary: "Added paired cap-pore maturity records, root-zone pine evidence, a standardized reticulation map, and explicit separation from market porcini lots."
 draft: false
 featured: false
 coverImage: "../../assets/species/pine-bolete-mushroom-editorial-v2.png"
@@ -215,6 +215,30 @@ A package labeled porcini can contain dried or sliced members of the *Boletus ed
 A field voucher requires the opposite evidence: intact cap, pores at known maturity, complete reticulated stem, timed reaction grid, host neighborhood, locality, and regional interpretation. Keeping the two records separate prevents culinary familiarity with “porcini” from becoming false confidence about an unknown wild bolete.
 
 ## References
+
+## Pair cap condition with pore maturity
+
+A red-brown cap is most useful when it remains attached to an age record. Select three intact fruit bodies representing button, expanded, and older stages, and give each a field number before handling. For every specimen, record cap diameter, margin position, surface cracking, pore color, pore density across a measured line, tube depth in section, and any bruising at zero, five, and fifteen minutes. Keep the photographs at the same white balance and scale.
+
+This series prevents a young pale pore surface from being compared with an old olive-yellow one as if they were different species. It also exposes contradictions: a cap that seems to fit the pine-bolete idea may carry a stem or pore reaction that redirects the identification. Do not combine the best cap from one specimen with the best stem from another in an unlabelled photo set.
+
+## Trace pine evidence through a defined root zone
+
+The presence of a pine somewhere in a landscape is weak evidence. Mark a radius around each fruit body and record every plausible ectomycorrhizal tree, visible root direction, canopy overlap, litter composition, and distance to trunk. Photograph needles, cones, bark, and buds when they can be collected or viewed lawfully. State whether tree identity was confirmed or inferred.
+
+Repeat the map for fruit bodies at the edge and center of the patch. A mixed stand may support several bolete partners, and roots extend beyond the nearest trunk. This method does not prove the individual fungal partner, but it turns “under pine” into a reviewable ecological observation. The [bolete identification guide](/identification/bolete-identification-guide/) provides the broader cap, pore, stem, and reaction workflow used before a species name is considered.
+
+## Calibrate a stem-reticulation map
+
+Photograph the stem at four rotations with the camera perpendicular to its surface. Divide it into upper, middle, and basal thirds, then record the percentage of each zone covered by raised netting, the color contrast between ridges and background, and whether the pattern changes after handling. A side-lit close view can show relief that a frontal flash erases.
+
+Reticulation should not be reduced to present or absent. Soil, abrasion, age, expansion, and camera sharpening alter visibility, while related porcini-group boletes can share a netted upper stem. Preserve an untouched control area when testing bruising, and keep the complete base. The resulting map can be compared with current regional keys without pretending that one patterned patch is diagnostic.
+
+## Keep a field voucher separate from a market porcini lot
+
+Retail “porcini” may contain dried slices, mixed species, regional trade names, or material whose original cap, stem, substrate, and host are no longer visible. Do not use package flavor, slice color, or a market label to validate a woodland collection. Conversely, a field identification does not authenticate every product sold under a broad culinary name.
+
+For a market audit, record brand, lot, origin, scientific name as sold, ingredient statement, intact versus sliced material, and supplier documentation. For a field voucher, preserve habitat, host evidence, complete anatomy, reactions, microscopy where needed, and identifier history. The [porcini guide](/mushrooms/porcini-mushroom-guide/) explains the broader trade-name and species-complex boundary.
 
 For a slimmer chestnut-capped bolete with yellow pores, variable blue bruising, and a fibrous rather than strongly netted stem, use the [bay bolete guide](/mushrooms/bay-bolete-mushroom-guide/) as a separate comparison instead of widening the pine-bolete concept.
 

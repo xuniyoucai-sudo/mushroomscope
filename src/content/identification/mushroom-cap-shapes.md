@@ -158,6 +158,8 @@ Cap proportions can change rapidly during autolysis; the [shaggy mane guide](/mu
 
 ## References
 
+Folded ascomycetes need their own shape vocabulary. The [white saddle fungus guide](/mushrooms/white-saddle-fungus-guide/) shows why lobes, cap attachment, and a chambered fluted stem cannot be reduced to an umbrella-cap label.
+
 The [fairy ring champignon guide](/mushrooms/fairy-ring-champignon-guide/) shows why a low umbo must be paired with hygrophanous color change, gill spacing, a wiry stem, white spores, and mapped grassland ecology.
 
 1. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy)

@@ -6,6 +6,8 @@ keywords: ["wild mushroom pizza", "mixed mushroom pizza", "mushroom pizza recipe
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-11
+updatedDate: 2026-11-05
+revisionSummary: "Added species-specific pre-cooking lanes, a topping moisture ledger, dough-temperature controls, and a repeatable bake-position test."
 coverImage: "../../assets/recipes/wild-mushroom-pizza-editorial-v2.png"
 coverAlt: "AI editorial illustration of a thin-crust pizza topped with browned cremini, oyster, and maitake mushrooms"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -196,6 +198,30 @@ Hot mushrooms emit steam directly onto raw dough. A brief spread on a plate shed
 No. Each species has its own identification, preparation, and toxicity issues. Use only verified food mushrooms and species-specific guidance.
 
 ## References
+
+## Build a species-specific pre-cooking lane
+
+A mixed topping should not mean mixed timing. Sort verified cultivated mushrooms by structure before heating: thin oyster-like fans, dense button or cremini slices, fibrous stem pieces, and branched clusters. Weigh each group separately and cook it in its own lane or batch so one type does not steam while another burns.
+
+For each group, record raw mass, cut thickness, pan area, heat setting, first liquid release, visible browning, and cooked mass. Cool the groups spread out rather than heaped in a bowl. Combine them only after each has reached a compatible dryness and size. This makes “wild mushroom pizza” a flavor style built from traceable ingredients, not an instruction to use unidentified foraged mushrooms.
+
+## Keep a topping moisture ledger
+
+The crust receives water from sauce, cheese, mushrooms, and any fresh vegetables. Write down the mass of sauce, drained cheese, raw mushrooms, and cooked mushrooms for the first successful pizza. The difference between raw and cooked mushroom mass is a practical estimate of water driven off before the topping reaches the dough.
+
+Use the ledger when scaling. Doubling mushroom mass without doubling pan area traps steam during pre-cooking; doubling wet cheese can erase the gain. The goal is not the driest possible topping. Mushrooms should remain juicy enough to eat while no visible liquid pools on the dough. For another controlled high-heat mushroom method, see the [crispy maitake recipe](/recipes/crispy-maitake-mushrooms/).
+
+## Record dough temperature and launch delay
+
+Dough extensibility changes with temperature. Record dough mass, room temperature, time out of refrigeration, and surface flour. Stretch only when the dough relaxes without tearing, then assemble promptly. A topped pizza waiting on the peel absorbs moisture and becomes harder to launch, while excessive bench flour can scorch.
+
+Prepare all cooked and cooled toppings before stretching. Note the elapsed time from sauce application to launch. If sticking recurs, shorten that delay, reduce wet topping, and verify peel technique before adding more flour. Keep the rim free of sauce so it can expand and provide a visual bake endpoint.
+
+## Map bake position instead of extending blindly
+
+On the first run, photograph the underside, rim, and center at the same intervals without leaving the oven open. Record baking-surface material, preheat duration, rack height, oven setting, and launch temperature if measured. A pale underside with a dark top suggests a heat-position problem rather than a need for more toppings or cheese.
+
+Change only one factor on the next pizza: rack height, broiler finish, surface preheat, or dough thickness. If the center remains soft while the underside is done, reduce topping moisture or mass instead of simply baking until the rim dries out. The result should have a set center, browned underside, melted cheese, and mushrooms with visible roasted edges.
 
 FDA outbreak guidance supports the strong boundary around wild-type mushrooms and undercooked morels. FDA produce guidance supports cleaning and refrigeration practices. USDA FSIS supports leftover cooling, storage, and reheating. FoodData Central is the reference for ingredient-matched nutrition work. This editorial recipe has not been independently kitchen-tested; a future test should log dough weight, surface type, mushroom raw and cooked weight, oven temperature, bake time, and bottom-crust result rather than implying a result from the cover image.
 

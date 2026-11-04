@@ -265,6 +265,8 @@ The [eyelash cup fungus guide](/mushrooms/eyelash-cup-fungus-guide/) addresses t
 
 ## References
 
+An upright buff cup split down one side should be compared with the [hare's ear fungus guide](/mushrooms/hares-ear-fungus-guide/), which separates *Otidea* architecture from the broader orange saucers and disturbed-soil ecology described here.
+
 1. [GBIF — *Aleuria aurantia*](https://www.gbif.org/species/5258678). Taxonomic and occurrence context.
 2. [NCBI Taxonomy Browser — *Aleuria aurantia*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Aleuria+aurantia). Lineage checkpoint.
 3. [USDA NRCS — Web Soil Survey](https://websoilsurvey.nrcs.usda.gov/). Landscape soil context; not a contamination test.

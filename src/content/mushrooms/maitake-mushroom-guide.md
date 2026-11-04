@@ -215,6 +215,8 @@ This separation protects the species guide from competing with the nutrition hub
 
 ## References
 
+For verified cultivated maitake intended for the kitchen, the [crispy roasted maitake method](/recipes/crispy-maitake-mushrooms/) controls cluster density, oil by mass, pan contact, and rack position instead of assigning one time to every frond.
+
 ## Measure frond thickness and pore density across the rosette
 
 A maitake rosette is not uniform. Select an outer, middle, and inner frond without detaching them. At a fixed distance from each margin, measure thickness with a millimeter rule, photograph the upper surface and underside at the same scale, and count pores within a five-millimeter line. Repeat on three sectors of the rosette. Outer fronds are often thinner and more expanded; crowded interior lobes can be thicker, paler, or distorted by contact.

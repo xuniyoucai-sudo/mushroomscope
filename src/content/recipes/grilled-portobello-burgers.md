@@ -146,6 +146,8 @@ After grilling, rest each cap gill-side down on a rack for a minute so free liqu
 
 ## References
 
+For a mixed cultivated-mushroom topping rather than a whole cap, the [wild mushroom pizza guide](/recipes/wild-mushroom-pizza/) records cooked-mass loss, sauce and cheese moisture, dough temperature, and bake position.
+
 Use the [portobello selection and cooking guide](/mushrooms/portobello-mushroom-guide/) for maturity-stage provenance, moisture endpoints, and raw-to-cooked mass accounting before adapting this recipe.
 
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Produce handling for caps and uncooked toppings.
