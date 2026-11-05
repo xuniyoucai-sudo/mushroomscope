@@ -5,8 +5,8 @@ keywords: ["mushroom grow room sanitation","clean mushroom grow room","mushroom 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-18
-updatedDate: 2026-10-21
-revisionSummary: "Added zone-specific limits, drain biofilm sampling, traffic-state controls, and corrective-action release criteria."
+updatedDate: 2026-11-06
+revisionSummary: "Added airflow-state verification, tool-family segregation, and a timed dry-release protocol tied to the original failed location."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-grow-room-sanitation-editorial-v2.png"
@@ -178,6 +178,24 @@ If a drain repeatedly fails while nearby surfaces remain stable, isolate its rou
 When a limit is exceeded, stop the affected traffic or production step, mark the zone, and preserve the result. Recleaning is only the first response. Investigate soil load, dilution, contact time, tool segregation, damaged surfaces, airflow, condensate, drain backup, and staff movement.
 
 The release decision must name affected batches and required evidence: acceptable visual condition, repaired drainage, repeat verification at the failed site, and review of adjacent zones. A pass from a different easy-to-clean location does not close the original failure. Retain failed and passing records together to show whether corrective action prevented recurrence.
+
+## Verify sanitation under the airflow state used for production
+
+A room cleaned with fans off can behave differently after circulation, humidification, and door traffic resume. Define three observation states: immediately after cleaning, after the required drying interval, and after production airflow has run for a stated period. At each state, inspect the same mapped surfaces for droplets, blown debris, condensate tracks, drain splash, and soil released from fan guards or duct edges.
+
+Do not sample directly in a sanitizer-wet film and call the result a release test. Record product, dilution, application time, label contact time, rinse requirement, surface temperature, and the moment the surface became visibly dry. If airflow creates new condensate or redistributes debris, the room has not passed simply because an earlier static inspection was acceptable. Link the finding to the [fruiting-conditions guide](/growing/mushroom-fruiting-conditions/) so humidity control and sanitation are treated as interacting operating variables.
+
+## Segregate tool families by soil load and direction of travel
+
+Color alone does not control a brush or squeegee. Assign each tool a named zone, storage point, cleaning method, replacement trigger, and allowed direction of travel. Drain tools should never touch product-adjacent racks; waste-room tools should not enter young-crop rooms; and wheels that cross a dirty threshold need a defined transition control. Photograph or diagram the route so temporary staff can follow it without guessing.
+
+Audit storage after the shift. A clean tool resting bristles-down in pooled water can become a reservoir before its next use. Record damaged handles, cracked heads, absorbent materials, and tools moved from their assigned hook. The [contamination troubleshooting guide](/growing/mushroom-contamination-guide/) helps connect recurring crop patterns with the room and handling records without claiming that one swab proves a crop diagnosis.
+
+## Release the original failure site after a timed dry check
+
+Corrective action must return to the exact failed location. Mark it on the room map, repair or clean the cause, allow the label-required contact and drying sequence, then repeat the same verification method at that site plus defined adjacent sites. A pass on a convenient stainless panel cannot substitute for a failed drain lip, caster housing, or cracked joint.
+
+Add a delayed check after normal airflow and traffic resume. Release criteria should state who reviews the record, which affected crop or material remains on hold, and what evidence closes the hold. If the site fails again, escalate to physical repair, traffic redesign, or removal of the niche rather than repeating chemical application indefinitely. Keep the initial failure, corrective action, repeat results, and final disposition in one record.
 
 ## References
 

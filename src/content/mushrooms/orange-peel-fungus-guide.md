@@ -6,8 +6,8 @@ keywords: ["orange peel fungus", "Aleuria aurantia", "orange cup fungus", "orang
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-04
-updatedDate: 2026-10-23
-revisionSummary: "Added cup-profile transects, disturbance-layer mapping, fracture tests, and an explicit apricot-jelly separation workflow."
+updatedDate: 2026-11-06
+revisionSummary: "Added an ascospore maturity protocol, paired disturbance controls, and a measured post-rain persistence record for soil-fruiting colonies."
 coverImage: "../../assets/species/orange-peel-fungus-editorial-v2.png"
 coverAlt: "AI editorial image of irregular bright orange peel fungus cups fruiting on damp disturbed mineral soil"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -262,6 +262,24 @@ Use one edge fragment only after the intact record is complete. Fresh orange pee
 Color is supporting evidence. Lock white balance or include a neutral reference, because phones can push both taxa toward the same saturated orange. Photograph the inner surface, outer surface, torn edge, and base under diffuse light. Avoid wetting a specimen merely to intensify color; added water changes gloss and texture.
 
 The [eyelash cup fungus guide](/mushrooms/eyelash-cup-fungus-guide/) addresses tiny hairy cups on wet decaying wood, a different scale and substrate from the larger ground-fruiting orange-peel form described here.
+
+## Separate mature spore evidence from an attractive color match
+
+Microscopy is most useful when the material is mature and traceable. Select one fresh numbered cup whose inner surface is intact, photograph its exact position and both surfaces, then retain a small portion without mixing it with neighboring orange cups. Record whether a natural spore discharge was observed, the mounting medium, calibration, magnification, number of spores measured, measurement range, and the ornamentation visible under the method used.
+
+Immature asci and collapsed old tissue can produce misleading dimensions. Compare measurements from discharged spores with tissue-derived material when a regional key calls for that distinction, and state clearly when maturity is uncertain. Do not convert a white cloud or one ornamented spore into a species verdict. Cup architecture, direct soil attachment, disturbance history, region, and the full microscopic combination must agree.
+
+## Pair the fruiting patch with a nearby disturbance control
+
+To test whether a colony is associated with a particular exposed-soil condition, mark equal areas inside the fruiting patch and on nearby apparently suitable ground where no cups are visible. Record bare-soil percentage, gravel and organic cover, compaction method, shade, slope, surface moisture, drainage, recent grading, and vegetation height using the same categories. Repeat after rain instead of comparing one wet fruiting plot with one dry control.
+
+The control does not prove absence of mycelium, and one site cannot establish a species-wide habitat rule. It does expose overbroad explanations. If both areas share the same disturbance but differ in drainage or closure by moss, the useful next observation is that measured difference—not a claim that construction alone caused fruiting. Keep the [habitat-record method](/identification/mushroom-habitat-identification/) consistent across visits.
+
+## Measure persistence after rain without counting the same cup twice
+
+Establish fixed photo points and number visible fruit bodies by position. After a defined rainfall event, revisit at regular intervals and classify each cup as newly emerged, expanding, stable, flattened, cracked, collapsed, or absent. Record rainfall source, elapsed time, temperature range, shade, and whether traffic disturbed the plot. A simple total count can rise because new cups emerge while older ones disappear, so retain transitions by individual or mapped cluster.
+
+This record connects morphology with hydration and age. It can show whether deep bowls flatten, whether margins split after drying, and how long recognizable tissue persists without treating every changed outline as another species. Avoid watering the plot to create a result, and do not move cups into a cleaner arrangement. Compare the measured changes with the [mushroom season guide](/identification/mushroom-season-guide/) rather than assigning a universal fruiting calendar from one colony.
 
 ## References
 

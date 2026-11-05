@@ -6,8 +6,8 @@ keywords: ["mushroom liquid culture", "liquid culture recipe", "test mushroom li
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-09
-updatedDate: 2026-10-22
-revisionSummary: "Added needle dead-volume calibration, jar-position mixing controls, turbidity decision limits, and a staged recovery test for stored cultures."
+updatedDate: 2026-11-06
+revisionSummary: "Added matched agar-release sampling, transfer-line carryover controls, and a quantitative recovery gate that keeps failed units in the denominator."
 coverImage: "../../assets/growing/mushroom-liquid-culture-editorial-v2.png"
 coverAlt: "AI editorial illustration of two clear liquid-culture jars with white mycelial wisps on a clean workbench"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -283,6 +283,24 @@ Jars that look normal still require agar testing. Inoculate replicate plates fro
 Storage labels should include strain or isolate, parent culture, medium recipe, preparation date, storage temperature, and every warming event. To evaluate recovery, compare a stored jar with a younger reference using the same mixing, delivered volume, agar batch, incubation temperature, and observation schedule. Score time to first visible growth, radial expansion, sectoring, abnormal pigment or exudate, and contamination across replicate plates.
 
 Do not move directly from a long-stored liquid to many production bags. Use a staged gate: liquid to agar, clean margin to a small test inoculum, and only then to a limited production batch. Fruiting or colonization performance should be compared against the reference under matched substrate and environmental conditions. A jar that remains visually white but recovers slowly or inconsistently may be unsuitable for routine production even when no contaminant is seen.
+
+## Design an agar-release sample around the jar, not one lucky draw
+
+A single clean plate can miss contamination that is rare, settled, attached to the vessel wall, or unevenly distributed through mycelial clumps. Define the release sample before mixing: one draw after the standard mixing cycle, a second after the stated rest interval, and a final draw from a different depth or septum orientation. Plate equal delivered volumes on separately labeled media and retain every plate, including those that remain blank or show slow, ambiguous growth.
+
+Use the same agar formula, plate age, incubation range, observation schedule, and acceptance language for the matched set. Record time to first visible mycelium, unexpected colonies, sectoring, bacterial sheen, pigment, and whether growth originates from the inoculation point. A jar passes only the written rule; the operator should not discard an inconvenient plate as a transfer mistake without also investigating the transfer process. The [contamination guide](/growing/mushroom-contamination-guide/) provides a separate decision path for quarantining suspect material.
+
+## Test transfer-line carryover with blanks
+
+Reusable dispensing hardware and repeated syringe work can carry broth or organisms from an earlier draw into the next vessel. Place sterile-broth blanks at the beginning and end of a transfer sequence, and add an intermediate blank when a long run or hardware change increases risk. Pass the blank through the same needle, port, handling time, and incubation window used for culture. An unopened medium control tests the medium and vessel; a handled blank tests the transfer route. They answer different questions.
+
+If a handled blank grows, quarantine every unit since the last acceptable control and map the sequence. Do not release a production jar merely because its own agar plate looks clean. Review needle changes, septum damage, hub contact, alcohol drying time, pressure differences, and whether a sterile item crossed a used surface. Record the corrective action in the [batch-record workflow](/growing/mushroom-batch-records/) and repeat the control before resuming transfers.
+
+## Define recovery as a proportion with failures visible
+
+When comparing stored cultures, report recovered clean units divided by all inoculated units. Keep contaminated plates, no-growth plates, and excluded handling errors in a disposition table rather than calculating only among successful plates. For example, eight clean recoveries from twelve inoculations is not a 100% result because four inconvenient units vanished from the denominator.
+
+Set the observation window and clean-growth criteria before incubation. Compare the stored culture with a younger reference across replicate plates and a small matched grain test, while keeping inoculum delivery, medium lot, temperature, and scoring times constant. Expansion rate alone is not enough: a fast plate with bacterial satellites or unstable sectoring fails the cleanliness gate. Advance to a limited production trial only when the predetermined proportion, morphology, controls, and traceability all pass.
 
 ## References
 

@@ -148,6 +148,8 @@ For a dark-spored species whose gill edges may carry bead-like droplets without 
 
 Two new comparisons show why texture and development belong beside attachment: the [Common bonnet guide](/mushrooms/common-bonnet-mushroom-guide/) follows pale attached gills as they acquire a pinkish cast, while the [Purple brittlegill guide](/mushrooms/purple-brittlegill-mushroom-guide/) contrasts crumbly cream blades with the unusually pliant gills of the charcoal burner.
 
+The [deceiver mushroom guide](/mushrooms/deceiver-mushroom-guide/) is a worked example of thick, distant, pinkish gills whose attachment and color must be interpreted with cap hydration, a fibrous ringless stem, white spores, and woodland ecology.
+
 ## References
 
 The [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/) applies decurrent-gill documentation to a blue-green woodland species while keeping odor and color as supporting evidence.

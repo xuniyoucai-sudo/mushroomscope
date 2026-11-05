@@ -153,6 +153,8 @@ Small brown mushrooms on wood require an equally strict stop rule. The [funeral 
 
 Two high-risk patterns deserve separate study: the [fly agaric profile](/mushrooms/fly-agaric-mushroom-guide/) explains a muscimol/ibotenic-acid syndrome, while the [destroying angel profile](/mushrooms/destroying-angel-mushroom-guide/) explains delayed amatoxin risk. Neither pattern can be cleared from a cap-only photograph.
 
+Small parasol-shaped mushrooms need the same restraint as dramatic poisonous species. The [stinking dapperling guide](/mushrooms/stinking-dapperling-mushroom-guide/) shows why a brown-scaled cap and ring cannot clear a small *Lepiota* without the complete base, spores, microscopy, and regional comparison.
+
 ## References
 
 1. North American Mycological Association. [Mushroom Poisonings](https://namyco.org/interests/toxicology/mushroom-poisonings/).

@@ -162,6 +162,8 @@ This page has editorial review status and no named mycologist or clinician revie
 
 Document the amethyst deceiver as a changing woodland organism: fresh cap color, timed drying, thick distant gills, fibrous ringless stem, intact base, white spore deposit, host neighborhood, and a linked series of ages. Then compare pale-spored *Laccaria* and rusty-spored veiled purple mushrooms using regional literature and microscopy. The sequence explains both the useful pattern and the reason the common name warns against overconfidence.
 
+For the brown, strongly hygrophanous side of this genus, use the [common deceiver field guide](/mushrooms/deceiver-mushroom-guide/). It separates moisture-driven cap change from species-level evidence and keeps thick gills, fibrous stem, white spores, host context, and microscopy in one record.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Laccaria amethystina* species record](https://www.gbif.org/species/2530909). Taxonomic backbone and occurrence context.

@@ -156,6 +156,8 @@ No arrangement of ring, patches, or volva clears a mushroom for eating. Do not c
 
 If ingestion may have occurred, promptly contact the relevant poison service or emergency medical provider. Preserve uncooked specimens, cooked leftovers, photographs, collection location, and times. Do not wait for symptoms or crowdsourced identification, and do not induce vomiting unless directed by a medical professional.
 
+For a small-ring example where the veil may collapse before maturity, the [stinking dapperling field guide](/mushrooms/stinking-dapperling-mushroom-guide/) records the cap, free gills, fragile ring, complete base, spores, and hazardous small-*Lepiota* boundary together.
+
 ## References
 
 The [porcelain fungus guide](/mushrooms/porcelain-fungus-guide/) shows why a delicate ring must be recorded across several ages and interpreted with cap mucilage, gills, beech wood, and growth orientation.
