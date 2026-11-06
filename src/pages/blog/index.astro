@@ -11,7 +11,7 @@ const totalPages = Math.ceil(articles.length / PAGE_SIZE);
 const description = 'Browse practical mushroom guides covering species, safe identification, cultivation, nutrition evidence, health research, and cooking techniques.';
 ---
 
-<BaseLayout title="Mushroom Blog" description={description} noindex={articles.length === 0}>
+<BaseLayout title="Mushroom Blog" description={description} noindex={articles.length === 0} allowAds={articles.length > 0}>
   <div class="shell py-8">
     <Breadcrumbs items={[{ label: 'Blog' }]} />
   </div>

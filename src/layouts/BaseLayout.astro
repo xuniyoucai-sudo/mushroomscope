@@ -3,8 +3,8 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 
-interface Props { title: string; seoTitle?: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
-const { title, seoTitle, description, image, imageAlt, type = 'website', noindex = false, schema } = Astro.props;
+interface Props { title: string; seoTitle?: string; description: string; image?: string; imageAlt?: string; type?: 'website' | 'article'; noindex?: boolean; allowAds?: boolean; schema?: Record<string, unknown> | Record<string, unknown>[] }
+const { title, seoTitle, description, image, imageAlt, type = 'website', noindex = false, allowAds = false, schema } = Astro.props;
 const siteName = 'MushroomScope';
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const nonSearchLandingPaths = new Set(['/contact/', '/disclaimer/', '/privacy-policy/', '/rss/', '/sitemap/', '/terms/']);
@@ -28,7 +28,8 @@ const brandedTitle = titleCandidate.includes(siteName) ? titleCandidate : `${tit
 const pageTitle = brandedTitle.length <= 60 ? brandedTitle : titleCandidate;
 const imageUrl = image ? new URL(image, Astro.site) : undefined;
 const verification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
-const adsenseId = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID;
+const adsenseCandidate = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID?.trim();
+const adsenseId = /^ca-pub-\d{16}$/.test(adsenseCandidate ?? '') ? adsenseCandidate : undefined;
 const organizationId = 'https://mushroomscope.com/#organization';
 const websiteId = 'https://mushroomscope.com/#website';
 const graph = [
@@ -54,11 +55,12 @@ const structuredData = JSON.stringify({ '@context': 'https://schema.org', '@grap
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="alternate" type="application/rss+xml" title="MushroomScope RSS" href="/rss.xml" />
     {verification && <meta name="google-site-verification" content={verification} />}
+    {adsenseId && <meta name="google-adsense-account" content={adsenseId} />}
     <meta name="baidu-site-verification" content="codeva-2aqKHOWOiO" />
     <meta property="og:type" content={type} /><meta property="og:site_name" content={siteName} /><meta property="og:locale" content="en_US" /><meta property="og:title" content={pageTitle} /><meta property="og:description" content={description} /><meta property="og:url" content={canonical} />{imageUrl && <meta property="og:image" content={imageUrl} />}{imageUrl && imageAlt && <meta property="og:image:alt" content={imageAlt} />}
     <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} /><meta name="twitter:title" content={pageTitle} /><meta name="twitter:description" content={description} />{imageUrl && <meta name="twitter:image" content={imageUrl} />}{imageUrl && imageAlt && <meta name="twitter:image:alt" content={imageAlt} />}
     <script is:inline type="application/ld+json" set:html={structuredData} />
-    {adsenseId && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`} crossorigin="anonymous"></script>}
+    {adsenseId && allowAds && !effectiveNoindex && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`} crossorigin="anonymous"></script>}
     {/* Google Analytics 4 is intentionally disabled. Do not restore the tag without updating the privacy policy and consent experience first. */}
   </head>
   <body><a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:p-3">Skip to content</a><Header /><main id="main"><slot /></main><Footer /></body>

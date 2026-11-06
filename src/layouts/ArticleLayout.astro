@@ -174,7 +174,7 @@ const schema = [
   { '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) },
 ];
 ---
-<BaseLayout title={title} seoTitle={seoTitle} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" schema={schema}>
+<BaseLayout title={title} seoTitle={seoTitle} description={description} image={coverImage?.src} imageAlt={coverAlt || title} type="article" allowAds={true} schema={schema}>
   <div class="shell py-8"><Breadcrumbs items={[{ label: categoryName, href: `/${category}/` }, { label: title }]} /></div>
   <article class="shell grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
     <div>

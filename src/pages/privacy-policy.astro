@@ -1,4 +1,49 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro'; import Breadcrumbs from '../components/Breadcrumbs.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const adsenseCandidate = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID?.trim();
+const advertisingEnabled = /^ca-pub-\d{16}$/.test(adsenseCandidate ?? '');
 ---
-<BaseLayout title="Privacy Policy" description="Read the MushroomScope privacy policy, including current data collection practices, storage, contact messages, and privacy rights."><div class="shell py-8"><Breadcrumbs items={[{label:'Privacy Policy'}]} /></div><article class="shell max-w-4xl py-12"><h1 class="font-serif text-5xl">Privacy Policy</h1><p class="mt-3 text-sm text-slate-500">Last updated: August 13, 2026</p><div class="prose mt-8"><p>MushroomScope is designed to collect as little personal information as practical. This policy explains the limited information processed when you visit the site and the choices available to you.</p><h2>Website analytics</h2><p>MushroomScope has paused Google Analytics 4. The website does not currently load the Google Analytics tag, send page-view or custom-event data to Google Analytics, or set Google Analytics cookies. Site-search words and related-guide clicks are not sent to Google Analytics.</p><p>Aggregate information collected before analytics was paused may remain in the MushroomScope Google Analytics property for the applicable Google Analytics retention period. Access to that historical reporting is restricted and is used only to understand past site performance.</p><h2>Local storage and cookies</h2><p>MushroomScope does not currently use optional analytics storage. A previous version of the site stored privacy choices in browser local storage and may have set Google Analytics cookies after consent. You may remove historical site data at any time through your browser settings.</p><h2>Advertising</h2><p>MushroomScope does not use Google Analytics for advertising personalization. If advertising technology or optional tracking is introduced, this policy and an appropriate consent experience will be reviewed before activation.</p><h2>Server and hosting records</h2><p>Our hosting and security providers may process limited technical records, such as request time, requested URL, IP address, user agent, response status, and security signals, to deliver the site, prevent abuse, diagnose faults, and maintain service reliability. Their handling of this information is governed by their own terms and applicable law.</p><h2>Contact messages</h2><p>If you email us, we receive the information you provide and use it to respond, maintain necessary records, prevent abuse, and improve the site. We do not sell contact details.</p><h2>Data retention and rights</h2><p>Information is retained only as reasonably needed for its stated purpose, security, legal obligations, or dispute resolution. Depending on your location, you may have rights to request access, correction, deletion, restriction, or objection.</p><h2>Contact</h2><p>Questions or privacy requests can be sent to <!--email_off--><a href="mailto:hello@mushroomscope.com">hello@mushroomscope.com</a><!--/email_off-->.</p></div></article></BaseLayout>
+
+<BaseLayout title="Privacy Policy" description="Read the MushroomScope privacy policy, including advertising, cookies, consent choices, hosting records, contact messages, and privacy rights.">
+  <div class="shell py-8"><Breadcrumbs items={[{ label: 'Privacy Policy' }]} /></div>
+  <article class="shell max-w-4xl py-12">
+    <h1 class="font-serif text-5xl">Privacy Policy</h1>
+    <p class="mt-3 text-sm text-slate-500">Last updated: November 6, 2026</p>
+    <div class="prose mt-8">
+      <p>MushroomScope is designed to collect as little personal information as practical. This policy explains the information processed when you visit the site, how advertising services may use data, and the choices available to you.</p>
+
+      <h2>Current service status</h2>
+      <p>{advertisingEnabled ? 'Google AdSense is configured on eligible content pages. Advertising remains subject to user consent, regional requirements, and Google publisher controls.' : 'Google AdSense is not currently enabled on this deployment. MushroomScope is preparing the disclosures and consent controls required before advertising is activated.'}</p>
+
+      <h2>Website analytics</h2>
+      <p>MushroomScope has paused Google Analytics 4. The website does not currently load the Google Analytics tag, send page-view or custom-event data to Google Analytics, or set Google Analytics cookies. Site-search words and related-guide clicks are not sent to Google Analytics.</p>
+      <p>Aggregate information collected before analytics was paused may remain in the MushroomScope Google Analytics property for the applicable retention period. Access to that historical reporting is restricted and is used only to understand past site performance.</p>
+
+      <h2>Advertising and Google AdSense</h2>
+      <p>MushroomScope may use Google AdSense to display advertising on eligible content pages. Third-party vendors, including Google, may use cookies, web beacons, IP addresses, local storage, or other identifiers to serve, limit, measure, and report advertising.</p>
+      <p>Google's use of advertising cookies can enable Google and its partners to serve ads based on a visitor's activity on MushroomScope or other websites. Depending on location, consent, and account settings, visitors may receive personalized or non-personalized ads. Other authorized advertising vendors may use their own technologies under their published privacy policies.</p>
+      <p>Learn <a href="https://policies.google.com/technologies/partner-sites" rel="external noreferrer">how Google uses information from sites or apps that use its services</a>. Visitors can manage Google ad personalization through <a href="https://adssettings.google.com/" rel="external noreferrer">Google Ads Settings</a> and may find additional industry opt-out choices at <a href="https://www.aboutads.info/choices/" rel="external noreferrer">YourAdChoices</a>, where available.</p>
+
+      <h2>Consent choices</h2>
+      <p>Where required, MushroomScope will use a Google-certified consent management platform integrated with the IAB Transparency and Consent Framework before requesting advertising consent from visitors in the European Economic Area, the United Kingdom, and Switzerland. The consent message provides choices for personalized advertising and applicable data processing.</p>
+      <p>A visitor can revisit or withdraw choices through the privacy controls supplied by that consent platform. Browser settings may also be used to block or remove cookies and site data, although doing so can affect advertising preferences and some site functions.</p>
+
+      <h2>Local storage and cookies</h2>
+      <p>Necessary storage may retain a privacy choice. When advertising is enabled and permitted, Google or authorized vendors may place or read cookies and use other identifiers for ad delivery, frequency limiting, fraud prevention, measurement, and personalization. MushroomScope does not enable optional analytics storage while Google Analytics remains paused.</p>
+
+      <h2>Server and hosting records</h2>
+      <p>Our hosting and security providers may process limited technical records, such as request time, requested URL, IP address, user agent, response status, and security signals, to deliver the site, prevent abuse, diagnose faults, and maintain service reliability. Their handling of this information is governed by their own terms and applicable law.</p>
+
+      <h2>Contact messages</h2>
+      <p>If you email us, we receive the information you provide and use it to respond, maintain necessary records, prevent abuse, and improve the site. We do not sell contact details.</p>
+
+      <h2>Data retention and privacy rights</h2>
+      <p>Information is retained only as reasonably needed for its stated purpose, security, legal obligations, or dispute resolution. Depending on your location, you may have rights to request access, correction, deletion, restriction, portability, or objection, and to withdraw consent where processing is based on consent.</p>
+
+      <h2>Contact</h2>
+      <p>Questions or privacy requests can be sent to <!--email_off--><a href="mailto:hello@mushroomscope.com">hello@mushroomscope.com</a><!--/email_off-->.</p>
+    </div>
+  </article>
+</BaseLayout>

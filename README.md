@@ -61,7 +61,9 @@ The static production output is written to `dist/`.
 
 Copy `.env.example` to `.env` and add IDs only when ready. All integrations remain disabled while values are blank. Before enabling Analytics or AdSense, implement consent controls appropriate to each visitor's jurisdiction and expand the privacy policy.
 
-For AdSense, add the exact `ads.txt` line supplied by your approved account to `public/ads.txt`. Do not publish a placeholder or guessed publisher ID. Then configure Google's Privacy & messaging consent flow for the regions you serve. AdSense approval still depends on sufficient original content and policy review; technical readiness alone does not guarantee approval.
+For AdSense, set the exact `PUBLIC_ADSENSE_PUBLISHER_ID` supplied by your account in the Cloudflare Pages production environment. The value must use the `ca-pub-0000000000000000` format. The build validates that value and generates `ads.txt` from the same ID, so the site-verification meta, loader, and authorized-seller record cannot drift apart. Do not publish a placeholder or guessed publisher ID.
+
+Before enabling the ID, create and publish a Google-certified European regulations message under AdSense **Privacy & messaging** for the EEA, UK, and Switzerland. The local legacy consent component is not used as a substitute for a certified TCF CMP. AdSense code loads only on explicitly eligible publisher-content pages and never on noindex, legal, search, error, or pagination pages. Approval still depends on Google policy review; technical readiness alone does not guarantee approval.
 
 ## Upload to GitHub
 
