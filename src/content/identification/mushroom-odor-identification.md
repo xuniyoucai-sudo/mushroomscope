@@ -135,6 +135,8 @@ The safe response is different from field identification. Do not wait to determi
 
 For ordinary observation, return the specimen to the field or dispose of it safely after documentation. Keep children and pets from unknown mushrooms. A record that says “identity unresolved” is a successful field note when decisive evidence is missing.
 
+The [clustered bonnet field guide](/mushrooms/clustered-bonnet-mushroom-guide/) shows how a reported rancid or farinaceous odor must stay attached to specimen age, hardwood growth form, cap and gill evidence, and a regional key.
+
 ## References
 
 The [common stinkhorn guide](/mushrooms/common-stinkhorn-guide/) applies this odor protocol to a timed gleba-and-insect record, showing why wind, temperature, stage, and distance must accompany a carrion-like description.

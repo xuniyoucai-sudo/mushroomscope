@@ -145,6 +145,8 @@ The [habitat-identification guide](/identification/mushroom-habitat-identificati
 
 Before leaving the site, check that the photograph set shows one unquestioned point of wood attachment, one undamaged gill-to-stem junction, and at least two cap ages. Record what remains unknown. That final uncertainty list prevents a later observer from treating an omitted character as if it had been checked and found absent.
 
+For a denser oak-stump fruiting pattern, compare the [clustered bonnet guide](/mushrooms/clustered-bonnet-mushroom-guide/), which separates shared-base architecture, stem color gradient, odor, and microscopy from this broader common-bonnet concept.
+
 ## References
 
 The sources listed in the page record support accepted taxonomy, specialist genus characters, regional comparison practice, and conservative poisoning response. They do not authenticate a reader's specimen. A confident record should be checked against a current regional key and, when required, voucher-linked microscopy.

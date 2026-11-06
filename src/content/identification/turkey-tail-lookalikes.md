@@ -5,8 +5,8 @@ keywords: ["turkey tail lookalikes","Trametes versicolor identification"]
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-19
-revisionSummary: "Rebuilt the comparison around pore verification, measured bracket sections, host-decay context, lookalike-specific decision points, and an auditable collection workflow."
+updatedDate: 2026-11-07
+revisionSummary: "Added smoky-bracket, hairy-Trametes, and crust-to-pore decision gates with measured fresh-margin comparisons and mixed-colony controls."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "identification/mushroom-pore-surface-guide", "identification/mushroom-photo-checklist", "mushrooms/artists-conk-mushroom-guide"]
@@ -138,6 +138,24 @@ Turkey tail is primarily documented on dead hardwood, but substrate labels can b
 ### When is microscopy useful?
 
 Microscopy and expert comparison may be needed for pale Trametes collections and old material. Spore dimensions, hyphal construction, pore density, and voucher quality belong in a serious determination.
+
+## Add smoky bracket as a grey-underside branch
+
+The new [smoky bracket guide](/mushrooms/smoky-bracket-fungus-guide/) covers *Bjerkandera adusta*, a thin zoned hardwood bracket that can be filed casually as a faded turkey tail. Its decisive redirect is underneath: mature pores become smoke-grey to dark grey, often outside a pale growing edge, whereas a fresh turkey-tail pore surface is white to cream. Compare protected pore tissue rather than a dirty exposed underside.
+
+Measure bracket thickness, pale-margin width, and pores along a millimeter line in three fresh areas. Section one abundant lawful specimen to compare pale context with the darker tube layer. Grey surface debris that wipes away is not the same as pigmented pore tissue, and a single old bracket should remain unresolved when no fresh margin survives.
+
+## Separate coarse hairs from turkey tail's velvety zones
+
+*Trametes hirsuta* and other pale pore-bearing relatives can retain conspicuous hairs and subdued zoning. Photograph an upper surface at low raking light, then compare hair length and density from center to margin. Record whether zones are created by color, hair direction, or both. Do not describe every fuzzy bracket as turkey tail merely because its underside has pores.
+
+Use matched fresh shelves from one wood unit. Measure radius, projection, total thickness, pore density, and flexibility after the same hydration history. A thick pale bracket with coarse persistent hairs should be keyed independently even if a nearby thin multicolored shelf is genuine *T. versicolor*.
+
+## Prevent mixed colonies from producing a composite identification
+
+One log can carry *Stereum*, *Trametes*, *Bjerkandera*, crust fungi, and old sterile shelves at the same time. Assign a field number to each visually continuous colony and photograph boundaries before sampling. Never combine several caps for one spore deposit or microscopy slide because attractive zones from one fungus and pores from another can create a convincing false record.
+
+Build a colony matrix with upper texture, fertile-surface type, pore color, pore density, section thickness, margin state, and attachment. If two rows differ, keep them separate until a current key or specialist resolves them. This control is more important than accumulating additional color photographs.
 
 ## References
 

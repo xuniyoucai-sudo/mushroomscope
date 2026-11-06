@@ -235,6 +235,8 @@ For field comparison, use the dedicated [turkey tail lookalikes guide](/identifi
 
 The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) shows why a fresh lilac surface that tears into teeth redirects a turkey-tail comparison. A brown fan arising from soil or pine litter without a true pore layer belongs in a different comparison; the [earthfan fungus guide](/mushrooms/earthfan-fungus-guide/) maps that terrestrial rosette architecture.
 
+The [smoky bracket guide](/mushrooms/smoky-bracket-fungus-guide/) provides the relevant comparison when thin zoned shelves have a genuinely grey pore layer rather than turkey tail's pale underside.
+
 ## References
 
 Compare the pale round-pored underside here with the [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/), where fresh violet pores tear into teeth as brackets age.

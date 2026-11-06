@@ -6,8 +6,8 @@ keywords: ["mushroom antioxidants","ergothioneine mushrooms","glutathione mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-24
-updatedDate: 2026-10-19
-revisionSummary: "Added a species-to-serving comparison protocol, processing mass balance, biomarker interpretation ladder, and a claim-audit workflow while preserving editorial health boundaries."
+updatedDate: 2026-11-07
+revisionSummary: "Added dry-matter normalization, cooking-water mass balance, and an exposure-to-outcome evidence table for interpreting ergothioneine and glutathione claims."
 draft: false
 featured: false
 evidenceLevel: preliminary
@@ -155,6 +155,24 @@ No simple rule applies; heat, water, time, food form, and the specific compound 
 ### Are supplements equivalent to eating mushrooms?
 
 No. Dose, matrix, processing, co-ingredients, and evidence differ.
+
+## Normalize fresh and dried results before ranking mushrooms
+
+A concentration reported per 100 grams fresh food cannot be ranked directly against milligrams per gram of dry powder. Record the edible portion, moisture method, fresh mass, dry mass, analytical basis, and conversion. When moisture is known, convert both samples to a dry-matter basis for compositional comparison, then convert back to a realistic cooked serving for dietary context. Show both results so the normalization does not disguise portion size.
+
+Species name is not enough. Strain, substrate, maturity, storage, cap-to-stem ratio, and analytical method can change the measured value. Pooling an unverified market mix and labeling the mean “shiitake” or “oyster” creates precision without traceability. A defensible table keeps each sample and uncertainty interval visible and avoids declaring a universal winner from one laboratory batch.
+
+## Track compounds that move into cooking water
+
+Boiling can reduce a compound measured in drained mushrooms because it degraded, moved into the liquid, or both. Weigh raw mushrooms, added water, drained solids, and recovered liquid. Analyze both fractions when the question is retention, and report the unrecovered mass. If broth is eaten, loss from the solid is not automatically loss from the meal.
+
+Pan cooking poses a different balance: water leaves as vapor while solids concentrate, and added oil changes serving mass. Compare absolute amount in the original batch and final edible batch rather than concentrations alone. The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) explains why equal-weight comparisons can confuse water loss with nutrient creation.
+
+## Match each claim to the highest evidence actually measured
+
+Use an explicit ladder: chemical content; cell-free antioxidant assay; cell experiment; animal exposure; human absorption or biomarker change; clinical outcome; independently replicated outcome. Evidence can support only its own rung. A DPPH color change does not demonstrate human absorption, and a short-term plasma biomarker does not establish prevention of cancer, dementia, or cardiovascular disease.
+
+For a human study, record randomization, comparator, blinding, preregistration, sample size, attrition, food or product identity, dose, duration, primary outcome, adverse events, funding, and whether the effect was replicated. Observational associations require adjustment and still cannot remove all dietary and socioeconomic confounding. This structure lets promising ergothioneine research remain interesting without turning it into diagnosis, treatment, or guaranteed longevity advice.
 
 ## References
 

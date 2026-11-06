@@ -140,6 +140,8 @@ For a developmental example, the [violet-toothed polypore guide](/mushrooms/viol
 
 The [Scarletina bolete guide](/mushrooms/scarletina-bolete-guide/) applies pore-scale photography to a red-pored, blue-bruising species where untouched color must be recorded before a controlled pressure test.
 
+For a measured grey-pore example, the [smoky bracket field guide](/mushrooms/smoky-bracket-fungus-guide/) links pore density, pale margin width, tube-layer section, hardwood attachment, and mixed-colony controls.
+
 ## References
 
 The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) demonstrates how fresh pores split into tooth-like partitions and why mixed brackets need separate specimen numbers.

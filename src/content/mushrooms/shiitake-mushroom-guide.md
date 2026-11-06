@@ -6,8 +6,8 @@ keywords: ["Lentinula edodes","shiitake","mushroom identification","mushroom gro
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-20
-revisionSummary: "Added strain-provenance and matched harvest-cohort audits to the existing shiitake development, cultivation, dermatitis, and evidence boundaries."
+updatedDate: 2026-11-07
+revisionSummary: "Added block-browning release criteria, log-force controls, and a dermatitis case-record protocol while preserving species, food, and extract boundaries."
 draft: false
 featured: false
 coverImage: "../../assets/species/shiitake-mushroom.jpg"
@@ -237,6 +237,24 @@ Fresh yield alone can reward a wetter crop. For each flush, record harvest time,
 Keep first flush, later flushes, and cumulative yield separate. Rehydration treatment, rest interval, block mass loss, surface damage, and room occupancy all affect the next crop. A system that produces a large first flush but fails afterward answers a different production question from one that provides moderate repeated harvests. Report biological efficiency with its dry-substrate denominator and room-days with the harvest data.
 
 Quality observations should be measured rather than aesthetic. Record cap diameter distribution, stem proportion, surface cracking, physical damage, insect presence, and time to cooling. These variables help distinguish strain, climate, opening, and harvest-window effects; they do not establish nutrient superiority or medicinal potency.
+
+## Release a browned block by tissue condition, not calendar age
+
+Commercial-style sawdust blocks often develop a brown protective surface before fruiting, but “brown” is not a binary quality mark. Record the first date of visible browning, the percentage of each face covered, block mass, bag condensation, soft zones, cracks, and any uncolonized substrate. Photograph the same four faces under fixed light every three days. A dark surface with a sour odor, wet pocket, or expanding colored colony is not made acceptable by reaching a scheduled opening date.
+
+Before opening, define a release gate: complete internal colonization appropriate to the supplier's strain, stable mass, coherent resilient surface, no unresolved odor, no active contaminant margin, and a documented browning interval. Hold one matched block closed as a comparator when testing a new opening method. After opening, record surface drying, pin location, malformed primordia, and days to harvest. This turns browning from an aesthetic judgment into a traceable batch decision.
+
+## Test log forcing against an unforced control
+
+Soaking a colonized log can synchronize fruiting, but a flush after immersion does not prove that the soak alone caused it. Pair logs by tree species, diameter, felling date, inoculation date, spawn lot, bark condition, and shaded position. Weigh or otherwise document hydration before treatment, soak only one member of each pair under the spawn supplier's limits, and keep its partner in the same weather without forced immersion.
+
+Record water temperature, duration, post-soak position, rainfall, night temperature, pin date, and trimmed yield. Allow an adequate rest interval before repeating a force cycle; repeated forcing can exhaust or damage a log. Compare fresh yield with the same original log denominator rather than celebrating the largest single flush. If control logs fruit simultaneously after a cool wet period, report that seasonal trigger instead of crediting the intervention alone.
+
+## Build a dermatitis case record without diagnosing it
+
+Flagellate dermatitis has been associated with raw or undercooked shiitake, but a patterned rash still requires clinical evaluation and other causes remain possible. A useful exposure record lists product name, lot, origin, fresh or dried form, storage, preparation temperature and duration, portion, time eaten, onset, photographs taken with consent, other foods, medicines, and whether anyone else shared the batch.
+
+Do not deliberately re-expose a person to test causality. Preserve packaging and contact a clinician or poison service according to symptom severity; breathing difficulty, facial swelling, collapse, or rapidly worsening illness warrants urgent care. Report suspected product problems through the relevant local food-safety channel. This record supports medical assessment without claiming that a webpage, rash photograph, or cap appearance has confirmed the diagnosis.
 
 ## References
 
