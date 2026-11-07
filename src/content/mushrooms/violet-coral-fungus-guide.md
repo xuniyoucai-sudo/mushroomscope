@@ -169,6 +169,8 @@ No. Photograph first and minimize disturbance. Where lawful and scientifically j
 
 This guide treats it as an ecological field species. It is not presented as a validated beginner crop, and moving habitat material is inappropriate.
 
+For the opposite architectural pattern, the [giant club fungus guide](/mushrooms/giant-club-fungus-guide/) documents one stout, unbranched fertile club rather than a repeated coral branch system.
+
 ## References
 
 Before leaving a site, make one final context frame that includes the colony, scale, substrate transition, surrounding vegetation, and a north or slope reference. Write the observation number in the field notes rather than placing text into the habitat. This wider record can later reveal mowing, foot traffic, drainage, or canopy context missed by macro photographs. It also lets a reviewer distinguish a single compact colony from scattered fruit bodies that only appeared continuous in a close crop. When submitting the record, retain coordinates at the privacy level required for sensitive fungi and land access.

@@ -6,7 +6,7 @@ keywords: ["death cap mushroom", "Amanita phalloides", "death cap identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-17
-updatedDate: 2026-10-17
+updatedDate: 2026-11-08
 reviewStatus: editorial
 revisionSummary: "Original safety guide with whole-base documentation, developmental-stage comparison, host ecology, amatoxin evidence limits, and urgent exposure response."
 draft: false
@@ -163,6 +163,24 @@ For non-ingestion observations, photograph the whole patch before touching it. R
 Measure several fruit bodies and describe variation. Dry a representative voucher only where collection rules allow, label it with date and broad locality, and seek a herbarium or experienced regional identifier for consequential records. Avoid publishing exact coordinates for sensitive sites. Wash tools and surfaces after documentation and discard material where children and pets cannot reach it.
 
 A responsible conclusion lists remaining uncertainty. “Deadly *Amanita* in section Phalloideae; species unresolved” is safer and scientifically stronger than forcing *A. phalloides* from cap color. No website, image model, or remote commenter can certify a wild mushroom as edible. For this group, doubt is a stop signal.
+
+## Recover the entire volva without creating a false absence
+
+The death cap's basal volva can remain buried, tear away, or collapse against the bulb. Photograph the standing mushroom, then excavate outside the expected base with a tool rather than pulling the stem upward. Preserve the soil block around the bulb until the cup, limb, patches, or absence can be examined. A trimmed market-style stem or a snapped roadside specimen cannot support “no volva.”
+
+Number the base, cap, gill view, and spore sample from the same fruit body. Mixed *Amanita* collections occur, and combining the clearest cap from one specimen with the best base from another creates a record that never existed. The [Amanita identification guide](/identification/amanita-identification-guide/) explains how veil structures, free gills, spores, and complete bases work as a system rather than as interchangeable photographs.
+
+## Map host evidence and expanding range separately
+
+Record nearby oaks, beeches, chestnuts, hazels, pines, and planted ornamentals with distance and identification confidence. A fruit body near a tree does not demonstrate the root partner, but repeated mapped fruiting can guide later root-tip or molecular work. Photograph transported soil, wood chips, irrigated beds, and street-tree pits because human movement can shape urban observations.
+
+Do not turn one public photograph into a new regional distribution claim. Preserve a voucher where lawful, consult a current local key, and seek expert or sequence-supported review. Database points may represent older names, uncertain photographs, or imported material. Host mapping and geographic confirmation are separate evidence problems and should remain separate in the published record.
+
+## Preserve an exposure timeline for poison specialists
+
+When ingestion is suspected, identification work must not delay medical care. Record the time eaten, estimated amount, number of diners, symptom onset, repeated vomiting or diarrhea, medications, and any apparent symptom-free interval. Keep raw mushrooms, cooked leftovers, cleaning scraps, packaging, and uncropped photographs in separate labeled containers when it is safe to do so.
+
+Contact local emergency services or a poison center immediately; amatoxin illness can have a delayed presentation, and temporary improvement does not demonstrate recovery. Do not induce vomiting or try a home remedy unless a medical professional directs it. The [poisonous mushroom warning guide](/identification/poisonous-mushroom-warning-signs/) provides prevention context, but emergency decisions belong to clinicians and poison specialists with the actual exposure record.
 
 ## References
 

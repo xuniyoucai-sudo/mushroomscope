@@ -6,7 +6,7 @@ keywords: ["vitamin D in mushrooms", "UV treated mushrooms vitamin D2", "mushroo
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-08-24
+updatedDate: 2026-11-08
 revisionSummary: "Clarified UV-treated product evidence, separated label interpretation from health outcomes, tightened safety language, and aligned key claims with primary sources."
 draft: false
 featured: false
@@ -130,6 +130,24 @@ For the culinary species behind many retail products, visit the [cremini mushroo
 ## Keep the label with the dietary record
 
 Photograph the nutrition panel, serving size, UV-treatment statement, lot, and date before discarding packaging. Record the amount actually eaten and other fortified foods or supplements used that day. This supports a clinician's review and prevents a value from one product being applied to a different mushroom package.
+
+## Normalize label comparisons to the form actually eaten
+
+A vitamin D number is meaningful only when the product form and serving basis are explicit. Record species, fresh or dried state, UV-treated claim, serving mass, and whether the value is per serving or per 100 grams. Drying removes water and concentrates values per gram without necessarily creating more vitamin D; rehydration reverses part of that concentration effect. Compare like with like rather than placing fresh and dried rows in one unqualified ranking.
+
+For a meal estimate, multiply the labeled or database value by the edible mass actually used, then state the uncertainty introduced by draining, cooking loss, or an unverified treatment claim. The [mushroom nutrition guide](/health/mushroom-nutrition-guide/) explains the parallel distinction between food composition and a whole-diet claim. A large database value does not guarantee that every retail pack of the same common name matches it.
+
+## Treat UV exposure as a measured production variable
+
+Mushrooms can convert ergosterol to vitamin D2 under ultraviolet light, but outcome depends on wavelength, intensity, exposure duration, distance, orientation, sliced versus intact surface, species, moisture, and storage. “Sun-exposed” is therefore a process description, not a reproducible dose. A useful producer record includes lamp specification or daylight conditions, sample geometry, timestamps, temperature, and a matched untreated batch.
+
+Home sunlight experiments should be framed as uncertain food handling, not as a medical dosing method. Protect food from contamination and excessive heat, record the exposed surface, and avoid claiming a nutrient value without laboratory analysis. For commercial products, prefer a current nutrition label or lot-specific documentation over a generic web table.
+
+## Separate dietary evidence from deficiency treatment
+
+Vitamin D status is assessed clinically in context; this editorial page cannot diagnose deficiency or set a therapeutic dose. Dietary mushrooms may contribute vitamin D2, especially when treated and labeled, but the contribution must be integrated with fortified foods, supplements, sun exposure, health conditions, medications, and professional advice. Evidence about serum response does not make every mushroom product equivalent.
+
+Keep three claims distinct: a food contains measured vitamin D2; eating a defined product changes intake; and a clinical outcome changes. Each step needs its own evidence and uncertainty. People who are pregnant, have kidney or calcium disorders, take interacting medicines, or are treating a documented deficiency should use individualized guidance from a qualified clinician rather than extrapolating from a species article or supplement label.
 
 ## References
 

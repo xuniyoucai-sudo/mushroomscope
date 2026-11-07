@@ -113,6 +113,8 @@ Do not use common names as a safety test. “Puffball” is applied casually to 
 
 The broader [puffball guide](/mushrooms/puffball-mushroom-guide/) covers smaller pear-shaped and gem-studded forms. Some *Calvatia*, *Lycoperdon*, and related genera have a distinct sterile base beneath the gleba, persistent surface spines, a pore-like opening, or different wall-breakdown pattern. Giant size can narrow a regional list, but dimensions overlap between young giant puffballs and mature individuals of other taxa.
 
+The [pestle puffball profile](/mushrooms/pestle-puffball-guide/) separates a tall chambered sterile base from the upper spore sac, an intent that differs from this mostly spherical giant-puffball workflow.
+
 Measure three axes because a flattened specimen cannot be represented by one diameter. Record wall texture, whether flakes rub away, the fraction occupied by sterile base, and how the fruit body opens. For microscopy, state the mount, calibration, number of spores measured, dimensions, ornament, and whether material came from a fully mature gleba.
 
 ## Treat the meadow as evidence

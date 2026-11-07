@@ -6,7 +6,7 @@ keywords: ["birch polypore", "Fomitopsis betulina", "birch polypore identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-18
-updatedDate: 2026-10-04
+updatedDate: 2026-11-08
 revisionSummary: "Replaced generic templates with verified birch-host evidence, annual tube-layer measurements, brown-rot interpretation, bracket-development geometry, and a clear arboricultural boundary."
 draft: false
 featured: false
@@ -165,6 +165,24 @@ Section one damaged or expendable bracket vertically. The pore tubes form a dist
 Birch polypore is strongly associated with birch, but “on birch” still needs verification. Photograph bark, twigs, buds, and any leaves independently of the fungus. On downed wood, note whether bark is retained, whether the trunk broke before or after extensive decay, and whether cubical brown-rot structure is visible in a naturally exposed surface. The bracket and the decay pattern support an ecological interpretation; neither dates colonization or proves why a standing tree failed.
 
 Tree-risk decisions need more than a species name. A fruit body can indicate established internal decay, while stability also depends on remaining sound wood, stem diameter, root condition, lean, wind exposure, targets, and other defects. Keep this natural-history record separate from an arboricultural assessment. That boundary makes the page useful without turning a bracket photograph into a safety verdict.
+
+## Quantify host confidence before using the species name
+
+A pale annual bracket is not evidence of birch by itself. Score the host from independent observations: attached bark pattern, retained twigs or leaves, end-grain anatomy, a mapped living stem, or a land-manager inventory. Record each item as observed, inferred, or unavailable. A detached log in a mixed wood should remain “unknown hardwood” until the wood evidence supports more.
+
+Host confidence changes the identification pathway. A bracket demonstrably attached to birch can be tested against *Fomitopsis betulina*; the same bracket on willow, alder, or an unresolved log needs a broader polypore key. Photograph the connection before lifting loose bark, and keep the host frame paired with underside and side-profile images. The [habitat identification workflow](/identification/mushroom-habitat-identification/) provides a reusable evidence ledger instead of turning nearby birches into assumed substrate.
+
+## Measure the pore surface without treating age as a species
+
+Select one fresh, one intermediate, and one weathered bracket when the colony offers them. Photograph an equal-area underside square with a scale, then count visible pores across several fixed millimeters. Record blocked, stretched, or insect-damaged regions separately. Near the attachment the pore geometry can differ from the actively expanding margin, so the sample position must be stated.
+
+Pair pore measurements with bracket thickness, margin profile, surface color, firmness, and the condition of the flesh. This maturity series prevents an old cracked bracket and a young rounded bracket from being described as unrelated forms. It also distinguishes structural change from photographic contrast. Do not scrape a pore surface clean merely to improve an image; debris and grazing are part of the observation.
+
+## Separate decay evidence from tree-risk claims
+
+Birch polypore uses birch wood, but a fruit body alone does not quantify the probability or timing of trunk failure. Map whether brackets emerge from a standing trunk, broken stem, stump, or fallen log; note cavities, cracks, crown condition, root disturbance, lean, recent storms, and the public-use zone. A fungus record and a tree-risk assessment answer different questions.
+
+For trees near paths, buildings, or play areas, preserve photographs and refer the structural question to a qualified local arborist. Do not prescribe removal from an article. On fallen birch, follow the bracket through decomposition and note whether successive fruiting occurs from the same mapped sectors. That adds ecological value without claiming that the fungus caused every observed fracture.
 
 ## References
 

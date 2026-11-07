@@ -158,6 +158,8 @@ An ectomycorrhizal interpretation needs more than a fan beside a tree. If the re
 
 For ordinary field recording, avoid destructive root work. Instead document plant composition, measured trunk or seedling distances, soil surface, and repeated fruiting positions. Phrase the result as habitat context. That evidence remains valuable and checkable without turning a plausible ecological relationship into an unsupported partner claim.
 
+The [giant club fungus guide](/mushrooms/giant-club-fungus-guide/) covers another terrestrial woodland form whose blunt upright club, beech-litter context, and external fertile surface create a separate identification intent from earthfan rosettes.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Thelephora terrestris* search and occurrence context](https://www.gbif.org/species/search?q=Thelephora%20terrestris).

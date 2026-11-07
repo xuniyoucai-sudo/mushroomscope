@@ -115,6 +115,8 @@ An apical pore supports a mature puffball record but is not exclusive to one spe
 
 Common earthball usually has a thicker and tougher outer wall, often yellow-brown with coarse scales or cracked patches. Its interior becomes very dark purple-brown to nearly black, sometimes while the rind remains intact. The common puffball normally shows finer detachable spines, patterned scars, a more distinct narrowed sterile base, and an olive-brown mature spore mass.
 
+For a taller comparison, the [pestle puffball guide](/mushrooms/pestle-puffball-guide/) documents the elongated sterile base and the need to measure the fertile head and persistent lower structure separately.
+
 These are compound differences, not a one-character shortcut. Weathered puffballs lose spines; young earthballs may not yet be fully dark; mud can conceal rind texture. Compare the complete section and attachment with the [common earthball guide](/mushrooms/common-earthball-fungus-guide/) and leave ambiguous material unresolved.
 
 ## Distinguish this species from other small puffballs
