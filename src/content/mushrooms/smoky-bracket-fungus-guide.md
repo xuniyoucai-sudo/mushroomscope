@@ -14,7 +14,7 @@ imageCredit: "Original MushroomScope AI editorial image"
 imageSource: "OpenAI image generation, directed and reviewed by MushroomScope"
 imageLicense: "Original editorial asset; all rights reserved"
 imageNote: "AI-generated editorial context, not a voucher photograph or identification evidence."
-relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "mushrooms/violet-toothed-polypore-guide", "identification/mushroom-pore-surface-guide", "identification/mushroom-habitat-identification"]
+relatedEntries: ["mushrooms/turkey-tail-mushroom-guide", "mushrooms/violet-toothed-polypore-guide", "mushrooms/cinnabar-polypore-guide", "identification/mushroom-pore-surface-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF species search — Bjerkandera adusta"
     url: "https://www.gbif.org/species/search?q=Bjerkandera%20adusta"
@@ -198,6 +198,8 @@ It clearly shows bracket layering, wood attachment, grey zoning, and several por
 8. Preserve a voucher and state the confidence level.
 
 That sequence makes the smoky underside part of a complete ecological record rather than a shortcut. It also preserves the safety boundaries: a species hypothesis does not establish food use, medical value, or the structural condition of a tree.
+
+If the context and pore surface are orange rather than smoky gray, compare the measured underside with the [cinnabar polypore guide](/mushrooms/cinnabar-polypore-guide/). The shared shelf form is less informative than pore color, tissue color, and regional evidence.
 
 ## References
 

@@ -15,7 +15,7 @@ imageCredit: "Original MushroomScope editorial illustration"
 imageSource: "MushroomScope editorial production"
 imageLicense: "Original work; all rights reserved"
 imageNote: "Visual context only; not evidence for identifying a wild specimen."
-relatedEntries: ["identification/how-to-identify-mushrooms", "health/turkey-tail-benefits-evidence", "health/mushroom-supplements-guide"]
+relatedEntries: ["identification/how-to-identify-mushrooms", "health/turkey-tail-benefits-evidence", "health/mushroom-supplements-guide", "mushrooms/cinnabar-polypore-guide"]
 sources:
   - title: "NCBI Taxonomy Browser"
     url: "https://www.ncbi.nlm.nih.gov/taxonomy"
@@ -236,6 +236,8 @@ For field comparison, use the dedicated [turkey tail lookalikes guide](/identifi
 The [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/) shows why a fresh lilac surface that tears into teeth redirects a turkey-tail comparison. A brown fan arising from soil or pine litter without a true pore layer belongs in a different comparison; the [earthfan fungus guide](/mushrooms/earthfan-fungus-guide/) maps that terrestrial rosette architecture.
 
 The [smoky bracket guide](/mushrooms/smoky-bracket-fungus-guide/) provides the relevant comparison when thin zoned shelves have a genuinely grey pore layer rather than turkey tail's pale underside.
+
+An orange upper band does not make a bracket cinnabar polypore. Compare the pale turkey-tail underside with the orange context and matching pore surface documented in the [cinnabar polypore guide](/mushrooms/cinnabar-polypore-guide/).
 
 ## References
 

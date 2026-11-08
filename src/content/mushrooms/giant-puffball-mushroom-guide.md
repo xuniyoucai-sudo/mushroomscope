@@ -6,7 +6,8 @@ keywords: ["giant puffball", "Calvatia gigantea", "giant puffball identification
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-01
-updatedDate: 2026-10-30
+updatedDate: 2026-11-09
+revisionSummary: "Added a whole-fruit interior grid, meadow contamination boundary, and mass-loss tracking that separates maturation from spoilage."
 draft: false
 featured: false
 coverImage: "../../assets/species/giant-puffball-editorial-v2.png"
@@ -162,6 +163,24 @@ Weigh a small documented cube from each zone only when collection is lawful and 
 For a population record, count intact white, transitional, and mature fruit bodies without cutting every individual. Section only a minimal representative sample and mark each sampled position on the site map. Return photographs can then show whether mowing, trampling, drought, or deliberate kicking changed the cohort. This approach adds phenology and disturbance evidence while leaving most fruit bodies available for spore dispersal and wildlife.
 
 The natural next comparison is the [field mushroom guide](/mushrooms/field-mushroom-guide/), whose gills, stem, and cap are immediately visible rather than enclosed in a uniform gleba. Linking these contrasting body plans helps a reader understand why a complete longitudinal section is decisive rather than merely another photograph.
+
+## Sample the whole interior rather than one attractive slice
+
+Divide a full longitudinal section into apex, upper middle, center, lower middle, and attachment zones. Photograph all five under the same neutral light and score color, firmness, moisture, marbling, cavities, insects, and any organized cap, gill, or stem tissue. A clean white photograph from the center cannot represent discolored or structured tissue near the base.
+
+When collection rules allow, repeat the grid on a small, medium, and large fruit body from one mapped group. Size is not a maturity clock: a smaller specimen may be older or more weathered than a larger neighbor. Keep each grid linked to its intact exterior and exact position so mixed colonies do not become a false developmental series.
+
+## Separate meadow condition from mushroom condition
+
+Record road distance, treated turf, livestock access, standing water, dumping, dog use, recent mowing, and visible chemical application separately from identity. A correctly identified fruit body can still be unsuitable for any food discussion because of site contamination or decay. Conversely, a clean-looking meadow does not authenticate the species.
+
+Map the base before lifting the specimen. Giant puffballs often appear simply seated in grass, but the attachment zone and surrounding soil can reveal damage, displacement, or a different construction. Compare any smaller pear-shaped collection with the [pestle puffball guide](/mushrooms/pestle-puffball-guide/) rather than assuming every large white ball follows the same maturation pattern.
+
+## Track mass loss without confusing it with edibility
+
+For ecological study, weigh one lawfully collected representative fresh, then at fixed intervals under a documented drying condition. Pair mass with interior color and texture. Rapid water loss, yellowing, and eventual powdering describe maturation; they do not create a household safety threshold or extend the edible stage.
+
+Retain a separate mature sample for spores only when microscopy is needed. Label it away from immature sections so brown powder cannot contaminate the white-tissue record. Report observed spore characters with calibration and sample size, and keep those observations distinct from values copied from a reference.
 
 ## References
 

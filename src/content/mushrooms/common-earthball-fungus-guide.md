@@ -6,8 +6,8 @@ keywords: ["common earthball", "Scleroderma citrinum", "common earthball identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-12
-updatedDate: 2026-10-23
-revisionSummary: "Added rind-thickness sections, maturation grids, substrate-depth records, and explicit separation from yellow-staining Agaricus buttons."
+updatedDate: 2026-11-09
+revisionSummary: "Added colony transects, rind-failure mapping, host-root confidence records, and stage-specific earthball-versus-puffball decisions."
 coverImage: "../../assets/species/common-earthball-editorial.png"
 coverAlt: "Original AI editorial image showing common earthball fruit bodies and the field structures discussed in this guide"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -193,6 +193,24 @@ No. Immature earthballs and enclosed gilled mushrooms can contain pale tissue. I
 ### Where does common earthball grow?
 
 It often occurs on acidic woodland or heath soil near trees, with a short base and mycelial cords anchoring it to the ground.
+
+## Map rind failure instead of treating every crack alike
+
+Lay a flexible tape over the fruit body from apex to base and mark where the rind first separates. Record crack width, scale height, exposed gleba, and whether the opening follows impact, drought, insect damage, or natural maturation. Repeat on intact, beginning-to-open, and fully sporulating examples. This distinguishes a developmental opening from the coarse polygonal surface pattern that existed before rupture.
+
+Photograph the same marked fruit bodies after rain. Wetting can darken scale centers and close superficial fissures without reversing true wall failure. A paired dry-and-wet series is therefore more informative than comparing unrelated photographs. Do not squeeze a specimen to manufacture a spore cloud; natural rupture preserves both safety and ecological evidence.
+
+## Grade the tree-association evidence
+
+For each colony, draw a five-meter plot showing fruit bodies, visible roots, trunks, canopy trees, path edges, and disturbed soil. Give host confidence as direct root association, plausible root-zone association, nearby tree only, or unknown. The categories prevent a tree name in the scenery from becoming an asserted mycorrhizal partner.
+
+Record soil pH only when it was actually measured with a documented method. Otherwise describe vegetation, mineral soil, litter, drainage, and management without converting indicators into a precise value. Revisits across seasons can show repeated fruiting in one root neighborhood, which is stronger ecological evidence than a single encounter.
+
+## Use a stage-specific exclusion table
+
+At the pale solid stage, the high-consequence task is excluding an enclosed gilled mushroom by a complete vertical section. At the marbled gray-violet stage, rind thickness and the changing gleba help separate an earthball from a culinary puffball claim. At the purple-black powder stage, spore ornament and mature wall characters become available, but food discussion is already closed.
+
+Write the decision for each numbered specimen rather than applying one cut to the whole colony. Mixed puffballs and earthballs can share a bank. The result may be “Scleroderma species” if mature microscopy or a regional key is missing; that honest limit is safer and more reproducible than forcing *S. citrinum*.
 
 ## References
 

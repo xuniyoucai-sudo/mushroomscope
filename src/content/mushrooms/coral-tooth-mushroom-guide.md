@@ -14,7 +14,7 @@ coverImage: "../../assets/species/coral-tooth-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of a branching coral tooth fungus with hanging teeth on a fallen hardwood log"
 imageCredit: "Original MushroomScope AI-generated editorial image"
 imageNote: "Created for visual context; not a field photograph, specimen record, or identification proof."
-relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "identification/mushroom-photo-checklist", "identification/mushroom-identification-safety-checklist", "identification/how-to-make-spore-print"]
+relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "mushrooms/crown-tipped-coral-fungus-guide", "identification/mushroom-photo-checklist", "identification/mushroom-identification-safety-checklist", "identification/how-to-make-spore-print"]
 sources:
   - title: "GBIF — Hericium coralloides"
     url: "https://www.gbif.org/species/5248532"
@@ -157,6 +157,8 @@ Use the [mushroom photo checklist](/identification/mushroom-photo-checklist/) to
 Compare the complete record with a current regional key and local occurrence data. Image recognition can assemble candidates, but cannot inspect microscopy or repair missing habitat evidence. The [identification safety checklist](/identification/mushroom-identification-safety-checklist/) explains why agreement among observations is still not remote food clearance.
 
 The [violet coral fungus guide](/mushrooms/violet-coral-fungus-guide/) covers a soil- or litter-fruiting clavarioid form without downward teeth. That contrast helps keep branching silhouette from overriding hymenium and substrate evidence.
+
+Do not confuse branched teeth with a coral fungus whose branch surface is smooth. The [crown-tipped coral fungus guide](/mushrooms/crown-tipped-coral-fungus-guide/) shows a hardwood species with repeated cup-shaped terminal crowns instead of pendant teeth.
 
 ## References
 

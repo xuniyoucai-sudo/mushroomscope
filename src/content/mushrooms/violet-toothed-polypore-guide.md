@@ -6,8 +6,8 @@ keywords: ["Violet-toothed polypore", "Trichaptum biforme", "Violet-toothed poly
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-13
-updatedDate: 2026-11-02
-revisionSummary: "Added underside maturation transects, hardwood-unit provenance, split-pore measurements, and a colony-level mixed-species exclusion protocol."
+updatedDate: 2026-11-09
+revisionSummary: "Added fresh-margin color calibration, tube-to-tooth tear mapping, and a same-log competitor protocol with measured transition zones."
 coverImage: "../../assets/species/violet-toothed-polypore-editorial.png"
 coverAlt: "Original AI editorial image of violet-toothed polypore showing thin gray brackets and fresh violet toothed undersides on a fallen hardwood log"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -177,6 +177,24 @@ No. Hardwood is important supporting ecology, but anatomy, age, region, and some
 ### Is violet-toothed polypore edible?
 
 This guide does not present the thin tough brackets as food and cannot clear any wild collection.
+
+## Calibrate violet only at the active margin
+
+Place a neutral gray card beside, not over, the fresh growing edge and photograph upper and lower surfaces in diffuse daylight. Sample color at the margin, middle, and oldest attachment zone of the same numbered bracket. Violet often fades toward tan or brown with age, so a colony average hides the most useful developmental pattern.
+
+Repeat after rain and after a dry interval without wetting the fungus artificially. Record camera profile and preserve the unedited file. The goal is not a numerical color requirement; it is to show that the violet zone belongs to fresh tissue and changes coherently along a known age gradient.
+
+## Map where pores tear into teeth
+
+Draw a transect from the intact young pore field toward the older split surface. At fixed intervals, count complete pores, partially divided walls, and tooth-like projections within a measured area. Photograph the transition with raking light and a millimeter scale. Random tears from handling should not form the same organized age sequence.
+
+Section beside the transect to connect the surface with the tube layer. If projections are independent hanging teeth from their origin rather than torn pore walls, redirect the comparison. The [cinnabar polypore guide](/mushrooms/cinnabar-polypore-guide/) provides a contrasting fine-pored bracket whose orange pore field should not develop the characteristic violet torn margin described here.
+
+## Exclude a same-log competitor explicitly
+
+Number every colony on the log and trace whether brackets share continuous tissue. Record upper zoning, pore color, context thickness, attachment, and fresh margin for each unit. Turkey tail, smoky brackets, crust fungi, and violet-toothed polypore can occupy one hardwood log, so substrate continuity is not organism continuity.
+
+Sample microscopy from a single labeled colony rather than pooling fragments. If two morphologies meet, preserve the boundary in photographs and treat it as a mixed-colony hypothesis until anatomy or sequence evidence resolves it. This protocol prevents an attractive violet edge from lending its identity to every neighboring shelf.
 
 ## References
 

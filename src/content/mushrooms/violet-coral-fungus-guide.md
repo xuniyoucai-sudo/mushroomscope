@@ -14,7 +14,7 @@ imageCredit: "Original AI editorial image created for MushroomScope"
 imageSource: "OpenAI image generation, directed and reviewed by MushroomScope"
 imageLicense: "Original editorial asset; all rights reserved"
 imageNote: "AI-generated habitat illustration; not a field photograph, voucher specimen, or identification evidence."
-relatedEntries: ["mushrooms/cauliflower-fungus-mushroom-guide", "mushrooms/coral-tooth-mushroom-guide", "identification/mushroom-habitat-identification"]
+relatedEntries: ["mushrooms/cauliflower-fungus-mushroom-guide", "mushrooms/coral-tooth-mushroom-guide", "mushrooms/crown-tipped-coral-fungus-guide", "identification/mushroom-habitat-identification"]
 sources:
   - title: "GBIF — Clavaria zollingeri"
     url: "https://www.gbif.org/species/2530856"
@@ -170,6 +170,8 @@ No. Photograph first and minimize disturbance. Where lawful and scientifically j
 This guide treats it as an ecological field species. It is not presented as a validated beginner crop, and moving habitat material is inappropriate.
 
 For the opposite architectural pattern, the [giant club fungus guide](/mushrooms/giant-club-fungus-guide/) documents one stout, unbranched fertile club rather than a repeated coral branch system.
+
+For a wood-attached coral with repeated cup-shaped terminals, use the [crown-tipped coral fungus guide](/mushrooms/crown-tipped-coral-fungus-guide/). That comparison keeps terrestrial violet branching separate from a hardwood decomposer with a different terminal architecture.
 
 ## References
 
