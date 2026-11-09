@@ -150,6 +150,8 @@ Do not deliberately repeat exposure after hives, swelling, breathing difficulty,
 
 The [mushroom-antioxidants evidence guide](/health/mushroom-antioxidants/) shows why fresh weight, dry matter, extraction method and human outcomes must remain separate when a cooking article cites ergothioneine or glutathione values.
 
+The [vegan mushroom stroganoff method](/recipes/vegan-mushroom-stroganoff/) gives a practical example of cooking cultivated mushrooms in uncrowded batches before building a tempered plant-based sauce; it is a recipe workflow, not a medical comparison.
+
 ## References
 
 1. [USDA FoodData Central](https://fdc.nal.usda.gov/)

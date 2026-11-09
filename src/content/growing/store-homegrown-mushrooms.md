@@ -140,6 +140,8 @@ One short label prevents a lot of guesswork. Record the culture or product label
 
 The record also keeps storage separate from cultivation troubleshooting. If the crop formed poorly, revisit [mushroom-growing troubleshooting](/growing/mushroom-growing-troubleshooting/) and the [harvest guide](/growing/when-to-harvest-mushrooms/) with the supplier's strain-specific information. Do not change a culture's fruiting settings based on a refrigerator-storage issue.
 
+When sound cultivated mushrooms are intentionally preserved for short refrigerated service, the [quick pickled mushroom method](/recipes/pickled-mushrooms/) records vinegar strength, retained brine and cooling without presenting the jar as shelf-stable canning.
+
 ## References
 
 1. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)

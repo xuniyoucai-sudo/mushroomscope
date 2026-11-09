@@ -238,6 +238,8 @@ They can demonstrate developmental features such as free pink-to-brown gills and
 The crop depends on conditioned compost, a managed spawn run, a casing layer and coordinated climate changes. That sequence is more complex than fruiting an already-colonized block.
 
 
+In the kitchen, the [mushroom tacos recipe](/recipes/mushroom-tacos/) tests cremini pan loading before combining the browned pieces with beans, while the [quick pickled mushroom recipe](/recipes/pickled-mushrooms/) keeps a measured 5% vinegar brine strictly within refrigerator-pickle boundaries.
+
 ## References
 
 The [portobello guide](/mushrooms/portobello-mushroom-guide/) follows the same cultivated species into its mature open-cap stage and compares nutrition on equal edible mass.

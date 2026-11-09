@@ -145,6 +145,8 @@ Refrigerate the finished pasta within two hours, or within one hour above 90°F 
 
 Browse more [mushroom recipes](/recipes/) or learn about the cultivated species in the [mushroom encyclopedia](/mushrooms/).
 
+For a dairy-free, sauce-led pasta variation, the [vegan mushroom stroganoff](/recipes/vegan-mushroom-stroganoff/) separates cap and stem browning, tempers the plant base and holds back sauce until noodle absorption is known.
+
 ## References
 
 The [wild mushroom pizza method](/recipes/wild-mushroom-pizza/) uses separate pre-cooking lanes and a topping moisture ledger when several verified cultivated mushroom textures share one high-heat bake.

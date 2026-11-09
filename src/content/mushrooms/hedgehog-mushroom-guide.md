@@ -231,6 +231,8 @@ You may recognize a tooth-bearing group, but region, cap, stem, base, ecology, s
 
 Both have tooth-like fertile structures, but they belong to different ecological and taxonomic groups. Lion's mane grows on wood in branching masses; *Hydnum* forms cap-and-stem fruit bodies from soil with tree partners.
 
+The [bleeding tooth fungus guide](/mushrooms/bleeding-tooth-fungus-guide/) provides the important counterexample when teeth belong to a tough, fused, brown-spored conifer associate rather than a soft *Hydnum* fruit body. Red guttation is memorable but should be recorded separately from tooth structure, context and host evidence.
+
 ## References
 
 GBIF and NCBI support the accepted-name and lineage framework. NAMA supports conservative poisoning response, while FDA supports handling of verified food products. Claims about close species are deliberately bounded where regional keys, microscopy, or DNA are required.

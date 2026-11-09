@@ -281,6 +281,8 @@ Establish fixed photo points and number visible fruit bodies by position. After 
 
 This record connects morphology with hydration and age. It can show whether deep bowls flatten, whether margins split after drying, and how long recognizable tissue persists without treating every changed outline as another species. Avoid watering the plot to create a result, and do not move cups into a cleaner arrangement. Compare the measured changes with the [mushroom season guide](/identification/mushroom-season-guide/) rather than assigning a universal fruiting calendar from one colony.
 
+The [green elfcup guide](/mushrooms/green-elfcup-fungus-guide/) contrasts a millimeter-scale stalked cup on internally blue-green stained hardwood with this larger orange ground cup. Substrate and a scale in the same plane prevent macro photography from collapsing those very different structures.
+
 ## References
 
 An upright buff cup split down one side should be compared with the [hare's ear fungus guide](/mushrooms/hares-ear-fungus-guide/), which separates *Otidea* architecture from the broader orange saucers and disturbed-soil ecology described here.

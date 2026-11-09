@@ -169,6 +169,8 @@ No. Other *Xylaria* and unrelated stromatic fungi overlap. Attachment, scale, ma
 
 No. Photograph first. If collection is lawful and scientifically justified, take the smallest representative sample that preserves base and mature tissue, leaving most of the colony and substrate intact.
 
+The [scarlet caterpillarclub guide](/mushrooms/scarlet-caterpillarclub-guide/) provides the substrate-first contrast for an orange, unbranched stroma connected to a buried insect pupa. Candlesnuff remains a wood-decay record with dark-tipped branching stromata, not an insect-host record.
+
 ## References
 
 1. [GBIF — *Xylaria hypoxylon*](https://www.gbif.org/species/2576247). Taxonomic backbone and occurrence context.

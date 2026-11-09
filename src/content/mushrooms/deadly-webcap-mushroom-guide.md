@@ -164,6 +164,8 @@ If collection rules permit, dry one mature and one young voucher separately with
 
 The most responsible conclusion makes uncertainty explicit. A page can teach which evidence to collect and why the toxin matters, but it cannot certify a photograph or declare an unknown mushroom edible. With deadly webcap, delayed toxicity turns uncertainty into an urgent safety boundary rather than an invitation to experiment.
 
+For a non-gilled conifer-floor comparison, the [bleeding tooth fungus guide](/mushrooms/bleeding-tooth-fungus-guide/) shows how a visible toothed underside immediately redirects the record away from webcaps. Neither red-brown color nor woodland habitat should override the fertile surface.
+
 ## References
 
 1. National Center for Biotechnology Information. [*Cortinarius rubellus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=326983). Name and lineage context.

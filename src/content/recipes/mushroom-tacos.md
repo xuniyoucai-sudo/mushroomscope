@@ -6,8 +6,8 @@ keywords: ["mushroom tacos", "vegetarian mushroom tacos", "cremini mushroom taco
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-13
-updatedDate: 2026-09-28
-revisionSummary: "Added filling moisture checkpoints, mushroom-to-bean sequencing, tortilla heat retention, assembly ratios, and a service plan that keeps crisp and hot components distinct."
+updatedDate: 2026-11-10
+revisionSummary: "Added a measured pan-load test, soluble-seasoning timing, and a two-batch service protocol that preserves mushroom browning and tortilla texture."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "mushrooms/cremini-mushroom-guide", "recipes/garlic-butter-oyster-mushrooms"]
@@ -172,6 +172,20 @@ Brown the sliced cremini in a wide skillet until released liquid has evaporated 
 Use lime in two places for different effects: a small amount off heat brightens the hot filling, while fresh wedges at the table preserve aroma. Do not pour salsa into the pan to make the filling look abundant; its water softens both mushrooms and tortillas. Keep cabbage, salsa, herbs, avocado, and creamy toppings in separate bowls so each diner controls moisture and allergens.
 
 For eight small tacos, begin with a modest strip of filling down the center rather than packing the tortilla edge to edge. Warm tortillas in covered pairs and replenish them in small groups. A flexible warm tortilla wraps without cracking, but a long covered hold traps steam and makes the stack gummy. Assemble immediately before eating: tortilla, hot mushroom-bean filling, crisp cabbage, then concentrated toppings and lime.
+
+## Run a pan-load test instead of crowding by instinct
+
+The key variable in this filling is exposed pan area per gram of mushrooms. Weigh the sliced mushrooms, spread them in one layer in a cold dry pan, and photograph the coverage before cooking. If pieces overlap across more than roughly one quarter of the surface, divide the load. This is a process checkpoint rather than a universal pan-size rule: a wide skillet, mushroom moisture, slice thickness, burner output and batch temperature all change evaporation.
+
+For each batch, record raw mass, browned mass and elapsed time. Add oil only after the first released water has largely evaporated and the pan sound changes from wet simmering to active sizzling. Salt after that transition so the seasoning dissolves into the small amount of remaining moisture without extending the steaming phase. The useful result is not maximum darkness; it is a browned edge, tender center and no puddle that will soak the tortilla.
+
+When scaling, keep the same mushroom mass per batch instead of doubling every ingredient in one pan. Hold the first batch on a warm uncovered tray, then combine it with the drained beans only for the final minute. This protects the browned surface while allowing the beans to pick up lime, cumin and pan fond.
+
+## Build two tacos first and use them as the service control
+
+Warm two tortillas, assemble them with weighed filling, cabbage and sauce, and wait three minutes before eating one. Check whether the tortilla cracks, the filling leaks, the cabbage wilts or the sauce obscures browning. Adjust one variable—filling mass, sauce mass or cabbage cut—before building the remaining tacos.
+
+For a longer service, keep tortillas wrapped and warm, filling above serving temperature, and cabbage and lime cold in separate containers. Assemble in small waves. This is safer and more texturally reliable than leaving fully built tacos at room temperature. Refrigerate leftovers promptly in shallow containers, keeping tortillas and wet toppings separate; reheat the filling until steaming and rebuild with fresh crisp components.
 
 ## References
 

@@ -6,8 +6,8 @@ keywords: ["quick pickled mushrooms", "refrigerator pickled mushrooms", "marinat
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-12
-updatedDate: 2026-09-28
-revisionSummary: "Added cut-size simmer control, brine displacement measurement, rapid cooling geometry, serving contamination limits, and a clearer refrigerator-only boundary."
+updatedDate: 2026-11-10
+revisionSummary: "Added a retained-brine mass check, a jar cooling curve, and a crispness trial that keeps refrigerator pickles distinct from shelf-stable canning."
 draft: false
 featured: false
 relatedEntries: ["recipes/sauteed-mushrooms-recipe", "growing/store-homegrown-mushrooms", "mushrooms/cremini-mushroom-guide"]
@@ -169,6 +169,20 @@ Cut cultivated mushrooms to similar thickness so the brief simmer softens them e
 Use a heat-safe container with enough headspace for stirring and cooling. Add cooked mushrooms loosely, then enough hot brine to submerge them without compressing the pieces. If the written batch does not fit, use a second container rather than reducing vinegar or topping up with unmeasured water. The recipe remains a short-lived refrigerator pickle even when the mushrooms are submerged and the lid seals during cooling.
 
 Cool according to the written handling plan, refrigerate promptly, label the preparation date, and use a clean utensil for each serving. Do not eat directly from the storage jar and return it to the refrigerator immediately. Bubbling, a bulging lid, mold, slime, an off odor, or uncertain refrigeration history are discard signals—not evidence of desirable fermentation.
+
+## Measure retained brine rather than judging coverage by eye
+
+Mushrooms contain trapped air and may float during the first hours, making a full jar look under-acidified even when the recipe ratio is unchanged. Weigh the empty jar, the drained cooked mushrooms, and the filled jar. The difference between filled mass and jar-plus-mushroom mass is the retained brine. Record it with the vinegar acidity printed on the bottle and the exact water addition.
+
+Do not compensate for floating mushrooms by diluting the brine or packing in extra cooked mushrooms. Use a clean refrigerator-safe weight if needed, or turn the sealed cold jar gently after chilling. The goal is contact with the prepared brine, not a claim that the center of every mushroom instantly reaches a verified pH. This remains a quick refrigerator pickle, not a shelf-stable canning process.
+
+If garlic, herbs or chili are changed, record their masses and keep the vinegar-to-water formula fixed. Oil is not a substitute for brine and should not form a thick anaerobic layer over refrigerated vegetables. Discard a batch with gas, bulging, mold, ropey liquid or an unexpected odor rather than tasting it to diagnose the problem.
+
+## Compare crispness with one controlled cooling change
+
+Divide one cooked batch between two identical clean jars. Cool the first jar promptly in the refrigerator after the initial steam subsides; allow the second only the recipe's specified brief room-temperature settling period before refrigeration. Record jar temperature at filling, after 30 minutes and when fully cold, then compare mushroom firmness after 24 hours using pieces of the same size.
+
+This trial shows whether extra hot holding softens the mushrooms in your process without altering acidity. It must not be used to justify extended counter storage. Keep both jars refrigerated, label the preparation date, use clean utensils, and follow the conservative storage window in the recipe. For shelf-stable mushrooms, use a tested canning process from the National Center for Home Food Preservation rather than adapting this formula.
 
 ## References
 

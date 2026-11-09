@@ -157,6 +157,8 @@ If the first batch leaves pale watery residue, pour nothing into the next raw ba
 
 When using verified cultivated specialty mushrooms, keep species-specific texture separate from identification. The [Pioppino guide](/mushrooms/pioppino-mushroom-guide/) describes a raw-to-cooked yield comparison for caps and stems without transferring that kitchen result to a wild lookalike.
 
+For a meal that uses the same evaporation-first browning logic with beans, cabbage and lime, the [mushroom tacos recipe](/recipes/mushroom-tacos/) adds a measured pan-load test and separates hot filling from crisp toppings.
+
 ## References
 
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and cross-contamination boundaries for the raw cremini preparation step.

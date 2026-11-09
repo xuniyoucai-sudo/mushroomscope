@@ -152,6 +152,10 @@ Small woodland fungi often fruit centimeters apart. Before treating every yellow
 
 Map each fruit body on a simple grid and preserve the map with the voucher. If microscopy later shows two taxa, the grid reconnects measurements and photographs to their original positions. This modest step prevents a mixed collection from producing an impossible range of spores or a misleading description of color change.
 
+For minute turquoise cups arising from blue-green stained hardwood, use the [green elfcup guide](/mushrooms/green-elfcup-fungus-guide/). Its exposed apothecial disc and persistent wood pigment differ from the gelatinous head-and-stem construction documented here.
+
+An upright orange club with a granular fertile tip and a connection to a buried insect host belongs in the [scarlet caterpillarclub guide](/mushrooms/scarlet-caterpillarclub-guide/), not in this gelatinous head-and-stem comparison.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Leotia lubrica* search and occurrence context](https://www.gbif.org/species/search?q=Leotia%20lubrica).
