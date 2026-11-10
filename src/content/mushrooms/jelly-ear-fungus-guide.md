@@ -185,4 +185,3 @@ A wet elder branch may carry several gelatinous fungi, crusts, molds, algae, and
 Mixed material is especially important for food safety and sequence work. A clean sequence from one fragment cannot authenticate every lobe in a basket, and a familiar ear shape does not make neighboring jelly tissue equivalent. Photograph the exact sampled point, sterilize tools between vouchers, and keep labels physically separate through drying and microscopy. This chain of evidence supports later correction without suggesting that a website can authorize consumption.
 
 See the linked GBIF, NCBI, First Nature, and NAMA sources listed above.
-

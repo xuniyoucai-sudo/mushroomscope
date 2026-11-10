@@ -197,4 +197,3 @@ First Nature provides a regional field account; GBIF and NCBI support taxonomic 
 ## References
 
 See the linked GBIF, NCBI, First Nature, and NAMA sources listed above.
-
