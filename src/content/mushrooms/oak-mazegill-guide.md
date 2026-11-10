@@ -173,6 +173,8 @@ The 1536 × 1024 cover is an original AI editorial image. It was reviewed beside
 
 ## References
 
+For thinner zoned brackets with radiating gill-like plates, the [birch mazegill guide](/mushrooms/birch-mazegill-guide/) compares plate depth, cap hairs, birch confidence, and persistent-shelf condition rather than relying on “maze” alone.
+
 1. Global Biodiversity Information Facility. [*Daedalea quercina*](https://www.gbif.org/species/8879395). Accepted-name and occurrence checkpoint.
 2. U.S. Forest Service. [Mushrooms of the National Forests in Alaska](https://www.fs.usda.gov/nrs/pubs/gtr/gtr_nrs79.pdf). Maze-surface identification, oak brown-rot context, and food boundary.
 3. Jonsell, M. et al. [Insect fauna in fruit bodies of *Daedalea quercina*](https://www.sef.nu/download/entomologisk_tidskrift/et_2012/ET2012%20173-181.pdf). Oak specialization, fruit-body dimensions, persistence, and saproxylic habitat evidence.

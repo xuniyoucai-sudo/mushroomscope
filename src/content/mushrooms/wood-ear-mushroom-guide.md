@@ -198,6 +198,8 @@ Discard dried ears with insects, moisture damage, mold, or an abnormal odor, and
 
 ## References
 
+For the elder-associated European field concept, the [jelly ear fungus guide](/mushrooms/jelly-ear-fungus-guide/) documents attachment, host confidence, and reversible wet-dry changes without transferring a market label to a wild collection.
+
 For pale, thicker retail ear fungi, the [cloud ear guide](/mushrooms/cloud-ear-mushroom-guide/) separates outer hairs from the fertile surface and records dry-to-hydrated mass rather than relying on a trade name.
 
 Pale frilly dried products belong to a different comparison: the [snow fungus guide](/mushrooms/snow-fungus-guide/) separates *Tremella fuciformis* partner-dependent cultivation, rehydration measurements, and label evidence from the darker, ear-shaped *Auricularia* market.

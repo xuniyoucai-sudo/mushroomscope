@@ -282,6 +282,8 @@ Reject packages with insects, off odors, moisture damage, broken seals, or unexp
 
 ## References
 
+The [jelly ear fungus guide](/mushrooms/jelly-ear-fungus-guide/) owns the elder-host field-record intent and explains why a European *A. auricula-judae* hypothesis cannot be inferred from a dried culinary “wood ear” label.
+
 For white, frilled, highly expanding retail material, use the [snow fungus guide](/mushrooms/snow-fungus-guide/) to compare package identity, partner-fungus production, dried-product defects, and rehydration ratios rather than applying an ear-fungus name by texture alone.
 
 GBIF and NCBI support taxonomy and occurrence context. FDA supports verified-product handling. NAMA supports conservative response to unknown mushroom exposures. The guide separates scientific species identity from overlapping commerce terms and avoids unsupported health claims.

@@ -6,8 +6,8 @@ keywords: ["portobello mushrooms", "portobello nutrition", "how to cook portobel
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-09
-updatedDate: 2026-11-02
-revisionSummary: "Added maturity-stage mass accounting, matched raw-to-cooked nutrition comparison, cap-moisture endpoints, and a provenance boundary for retail versus wild Agaricus."
+updatedDate: 2026-11-11
+revisionSummary: "Added a cap-orientation evaporation trial, stuffing-load geometry, and a matched cremini-portobello maturity comparison with explicit cooked-yield denominators."
 coverImage: "../../assets/species/portobello-mushroom-editorial-v2.png"
 coverAlt: "AI editorial image of three fresh mature portobello caps, including one showing dark brown gills, on a kitchen worktable"
 imageCredit: "Original AI editorial image created for MushroomScope"
@@ -219,6 +219,24 @@ The trial supports recipe decisions without turning texture into nutrition mytho
 The portobello label belongs to a traceable cultivated production chain. Its open cap and dark gills show maturity within *Agaricus bisporus* cultivation; they are not a field key. Wild material requires an intact base, odor, staining, gill development, spores, habitat, regional comparisons, and expert review.
 
 ## References
+
+## Test cap orientation with matched cooking pairs
+
+“Gills up” and “gills down” advice is often repeated without defining the desired result. Use two caps from the same package with similar raw mass and diameter. Remove stems consistently, weigh each cap, and cook them on the same pan with positions swapped halfway through a repeated trial. Record surface temperature, visible liquid in the cavity, browning area, final mass and resting loss.
+
+Orientation changes where released water collects and which surface contacts the pan, but heat source, crowding, cap thickness and pre-salting can dominate. Report the endpoint: a drier burger-style cap, retained juices for slicing, or a cavity prepared for filling. One orientation is not universally correct.
+
+## Match stuffing load to cap geometry
+
+Measure cavity diameter and depth after the stem is removed, then weigh filling rather than describing a cap as “generously stuffed.” A deep intact rim can retain more filling; a flat mature cap may shed it as the tissue softens. Pre-cooking changes both mass and curvature, so record whether the capacity was measured raw or after moisture loss.
+
+Keep food-safety decisions independent of geometry. Perishable fillings need time and temperature control, while a browned mushroom surface does not prove the center of a meat, egg or dairy filling is safe. Cool leftovers promptly in shallow containers and follow current official guidance.
+
+## Compare maturity stages on a cooked-yield basis
+
+To compare cremini and portobello fairly, buy traceable mushrooms from the same producer and date when possible. Record raw whole mass, trimmed mass, cap-to-stem ratio, exposed-gill area and cooked mass under one method. Express salt, oil and nutrients per 100 grams of edible raw material and per actual cooked serving; do not mix those denominators.
+
+The result describes a batch and production stage, not a biological law. Strain, compost, water content, storage and cap opening all contribute. This matched design protects the separate intent of the [cremini guide](/mushrooms/cremini-mushroom-guide/): a young brown market stage rather than a competing species page.
 
 1. GBIF. [*Agaricus bisporus* taxon record](https://www.gbif.org/taxon/65M7Y). Classification and cultivated-name context.
 2. NCBI. [*A. bisporus* taxonomy query](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Agaricus+bisporus). Independent lineage checkpoint.

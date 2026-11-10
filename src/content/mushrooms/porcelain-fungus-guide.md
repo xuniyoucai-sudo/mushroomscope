@@ -6,7 +6,8 @@ keywords: ["porcelain fungus", "Mucidula mucida", "Oudemansiella mucida", "porce
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-02
-updatedDate: 2026-10-25
+updatedDate: 2026-11-11
+revisionSummary: "Added a beech-canopy host-confidence record, cap-mucilage recovery series, and gravity-aware stem-orientation test for fallen branches."
 draft: false
 featured: false
 coverImage: "../../assets/species/porcelain-fungus-editorial-v2.png"
@@ -182,6 +183,24 @@ Choose three fresh caps at different exposures and photograph them at fixed dist
 This sequence prevents “not slimy today” from becoming a false exclusion. It also distinguishes normal dehydration from collapse, bacterial deterioration, or slug damage. Never spray a wild colony to manufacture the expected appearance. If a comparison specimen is collected lawfully, keep the field observation separate from any controlled hydration trial and label the treatment clearly.
 
 ## References
+
+## Grade beech evidence from canopy to bark
+
+Host confidence should not rest on smooth gray bark alone. Photograph the complete tree or fallen crown, retained leaves and buds, branching pattern, bark at several diameters, and connection between the fruiting branch and its source. On a mixed woodland floor, loose beech branches can lie beneath another species, while a pale branch may have lost diagnostic bark.
+
+Assign a confidence grade and preserve the evidence: confirmed connected beech, probable detached beech with multiple characters, unknown hardwood, or conflicting host evidence. A porcelain-fungus hypothesis on unknown wood is still testable, but it should not inherit the certainty of a connected beech observation.
+
+## Measure mucilage recovery after wetting
+
+Select three attached caps across age classes and photograph them dry, after natural rain, and during subsequent drying. Record cap diameter, surface gloss under fixed side light, tackiness with a clean tool, margin translucency and elapsed time. Do not spray only one cap and compare it with a different naturally wet specimen.
+
+Mucilage may recover unevenly on weathered caps. Dirt, spore deposits and abrasion can dull the surface while tissue remains correctly identified; conversely, rain can make unrelated pale caps glossy. The series adds evidence only when gills, ring, attachment, host and region are recorded too.
+
+## Use stem curvature to reconstruct branch position
+
+Porcelain fungi on the underside of a branch often curve so caps become more horizontal. When a branch has fallen or rotated, photograph each stem axis relative to the branch and current gravity. Then look for a coherent older growth orientation across the cluster. Mixed orientations can indicate fruiting before and after movement rather than abnormal anatomy.
+
+Do not rotate a loose branch merely to create a familiar photograph. Record its position first, then document any controlled repositioning. This gravity-aware record can explain curved stems while preserving the difference between growth response and a taxonomic character.
 
 1. Global Biodiversity Information Facility. [*Mucidula mucida* species record](https://www.gbif.org/species/2539204). Taxonomic and occurrence context.
 2. Woodland Trust. [Porcelain fungus (*Oudemansiella mucida*)](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/porcelain-fungus/). Beech habitat, morphology, season, and ecological context.

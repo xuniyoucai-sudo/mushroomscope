@@ -5,8 +5,8 @@ keywords: ["Grifola frondosa","maitake","mushroom identification","mushroom grow
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-26
-revisionSummary: "Added frond thickness and pore-density transects, basal attachment mapping, and evidence-based separation from Berkeley's and black-staining polypores."
+updatedDate: 2026-11-11
+revisionSummary: "Added a root-zone recurrence map, matched blackening controls, and a harvest-window texture protocol that separates identification evidence from food quality."
 draft: false
 featured: false
 coverImage: "../../assets/species/maitake-mushroom.jpg"
@@ -214,6 +214,24 @@ A wild rosette record asks which organism is fruiting at a particular root syste
 This separation protects the species guide from competing with the nutrition hub or the dedicated evidence article. Use this page for taxonomy, host ecology, morphology, lookalikes and cultivation variables; use the site's health resources for food composition and clinical-evidence boundaries.
 
 ## References
+
+## Map recurrence to the root zone, not just the trunk
+
+When a rosette returns in later years, photograph from the same fixed compass bearing and measure its distance from the trunk flare. Mark exposed roots, paving, irrigation, wounds, previous stump positions, and grade changes on a simple plan. Fruiting several meters from a trunk can still follow buried woody roots, while a cluster touching bark may arise from a buried stump beside the tree. The map should preserve uncertainty rather than convert proximity into proof of which tree is colonized.
+
+Use stable site features instead of stakes that could damage roots. Record whether the apparent recurrence is at the same attachment point, elsewhere along the same root direction, or merely in the same yard. This separates a useful multi-year ecological record from the vague claim that maitake “always comes back to the same tree.” A fruit body supports inspection of the tree and site, but it does not quantify residual wood strength.
+
+## Run a matched blackening comparison
+
+Black-staining polypores are often separated by rapid darkening, but handling, drying and camera exposure can confuse that character. Select matched small areas on the same lawful voucher: one untouched control, one pressed once with a clean blunt tool, and one freshly cut. Photograph at fixed white balance immediately and after 5, 15, 30 and 60 minutes. Record ambient temperature and tissue age.
+
+The comparison is useful only when pore density, frond thickness, branching base and host context are recorded alongside color. A negative stain on old dry tissue does not prove maitake, and a dark bruised margin does not by itself prove *Meripilus*. Preserve the unedited sequence with the collection number so a reviewer can evaluate rate and extent.
+
+## Define a food-quality window separately
+
+For a verified cultivated or expert-confirmed food collection, score edge flexibility, central-base resistance, insect damage, odor and visible contamination by zone. Thin outer fronds can remain tender while the branching core becomes fibrous. Weigh trimmed edible tissue and discarded base separately; otherwise a yield note makes an old tough specimen look equivalent to a young one.
+
+This harvest assessment never substitutes for identification. Rejecting a cluster for spoilage does not decide its species, and confirming species does not certify a polluted site or individual tolerance. Commercial product records should retain supplier, lot and storage temperature; wild records should retain expert determination and collection location.
 
 For verified cultivated maitake intended for the kitchen, the [crispy roasted maitake method](/recipes/crispy-maitake-mushrooms/) controls cluster density, oil by mass, pan contact, and rack position instead of assigning one time to every frond.
 

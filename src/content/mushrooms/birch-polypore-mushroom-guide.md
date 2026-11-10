@@ -186,6 +186,8 @@ For trees near paths, buildings, or play areas, preserve photographs and refer t
 
 ## References
 
+Another birch-associated bracket requires an underside-first comparison: the [birch mazegill guide](/mushrooms/birch-mazegill-guide/) has radiating cross-connected plates instead of the fine pore surface documented here.
+
 The [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) provides a useful contrast for a much broader, radially scaled annual polypore on multiple broadleaf hosts, while birch polypore remains tightly tied to birch.
 
 1. Global Biodiversity Information Facility. [Fomitopsis betulina species record](https://www.gbif.org/species/9819973). Taxonomic backbone and occurrence context.
