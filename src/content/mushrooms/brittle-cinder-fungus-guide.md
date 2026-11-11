@@ -194,4 +194,3 @@ The cover is an original 1536×1024 RGB AI editorial image opened at full size a
 ## References
 
 See the linked NCBI, First Nature, USDA Forest Service, and NAMA sources listed above.
-
