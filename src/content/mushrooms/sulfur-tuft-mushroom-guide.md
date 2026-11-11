@@ -6,6 +6,8 @@ keywords: ["sulfur tuft", "Hypholoma fasciculare", "sulfur tuft identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-12
+updatedDate: 2026-11-12
+revisionSummary: "Added a gill-maturation grid, one-wood-unit colony map, and matched spore-deposit controls for clustered wood fungi."
 coverImage: "../../assets/species/sulfur-tuft-editorial.png"
 coverAlt: "Original AI editorial image showing sulfur tuft fruit bodies and the field structures discussed in this guide"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -169,6 +171,26 @@ No. Tasting is unnecessary and unsafe for an unresolved collection, and bitterne
 ### What should a field photo include?
 
 Include the whole stump or log, cluster base, cap series, gill colors at several ages, stems, any veil evidence, and a labeled spore deposit.
+
+## Build a gill-maturation grid across one cluster
+
+Sulfur tuft changes most visibly under the cap. Number at least six fruit bodies that remain attached to one connected cluster: two buttons, two expanding caps, and two mature caps. Photograph each underside with the same white balance and scale. Record gill attachment, color nearest the margin, color near the stem, bruising, insects, and whether a partial-veil remnant is genuinely present.
+
+Arrange those images by developmental stage rather than selecting the greenest gills. Young gills can be yellow; maturing spores shift them toward olive-gray and darker tones. A color seen on one waterlogged cap may reflect decay rather than the normal sequence. Keep exposure fixed so the grid does not manufacture a transition.
+
+## Prove that the cluster belongs to one wood unit
+
+Crowded fruit bodies can emerge through soil beside a buried root and appear terrestrial. Trace bases gently to the same stump, root, or log section and mark that wood in a wide photograph. Record whether the substrate is standing, fallen, buried, bark-covered, charred, treated, or transported. Do not assign a tree species unless connected bark, buds, leaves, or wood anatomy support it.
+
+Map each cluster by distance along the wood. If orange-brown, yellow, and pale mushrooms occupy different cracks, do not assume they are ages of one species. Photograph the [funeral bell safety guide](/mushrooms/funeral-bell-mushroom-guide/) comparison characters—ring zone, cap hygrophany, gill color, stem texture, and spore deposit—before any food discussion.
+
+## Make matched deposits instead of trusting dark gills
+
+Place caps from two documented maturity stages on separate half-white, half-black cards, cover them against drafts, and label start time, humidity, and specimen code. A mature sulfur tuft deposit should support a dark purplish-brown interpretation, but a weak or absent deposit does not prove a pale-spored lookalike. Old wet gills can look dark without providing a useful print.
+
+Photograph deposits under neutral light and retain each cap with its card. Compare suspected *Galerina*, *Kuehneromyces*, or *Armillaria* only through a current regional key; “brown” alone is too broad. If a cluster contains mixed deposit colors, stop treating it as one collection and re-document attachments.
+
+This measured sequence adds user value without changing the conservative boundary: no web page can clear a clustered wild mushroom for eating, and cooking does not neutralize a poisonous lookalike.
 
 ## References
 

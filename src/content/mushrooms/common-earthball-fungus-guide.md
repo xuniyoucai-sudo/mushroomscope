@@ -212,6 +212,8 @@ At the pale solid stage, the high-consequence task is excluding an enclosed gill
 
 Write the decision for each numbered specimen rather than applying one cut to the whole colony. Mixed puffballs and earthballs can share a bank. The result may be “Scleroderma species” if mature microscopy or a regional key is missing; that honest limit is safer and more reproducible than forcing *S. citrinum*.
 
+For an outer wall that opens into star-like rays around a separate central spore sac, compare the [collared earthstar guide](/mushrooms/collared-earthstar-guide/). That construction differs from an earthball splitting irregularly around one gleba.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Species search for *Scleroderma citrinum*](https://www.gbif.org/species/search?q=Scleroderma%20citrinum). Nomenclature and occurrence context.

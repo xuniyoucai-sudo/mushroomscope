@@ -169,6 +169,8 @@ Black clubs arising beside a stump require a different structural vocabulary alt
 
 For an oak-associated bracket with coarse elongated pores that branch into a maze, use the [oak mazegill guide](/mushrooms/oak-mazegill-guide/); the pore geometry and corky context are more informative than a shared brown shelf outline.
 
+Black crust at a broadleaf root flare follows a different pathway from a perennial bracket: the [brittle cinder fungus guide](/mushrooms/brittle-cinder-fungus-guide/) documents stromatal stages, perithecia, and why fruit bodies alone cannot predict tree failure.
+
 ## References
 
 For a large annual broadleaf polypore with a pale angular pore surface and a boldly scaled fan-shaped cap, compare the [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) rather than extending artist's-conk characters to every bracket.

@@ -236,6 +236,8 @@ The strongest field record preserves spatial relationships among jelly, bark, an
 
 This distinction separates *Tremella mesenterica* ecology from yellow lookalikes associated with different hosts or wood types. It also limits overclaiming: absence of a visible crust in one photograph does not demonstrate absence of a microscopic or concealed host. Report the host as observed, suspected, or independently identified, and retain the evidence supporting that confidence level.
 
+For brown, thin, overlapping gelatinous lobes rather than vivid yellow-orange convolutions, compare the [leafy brain fungus guide](/mushrooms/leafy-brain-fungus-guide/). It also records wet-dry behavior and associated wood fungi as separate evidence.
+
 ## References
 
 1. [GBIF — *Tremella mesenterica*](https://www.gbif.org/species/11945016)

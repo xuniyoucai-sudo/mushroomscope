@@ -280,6 +280,8 @@ Commercial dried material loses color, elasticity, thickness, and attachment evi
 
 Reject packages with insects, off odors, moisture damage, broken seals, or unexplained mixed material. Do not use a wild-field guide to overrule a recall or supplier warning. Culinary handling belongs to traceable food products; wild identification belongs to complete attached specimens. Keeping those workflows separate prevents a familiar market name from becoming false evidence for a woodland collection.
 
+The [leafy brain fungus guide](/mushrooms/leafy-brain-fungus-guide/) separates a crowded mass of thin brown gelatinous folds from discrete ear-shaped *Auricularia* fruit bodies. Attachment, surface differentiation, hydration and microscopy matter more than “brown jelly.”
+
 ## References
 
 The [jelly ear fungus guide](/mushrooms/jelly-ear-fungus-guide/) owns the elder-host field-record intent and explains why a European *A. auricula-judae* hypothesis cannot be inferred from a dried culinary “wood ear” label.

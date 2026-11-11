@@ -6,6 +6,8 @@ keywords: ["mushroom latex", "milkcap identification", "Lactarius latex", "Lacti
 category: identification
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-30
+updatedDate: 2026-11-12
+revisionSummary: "Added a three-zone latex-yield protocol, substrate-contamination controls, and specimen-linked chemical and microscopy records."
 coverImage: "../../assets/identification/mushroom-latex-field-guide-editorial-v2.png"
 coverAlt: "Original AI-assisted editorial image of milkcap-like mushrooms with cut gills showing white latex and a timed yellow color change"
 imageCredit: "Original MushroomScope AI-assisted editorial image"
@@ -142,6 +144,26 @@ This page has editorial review status and no named mycologist or clinical review
 ## Field summary
 
 Document latex as a sequence: intact specimen, controlled cut, source of liquid, immediate color, timed color, separate tissue staining, and amount relative to cut length. Then integrate gills, fracture, cap, stem, trees, region, voucher, and microscopy. The disciplined sequence is more useful than any color shortcut—and safer because it never pretends that milk alone establishes identity or edibility.
+
+## Map latex yield across three tissue zones
+
+A single cut through the gills can exaggerate or hide latex production. On one lawful mature specimen, define three repeatable zones: the outer gill edge, the gill near its stem attachment, and cap flesh halfway between margin and center. Make the same-length shallow cut in each zone with a cleaned blade. Start a timer at contact, photograph at 0, 15, 60, and 180 seconds, and record whether droplets bead, spread, soak into tissue, or never appear.
+
+Measure the cut length and keep camera exposure fixed. “Copious” latex from a five-centimeter tear cannot be compared with “scant” latex from a pinprick. Repeat on younger and older fruit bodies from the same documented patch, but do not merge their values into one specimen. The matrix separates tissue location and age from a vague species adjective.
+
+## Control for rain, soil, and damaged-gill color
+
+Wet weather can dilute white latex until it looks watery, while soil pigments or bruised tissue can make a clear droplet appear brown. Before cutting, photograph an untouched surface and place a drop of clean water on a separate nondiagnostic tissue edge as a visual control. Record rainfall, surface wetness, and elapsed time after collection. Never rinse the diagnostic surface before the initial series.
+
+If color changes, image the droplet against white and neutral-gray backgrounds without transferring material between specimens. Report the sequence—white to yellow, clear to gray, or unchanged—not merely the final color. A stain already present before cutting belongs to tissue condition, not automatically to latex chemistry.
+
+## Link chemistry and microscopy to the exact voucher
+
+Reagents and microscopy refine a milkcap record only when the tested fragment is tied to the photographed fruit body. Assign a specimen code before sectioning. Label the gill fragment, cap-skin section, spore deposit, and any reagent test with that code, concentration, date, and operator. Include an untreated control beside every reagent spot.
+
+Record spore ornamentation, amyloid reaction, cap-cuticle construction, and cystidia only through a current regional key and calibrated setup. A latex-color table copied from another continent cannot repair missing microscopy or an uncertain host. Preserve contradictions: if milk behavior points one way and spores another, retain the voucher at genus or group level rather than forcing a species name.
+
+This intent remains distinct from the general [identification safety checklist](/identification/mushroom-identification-safety-checklist/): this guide owns timed latex evidence, while the checklist owns the broader decision and exposure boundary.
 
 ## References
 

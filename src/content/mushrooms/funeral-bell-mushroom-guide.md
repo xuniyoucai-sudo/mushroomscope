@@ -6,6 +6,8 @@ keywords: ["funeral bell mushroom", "Galerina marginata", "deadly galerina", "fu
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-14
+updatedDate: 2026-11-12
+revisionSummary: "Added a cap-hygrophany time series, annulus-zone evidence grading, and mixed-cluster reconstruction for deadly Galerina records."
 coverImage: "../../assets/species/funeral-bell-editorial-v2.png"
 coverAlt: "Original AI editorial image of small brown funeral bell mushrooms clustered on mossy decaying conifer wood with cap, gill, and ring-zone views"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -168,6 +170,30 @@ This record can support a poison center, mycological society, or herbarium. It a
 Emergency action does not require a perfect species name. “Small brown mushrooms from a conifer log” plus possible ingestion is enough to contact professionals. Conversely, a confident app label cannot rule out a mixed collection or replace clinical assessment.
 
 Keep two linked records: a medical exposure timeline and a mycological specimen record. The first tracks who ate what, how much, when, preparation, symptoms, and advice received. The second tracks clusters, photographs, substrate, spores, and expert determinations. Do not delay the first while completing the second; identification debate must never become treatment delay.
+
+## Record hygrophany as a timed cap series
+
+A single funeral bell cap can look honey-brown when wet and much paler after drying. Choose three attached caps at different sizes and photograph each from directly above at collection time, then at fixed intervals under sheltered ambient conditions. Record temperature, humidity, rain, and the boundary between translucent wet tissue and opaque dry tissue. Do not accelerate drying with heat.
+
+Measure cap diameter and keep exposure and background constant. The useful record is movement of the wet-dry boundary, not a set of unrelated colors. A cap that never shows the expected change may be too old, damaged, or a different species; retain that contradiction rather than correcting it in an editor.
+
+## Grade ring evidence instead of checking a box
+
+The ring can be distinct, fragmentary, reduced to a fibrillose zone, or lost. Photograph the entire stem before handling, then rotate it through four views. Grade the observation as complete membranous ring, partial fragment, fibrillose zone, suspected stain, or absent/not observed. An insect-damaged gap or adhering wood fiber must not be upgraded to an annulus.
+
+Pair the grade with cap stage and gill color. A ringless-looking old specimen cannot safely be excluded from *Galerina marginata*, and a ring on another brown wood mushroom does not confirm it. Microscopy, especially mature spores and cystidial characters used by a current key, remains necessary.
+
+## Reconstruct mixed colonies before comparison
+
+Deadly *Galerina* can share a log with edible-looking clustered fungi. Assign a collection code to each physical base rather than to the whole log. Map cap color, gill color, ring grade, stem texture, and spore deposit back to that base. Never move a photogenic cap into another cluster for a group image.
+
+Use the [sulfur tuft guide](/mushrooms/sulfur-tuft-mushroom-guide/) to compare olive-gray maturing gills and purple-brown deposits, but keep both pages' safety intent explicit: structural comparison is not an edibility test. If two bases yield different deposits or microscopic characters, treat the log as a mixed colony even when caps overlap in a photograph.
+
+## Preserve the toxicology chain of evidence
+
+Suspected amatoxin exposure is a medical emergency, not a field experiment. Retain uncooked and cooked remnants separately, photographs, collection location, meal time, symptom onset, and all other foods consumed. Do not delay poison-center or emergency contact while waiting for an online name.
+
+Clinical testing and treatment decisions belong to professionals. The voucher supports exposure reconstruction; it must never be used to reassure a symptomatic person because one photograph seems inconsistent with funeral bell.
 
 ## References
 

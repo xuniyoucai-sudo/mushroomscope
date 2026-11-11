@@ -253,6 +253,8 @@ Pair the anatomy with a discharge record. At high humidity, mature asci may rele
 
 The time series also improves decay interpretation. Photograph bark retention, wood softness, contact with soil, and whether new stromata follow a buried root line. It remains inappropriate to infer structural tree safety from fruit bodies alone. For another hardwood decomposer with a very different bracket body, compare the [Artist's conk guide](/mushrooms/artists-conk-mushroom-guide/); the contrast clarifies why host, internal anatomy, and fruit-body construction must be recorded together.
 
+For a related carbonaceous ascomycete that spreads as a cracked black root-flare crust rather than projecting fingers, compare the [brittle cinder fungus guide](/mushrooms/brittle-cinder-fungus-guide/). Its young pale margins and tree-risk context require a different record.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Xylaria polymorpha* species record](https://www.gbif.org/species/8956209). Accepted-name and occurrence context.
