@@ -122,6 +122,8 @@ Build a comparison table for cap zones, gill flexibility, gill attachment and fo
 
 The amethyst deceiver can also look violet in woodland, but it is smaller and more fibrous, with thick widely spaced violet gills rather than crowded flexible white gills. See the [amethyst deceiver guide](/mushrooms/amethyst-deceiver-mushroom-guide/) for that contrasting body plan.
 
+The [green-cracked brittlegill guide](/mushrooms/green-cracked-brittlegill-guide/) follows a different green-cap pathway: an irregular areolate mosaic, normally brittle pale gills, complete ringless base, and controlled spore record. Compare mechanics and texture rather than assigning every green *Russula* to the charcoal burner.
+
 ## Use taste characters only within expert protocols
 
 Some keys divide brittlegills by mild or acrid taste, but tasting unknown mushrooms is inappropriate for beginners and unnecessary for a public web identification. Do not swallow any fragment. Regional experts who use a controlled taste-and-spit method do so only after excluding dangerous genera and assessing the specimen's condition.

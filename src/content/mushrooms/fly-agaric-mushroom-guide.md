@@ -6,6 +6,8 @@ keywords: ["fly agaric", "Amanita muscaria", "fly agaric identification", "red m
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-15
+updatedDate: 2026-11-13
+revisionSummary: "Added a veil-loss reconstruction grid, tree-zone transect, and specimen-linked toxicology handoff that keep cap, base, host, and exposure evidence together."
 coverImage: "../../assets/species/fly-agaric-editorial.png"
 coverAlt: "Original AI editorial image of fly agarics showing red caps with pale veil warts, white gills, rings, and bulbous stem bases in birch-conifer woodland"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -152,6 +154,24 @@ Revisit the same patch after rain to document development without stripping it. 
 Fly agaric imagery is unusually vulnerable to confirmation bias because the cultural icon is so familiar. A decorative red-and-white mushroom in a garden, game, or generated image may exaggerate wart density, produce an impossible stem base, or combine features from different developmental stages. When reviewing a public observation, ignore its resemblance to the icon and ask whether the contributor supplied the underside, ring, complete excavated bulb, host context, scale, and date.
 
 For education, label reconstructions and AI images explicitly and never place an undocumented visual beside an edibility instruction. For a real occurrence record, retain original files and metadata, note cropping or color correction, and avoid using a background-replaced image as habitat evidence. If only the cap was photographed, the useful conclusion may be “red-capped mushroom requiring Amanita precautions,” not *A. muscaria*. That conservative label preserves the safety signal while leaving room for a later visit to collect the missing structures.
+
+## Reconstruct veil loss without borrowing evidence
+
+Build a four-column grid for each numbered specimen: cap patches, ring tissue, bulb or basal zones, and recent weather. Score every field as present, absent on complete tissue, obscured, or not photographed. This prevents a rain-washed cap from borrowing the obvious warts of a neighbor and a broken stem from borrowing another mushroom's intact bulb. Photograph the same marked fruit body after one rainfall when the site can be revisited safely; patch loss is then an observed transition rather than a story inferred from two unrelated caps.
+
+For a mixed-age patch, map the youngest closed or expanding cap, a mature cap, and a senescent cap separately. Veil remnants can move, flatten, wash away, or adhere to surrounding litter. The resulting series explains why “red cap with white dots” has low exclusion value while the linked cap-ring-base record remains useful.
+
+## Map fruiting against a measured tree zone
+
+Lay a short transect through the patch and record each fruit body's distance to the nearest birch, pine, spruce, fir, or other plausible ectomycorrhizal tree. Add trunk diameter, observed bark or leaf evidence, canopy overlap, soil cover, slope, and drainage. Repeat the map for several fruiting dates rather than assigning the nearest trunk as the partner.
+
+The analysis should report association strength, not a proved root connection. A cluster concentrated beneath overlapping birch and pine crowns remains a mixed-host context unless root-tip or molecular work links a partner. This method adds site-specific ecology without turning a common habitat observation into unsupported biological certainty.
+
+## Prepare a specimen-linked toxicology handoff
+
+If exposure occurs, keep the clinical timeline separate from the field identification hypothesis. Record who was exposed, approximate time, amount if known, symptoms, preparation, and whether the meal may contain several species. Link photographs, raw remnants, cooked leftovers, and each numbered field specimen without trying to diagnose the syndrome from the page.
+
+Contact poison control or emergency services promptly and follow their instructions. The value of the field packet is traceability: responders can see whether the red cap, white gills, ring, complete bulb, and retained material came from the same mushroom. It must never delay care or imply that *A. muscaria* excludes a more dangerous mixed collection.
 
 ## References
 

@@ -155,6 +155,8 @@ Compare the record with the [gill-types guide](/identification/mushroom-gill-typ
 
 Close the record with an explicit evidence grade: field characters only, field plus spore deposit, or voucher with microscopy. State the regional key and date consulted. This makes later review possible and prevents a dark-centered cap photograph from carrying more confidence than the underlying observations justify.
 
+For a green-capped *Russula* with a quilted or areolate surface, use the [green-cracked brittlegill guide](/mushrooms/green-cracked-brittlegill-guide/) to map cap patches, test fresh gill fracture, preserve the complete base, and compare the pale spore deposit without relying on color alone.
+
 ## References
 
 The sources listed in the page record support the accepted taxon, occurrence context, European conservation context, field methodology, and conservative poisoning response. They do not resolve a specimen from color alone. Use a current regional *Russula* key and retain voucher-linked microscopy for records that require species-level confidence.

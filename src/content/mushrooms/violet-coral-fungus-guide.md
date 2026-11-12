@@ -173,6 +173,8 @@ For the opposite architectural pattern, the [giant club fungus guide](/mushrooms
 
 For a wood-attached coral with repeated cup-shaped terminals, use the [crown-tipped coral fungus guide](/mushrooms/crown-tipped-coral-fungus-guide/). That comparison keeps terrestrial violet branching separate from a hardwood decomposer with a different terminal architecture.
 
+Before treating a pale irregular club as a coral, use the [wrinkled club fungus guide](/mushrooms/wrinkled-club-fungus-guide/) to count branch orders, trace the complete base, and separate shallow apical forks from a repeated coral hierarchy.
+
 ## References
 
 Before leaving a site, make one final context frame that includes the colony, scale, substrate transition, surrounding vegetation, and a north or slope reference. Write the observation number in the field notes rather than placing text into the habitat. This wider record can later reveal mowing, foot traffic, drainage, or canopy context missed by macro photographs. It also lets a reviewer distinguish a single compact colony from scattered fruit bodies that only appeared continuous in a close crop. When submitting the record, retain coordinates at the privacy level required for sensitive fungi and land access.

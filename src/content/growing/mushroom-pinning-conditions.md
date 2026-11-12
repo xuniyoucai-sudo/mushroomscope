@@ -6,8 +6,8 @@ keywords: ["mushroom pinning conditions","mushroom primordia","initiate mushroom
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-18
-updatedDate: 2026-10-15
-revisionSummary: "Added an opening-geometry trial, surface-evaporation observations, and a block-readiness gate that separates biological delay from room settings."
+updatedDate: 2026-11-13
+revisionSummary: "Added a shelf-zone pinning map, matched intervention clock, and abort-versus-late-emergence cohort method for diagnosing initiation failures."
 draft: false
 featured: false
 coverImage: "../../assets/growing/mushroom-pinning-conditions-editorial-v2.png"
@@ -177,6 +177,24 @@ A healthy initiation surface is moist without standing water. Persistent droplet
 Before adjusting climate, confirm that the block has reached the strain and production method's readiness criteria: expected colonization coverage, consolidation time, sound odor, stable bag integrity, and absence of unexplained colored growth or wet breakdown. Record the gate as pass, fail, or uncertain. An unready or contaminated block cannot be rescued reliably by copying a lower temperature or higher humidity from a chart.
 
 If only one block lags, isolate it and investigate inoculum distribution, compaction, hydration, filter obstruction, and contamination. If an entire matched cohort lags, review inoculum age, substrate treatment, and room history. This order prevents a room-wide adjustment from masking a batch-specific failure.
+
+## Build a shelf-zone pinning map
+
+Divide each rack into top, middle, and bottom levels and each level into inlet, center, and outlet zones. For every block, record batch, strain, fill mass, inoculation date, readiness-gate date, opening geometry, first visible primordia, and the exact shelf cell. Overlay synchronized temperature, humidity, air-speed spot checks, fog impingement, and light readings instead of using one room sensor as the crop-zone value.
+
+A failure concentrated at the outlet-side top shelf suggests a different test from random failures across one substrate batch. Keep biological and spatial layers visible on the same map. Do not change the whole room until the map shows that the pattern is room-wide rather than batch-, opening-, or shelf-specific.
+
+## Use a matched intervention clock
+
+Select matched ready blocks and define the intervention, observation interval, success signal, and stop rule before changing anything. For example, compare two opening geometries while keeping rack position, strain, block mass, room settings, and handling constant. Timestamp the cut, each inspection, first primordia, surface condition, and any contamination or aborts.
+
+Avoid daily reactive changes. A humidity adjustment followed hours later by an airflow adjustment cannot reveal which change mattered, and neither can repair an immature culture. Preserve an unchanged comparison wherever the food-safety plan permits. The conclusion should apply only to the named strain, substrate, bag, opening, and room window tested.
+
+## Separate late emergence from aborted primordia
+
+Mark a fixed 30 × 30 mm crop-surface area and photograph it from the same distance under the same light at each observation. Count new primordia, enlarging pins, unchanged points, shriveled points, and contaminated or mechanically damaged tissue. A block that forms primordia late has a different failure path from one that forms many pins and then loses them.
+
+Report both time to first primordia and survival to a predefined size. This prevents a treatment that creates many transient pins from being called successful. Pair the count with surface moisture, local air movement, block mass change, and harvest outcome so initiation and later crop quality are not confused.
 
 ## References
 

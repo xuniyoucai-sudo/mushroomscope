@@ -126,6 +126,8 @@ A damaged giant club can become irregular, while an unusually stout wrinkled clu
 
 Ramaria and other coral fungi usually divide repeatedly. Count branch orders from the base upward rather than calling the whole mass “club-shaped.” When only a broken terminal branch is present, a confident name is not defensible.
 
+For the smaller pale comparison, the [wrinkled club fungus guide](/mushrooms/wrinkled-club-fungus-guide/) maps longitudinal folds, limited forking, complete bases, and woodland substrate. It keeps a twisted ivory *Clavulina* record separate from the stout ochre pestle described here.
+
 ## Make a controlled spore record
 
 Because spores form over the external upper surface, a conventional cap print is awkward. Stand a mature specimen so a known side faces clean glass or dark paper without crushing it, protect it from drafts, and record duration and humidity. A sparse pale deposit may be difficult to distinguish from tissue dust.

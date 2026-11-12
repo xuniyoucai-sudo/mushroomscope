@@ -6,8 +6,8 @@ keywords: ["jelly tooth fungus", "Pseudohydnum gelatinosum", "jelly tooth fungus
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-16
-updatedDate: 2026-10-22
-revisionSummary: "Added tooth-density transects, conifer-decay position mapping, hydration-state measurements, and a voucher-preservation protocol for gelatinous tissue."
+updatedDate: 2026-11-13
+revisionSummary: "Added a lobe-to-attachment continuity map, matched freeze-thaw controls, and a fresh-versus-dried microscopy sampling plan for gelatinous tissue."
 draft: false
 featured: false
 coverImage: "../../assets/species/jelly-tooth-mushroom-editorial-v2.png"
@@ -226,6 +226,24 @@ Field specimens also cycle between swollen and contracted states. A dry, thin, t
 Gelatinous fungi can adhere to paper, fold onto themselves, and dry into an unreadable film. Photograph every surface first. Divide a legal minimal voucher so one piece preserves the cap surface, one preserves the toothed underside, and one retains the wood attachment. Dry pieces on a nonstick mesh with steady airflow, separated by specimen code.
 
 Do not seal wet tissue in plastic for transport. Short transport in a rigid ventilated container limits crushing; refrigeration is only a temporary delay, not preservation. Record fresh color and dimensions because dried material will change both. If DNA or culture work is planned, follow the receiving laboratory's clean-sampling and storage instructions rather than improvising from a food-storage method.
+
+## Trace each lobe back to one attachment
+
+On a crowded log, assign a temporary number to every visible lobe and photograph overlapping edges before moving them. Follow each lobe toward the wood with a blunt pointer and draw the attachment boundary on a field sketch. Record whether neighboring lobes fuse into one base, overlap without contact, or emerge from separate cracks. This prevents a smooth jelly fungus above the log from donating its cap surface to a toothed lobe underneath.
+
+Measure attachment width, lobe thickness 10 mm from the wood, and the distance from the attachment to the longest intact margin. Repeat on three lobes. The pattern can distinguish one expanding colony from several fruit bodies while preserving uncertainty about the underlying individual mycelia.
+
+## Compare freeze-thaw damage with normal hydration
+
+Weathered jelly fungi can become opaque, granular, torn, or slack after frost. Place one naturally frost-exposed lobe beside a sheltered lobe from the same labelled attachment and photograph both at field temperature. Record minimum recent temperature from the nearest reliable station, exposure position, tooth integrity, translucence, and recovery after a fixed cool indoor interval when collection is lawful.
+
+Do not freeze a food sample or claim that laboratory tolerance follows from one field comparison. The purpose is narrower: separate weather damage from ordinary rain-driven swelling. If only the exposed lobe loses tooth definition while the sheltered control retains it, preserve that observation as condition evidence rather than renaming the specimen.
+
+## Link fresh and dried tissue to the same microscopy plan
+
+Before drying, remove tiny labelled samples from the cap surface, tooth tips, tooth bases, and attachment. Photograph the sampling points. Examine a fresh mount when possible, then compare a dried-and-rehydrated mount using the same reagent, calibration, and measurement rules. Gelatinous tissue can collapse or swell, so the preparation state belongs beside every dimension.
+
+Count spores and basidia from defined locations instead of pooling scrapings from the container. Retain unsampled voucher material with the field number. This design allows a reviewer to ask whether an apparent size difference reflects anatomy, maturity, reagent, or preparation rather than assuming that every measurement is directly comparable.
 
 ## References
 
