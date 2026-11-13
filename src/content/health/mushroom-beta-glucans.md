@@ -180,6 +180,9 @@ For consumers, the most useful next step is not searching for the largest percen
 
 ## References
 
+The [mushrooms and heart health guide](/health/mushrooms-heart-health/) shows why a beta-glucan mechanism, a surrogate marker and a clinical cardiovascular outcome must not be treated as interchangeable evidence.
+
+
 1. [Systematic review of randomized fungal beta-glucan trials](https://pubmed.ncbi.nlm.nih.gov/33876798/)
 2. [Systematic review of immunomodulatory dietary polysaccharides](https://pubmed.ncbi.nlm.nih.gov/21087484/)
 3. [Human pilot intervention study](https://pubmed.ncbi.nlm.nih.gov/25268806/)

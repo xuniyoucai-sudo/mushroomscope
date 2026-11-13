@@ -189,6 +189,9 @@ After a mulch bed fruits, map the cluster positions and measure remaining chip d
 
 ## References
 
+For the production system rather than the species diagnosis, the [outdoor mushroom-bed guide](/growing/outdoor-mushroom-bed/) maps moisture zones, chip provenance and seasonal yield while keeping every harvest subject to separate identification.
+
+
 1. [GBIF — *Stropharia rugosoannulata*](https://www.gbif.org/species/2533275). Accepted-name and occurrence context; individual records require verification.
 2. [NCBI Taxonomy Browser — *Stropharia rugosoannulata*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Stropharia+rugosoannulata). Independent lineage checkpoint.
 3. [NAMA — Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative poisoning-response context.

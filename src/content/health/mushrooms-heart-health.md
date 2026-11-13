@@ -6,8 +6,8 @@ keywords: ["mushrooms and heart health", "mushroom nutrition", "heart healthy mu
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-08-16
-revisionSummary: "Expanded the article to a fuller evidence-aware guide with deeper diet-pattern context, cooking guidance, supplement cautions, and clearer reader decision boundaries."
+updatedDate: 2026-11-14
+revisionSummary: "Added an endpoint-by-endpoint evidence ladder, a sodium mass-balance method, and a repeatable meal-substitution audit while preserving conservative medical boundaries."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-nutrition-guide", "health/cooked-vs-raw-mushrooms", "health/mushroom-beta-glucans"]
@@ -113,6 +113,28 @@ If a clinician has given you a diet plan, use mushrooms inside that plan rather 
 ## Practical bottom line
 
 Mushrooms are a useful food, not a cardiovascular treatment. They can help make meals more plant-forward and flavorful, especially when used in place of some highly salted or high-saturated-fat ingredients. Keep the claim modest: mushrooms can support better cooking choices, while medical risk factors still need evidence-based care.
+
+## Match each heart claim to the endpoint actually measured
+
+Before interpreting a study, write down its intervention, comparator, duration, participants, and endpoint. A laboratory antioxidant assay measures a chemical reaction. A feeding study may measure blood lipids or blood pressure over weeks. An observational cohort may record dietary patterns and later diagnoses. None of these designs, by itself, proves that an ordinary serving of mushrooms prevents a heart attack.
+
+Separate surrogate outcomes from clinical outcomes. A change in LDL cholesterol, sodium intake, or satiety can be relevant, but it is not identical to fewer strokes or longer life. Also distinguish a whole-food meal from an extract: species, fungal part, extraction, dose, and exposure can all differ. This ladder makes it harder for a product page to jump from a cell experiment to a treatment promise.
+
+For a reader checking a headline, use four columns: exact material, human population, measured endpoint, and uncertainty. If any column is missing, the claim is not ready for a personal health decision. The page remains editorially reviewed and has no named clinician; individual cardiovascular treatment belongs with a qualified care team.
+
+## Run a sodium mass balance on the finished meal
+
+Mushrooms themselves may be low in sodium, yet a mushroom dish can be sodium-heavy because of stock, soy sauce, miso, cheese, cured meat, or seasoning blends. Record the label sodium for every packaged ingredient, multiply by the amount used, add the contributions, and divide by the actual number of portions served. Do not quote the mushroom’s database value as though it described the complete recipe.
+
+Repeat the calculation after one defined substitution: unsalted stock for regular stock, herbs and acid for part of a salty sauce, or mushrooms and lentils for part of cured meat. Keep portion size constant. The comparison then measures a recipe change rather than awarding a health halo to one ingredient.
+
+People with prescribed sodium, potassium, fluid, kidney, or medication plans should use their clinical target rather than a generic number. FoodData Central and labels provide inputs; they do not set an individual prescription.
+
+## Audit a substitution instead of merely adding mushrooms
+
+Choose one familiar meal and document what the mushrooms replace. If they are added to the same quantity of meat, cream, cheese, and salt, the expected dietary effect differs from replacing part of those ingredients. Weigh the ingredients, record cooking fat and seasoning, and compare equal plated portions for satisfaction, cost, leftovers, and repeatability.
+
+This method produces a modest but useful conclusion: a particular mushroom preparation helped restructure one meal. It does not prove a direct cardiovascular effect. The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) helps keep preparation changes separate from exaggerated nutrient claims, while the [nutrition guide](/health/mushroom-nutrition-guide/) owns broader composition questions.
 
 ## Frequently asked questions
 

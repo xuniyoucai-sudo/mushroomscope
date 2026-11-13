@@ -156,6 +156,9 @@ Set a retention period from applicable law, customer requirements, product life,
 
 ## References
 
+When a batch log includes thermal decisions, use the [mushroom growing temperature guide](/growing/mushroom-growing-temperature/) to separate room air, block location, sensor response time and stage-specific supplier limits.
+
+
 1. [Cornell Small Farms — Harvest to Market Guide](https://smallfarms.cornell.edu/resources/harvest-to-market-guide/)
 2. [FDA — Traceability Rule overview](https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-records-certain-foods)
 3. [Penn State Extension — Mushroom production and harvesting](https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting)

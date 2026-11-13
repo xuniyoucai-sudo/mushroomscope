@@ -148,6 +148,9 @@ Wood and root-zone records pose different evidence problems. The [Common bonnet 
 
 ## References
 
+Minute wood decomposers make the substrate boundary especially easy to miss. The [collared parachute guide](/mushrooms/collared-parachute-mushroom-guide/) traces a hairlike stem through litter to its actual hardwood twig rather than naming the nearest leaf.
+
+
 The [meadow waxcap field guide](/mushrooms/meadow-waxcap-guide/) shows how turf management, moss cover, repeat surveys, and complete grassland context should remain attached to a species record.
 
 1. National Center for Biotechnology Information. [NCBI Taxonomy Browser](https://www.ncbi.nlm.nih.gov/taxonomy). Nomenclature and lineage context for checking the taxon attached to an ecological record.

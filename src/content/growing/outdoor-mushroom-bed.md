@@ -6,7 +6,8 @@ keywords: ["how to start a wine cap mushroom bed", "wine cap mushroom bed", "out
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-10
-updatedDate: 2026-08-24
+updatedDate: 2026-11-14
+revisionSummary: "Added a bed-zone moisture map, matched chip-source comparison, and seasonal yield-denominator protocol for a more auditable outdoor wine-cap project."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-substrate-guide", "growing/when-to-harvest-mushrooms", "growing/mushroom-contamination-guide"]
@@ -143,6 +144,26 @@ An outdoor substrate can support more than the culture you bought. The bed locat
 If you harvest mushrooms you can confidently identify through qualified local expertise, use clean hands or tools and a clean food-contact container. Penn State and FDA food-safety guidance support keeping culinary mushrooms separate from raw animal foods and refrigerating perishable produce promptly. A questionable, slimy, moldy, persistently off-smelling, or uncertain crop is not a preservation project—do not try to rescue it by trimming or cooking it. See the [contamination guide](/growing/mushroom-contamination-guide/) for the isolation boundary.
 
 For maturity and clean harvest handling, use the [harvest guide](/growing/when-to-harvest-mushrooms/). For choosing between wood chips, logs, straw, and prepared blocks before beginning another project, use the [substrate decision guide](/growing/mushroom-substrate-guide/).
+
+## Map moisture by bed zone instead of averaging the site
+
+Divide the bed into center, edge, high-slope and low-slope zones. Mark fixed observation points without burying permanent sharp objects. After rain and after a representative dry interval, record surface condition, a supplier-supported shallow observation below the surface, shade duration, pooling, erosion and any watering. Photograph each point from the same direction.
+
+The goal is not to assign a universal moisture percentage. It is to locate repeatable differences: an edge exposed to afternoon sun, a center protected by chips, or a low corner receiving runoff. Make one reversible, supplier-supported adjustment to one zone and compare the next equivalent weather event. Do not soak the entire bed because one exposed corner is dry.
+
+## Compare chip sources without mixing their histories
+
+If a future expansion uses a different known untreated hardwood-chip source, keep it as a separate labelled plot rather than mixing it into the original bed. Record source, tree information if available, particle-size distribution, delivery date, visible leaves or fines, storage and inoculation rate specified by the spawn supplier.
+
+Use the same labeled spawn lot only when the supplier approves the design, and keep site exposure as similar as practical. Compare colonization observations, moisture retention, unexpected fruit bodies and harvest timing. The result describes two traceable plots; it does not prove that one wood species is universally superior. Painted, treated or unidentified demolition wood is excluded rather than tested.
+
+## Calculate yield with an honest denominator
+
+For every harvest, record fresh mass, date, bed zone, mushrooms retained for food, material discarded for age or damage, and uncertain mushrooms excluded from the crop. Use the documented initial dry or as-delivered substrate denominator only if it was actually measured and its moisture basis is clear. Do not retrofit biological-efficiency claims from an unknown truckload volume.
+
+A simpler outdoor measure is harvest mass per mapped bed area and observation season, accompanied by the chip input record and weather notes. Include a zero-harvest season. This makes renewal decisions more useful than photographs of one impressive flush and avoids hiding losses, missed observations or unidentified fruit bodies.
+
+The [wine-cap species guide](/mushrooms/wine-cap-mushroom-guide/) remains responsible for morphology and lookalikes; cultivation provenance alone never identifies a harvest.
 
 ## References
 

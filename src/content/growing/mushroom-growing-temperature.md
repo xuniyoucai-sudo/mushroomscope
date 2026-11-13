@@ -6,8 +6,8 @@ keywords: ["mushroom growing temperatures", "mushroom incubation temperature", "
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-07
-updatedDate: 2026-08-24
-revisionSummary: "Expanded the decision process with instrument placement, escalation thresholds, and a handoff-ready batch record while keeping all targets tied to the exact supplier and cultivation stage."
+updatedDate: 2026-11-14
+revisionSummary: "Added probe-response mapping, block-core versus room-air lag analysis, and a matched single-variable temperature trial with explicit stop rules."
 draft: false
 featured: false
 relatedEntries: ["growing/mushroom-fruiting-conditions", "growing/mushroom-growing-troubleshooting", "growing/mushroom-contamination-guide", "growing/mushroom-substrate-guide"]
@@ -122,6 +122,24 @@ If a batch becomes suspect, keep it away from clean cultures, avoid tasting or h
 ## Calibrate decisions to the sensor, not just the display
 
 Compare the working sensor with a trusted reference at relevant temperatures and record its offset, placement, and check date. Air, substrate core, shelf, and room readings answer different questions. If a value is implausible, verify the instrument before changing heaters or cooling and risking a large uncontrolled swing.
+
+## Map response time before interpreting a spike
+
+Place the room sensor and a second safely used sensor side by side long enough to compare them, then move only the second sensor to the documented block or shelf location. Record readings at fixed short intervals after a normal environmental change, such as a door opening or the scheduled start of ventilation. Do not create an extreme temperature event merely to test the instruments.
+
+The room sensor may respond quickly while the block changes slowly, or a probe with a heavy housing may lag behind both. Write down the time to a stable reading and treat a brief display spike differently from a sustained stage-specific deviation. This response map prevents a slow sensor from being mistaken for thermal stability and a fast sensor from triggering unnecessary thermostat changes.
+
+## Compare room-to-core lag with block geometry
+
+For healthy batches where the supplier permits a substrate measurement, record container mass or dimensions, fill depth, probe depth and distance from the block edge. Measure at the same documented location and time of day. A large active block can retain or generate heat differently from a thin bag even when both sit in the same room.
+
+Do not average unrelated blocks into one reassuring number. Report the median and warmest documented location, then flag any difference that falls outside the exact supplier's method. If taking a core reading would puncture a clean commercial block or create contamination risk, omit it and ask the supplier for a non-destructive method.
+
+## Run a matched single-variable trial only on healthy material
+
+When two authenticated, visibly healthy units from the same batch are available, assign one as the supplier-standard control and make one modest, supplier-supported placement or air-temperature change to the other. Keep substrate, container, light, watering, fresh-air schedule and observation times the same. Record colonization appearance, pin timing, abnormal signs, harvest mass and discarded material.
+
+Stop the comparison if either unit develops unexplained color, slime, odor, insects or wet uncolonized zones. Isolation and the [contamination guide](/growing/mushroom-contamination-guide/) then take priority. A matched trial can show which setting worked better for this culture and room; it does not manufacture a universal temperature chart.
 
 ## References
 

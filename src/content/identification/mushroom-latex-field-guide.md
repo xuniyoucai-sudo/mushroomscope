@@ -167,6 +167,9 @@ This intent remains distinct from the general [identification safety checklist](
 
 ## References
 
+Colored fluid is not limited to milkcaps. The [bleeding fairy helmet guide](/mushrooms/bleeding-fairy-helmet-guide/) uses a timed, single-specimen test for dark wine-red latex while keeping hardwood habitat and bonnet anatomy in the evidence chain.
+
+
 - [GBIF — Lactarius](https://www.gbif.org/species/2520699)
 - [GBIF — Lactifluus](https://www.gbif.org/species/7240968)
 - [NCBI Taxonomy Browser — Russulaceae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Russulaceae)

@@ -152,6 +152,9 @@ The [deceiver mushroom guide](/mushrooms/deceiver-mushroom-guide/) is a worked e
 
 ## References
 
+For a specialized attachment that does not fit the ordinary direct-to-stem categories, the [collared parachute guide](/mushrooms/collared-parachute-mushroom-guide/) shows how sparse gills terminate on a collarium around a wiry stem.
+
+
 The [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/) applies decurrent-gill documentation to a blue-green woodland species while keeping odor and color as supporting evidence.
 
 The [plums and custard guide](/mushrooms/plums-and-custard-mushroom-guide/) uses a direct stem-junction view and a mature spore deposit to separate yellow attached gills from rusty-spored wood-growing lookalikes.

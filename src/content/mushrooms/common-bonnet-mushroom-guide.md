@@ -149,4 +149,7 @@ For a denser oak-stump fruiting pattern, compare the [clustered bonnet guide](/m
 
 ## References
 
+For a reddish hardwood bonnet with a different diagnostic pathway, compare the [bleeding fairy helmet guide](/mushrooms/bleeding-fairy-helmet-guide/), which records wine-red latex without treating the reaction as a stand-alone identification.
+
+
 The sources listed in the page record support accepted taxonomy, specialist genus characters, regional comparison practice, and conservative poisoning response. They do not authenticate a reader's specimen. A confident record should be checked against a current regional key and, when required, voucher-linked microscopy.
