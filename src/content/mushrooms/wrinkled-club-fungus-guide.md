@@ -169,6 +169,8 @@ The result should explain why the material follows a wrinkled-club hypothesis an
 
 ## References
 
+A vivid yellow, repeatedly forked, gelatinous-tough body arising from decayed conifer wood requires a different comparison: the [yellow stagshorn field guide](/mushrooms/yellow-stagshorn-fungus-guide/) documents branch architecture, substrate proof, texture, and microscopy. Pale wrinkled clubs should not be grouped with it by upright shape alone.
+
 - [GBIF species search: *Clavulina rugosa*](https://www.gbif.org/species/search?q=Clavulina%20rugosa) — taxonomic sources, occurrences, and voucher leads.
 - [NCBI Taxonomy Browser: *Clavulina rugosa*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Clavulina+rugosa) — nomenclatural and sequence-linked context.
 - [First Nature: *Clavulina rugosa*](https://www.first-nature.com/fungi/clavulina-rugosa.php) — field morphology, season, habitat, and comparison points.

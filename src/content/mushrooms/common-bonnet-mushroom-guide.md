@@ -151,5 +151,7 @@ For a denser oak-stump fruiting pattern, compare the [clustered bonnet guide](/m
 
 For a reddish hardwood bonnet with a different diagnostic pathway, compare the [bleeding fairy helmet guide](/mushrooms/bleeding-fairy-helmet-guide/), which records wine-red latex without treating the reaction as a stand-alone identification.
 
+When a gray bonnet has conspicuous ribs running along the stem rather than merely translucent lines on the cap, compare the [grooved bonnet field guide](/mushrooms/grooved-bonnet-mushroom-guide/). Keep the wood, gills, and microscopic packet attached to the comparison; stem lines alone do not settle the name.
+
 
 The sources listed in the page record support accepted taxonomy, specialist genus characters, regional comparison practice, and conservative poisoning response. They do not authenticate a reader's specimen. A confident record should be checked against a current regional key and, when required, voucher-linked microscopy.

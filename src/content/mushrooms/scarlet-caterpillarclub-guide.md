@@ -172,6 +172,8 @@ The generated host and perithecia cannot establish insect identity, microscopic 
 
 ## References
 
+Not every brightly colored upright fungus is an insect parasite. The [yellow stagshorn identification guide](/mushrooms/yellow-stagshorn-fungus-guide/) covers forked gelatinous fruit bodies attached to rotten conifer wood; substrate attachment and branching separate that search intent from caterpillarclub anatomy.
+
 - [GBIF species search: *Cordyceps militaris*](https://www.gbif.org/species/search?q=Cordyceps%20militaris) — occurrence and taxonomic source records.
 - [NCBI Taxonomy Browser: *Cordyceps militaris*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Cordyceps+militaris) — taxonomic and sequence-linked context.
 - [USDA Forest Service fungi research](https://research.fs.usda.gov/) — forest-fungus and entomopathogenic research context.

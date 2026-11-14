@@ -6,6 +6,7 @@ keywords: ["lion's mane mushroom steaks", "how to cook lion's mane", "lion's man
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-12
+updatedDate: 2026-11-15
 coverImage: "../../assets/recipes/lion-s-mane-mushroom-steaks-editorial-v2.png"
 coverAlt: "AI editorial illustration of two golden seared lion's mane mushroom steaks with lemon-herb butter"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -183,8 +184,20 @@ It may release more water and have a softer structure. Thaw under refrigeration,
 
 No. “Steak” describes shape and cooking technique, not protein or nutrient equivalence. Use USDA FoodData Central entries that match the actual ingredients for dietary calculations.
 
+## Run a matched thickness and moisture trial
+
+For a repeatable comparison, cut six slabs from one cultivated cluster and pair them by thickness and mass. Blot each for the same time, then cook three at roughly 15 mm and three at roughly 25 mm in the same preheated pan, one thickness per batch. Record raw mass, first-face time, liquid visible at each minute, mass after the dry-sear stage, final mass, center temperature where relevant, and a cross-section photograph after a two-minute rest. Keep oil and pan load constant.
+
+The thinner pieces should not automatically be called better because they brown sooner. Score crust continuity, fibrous center, edge dryness, and retained mass separately. This trial shows how geometry changes the evaporation window in that cluster and pan; it does not establish a universal cooking time. If the second batch benefits from a hotter pan, reverse the order on another day or preheat to the same measured surface condition.
+
+## Audit pressing force instead of flattening continuously
+
+Pressing increases contact, but continuous heavy force can expel liquid faster than it evaporates and compress the fibrous interior. Compare two equal slabs: give one three ten-second presses during the first face and leave the other under its own weight. Record pooled liquid, thickness before and after, browning area, tenderness, and cooked mass. Use the same spatula and pan zone.
+
+The useful endpoint is not maximum thinness. A controlled press should improve patchy contact while preserving an identifiable center. If both slabs brown evenly, the extra force added no value. If the pressed slab becomes dense or dry, shorten the presses rather than compensating with more butter. This method turns a vague “steak” gesture into a variable a reader can reproduce.
+
 ## References
 
 FDA guidance supports washing, refrigeration, and cross-contamination statements. USDA FSIS supports cooling, storage, and reheating limits. USDA FoodData Central is provided for ingredient-matched nutrient checks rather than unsupported estimates. Cornell's specialty-mushroom material supports the cultivated-product context. This is an editorial recipe, not a controlled test-kitchen report; pan response varies, so the method pairs approximate times with visible moisture, browning, center heat, and texture cues.
 
-*Editorial status: reviewed by the MushroomScope editorial team on September 12, 2026; no named chef or test kitchen independently validated this recipe.*
+*Editorial status: reviewed by the MushroomScope editorial team on November 15, 2026; no named chef or test kitchen independently validated this recipe.*

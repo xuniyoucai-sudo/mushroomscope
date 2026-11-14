@@ -6,8 +6,8 @@ keywords: ["mushroom omelet", "mushroom and herb omelet", "fluffy mushroom omele
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-13
-updatedDate: 2026-09-28
-revisionSummary: "Replaced pre-publication test language with an accurate editorial disclosure and added filling-yield, pan-recovery, curd-size, carryover, and fold diagnostics."
+updatedDate: 2026-11-15
+revisionSummary: "Added separate evaporation and egg-setting clocks plus a reproducible filling-placement map and tear-location diagnosis."
 coverImage: "../../assets/recipes/mushroom-omelet-editorial-v2.png"
 coverAlt: "AI editorial illustration of a folded golden omelet filled with browned cremini mushrooms and fresh herbs"
 imageCredit: "Original AI editorial illustration created for MushroomScope"
@@ -205,8 +205,20 @@ Add the egg mixture only after butter foams gently without browning. Pull broad 
 
 Use residual heat deliberately. Fold, remove the pan from the burner, and allow a brief rest before sliding the omelet onto a warm plate. Carryover finishes the inner layer, so waiting for every visible patch to look dry in the pan overshoots the endpoint. For diners who need fully set eggs, use a food thermometer at the thickest filled section and follow current food-safety guidance rather than judging only the exterior color.
 
+## Separate mushroom evaporation from egg setting
+
+Run the two stages as separate clocks. For the filling, weigh the raw mushrooms, record pan diameter and load, and note mass when visible pooling stops. For the eggs, reset the clean skillet to gentle foaming butter, start a new timer, and record when curds first hold a track, when filling is added, when the fold releases, and the thickest-point temperature when required. One continuous recipe time hides the transition that causes most watery omelets.
+
+Repeat with the same mushroom mass but two slice thicknesses. Keep egg count, pan, burner setting, and seasoning constant. Compare filling mass after cooking, liquid on the holding plate, fold integrity, center moisture, and total egg-stage time. The experiment identifies which cut works in that kitchen; it does not justify a universal minute mark because mushroom species, water content, cookware, and burner recovery differ.
+
+## Map filling placement before the fold
+
+Treat the cooked filling as a narrow strip rather than a blanket. Divide one half of the omelet into three bands: a clear edge band, a central filling band, and a clear hinge band near the fold. Keep mushrooms away from the perimeter so the egg layers can seal, and avoid piling pieces at the center where thickness delays heating. Photograph the layout once before folding to make the geometry reproducible.
+
+If the omelet tears, record the tear location. A perimeter tear suggests sticking or an overloaded edge; a hinge tear suggests filling too near the fold or a base that had not set; a central rupture suggests excessive mound height. Change only placement on the next attempt before changing egg quantity or pan heat. That diagnostic order preserves what already worked and makes the result more useful than simply advising “use less filling.”
+
 ## References
 
 USDA FSIS supports the egg-temperature and leftover statements. FDA guidance supports produce washing and clean preparation. FoodData Central is the basis for ingredient-specific nutrient calculation. The editorial team did not conduct or claim an independent logged kitchen test; pan diameter, mushroom yield, burner response, fold timing, and thick-point temperature remain useful variables for readers to record in their own kitchen.
 
-*Editorial status: reviewed by the MushroomScope editorial team on September 28, 2026; no named chef or test kitchen independently validated this recipe.*
+*Editorial status: reviewed by the MushroomScope editorial team on November 15, 2026; no named chef or test kitchen independently validated this recipe.*

@@ -6,8 +6,8 @@ keywords: ["collared earthstar", "Geastrum triplex", "earthstar fungus identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-03
-updatedDate: 2026-10-24
-revisionSummary: "Added fixed-angle hydration trials, collar-fracture mapping, apical-mouth measurements, and population-stage sampling."
+updatedDate: 2026-11-15
+revisionSummary: "Added a specimen-linked developmental sequence and a matched litter-patch control alongside the existing collar, mouth, and hydration methods."
 coverImage: "../../assets/species/collared-earthstar-editorial-v2.png"
 coverAlt: "AI editorial image of three collared earthstars with split rays and central spore sacs on woodland litter"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -247,6 +247,18 @@ The collar should be traced to a split inner layer of the exoperidium rather tha
 
 These three character sets mature and weather at different rates. A prominent collar can persist after the mouth is abraded; a clear mouth can remain on a specimen whose collar never developed symmetrically. Scoring each structure separately makes comparison with *Geastrum saccatum*, other *Geastrum*, and *Astraeus* more useful than the circular statement that a specimen is *G. triplex* because it “looks collared.”
 
+## Reconstruct the buried developmental sequence
+
+A mature earthstar is the exposed end of a longer developmental history. On a lawful, non-sensitive site, photograph unopened bodies, partly split bodies, newly expanded rays, mature sacs, and weathered remains without arranging them into a false progression. Give every specimen a number and record its depth in litter, contact with mineral soil, outer-wall debris, ray thickness, collar state, sac height, and mouth maturity. The sequence should come from one mapped patch and one visit series; specimens gathered from unrelated sites cannot demonstrate local development.
+
+Use a shallow side profile to record how the rays lift the sac and whether litter adheres to the outer surface. A closed body cut only for a permitted voucher should be photographed through the center, noting the developing sac and wall layers without turning internal color into an edibility test. The practical value is structural: it explains how an apparently smooth ball becomes a rayed fruit body and why a damaged juvenile may be impossible to name. It also separates missing evidence from a true absence. If no unopened stages are present, say so rather than filling the gap with a textbook description.
+
+## Compare one litter patch with a matched control
+
+Define an occupied square around the earthstars and a nearby square with similar slope, shade, litter depth, and dominant tree cover but no visible fruit bodies. Record litter depth at fixed points, recent rainfall, surface temperature, visible woody fragments, soil disturbance, and the number of fresh and persistent earthstars. Repeat after comparable rain intervals without raking either plot.
+
+The paired observation can reveal whether fruiting repeatedly concentrates in a particular litter structure, but it cannot prove a nutrient or host mechanism. The underground mycelium may cross both plots, and past disturbance or soil chemistry may differ. This explicit control is more informative than the generic statement “found in rich woodland,” because it preserves both the observed association and the causal limit.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Geastrum triplex* species record](https://www.gbif.org/species/2554367). Current backbone name, classification, synonyms, and occurrence context.
@@ -254,4 +266,4 @@ These three character sets mature and weather at different rates. A prominent co
 3. Global Biodiversity Information Facility. [*Geastrum* genus record](https://www.gbif.org/species/2525056). Genus-level diversity and occurrence context used to avoid treating one earthstar form as species proof.
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Conservative response guidance for an uncertain wild-fungus exposure.
 
-*Editorial review: October 24, 2026. Taxonomy, regional keys, source URLs, and poison-response guidance should be rechecked at every substantive update. No named mycologist or clinician reviewed this article.*
+*Editorial review: November 15, 2026. Taxonomy, regional keys, source URLs, and poison-response guidance should be rechecked at every substantive update. No named mycologist or clinician reviewed this article.*

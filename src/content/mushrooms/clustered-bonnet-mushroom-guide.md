@@ -183,6 +183,8 @@ That workflow turns a striking cluster into evidence another observer can audit.
 
 ## References
 
+Sparse gray bonnets with sharply longitudinally lined stems may belong nearer the [grooved bonnet identification guide](/mushrooms/grooved-bonnet-mushroom-guide/) than this densely clustered species. Compare colony form, complete stem surfaces, gill attachment, substrate, and microscopy instead of choosing by cap color.
+
 - [GBIF species search: *Mycena inclinata*](https://www.gbif.org/species/search?q=Mycena%20inclinata) — occurrence records and taxonomic source links.
 - [NCBI Taxonomy Browser: *Mycena inclinata*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Mycena+inclinata) — taxonomic and sequence-linked context.
 - [First Nature: *Mycena inclinata*](https://www.first-nature.com/fungi/mycena-inclinata.php) — field characters, habitat, and comparison notes.
