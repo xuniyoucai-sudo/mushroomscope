@@ -159,6 +159,8 @@ When using verified cultivated specialty mushrooms, keep species-specific textur
 
 For a meal that uses the same evaporation-first browning logic with beans, cabbage and lime, the [mushroom tacos recipe](/recipes/mushroom-tacos/) adds a measured pan-load test and separates hot filling from crisp toppings.
 
+For eggs, carry only the dry-filling principle into the [mushroom omelet recipe](/recipes/mushroom-omelet/): it resets pan heat, separates the evaporation and egg-setting clocks, and maps filling placement so browned mushrooms do not tear or waterlog the fold.
+
 ## References
 
 1. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). Cleaning and cross-contamination boundaries for the raw cremini preparation step.

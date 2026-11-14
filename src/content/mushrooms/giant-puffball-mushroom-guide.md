@@ -184,6 +184,8 @@ Retain a separate mature sample for spores only when microscopy is needed. Label
 
 ## References
 
+When a closed gasteroid body has already opened into thick rays around a separate spore sac, the [collared earthstar guide](/mushrooms/collared-earthstar-guide/) provides the relevant developmental and collar evidence. That rayed architecture has a different identification pathway from the uniform interior required of an immature puffball.
+
 The [common earthball guide](/mushrooms/common-earthball-fungus-guide/) explains why a coarse thick rind and purple-black maturing interior belong to a different, poisonous field problem.
 
 1. Global Biodiversity Information Facility. [*Calvatia gigantea* species record](https://www.gbif.org/species/2537430). Taxonomic backbone and occurrence context.

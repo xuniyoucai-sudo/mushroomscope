@@ -172,6 +172,8 @@ Do not treat one successful block as validation of an improvised sterile-substra
 
 ## References
 
+After a verified cultivated cluster is harvested, the [lion's mane mushroom steaks recipe](/recipes/lion-s-mane-mushroom-steaks/) applies an evaporation-first sear, matched-thickness comparison, and controlled pressing test. Keep that cooking workflow separate from culture identity and grow-room troubleshooting.
+
 1. Cornell Small Farms. [Specialty Mushroom Cultivation](https://smallfarms.cornell.edu/projects/mushrooms/). Hardwood substrate, production-system, and specialty-crop context; strain-specific settings still come from the block supplier.
 2. Penn State Extension. [Mushroom Food Safety](https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety). Sanitation and food-production risk context for cultivated mushrooms.
 3. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling and cold-storage principles applied after harvest.
