@@ -239,6 +239,8 @@ The [smoky bracket guide](/mushrooms/smoky-bracket-fungus-guide/) provides the r
 
 An orange upper band does not make a bracket cinnabar polypore. Compare the pale turkey-tail underside with the orange context and matching pore surface documented in the [cinnabar polypore guide](/mushrooms/cinnabar-polypore-guide/).
 
+For an equally zoned hardwood fungus that lacks a pore layer, compare the [hairy curtain crust guide](/mushrooms/hairy-curtain-crust-fungus-guide/). Its smooth yellow-orange fertile surface is the structural contradiction that prevents a color-only turkey-tail label.
+
 ## References
 
 Compare the pale round-pored underside here with the [violet-toothed polypore guide](/mushrooms/violet-toothed-polypore-guide/), where fresh violet pores tear into teeth as brackets age.

@@ -264,6 +264,8 @@ Expansion reflects structure and water uptake but does not alone establish ident
 
 No such conclusion follows from this guide. Food, cosmetic ingredients, purified compounds, and clinical treatments require separate product-specific evidence.
 
+For a much smaller translucent hardwood jelly with opaque white internal inclusions rather than elaborate fronds, compare the [crystal brain fungus guide](/mushrooms/crystal-brain-fungus-guide/). Size, lobe architecture, section, ecology, and microscopy keep those intents separate.
+
 ## References
 
 Use the [cloud ear guide](/mushrooms/cloud-ear-mushroom-guide/) when the product forms ear-shaped lobes rather than branching fronds; its lot-level and hydration-ratio record prevents texture alone from deciding identity.

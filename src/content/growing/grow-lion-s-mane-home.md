@@ -6,8 +6,8 @@ keywords: ["how to grow lion's mane mushrooms at home", "mushroom cultivation", 
 category: growing
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-28
-revisionSummary: "Added block-level microclimate measurement, morphology-based troubleshooting, opening geometry, harvest handling, and separate controls for ready blocks versus sterile production."
+updatedDate: 2026-11-16
+revisionSummary: "Added a paired opening-orientation trial, block-mass water ledger, and morphology response clock for separating humidity, drying, and fresh-air problems."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/lion-s-mane-mushroom-guide", "growing/mushroom-grow-bag-guide", "growing/mushroom-contamination-guide"]
@@ -169,6 +169,18 @@ Retire a block when the supplier's cycle is complete or when contamination, inse
 After each flush, summarize what was held constant and what changed: block source, opening style, temperature range, humidity trend, fresh-air schedule, first visible growth, harvest date, yield, and quality notes. Select one realistic improvement for the next block. Examples include preparing the chamber earlier, moving the sensor closer to the block, or checking twice daily near maturity.
 
 Do not treat one successful block as validation of an improvised sterile-substrate process. Ready-to-fruit fruiting and spawn-to-block production have different contamination risks. Advance only when the current workflow is repeatable and the required equipment can be operated safely.
+
+## Run a paired opening-orientation trial before changing the room
+
+When two ready-to-fruit blocks from the same supplier and lot are available, treat them as a matched pair. Keep room, shelf, light schedule, temperature, and handling identical. Place one approved opening on the broad side and the other in the supplier-approved alternate orientation only if the instructions allow it. Photograph each opening with a scale and record cut length, flap position, block face, and time.
+
+Weigh each unopened block, again immediately after opening, and then at the same time daily on a clean scale. The mass trend is a water ledger, not a command to soak. A fast decline alongside a dry, cracking surface suggests excessive evaporation; stable mass with wet surfaces and elongated branching can point toward a different air-exchange problem. Supplier instructions and visible crop condition still govern intervention.
+
+Map the microclimate at block height. Record temperature and relative humidity near each block, but also note fan cycles, humidifier cycles, wall condensation, and whether droplets remain on fruit tissue. A room-average sensor can hide a direct draft or a saturated corner. Do not spray developing teeth to force a humidity reading; surface water can damage tissue and complicate contamination assessment.
+
+Use a morphology response clock. After one justified change, log the exact time and wait for new growth to express it. Old yellowed or elongated tissue will not reverse instantly. Compare the newest 5–10 mm of growth, branch spacing, tooth initiation, and color against the unchanged control block. Changing humidity, airflow, temperature, and opening size together destroys the explanation.
+
+Record harvest mass, trimmed loss, days from opening, and block mass after harvest. Rest and rehydrate only according to the supplier’s method. Report later flushes separately, including failed or contaminated blocks, rather than calculating yield from the best cluster alone. The [biological-efficiency guide](/growing/mushroom-yield-biological-efficiency/) explains denominator choices, while the [lion’s mane species guide](/mushrooms/lion-s-mane-mushroom-guide/) owns taxonomy and wild morphology rather than home-fruiting instructions.
 
 ## References
 

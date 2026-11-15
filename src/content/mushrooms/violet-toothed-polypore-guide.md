@@ -196,6 +196,8 @@ Number every colony on the log and trace whether brackets share continuous tissu
 
 Sample microscopy from a single labeled colony rather than pooling fragments. If two morphologies meet, preserve the boundary in photographs and treat it as a mixed-colony hypothesis until anatomy or sequence evidence resolves it. This protocol prevents an attractive violet edge from lending its identity to every neighboring shelf.
 
+The [hairy curtain crust guide](/mushrooms/hairy-curtain-crust-fungus-guide/) covers another thin, hairy hardwood bracket, but its fertile underside remains smooth rather than developing the pores and split teeth tracked here.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Species search for *Trichaptum biforme*](https://www.gbif.org/species/search?q=Trichaptum%20biforme). Nomenclature and occurrence context.

@@ -6,7 +6,8 @@ keywords: ["plums and custard mushroom", "Tricholomopsis rutilans", "purple scal
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-01
-updatedDate: 2026-11-01
+updatedDate: 2026-11-16
+revisionSummary: "Added a matched scale-retention weather series, a mature-gill color audit, and a log-zone recurrence map tied to numbered vouchers."
 draft: false
 featured: false
 coverImage: "../../assets/species/plums-and-custard-editorial.png"
@@ -144,6 +145,18 @@ Do not taste unknown mushrooms to resolve a name. If illness follows wild mushro
 A strong record contains the undisturbed group, confirmed or qualified wood substrate, cap measurements across ages, scale close-ups in neutral light, yellow gills and attachment, complete stems and bases, section, pale spore deposit, and microscopy when required. Run a contradiction audit: rusty spores, a persistent ring, a volva, soil attachment without wood, gills that mature brown, or a smooth unscaled cap should redirect the identification.
 
 The cover is an original AI editorial image. It was checked beside Common Bonnet, Wrinkled Peach, and Scarlet Waxcap covers for natural light, restrained color, realistic wood and fungal textures, complete bases, clear yellow gills, plausible cap scales, clean crop, and absence of text or watermark. It illustrates the evidence plan; it cannot identify a reader's specimen.
+
+## Run a matched scale-retention weather series
+
+Choose six numbered caps on one wood unit: two young, two expanded, and two weathered. Photograph them in diffuse light with the same color reference and camera angle after a dry interval, immediately after natural rain, and again after the surfaces dry. Measure cap width, the width of five scale patches in fixed center and margin zones, and the percentage of exposed yellow ground estimated from a simple grid overlay.
+
+The series tests persistence rather than inventing a diagnostic threshold. Rain can mat fibrils, abrasion can remove them, and cap expansion separates patches. A weathered cap with sparse purple material should remain linked to young neighbors, wood attachment, yellow gills, pale spores, and its numbered voucher. Do not wet caps manually or increase saturation to restore the common-name palette.
+
+At each stage, photograph a mature gill sector beside a neutral card. Record whether the gills remain yellow, bruise, spot, or acquire deposited pigment. Place one clean glass slide beneath a mature cap and a blank slide beside it. A pale deposit supports *Tricholomopsis*; rusty residue redirects the record toward brown-spored wood agarics and must be confirmed microscopically rather than dismissed as dirt.
+
+Divide the occupied log into equal 25 cm zones. Record bark cover, decay softness, ground contact, moisture, shade, and fruit-body stage in each zone after comparable rain events. Preserve zero-fruiting zones in the table. Recurrence can reveal where visible fruiting concentrates but cannot prove that one moisture reading caused it or define the full mycelial boundary.
+
+This combined design adds evidence that a single portrait cannot: how scale contrast survives weather, whether mature gills remain consistent with pale spores, and whether fruiting recurs on the same conifer wood. The [shaggy scalycap guide](/mushrooms/shaggy-scalycap-mushroom-guide/) provides a related but separate brown-spored comparison; the distinction should be made with hymenium and deposit evidence, not just dramatic cap scales.
 
 ## References
 

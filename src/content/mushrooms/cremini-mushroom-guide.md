@@ -6,8 +6,8 @@ keywords: ["cremini mushrooms", "baby bella mushrooms", "Agaricus bisporus", "cr
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-04
-revisionSummary: "Added a harvest-stage morphology protocol and a controlled cooking-yield comparison that separates strain color, maturity, water loss, and retail naming."
+updatedDate: 2026-11-16
+revisionSummary: "Added a retail-lot provenance audit, veil-stage sampling grid, and cooked-mass comparison separating strain color, maturity, storage loss, and kitchen geometry."
 draft: false
 featured: false
 coverImage: "../../assets/species/cremini-mushroom.jpg"
@@ -239,6 +239,18 @@ The crop depends on conditioned compost, a managed spawn run, a casing layer and
 
 
 In the kitchen, the [mushroom tacos recipe](/recipes/mushroom-tacos/) tests cremini pan loading before combining the browned pieces with beans, while the [quick pickled mushroom recipe](/recipes/pickled-mushrooms/) keeps a measured 5% vinegar brine strictly within refrigerator-pickle boundaries.
+
+## Audit one retail lot from closed cap to open cap
+
+A useful cremini record begins with provenance rather than a color name. Buy one intact package with producer, packing date or lot code, country of origin, storage instructions, and sell-by information visible. Photograph the label separately from the mushrooms. “Baby bella” is marketing language; the traceable lot and the developmental features are the evidence.
+
+Select at least twelve undamaged mushrooms without choosing only the most attractive. For each, record whole mass, cap diameter, stem diameter, cap height, veil state, visible gill area, gill color, surface dryness, and trimmed loss. Use four practical veil stages: fully closed; stretched but intact; partly torn; and fully open. A brown cap in every group can still belong to the same cultivated strain, while the changing veil and gills document maturity.
+
+Store half the lot as directed and measure it again after a fixed interval. Keep the remainder as a same-day control. Mass loss during refrigeration can concentrate flavor and change browning without representing a different market form. Slime, sour odor, leaking liquid, mold, or recall status is a handling decision, not a maturity score.
+
+For a cooking comparison, cut equal edible raw masses into the same geometry. Use one pan, heat setting, oil mass, salt mass, loading density, and endpoint. Record released liquid, time to its evaporation, final cooked mass, and surface color. Repeat with a second package before making a general claim. The result separates lot moisture and slice geometry from the popular assumption that a darker label automatically means stronger nutrition or flavor.
+
+This audit also protects search intent. The [nutrition guide](/health/mushroom-nutrition-guide/) answers fiber-versus-protein and food-composition questions using defined database entries. The [portobello guide](/mushrooms/portobello-mushroom-guide/) focuses on the mature open-cap form. This page owns the cultivated cremini market stage and its practical comparison with button and portobello, not wild *Agaricus* identification.
 
 ## References
 

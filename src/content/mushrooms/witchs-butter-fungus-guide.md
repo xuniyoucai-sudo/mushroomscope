@@ -238,6 +238,8 @@ This distinction separates *Tremella mesenterica* ecology from yellow lookalikes
 
 For brown, thin, overlapping gelatinous lobes rather than vivid yellow-orange convolutions, compare the [leafy brain fungus guide](/mushrooms/leafy-brain-fungus-guide/). It also records wet-dry behavior and associated wood fungi as separate evidence.
 
+Pale or nearly colorless jelly bodies with opaque internal cores belong in a different comparison path; the [crystal brain fungus guide](/mushrooms/crystal-brain-fungus-guide/) documents that evidence without merging it into this yellow *Tremella* account.
+
 ## References
 
 1. [GBIF — *Tremella mesenterica*](https://www.gbif.org/species/11945016)
