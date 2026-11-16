@@ -120,7 +120,7 @@ In woodland, note canopy, moisture pocket, wood decay, slope, and whether cups r
 
 ## Compare smooth-walled bird's nests
 
-*Cyathus olla* and *Crucibulum laeve* can share the nest-and-disk pattern. Inner-wall fluting is a useful first split, but weathered cups complicate it. Cup shape, exterior covering, lid, peridiole color, cord details, spores, and region complete the comparison.
+*Cyathus olla* and *Crucibulum laeve* can share the nest-and-disk pattern. Inner-wall fluting is a useful first split, but weathered cups complicate it. The [common bird's nest fungus guide](/mushrooms/common-birds-nest-fungus-guide/) follows the smooth tan cup, pale peridioles, and shaggy lidded juvenile through a separate specimen record. Cup shape, exterior covering, lid, peridiole color, cord details, spores, and region complete the comparison.
 
 Avoid making a two-species key from color. Mud and water alter pale and dark surfaces, while camera white balance compresses differences.
 

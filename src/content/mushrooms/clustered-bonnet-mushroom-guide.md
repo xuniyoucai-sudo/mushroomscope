@@ -6,6 +6,8 @@ keywords: ["clustered bonnet mushroom", "Mycena inclinata", "oak stump mushroom"
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-07
+updatedDate: 2026-11-17
+revisionSummary: "Added a shared-wood-unit cluster census, a humidity-linked stem-gradient series, and a blind odor agreement protocol to separate developmental evidence from identification confidence."
 draft: false
 featured: false
 coverImage: "../../assets/species/clustered-bonnet-editorial.png"
@@ -161,6 +163,24 @@ If someone becomes ill after eating wild mushrooms, contact local emergency serv
 As a wood decomposer, the fungus can be relevant to ecological culture work, but it is not a standard edible crop. Laboratory study requires authenticated culture, sterile transfers, controls, and containment. Fruiting an unknown stump isolate does not prove that it is *M. inclinata*.
 
 Do not move colonized wood into parks or forests. A useful study might compare decomposition or document morphology under controlled conditions, but it should preserve strain provenance and avoid environmental release.
+
+## Run a shared-wood-unit cluster census
+
+Dense fruiting is one of the useful clues, but “clustered” should be measured rather than inferred from a tight crop. Mark the outline of one stump or log on a sketch and divide its exposed surface into equal sectors. In each sector, count discrete tufts, stems per tuft, open caps, collapsed caps, and primordia. Trace basal stems with a mirror or oblique photograph instead of pulling the group apart.
+
+Repeat the census after a defined rain interval. Report persistence as the proportion of numbered tufts still recognizable, not as a claim that every new cap belongs to the same individual. This distinguishes a concentrated colony on one wood unit from several unrelated bonnet species fruiting centimeters apart.
+
+## Pair stem color with a humidity record
+
+The two-toned stem can change as tissue ages and dries. Photograph the same numbered stems at fixed white balance and exposure, then score color separately for the upper third, middle, and base. Log air temperature, relative humidity, time since rain, cap expansion, and whether the stem was sheltered inside the tuft.
+
+Do not manufacture a gradient by wetting half a stem. A natural series can show whether basal darkening persists while the upper stem pales, or whether the whole apparent difference was lighting and crowding. Keep abrasion, reddish spotting, and true pigment as separate fields so damage is not rewritten as a taxonomic character.
+
+## Test odor descriptions for observer agreement
+
+Odor terms such as rancid, farinaceous, or cucumber-like are vulnerable to suggestion. Use freshly broken material from one numbered mature specimen in a ventilated setting. Ask at least two observers to write an independent description before seeing a reference list, and include a blank container from the same site.
+
+Record collection age and temperature because sealed transport can intensify or distort volatile notes. Agreement supports a reproducible observation; disagreement is also a result. Neither outcome overrides tufted hardwood growth, cap striation, gill attachment, stem anatomy, spores, and microscopy.
 
 ## Audit the editorial image against field evidence
 

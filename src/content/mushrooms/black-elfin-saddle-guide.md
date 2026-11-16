@@ -6,7 +6,8 @@ keywords: ["black elfin saddle", "Helvella lacunosa", "elfin saddle identificati
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-31
-updatedDate: 2026-10-31
+updatedDate: 2026-11-17
+revisionSummary: "Added a rib-junction map, matched soil-disturbance plots, and a developmental cap-attachment series for auditing dark Helvella records under regional species limits."
 draft: false
 featured: false
 coverImage: "../../assets/species/black-elfin-saddle-editorial.png"
@@ -130,6 +131,24 @@ A white deposit does little by itself because many ascomycetes release pale spor
 Maturity matters. An immature cap may contain few released spores, while an old waterlogged cap may have distorted tissues. Select material from a documented developmental series and keep the micrographs linked to the same voucher. If measurements fall outside the chosen key or the cap exterior disagrees, retain a genus-level name rather than averaging away the contradiction.
 
 DNA evidence can be appropriate where species boundaries remain unresolved. A sequence without a clean voucher, chromatogram review, and trustworthy reference comparison is not automatically decisive. The practical goal is an auditable record, not the most specific label available in a drop-down menu.
+
+## Convert stem fluting into a rib-junction map
+
+Photograph a numbered stem at four quarter turns before sectioning. On a simple outline, mark every rib that branches, reconnects, ends freely, or encloses a chamber. Measure the deepest furrows at the upper, middle, and basal thirds and record whether cap folds continue into particular ribs.
+
+This map captures architecture that “strongly fluted” loses. Repeat it on several developmental stages from the same patch. Compression, soil removal, and insect damage must be marked separately; a broken edge should not become an invented rib junction. The goal is a comparable network, not a prettier specimen.
+
+## Match disturbed and undisturbed ground plots
+
+Set equal-area plots along the same slope and canopy: one beside a path or recent soil disturbance and one in intact litter. Record exposed mineral soil, litter depth, compaction, drainage, nearest woody plants, and counts of fruit bodies by stage. Use more than one pair where the site permits observation without trampling.
+
+A concentration along the path is an association, not proof that disturbance created the fungus. Paths also alter water flow, visibility, temperature, and observer access. Report zero counts and revisit after comparable rainfall so a memorable cluster is not mistaken for a complete habitat rule.
+
+## Track cap attachment across development
+
+For several intact bodies, photograph the cap from above, below, and in profile. Estimate what proportion of the folded margin is attached to the stem and map free lobes, fused lobes, and points where folds cross. Repeat on the same numbered bodies as they expand when non-destructive revisits are possible.
+
+Cap attachment can help a regional key, but it is difficult to interpret from a single collapsed specimen. Keep attachment, lobe count, color, exterior texture, rib map, and microscopy as separate observations. If the combination contradicts the selected concept, retain “dark *Helvella*” instead of forcing the broad historical name.
 
 ## Keep food claims outside the identification shortcut
 

@@ -74,7 +74,7 @@ similarSpecies:
     differences: "Develops a porous to toothed fertile surface, often with violet tones at fresh margins, rather than a smooth yellow hymenium."
 ---
 
-**Hairy curtain crust**, *Stereum hirsutum*, covers dead hardwood with thin, overlapping fans. Fresh growth commonly shows ochre, yellow-orange, tan, and gray zones beneath a fine hairy coating. The underside is smoother and often brighter. That last feature matters most: a colorful, hairy top can resemble several small brackets, but *Stereum* does not have the true pore layer expected in turkey tail.
+**Hairy curtain crust**, *Stereum hirsutum*, covers dead hardwood with thin, overlapping fans. Fresh growth commonly shows ochre, yellow-orange, tan, and gray zones beneath a fine hairy coating. The underside is smoother and often brighter. That last feature matters most: a colorful, hairy top can resemble several small brackets, but *Stereum* does not have the true pore layer expected in turkey tail. A smooth underside that is distinctly violet-gray follows the separate [silver leaf fungus guide](/mushrooms/silver-leaf-fungus-guide/), including its wound and plant-symptom evidence limits.
 
 This guide is designed for a reviewable wood-decay record. It does not turn a photograph into an identification or an identification into food advice. Preserve the exact branch, complete margins, both surfaces, age range, measurements, microscopy, and regional context.
 

@@ -6,6 +6,8 @@ keywords: ["smoky bracket fungus", "Bjerkandera adusta", "smoky polypore", "grey
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-07
+updatedDate: 2026-11-17
+revisionSummary: "Added an equal-area pore transect, protected-versus-exposed margin comparison, and wood-section provenance ledger for distinguishing active smoky growth from weathered brackets."
 draft: false
 featured: false
 coverImage: "../../assets/species/smoky-bracket-editorial.png"
@@ -179,6 +181,24 @@ For a tree near people or structures, consult a qualified local arborist who can
 Wood-decay fungi are studied for enzymes, pollutant transformation, and other laboratory applications. Such research may use a defined strain, purified enzyme, controlled concentration, and measured endpoint. It does not establish that a wild bracket is safe to eat, brew, inhale, or use as medicine.
 
 This page makes no therapeutic claim. Avoid home exposure to cultures or contaminated wood dust, and use appropriate institutional controls for laboratory work. People with respiratory sensitivity should minimize handling of actively sporulating material.
+
+## Measure a pore-color transect instead of choosing the darkest patch
+
+Place three equal-area sampling windows along one numbered bracket: within the pale growing margin, at mid-radius, and near the attachment. Photograph them perpendicular to the surface with the same neutral color card and magnification. Count pores across several measured spans and record discoloration, bruising, insect loss, and water films separately.
+
+The result can show a pale active edge grading into a smoky gray older surface without turning that gradient into a universal color chart. Compare several brackets on the same wood unit. If one has a different pore geometry or tissue thickness, retain it as a separate specimen rather than averaging a mixed colony.
+
+## Compare protected and exposed margins after rain
+
+Select paired brackets on the sheltered underside and exposed upper side of the same log. Record margin width, saturation, cracking, algal film, and measured outward extension after comparable rain intervals. A protected pale margin may remain legible while an exposed shelf bleaches or erodes.
+
+This matched design helps separate weathering from species difference. It does not prove that exposure caused every contrast; wood moisture and colony age may differ. Preserve those variables in the record and avoid scraping surfaces clean for a more convenient photograph.
+
+## Keep a wood-section provenance ledger
+
+When lawful sampling is justified, label the exact bracket and the wood chip beneath its attachment before cutting. Record bark state, decay hardness, cut orientation, depth, color transition, and whether the sample came from living, standing-dead, or fallen wood. Store fungus and substrate identifiers together.
+
+White-rot texture is ecological context, not a species barcode. Other fungi can occupy the same log, and a small pale pocket does not assign all decay to *Bjerkandera adusta*. The ledger lets microscopy, culture, or sequence data return to the correct colony instead of a convenient but untraceable piece of wood. For a smooth violet crust rather than a gray pore layer, follow the [silver leaf fungus guide](/mushrooms/silver-leaf-fungus-guide/) and its separate plant-disease evidence boundary.
 
 ## Audit the editorial image and its limits
 
