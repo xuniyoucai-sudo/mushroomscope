@@ -6,6 +6,8 @@ keywords: ["stinking dapperling", "Lepiota cristata", "Lepiota identification", 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-06
+updatedDate: 2026-11-18
+revisionSummary: "Added a scale-field census, specimen-linked odor protocol, and litter-depth comparison to separate morphology, sensory evidence, and microsite effects."
 draft: false
 featured: false
 coverImage: "../../assets/species/stinking-dapperling-editorial.png"
@@ -167,6 +169,24 @@ Contact local emergency services or a poison center promptly. Retain uncooked sp
 The cover is an original AI editorial image, not a field photograph. It was checked against natural-light MushroomScope species imagery for restrained color, leaf-litter texture, readable complete stems, cap scales, a dark disc, free pale gills, and the absence of text or watermarks. Its rings are deliberately visible to teach which structure to document.
 
 Generated anatomy cannot establish a specimen identity. Do not use its exact scale count, ring size, or stem proportions as a diagnostic standard.
+
+## Census scale loss across one developmental patch
+
+Choose a compact patch whose fruit bodies share the same litter layer, then number unopened, expanding, mature, and weathered caps without rearranging them. Photograph each cap at a fixed scale under diffuse light and divide the radius into central disc, middle annulus, and outer margin. Record intact brown scale islands, exposed pale background, abrasion, adhering litter, and rain since the previous visit. Repeat after one natural wet interval if the site can be revisited without trampling it.
+
+The resulting grid distinguishes developmental cracking from damage. A cap with few outer scales after heavy rain cannot simply borrow the pattern of a fresh neighbor, and a dark disc partly hidden by debris should be scored obscured rather than absent. This census adds patch-specific evidence without pretending that scale counts alone separate small *Lepiota* species.
+
+## Record odor as a blinded specimen-linked observation
+
+Odor language around stinking dapperling is unusually variable: rubber, coal gas, pungent, or merely unpleasant. To make that evidence reviewable, place each lawfully collected numbered specimen in a separate ventilated container for the same short interval. Ask observers to write a description before seeing one another's answers, and record whether the tissue was intact or freshly cut, its age, temperature, and the surrounding litter odor.
+
+Agreement supports a repeatable sensory observation; disagreement is also data. Never intensify the test by tasting, heating, or prolonged close inhalation. An odor result cannot override a missing base, attached gills, colored deposit, or microscopy that points elsewhere.
+
+## Compare litter depth without assigning cause
+
+Mark equal-area plots in shallow exposed litter, deeper accumulated litter, and a nearby apparently unoccupied control. Record litter depth, dominant material, soil contact, shade, moisture by one consistent method, and counts of young, mature, and collapsed fruit bodies. Keep footpath edges and mulched beds as separate habitat classes.
+
+This comparison can reveal where visible fruiting occurred during the survey. It cannot establish that litter depth caused fruiting, identify the plant source of every fragment, or map the underground mycelium. Report zeroes and repeat dates rather than replacing them with a general claim that the species “likes rich soil.”
 
 ## Build a reviewable record
 

@@ -6,6 +6,8 @@ keywords: ["white saddle fungus", "Helvella crispa", "white elfin saddle", "sadd
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-05
+updatedDate: 2026-11-18
+revisionSummary: "Added a four-rotation rib map, cap-attachment section series, and matched disturbance plots to distinguish architecture from habitat inference."
 draft: false
 featured: false
 coverImage: "../../assets/species/white-saddle-fungus-editorial.png"
@@ -143,6 +145,24 @@ Do not taste a saddle fungus as an identification test. If ingestion has occurre
 The cover is an original AI editorial image. It was compared with MushroomScope’s natural-light Scarlet Waxcap and Purple Brittlegill baselines for woodland texture, restrained color, depth of field, complete bases, and absence of text or watermarks. It depicts pale folded caps and deeply fluted stems clearly, but it is not a photographed voucher.
 
 Use the image to understand which views a field record should include. Do not use its exact lobe count, rib pattern, scale, or color as a species standard. Real fruit bodies vary, and generated imagery cannot supply microscopic or regional evidence.
+
+## Map stem ribs through four rotations
+
+Place a numbered intact fruit body beside a scale and photograph the stem at four roughly quarter-turn rotations before sectioning. Trace which ribs begin at the base, merge, branch, form enclosed channels, or continue toward the cap. Record soil-hidden and damaged segments as unknown instead of completing them from symmetry. Measure rib height and flute width at fixed levels on the stem.
+
+The map captures a three-dimensional structure that one frontal image flattens. It can reveal whether apparently separate ridges are connected around the back, but it does not turn a unique-looking rib pattern into an individual fingerprint or replace microscopic and regional comparison.
+
+## Link cap lobes to their attachment in section
+
+Where lawful collection and population size permit, choose one mature representative already documented in place. Make a single vertical section through cap, attachment, chambered stem, and complete base. Photograph both cut faces immediately with scale. Record which cap lobes are free, where tissue meets the stem, internal chambers, wall thickness, discoloration, larvae, and collapse.
+
+Keep the section with its field number and uncut photographs. A white saddle is easily distorted by handling, so a cut loose specimen without a pre-section profile cannot show which folds were natural. The section is anatomical evidence, not a food-preparation step; this guide offers no eating method.
+
+## Compare disturbed and undisturbed microsites
+
+Establish equal-area observation plots along a path edge and in nearby intact litter with comparable canopy and slope. Without digging, record visible fruit bodies by developmental stage, bare-soil percentage, litter depth, compaction proxy, moisture by one method, and recent maintenance. Repeat on matched dates after rain and dry intervals.
+
+The result may show a local association between visible saddles and disturbed ground. It cannot prove disturbance caused fruiting, identify a mycorrhizal partner, or generalize beyond the surveyed site. Report sampling effort and zero counts so a striking path-edge cluster is not mistaken for the entire habitat pattern.
 
 ## Build a reviewable white-saddle record
 

@@ -221,6 +221,8 @@ That sequence makes the smoky underside part of a complete ecological record rat
 
 If the context and pore surface are orange rather than smoky gray, compare the measured underside with the [cinnabar polypore guide](/mushrooms/cinnabar-polypore-guide/). The shared shelf form is less informative than pore color, tissue color, and regional evidence.
 
+For a pale pore surface paired with coarse gray-white cap hairs, use the [hairy bracket fungus guide](/mushrooms/hairy-bracket-fungus-guide/) instead of treating every weathered gray shelf as smoky bracket.
+
 ## References
 
 - [GBIF species search: *Bjerkandera adusta*](https://www.gbif.org/species/search?q=Bjerkandera%20adusta) — occurrence records and taxonomic source links.

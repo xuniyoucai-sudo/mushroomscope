@@ -193,6 +193,8 @@ No. Odor varies and decaying fungi of many species smell unpleasant. It has valu
 
 Not by assuming that similar shape means similar crop behavior. Research cultivation requires an authenticated isolate, contained substrate, documented environmental variables, verified fruit bodies, and responsible disposal. It is not presented here as a food crop.
 
+For a smaller ochre fan with conventional crowded gills and a short lateral attachment, compare the [bitter oysterling field guide](/mushrooms/bitter-oysterling-fungus-guide/) rather than stretching orange mock oyster to fit every pleurotoid cluster.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Phyllotopsis nidulans* taxon record](https://www.gbif.org/taxon/4HD4D). Accepted-name, synonym, and occurrence-record discovery context; individual records require verification.

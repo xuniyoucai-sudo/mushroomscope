@@ -259,6 +259,8 @@ Label substrate, date, location precision, moisture state, and any microscopy. C
 
 Clinical disease caused by *Schizophyllum* is uncommon and cannot be diagnosed from finding the fungus nearby. Persistent respiratory symptoms require medical assessment with relevant exposure history, not removal of one visible fruit body as proof of cause.
 
+The [bitter oysterling field guide](/mushrooms/bitter-oysterling-fungus-guide/) shows why ordinary crowded gills on a small ochre fan should not be reinterpreted as split, curling folds.
+
 ## References
 
 1. [GBIF — *Schizophyllum commune*](https://www.gbif.org/species/5241128). Taxonomic and occurrence context.

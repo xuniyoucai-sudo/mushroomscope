@@ -6,6 +6,8 @@ keywords: ["hare's ear fungus", "Otidea onotica", "hare ear mushroom", "ear-shap
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-05
+updatedDate: 2026-11-18
+revisionSummary: "Added a cup-opening series, paired surface-color audit, and mapped cluster-base protocol to make developmental and colony evidence specimen-specific."
 draft: false
 featured: false
 coverImage: "../../assets/species/hares-ear-fungus-editorial.png"
@@ -161,6 +163,24 @@ Never taste an unknown cup fungus to identify it. If someone has eaten a wild fu
 The cover is an original AI editorial asset, not a field photograph. It was compared beside MushroomScope’s Scarlet Waxcap and Purple Brittlegill baselines for natural woodland light, restrained color, realistic litter, complete attachments, depth of field, and absence of text or watermarks.
 
 The image passes as a teaching view of upright split cups with contrasting surfaces. It must not be used to count diagnostic spores, define an exact yellow, or confirm a real specimen. The alt text, credit, source, license, and AI limitation remain visible in the article metadata.
+
+## Follow cup opening without forcing the slit
+
+Number several intact young, mid-stage, and mature fruit bodies in one patch. From a fixed low side position, record height, maximum width, cup depth, slit length, margin curvature, and lean. Repeat after a natural moisture change without pulling the sides apart. An apparent closed cup seen overhead may already have a long slit facing away from the camera, while a torn margin can imitate the normal ear-shaped opening.
+
+Plot the measurements by specimen rather than arranging unrelated cups into a visually pleasing sequence. The series can document how this patch changed; it does not prove that every small cup must pass through the same outline or that cup shape alone establishes *O. onotica*.
+
+## Audit inner and outer color as paired surfaces
+
+Photograph the fertile inner surface and outer sterile surface of the same numbered cup with one white-balance reference. Record moisture, shade, visible debris, bruising, and time between frames. Use restrained processing across all images. The inner surface may appear warmer or smoother while the outside looks paler and finely textured, but reflected leaf color and translucent wet tissue can reverse the apparent contrast.
+
+Keep color terms broad and attach them to conditions. A measured paired record is more useful than an exact color name copied from a guide, especially where regional *Otidea* species overlap and microscopy carries the separation.
+
+## Map clustered bases before sampling
+
+Brush no litter away until an overview and scale are complete. Map the distance between cups, the points where they enter litter, and any bases that visibly share a buried attachment. If collection is lawful and the population is adequate, lift a small block containing one mapped cluster rather than pulling cups separately. Photograph the intact base, soil, leaf layers, fine roots, and any attached woody fragment.
+
+This protocol prevents proximity from being mistaken for physical connection. It also preserves the possibility that two similar cup fungi share the microsite. Number each cup retained for microscopy and do not pool spores unless the connected tissue has actually been demonstrated.
 
 ## Build a reviewable hare’s-ear record
 
