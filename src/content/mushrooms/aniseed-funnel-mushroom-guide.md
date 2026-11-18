@@ -158,6 +158,8 @@ For a record outside the expected region or season, assemble locality at appropr
 
 Record the identifier, date, key or literature used, confidence, and any later correction. An unusual but well-documented *Clitocybe* record can remain valuable even if it is ultimately assigned to another species; the evidence, not the first name, is the durable result.
 
+For a smaller buff litter funnel without dependable blue-green color, compare the [common funnel field guide](/mushrooms/common-funnel-mushroom-guide/), especially its cap-development series and decurrent-gill record. Color or odor alone does not separate the pair.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Clitocybe odora* species record](https://www.gbif.org/species/2531124). Accepted-name and occurrence context.

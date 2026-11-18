@@ -219,6 +219,8 @@ Map bracket height, side of trunk, cavities, seams, dead branches, crown conditi
 
 A fruit body confirms a wood-decay relationship, but tree risk also depends on species, defect geometry, loading, roots, site exposure, and occupancy. Refer consequential decisions to a qualified arborist. The fungal identification and the structural assessment should remain linked in the record while preserving their different evidence standards.
 
+The [red-belted conk complex guide](/mushrooms/red-belted-conk-fungus-guide/) explains how a muted red resinous belt, pale active margin, tube layers, host evidence, and regional taxonomy separate a candidate from a gray tinder-fungus hoof.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Fomes fomentarius species record](https://www.gbif.org/species/8068867). Accepted-name and distribution context for the tinder-fungus concept.

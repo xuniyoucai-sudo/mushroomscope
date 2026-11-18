@@ -164,6 +164,8 @@ This article has editorial review only and no named mycologist, toxicologist, cl
 
 The original AI cover was compared with natural-light Chanterelle and Scarlet Waxcap site baselines. It passed checks for restrained autumn color, visible central stems and bases, plausible decurrent gills, repeated-but-not-duplicated fruit bodies, habitat texture, and absence of text or watermark. It is an editorial illustration rather than identification evidence.
 
+The [common funnel guide](/mushrooms/common-funnel-mushroom-guide/) covers a generally smaller, more slender litter species; compare measured stature, any persistent central boss, colony pattern, and microscopy rather than treating every depressed cap as interchangeable.
+
 ## References
 
 Compare blue-green color and a recorded anise odor in the [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/); funnel shape alone cannot separate these woodland species concepts.

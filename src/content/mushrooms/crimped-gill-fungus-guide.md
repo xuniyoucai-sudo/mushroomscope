@@ -6,6 +6,7 @@ keywords: ["Crimped gill fungus", "Plicaturopsis crispa", "Crimped gill fungus i
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-13
+updatedDate: 2026-11-19
 coverImage: "../../assets/species/crimped-gill-fungus-editorial.png"
 coverAlt: "Original AI editorial image of crimped gill fungus showing thin hairy fans and forked wrinkled undersides on fallen hardwood"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -131,6 +132,24 @@ Before publishing a species label, ask whether an independent reader could disti
 ## Understand its role in hardwood decomposition
 
 The fruit bodies reveal a wood-decomposing organism using dead plant material. Their presence does not by itself quantify internal decay, date the death of a branch, or diagnose the safety of a standing tree. For a branch over a path or a structural timber, document defects and consult the appropriate arborist or building professional. Removing visible fans does not remove established mycelium. Ecological observation should distinguish the fungus’s decomposition role from a separate risk assessment.
+
+## Map fold branching with a fixed transect
+
+Choose an intact mature underside and place a millimeter scale beside it. Draw three equal transects from attachment to margin on the image, then count branch points, reconnections, and uninterrupted ridges. Repeat on a young and an older fan while keeping each photograph linked to its own specimen.
+
+The map describes how the fertile folds change across development and distinguishes repeated branching from ordinary parallel gills. It does not replace microscopic confirmation, because drying, compression, and camera angle can create false junctions. Archive the unmarked original and the annotated derivative together.
+
+## Compare attachment width with fan projection
+
+On a measured section of one branch, record each fan's projection from wood, maximum width, and attachment width. Note whether neighboring fans overlap, fuse at the base, or merely touch. Photograph the branch axis so orientation is reproducible.
+
+These ratios help describe the shell-like colony without relying on vague terms such as tiny or broad. They cannot define a species threshold by themselves. Wood curvature, crowding, age, and moisture alter fan shape, so publish the individual measurements rather than only an average.
+
+## Pair exposed and sheltered faces of one branch
+
+Where a fallen hardwood branch presents upper, side, and lower faces, mark equal observation lengths and count fresh margins and persistent dry fans after wet and dry intervals. Record bark retention, ground contact, shade, and splash exposure. Do not rotate the branch to create a cleaner comparison.
+
+The paired record can show where fruit bodies persist on that particular wood unit and can generate a testable moisture hypothesis. It cannot isolate moisture from prior colonization, temperature, or tissue condition. Describe association rather than cause and retain intervals with no new growth.
 
 ## Frequently asked questions
 

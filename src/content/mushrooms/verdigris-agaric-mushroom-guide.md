@@ -6,6 +6,7 @@ keywords: ["verdigris agaric", "Stropharia aeruginosa", "verdigris roundhead", "
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-03
+updatedDate: 2026-11-19
 draft: false
 featured: false
 coverImage: "../../assets/species/verdigris-agaric-editorial.png"
@@ -165,6 +166,24 @@ Archive raw photographs as well as edited copies so later reviewers can inspect 
 ## Image and evidence limits
 
 The 1536 × 1024 cover is an original AI editorial image. It was reviewed beside the site's purple brittlegill and scarlet waxcap natural-light covers for restrained woodland color, visible dark gills, coherent veil scales, complete bases, realistic damp texture, clear crop, sharpness, and absence of text, watermark, logo, or obvious fused anatomy. The generated rings are intentionally visible for teaching context but are not a substitute for real veil evidence.
+
+## Build a scale-loss series after rain
+
+Select several caps at different stages and photograph them before and after natural rainfall without moving them. Use the same scale, camera angle, and neutral color reference. Count persistent pale veil patches within defined cap sectors, recording sectors obscured by leaves, slug damage, or glare rather than estimating them.
+
+The series can show how rain and expansion redistribute or remove scales while blue-green pigment fades. It cannot prove two unmarked caps are the same individual, so map stem positions and preserve raw frames. A smooth old cap does not falsify the species, and abundant scales alone do not confirm it.
+
+## Trace gill maturation to a deposit
+
+For each numbered specimen, photograph gills under neutral light before taking a print. Record whether they are pale, grayish, or darkening purple-brown and whether the edge remains paler. Then make the deposit on adjoining light and dark surfaces and return the cap to its specimen record.
+
+This prevents a mature dark print from being paired with an attractive young blue cap from another mushroom. It also shows why gill color is developmental rather than fixed. Deposit color supports *Stropharia* placement but does not resolve *S. aeruginosa* from close relatives without further morphology and microscopy.
+
+## Section the veil attachment rather than scoring a ring by visibility
+
+Photograph the full stem dry, then use side light to map raised fibers, adhering scales, and any membranous ring remnants. A longitudinal section through the upper stem can show whether the visible band is attached veil tissue, staining, or a change in surface fibers. Record handling before interpreting broken edges.
+
+Rain, slugs, expansion, and collection can reduce a ring to a zone. Conversely, debris can create a false band. Report the state as complete, fragmentary, zoned, or not observed, with photographs; do not silently convert “not observed” into “absent.”
 
 ## References
 

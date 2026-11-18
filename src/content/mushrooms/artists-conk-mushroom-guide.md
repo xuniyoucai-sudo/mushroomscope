@@ -171,6 +171,8 @@ For an oak-associated bracket with coarse elongated pores that branch into a maz
 
 Black crust at a broadleaf root flare follows a different pathway from a perennial bracket: the [brittle cinder fungus guide](/mushrooms/brittle-cinder-fungus-guide/) documents stromatal stages, perithecia, and why fruit bodies alone cannot predict tree failure.
 
+For a dark perennial bracket with a red-brown marginal belt rather than a bruise-reactive artist's surface, use the [red-belted conk complex guide](/mushrooms/red-belted-conk-fungus-guide/) and preserve host, section, pore, and regional evidence.
+
 ## References
 
 For a large annual broadleaf polypore with a pale angular pore surface and a boldly scaled fan-shaped cap, compare the [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) rather than extending artist's-conk characters to every bracket.

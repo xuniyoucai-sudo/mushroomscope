@@ -6,7 +6,7 @@ keywords: ["common stinkhorn", "Phallus impudicus", "stinkhorn egg", "stinkhorn 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-01
-updatedDate: 2026-11-01
+updatedDate: 2026-11-19
 draft: false
 featured: false
 coverImage: "../../assets/species/common-stinkhorn-editorial.png"
@@ -140,6 +140,24 @@ A strong record combines site overview, mapped eggs and mature structures, one j
 Run a contradiction audit before choosing the name. A solid rather than porous stem, conventional gills, no gleba at any mature stage, absence of a volva, a slender colored *Mutinus*-type tip, or strongly colored egg tissue should redirect the comparison. Missing evidence is not a contradiction, but it must not be silently filled from a field guide.
 
 The cover is an original AI editorial image. It was checked beside Common Bonnet, Wrinkled Peach, and Scarlet Waxcap covers for natural woodland light, restrained color, complete base, plausible egg-to-mature staging, clear texture, crop, and absence of text or watermark. It illustrates which structures to record, not what a reader's specimen is.
+
+## Run an egg-to-emergence timing record
+
+Choose a naturally exposed egg that can be observed without excavation and place a removable scale beside, not on, the volva. Photograph from the same direction at fixed intervals after rain, recording air temperature, surface moisture, and whether the egg wall has split. Once expansion begins, measure stem height from the volva rim to cap apex without touching the porous stem.
+
+This record can demonstrate rapid visible expansion and the changing relationship among egg wall, volva, stem, cap, and gleba. It cannot prove a universal growth rate: soil temperature, hydration, damage, genotype, and the unseen age of the egg differ. Keep intervals in which nothing changed, and stop if observation would trample surrounding eggs.
+
+## Measure gleba removal rather than calling the cap old
+
+Select three fixed views of one mature cap and estimate gleba coverage with a transparent grid applied to photographs. Record insect visits during equal observation windows and distinguish direct feeding from insects merely landing nearby. Note rain and contact damage, both of which can remove gleba without insect transport.
+
+The paired series links cap appearance to a documented process. It also prevents a pale, cleaned cap from being misreported as a different taxon. Visitor counts do not identify the insects, quantify spores transported, or establish that every dark patch is gleba; retain close photographs and conservative labels.
+
+## Preserve the volva-to-stem junction
+
+When lawful collection is necessary, lift one mature structure with surrounding soil and cut a single longitudinal section through volva, stem, and cap. Photograph the uncut base first. Measure volva thickness, stem wall, chamber pattern, and any cord-like mycelial structures, keeping soil and plant debris visible at the interface.
+
+The section connects the mature fruit body to its egg remnant and helps exclude a conventional gilled mushroom with a basal cup. It does not authenticate every nearby egg or prove the identity of broken material. Assign separate specimen numbers when physical continuity is absent.
 
 ## References
 
