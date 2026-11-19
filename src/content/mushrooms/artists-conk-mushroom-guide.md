@@ -175,6 +175,8 @@ For a dark perennial bracket with a red-brown marginal belt rather than a bruise
 
 ## References
 
+For a thick annual bracket concentrated at an oak root flare, often with an ochre active margin and amber droplets, compare the [oak bracket field guide](/mushrooms/oak-bracket-fungus-guide/). A fungus name still cannot quantify tree stability.
+
 For a large annual broadleaf polypore with a pale angular pore surface and a boldly scaled fan-shaped cap, compare the [Dryad's saddle guide](/mushrooms/dryads-saddle-mushroom-guide/) rather than extending artist's-conk characters to every bracket.
 
 If a site instead has ringed gilled clusters, black rhizomorph-like cords, or white fans beneath bark, the [honey fungus guide](/mushrooms/honey-fungus-mushroom-guide/) keeps fungal identification separate from the tree-risk decision.

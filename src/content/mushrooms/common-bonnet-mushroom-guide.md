@@ -6,7 +6,8 @@ keywords: ["common bonnet mushroom", "Mycena galericulata", "bonnet mushroom ide
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-29
-updatedDate: 2026-10-29
+updatedDate: 2026-11-20
+revisionSummary: "Added a stem-flexure trial, gill-edge continuity map, and litter-layer moisture comparison to make the Mycena record specimen-specific."
 draft: false
 featured: false
 coverImage: "../../assets/species/common-bonnet-editorial.png"
@@ -147,11 +148,23 @@ Before leaving the site, check that the photograph set shows one unquestioned po
 
 For a denser oak-stump fruiting pattern, compare the [clustered bonnet guide](/mushrooms/clustered-bonnet-mushroom-guide/), which separates shared-base architecture, stem color gradient, odor, and microscopy from this broader common-bonnet concept.
 
-## References
+## Compare stem flexure without turning fragility into a verdict
+
+Photograph three intact stems beside a scale, then apply the same gentle lateral displacement at a marked midpoint and record whether each bends, splits, or snaps. Section only after exterior documentation. Note wall thickness, hollowing, surface polish, basal hairs, and the cap stage of the same specimen.
+
+The small trial makes “tough” or “fragile” reviewable, but hydration and age strongly affect the result. It cannot identify a bonnet alone. Discard any measurement made after a stem dried in a container, and do not combine values from anonymous caps and stems.
+
+## Map gill-edge continuity across development
+
+Use diffuse side light to photograph gill faces and edges on young, middle, and mature caps. Mark discoloration, tears, short-gill tiers, cross-veins, and the exact stem junction on duplicate images while preserving the originals. If a darker edge is proposed, follow it across several adjacent gills rather than selecting one shadowed plate.
+
+Pair the series with moisture readings from the upper litter, the stem-base layer, and nearby bare soil. This can explain why a patch fruits in one microsite after rain without inventing a tree partnership. The result remains a local ecological observation requiring spores, microscopy, substrate evidence, and a current regional *Mycena* key.
 
 For a reddish hardwood bonnet with a different diagnostic pathway, compare the [bleeding fairy helmet guide](/mushrooms/bleeding-fairy-helmet-guide/), which records wine-red latex without treating the reaction as a stand-alone identification.
 
 When a gray bonnet has conspicuous ribs running along the stem rather than merely translucent lines on the cap, compare the [grooved bonnet field guide](/mushrooms/grooved-bonnet-mushroom-guide/). Keep the wood, gills, and microscopic packet attached to the comparison; stem lines alone do not settle the name.
 
+
+## References
 
 The sources listed in the page record support accepted taxonomy, specialist genus characters, regional comparison practice, and conservative poisoning response. They do not authenticate a reader's specimen. A confident record should be checked against a current regional key and, when required, voucher-linked microscopy.

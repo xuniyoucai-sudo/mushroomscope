@@ -242,6 +242,8 @@ If identity is uncertain, abstaining from experimentation is conservative. If sy
 
 ## References
 
+The [common inkcap guide](/mushrooms/common-inkcap-mushroom-guide/) compares a smoother gray clustered inkcap with buried-wood ecology and a consequential alcohol interaction. Keep full cap development, substrate, spores, and microscopy attached to either name.
+
 GBIF and NCBI support name and lineage checks. NAMA supports poisoning-syndrome and alcohol-interaction boundaries. FDA supports handling of verified produce. The guide avoids a universal edibility or alcohol promise because identity, reports, and individual circumstances vary.
 
 *Editorial review updated October 6, 2026. No named field mycologist or clinician independently reviewed this page.*

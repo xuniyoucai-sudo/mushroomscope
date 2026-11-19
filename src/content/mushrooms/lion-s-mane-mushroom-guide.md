@@ -5,7 +5,8 @@ keywords: ["Hericium erinaceus","lion's mane","mushroom identification","mushroo
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-10
+updatedDate: 2026-11-20
+revisionSummary: "Added a tooth-length transect, attachment-volume record, and host-cavity moisture comparison to distinguish compact Hericium development from lookalikes."
 draft: false
 featured: false
 coverImage: "../../assets/species/lions-mane-mushroom.jpg"
@@ -223,6 +224,18 @@ Restricted fresh-air exchange is a common contributor, but strain, opening geome
 ### Is culinary lion’s mane proven to improve memory?
 
 No. A cultivated food serving is not equivalent to the defined powders or extracts used in small human studies, and current evidence does not establish prevention or treatment of cognitive disease.
+
+## Measure the tooth-length gradient before the mass yellows
+
+Select an intact fruit body and divide its visible surface into upper, middle, and lower zones. At three fixed points per zone, photograph the teeth beside a millimeter scale without pulling them straight. Record maximum length, median of a small count, branching at the base, and the direction of hang. Repeat on a younger and older mass from the same verified substrate when possible.
+
+This transect documents how teeth lengthen and how gravity organizes the fertile surface. It also tests the casual claim that every white toothed mass has the same architecture. *Hericium coralloides* and related branching forms distribute teeth along exposed branches, whereas a mature *H. erinaceus* candidate should retain a more compact underlying body. Weathered or insect-damaged tissue can erase that distinction, so retain failed zones.
+
+## Record attachment volume and cavity moisture
+
+Photograph the entire attachment with a scale, then estimate the visible contact width and whether the mass emerges from a wound, cavity lip, cut surface, or dead log. Without cutting the tree, use repeated exterior photographs to track moisture staining above and below the attachment after rain and during a dry interval. Note whether the fruit body expands from one compact base or several separated points.
+
+The comparison can explain asymmetric growth and yellowing without pretending to measure internal decay. It cannot establish the extent of colonized wood or tree stability. A fruit body on a target-bearing living tree deserves site-specific arboricultural assessment, while a field identification still requires anatomy, spores, microscopy, host evidence, region, and a current key.
 
 ## References
 

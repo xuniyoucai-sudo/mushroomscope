@@ -6,7 +6,8 @@ keywords: ["St George's mushroom", "Calocybe gambosa", "spring mushroom identifi
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-30
-updatedDate: 2026-10-30
+updatedDate: 2026-11-20
+revisionSummary: "Added a spring soil-temperature series, crowded-gill density protocol, and pink-spore exclusion checkpoint for pale grassland lookalikes."
 draft: false
 featured: false
 coverImage: "../../assets/species/st-georges-mushroom-editorial.png"
@@ -146,6 +147,18 @@ If illness follows mushroom ingestion, contact the relevant poison center or eme
 A useful record includes date, region at an appropriate privacy level, grassland type, management clues, recent weather, troop geometry, measurements from several ages, cap surface, intact gill attachment, full stem base, odor notes, spore deposit, and any microscopy. Explain which lookalikes were considered and what evidence separated them. If evidence remains incomplete, label the record *Calocybe* candidate or pale spring agaric rather than forcing a species name.
 
 Before leaving, verify that the image set contains the undisturbed group, one mature and one young profile, one clear underside, one complete base, and the surrounding habitat. List the unresolved points. That discipline makes the record auditable and keeps a seasonal tradition from becoming an unsafe shortcut.
+
+## Pair fruiting dates with soil temperature
+
+At each visit, measure soil temperature at a consistent depth beside—not beneath—the fruiting arc, then record air temperature, rainfall, mowing, and cap stage. Use the same instrument and time window. Three or more visits are more useful than attaching the traditional St George's Day name to one photograph.
+
+This series tests whether emergence at that site follows warming and moisture. It does not create a universal fruiting threshold, because exposure, elevation, soil, vegetation, and local climate differ. Preserve late and failed visits; excluding them would make the seasonal pattern look more exact than it is.
+
+## Quantify crowded gills and exclude pink-spored comparisons
+
+On an intact mature cap, count full-length gills and short-gill tiers across a measured quarter of the circumference. Photograph the attachment at right angles and repeat on a young specimen. Then obtain a substantial deposit on adjoining black and white surfaces. A genuinely pink mature deposit conflicts with the *Calocybe gambosa* hypothesis and requires an *Entoloma* comparison, even if the cap is cream and the date seems perfect.
+
+Gill counts overlap among species, so density is a linked observation, not a cutoff. Combine it with cap development, complete stem base, odor method, habitat, calibrated spores, microscopy, and a regional key. Never let a familiar spring date overrule contradictory reproductive evidence.
 
 ## References
 

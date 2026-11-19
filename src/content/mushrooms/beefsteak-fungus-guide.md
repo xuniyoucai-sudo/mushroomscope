@@ -225,6 +225,8 @@ The [chicken of the woods guide](/mushrooms/chicken-of-the-woods-guide/) provide
 
 ## References
 
+The [oak bracket guide](/mushrooms/oak-bracket-fungus-guide/) covers a paler ochre basal polypore with fine pores, thick margins, and possible amber guttation. That comparison separates fungal documentation from any tree-risk conclusion.
+
 1. Global Biodiversity Information Facility. [*Fistulina hepatica* occurrence and taxonomy record](https://www.gbif.org/species/2531012). Used as a geographic-occurrence checkpoint, not as a complete regional identification key.
 2. National Center for Biotechnology Information. [*Fistulina hepatica* Taxonomy Browser](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Fistulina+hepatica). Current lineage and name checkpoint.
 3. U.S. Department of Agriculture Forest Products Laboratory. [Wood Handbook](https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf). General limits on inferring wood performance from one visible feature.

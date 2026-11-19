@@ -187,6 +187,8 @@ No. Document organized deliquescence and the earlier cap, gill, veil, stem, subs
 
 ## References
 
+For a larger smooth-gray cluster whose gills pass from pale to black and whose cap margins liquefy, use the [common inkcap field guide](/mushrooms/common-inkcap-mushroom-guide/). Its alcohol-interaction boundary is a separate safety issue and must not be transferred from appearance alone.
+
 1. National Center for Biotechnology Information. [Taxonomy Browser — *Coprinellus micaceus*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=71717&lvl=0). Current-name, synonym, and lineage checkpoint.
 2. Missouri Department of Conservation. [Mica Cap](https://mdc.mo.gov/discover-nature/field-guide/mica-cap). Regional morphology, season, habitat, and lookalike account.
 3. USDA Forest Service. [Field Guide to Common Macrofungi in Eastern Forests](https://www.fs.usda.gov/nrs/pubs/gtr/gtr_nrs79.pdf). Professional field-guide context for coprinoid fungi and wood decay.
