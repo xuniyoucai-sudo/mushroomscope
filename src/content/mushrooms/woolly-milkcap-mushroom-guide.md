@@ -163,4 +163,6 @@ Keep a legal voucher when expert review is feasible. Preserve the original image
 
 ## References
 
+For a dry cinnamon-red conifer associate with a small persistent umbo rather than a pink zoned cap and woolly margin, use the [rufous milkcap field guide](/mushrooms/rufous-milkcap-mushroom-guide/) as a separate comparison path.
+
 The sources in the page record support accepted taxonomy, specialist morphology and ecology, records practice, and conservative poisoning response. They do not authenticate a reader's specimen or provide permission to eat it.

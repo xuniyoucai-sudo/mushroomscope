@@ -6,6 +6,7 @@ keywords: ["blackening waxcap", "Hygrocybe conica", "witch's hat mushroom", "bla
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-04
+updatedDate: 2026-11-21
 draft: false
 featured: false
 coverImage: "../../assets/species/blackening-waxcap-editorial.png"
@@ -170,6 +171,18 @@ When essential evidence is missing, the [identification safety checklist](/ident
 
 The 1536 × 1024 cover is an original AI editorial image. It was opened and reviewed beside the site's scarlet waxcap and purple brittlegill natural-light covers. It passes for restrained field light, coherent conical caps, visible waxy gills, complete bases, progressive rather than soot-like blackening, natural grass and moss texture, sharpness, and absence of text, watermark, logo, stretching, or obvious fused anatomy. It is not a voucher photograph and must not be used to confirm a real specimen.
 
+## Measure blackening as a tissue-by-tissue timeline
+
+Number intact fruit bodies before touching them. Photograph cap center, margin, gill edge, upper stem, and base at fixed intervals after natural damage and after one standardized light bruise on a separate specimen. Record elapsed minutes rather than saying that the mushroom “quickly turns black.” The cap margin may darken before the center, while compressed gills and stem fibers can follow different paths. Rain-soaked tissue, frost, and age also alter the rate.
+
+Use the same exposure and neutral reference in every frame. A phone's automatic contrast can turn olive-gray bruising into jet black and erase the intermediate stage. Map each region on a simple outline and retain unedited files. Progressive blackening tied to yellow-orange or red developmental colors is useful evidence; surface soot, adhering soil, or a single already-black cap is not the same sequence.
+
+## Tie the record to grassland continuity
+
+Waxcap habitat is more than “grass.” Record turf height, moss cover, bare soil, slope, aspect, drainage, shade, livestock or mowing regime, fertilizer history if known, and visible soil disturbance within a fixed plot. Photograph neighboring waxcaps and grassland fungi without assuming they share one mycelium. Revisit after mowing and after rain to separate persistent habitat structure from a single flush.
+
+This ecological ledger helps reviewers interpret a record and can support conservation monitoring, but one blackening waxcap does not by itself prove an ancient or unimproved grassland. Avoid trampling a colony to obtain every angle. Where a site is sensitive, limit collection, obscure public coordinates appropriately, and coordinate voucher work with the relevant land manager or recording group.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Hygrocybe conica*](https://www.gbif.org/species/2538524). Accepted-name and occurrence checkpoint.
@@ -177,4 +190,4 @@ The 1536 × 1024 cover is an original AI editorial image. It was opened and revi
 3. Burke Herbarium, University of Washington. [*Hygrocybe conica*](https://www.burkeherbarium.org/imagecollection/taxon.php?Taxon=Hygrocybe+conica). Herbarium-linked distribution, habitat, and identification notes.
 4. Natural History Society of Northumbria. [Blackening Waxcap](https://www.nhsn.org.uk/species/blackening-waxcap/). Developmental appearance and similar-species context.
 
-*Editorial review: November 4, 2026. No named mycologist, clinician, or toxicologist reviewed this page.*
+*Editorial review: November 21, 2026. No named mycologist, clinician, or toxicologist reviewed this page.*

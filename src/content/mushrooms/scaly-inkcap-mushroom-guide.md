@@ -167,6 +167,8 @@ For smaller honey-brown clusters with removable mica-like veil grains rather tha
 
 ## References
 
+For an ochre wood-grower whose yellow gills mature toward rusty orange instead of deliquescing black, follow the [common rustgill field guide](/mushrooms/common-rustgill-mushroom-guide/) and keep the deposit linked to the specimen.
+
 1. GBIF. [*Coprinopsis variegata* species record](https://www.gbif.org/species/2534224). Accepted-name and occurrence context, subject to record-level verification.
 2. NCBI. [Taxonomy Browser: *Coprinopsis variegata*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Coprinopsis+variegata). Taxonomic placement and linked sequence context.
 3. MycoBank. [Fungal nomenclatural database](https://www.mycobank.org/). Name-history checkpoint for current literature searches.

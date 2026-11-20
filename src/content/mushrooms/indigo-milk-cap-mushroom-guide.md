@@ -184,6 +184,8 @@ Where collection is permitted, dry a representative specimen promptly with its c
 
 ## References
 
+The [rufous milkcap field guide](/mushrooms/rufous-milkcap-mushroom-guide/) documents a dry red-brown conifer-associated milkcap whose white latex and acridity require a different evidence chain from indigo-blue latex and staining.
+
 1. Global Biodiversity Information Facility. [*Lactarius indigo* (Schwein.) Fr.](https://www.gbif.org/species/7240044). Taxonomic backbone, accepted name, and occurrence context.
 2. Iowa State University Ada Hayden Herbarium. [*Lactarius indigo* (Schw.) Fr.](https://www.herbarium.iastate.edu/files/fungi/Lactarius%20indigo%20%28Schw.%29%20Fr..pdf). Latex, green staining, spore-print, microscopic, substrate, and habitat observations.
 3. University of Michigan Herbarium. [*Lactarius indigo* var. *indigo* specimen 24072](https://quod.lib.umich.edu/h/herb00ic/x-24072/1). Catalogued Indiana collection on humus under *Quercus*.

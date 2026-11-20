@@ -197,6 +197,8 @@ Clinical testing and treatment decisions belong to professionals. The voucher su
 
 ## References
 
+The [common rustgill field guide](/mushrooms/common-rustgill-mushroom-guide/) covers a ringless ochre conifer-wood species with yellow gills that become rusty, while this page retains the high-consequence *Galerina* exclusion intent.
+
 1. Global Biodiversity Information Facility. [*Galerina marginata* species record](https://www.gbif.org/species/2522439). Taxonomy and occurrence context.
 2. NCBI. [Taxonomy Browser: *Galerina marginata*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Galerina+marginata). Independent lineage checkpoint.
 3. North American Mycological Association. [Mushroom poisoning syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Amatoxin syndrome and response context.

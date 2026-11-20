@@ -6,6 +6,7 @@ keywords: ["blue roundhead mushroom", "Stropharia caerulea", "blue green mushroo
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-03
+updatedDate: 2026-11-21
 draft: false
 featured: false
 coverImage: "../../assets/species/blue-roundhead-editorial.png"
@@ -171,6 +172,18 @@ The [identification safety checklist](/identification/mushroom-identification-sa
 
 The 1536 × 1024 cover is an original AI editorial image. It was opened beside the site's purple brittlegill and scarlet waxcap natural-light baselines and compared directly with the newly generated verdigris image. It passed review for paler blue-green caps, sparse rather than abundant scales, brown-purple gills, complete bases, restrained daylight, realistic wet texture, clean crop, sharpness, and absence of text, watermark, logo, or obvious fused anatomy. The visible ring zones are teaching context, not specimen evidence.
 
+## Audit scale loss and veil position by cap sector
+
+Divide each photographed cap into center, mid-radius, and margin sectors. Count visible pale veil flecks in equal-area frames and repeat after rainfall or controlled air drying, without rubbing the surface. Blue roundhead often carries fewer persistent pale scales than verdigris agaric, but weather can erase the difference. Record the protected underside of an inrolled young margin as well as the exposed top.
+
+Map veil remnants on the stem separately. A fleeting fibrillose zone, rusty-purple spore deposit, torn cap tissue, and a true membranous ring are not interchangeable. Photograph all sides of the upper stem before handling, then section it to show tissue continuity. The sector record makes “sparsely scaly” reproducible and prevents one clean rain-washed cap from becoming false proof.
+
+## Link gill maturation to the deposit
+
+Select a young, middle-aged, and mature fruit body from the same patch. Under fixed light, record gill attachment, edge color, crowding, and the shift from pale gray-brown toward purple-brown as spores mature. Make separate labeled prints from the latter two stages on white and clear surfaces. A mature purple-brown deposit should correspond to the gill color sequence rather than being borrowed from another cap in a mixed collection.
+
+Compare the sequence with the [spore-color guide](/identification/mushroom-spore-colors/) and with a current regional key. Verdigris agaric overlaps strongly in cap color and spore tone, so cap fading, scale retention, gill development, veil distribution, substrate, and microscopy must be evaluated together. When the young stage or print is missing, retain a genus-level record instead of deciding from blue-green color alone.
+
 ## References
 
 1. Global Biodiversity Information Facility. [Species search for *Stropharia caerulea*](https://www.gbif.org/species/search?q=Stropharia%20caerulea). Name and occurrence discovery checkpoint.
@@ -178,4 +191,4 @@ The 1536 × 1024 cover is an original AI editorial image. It was opened beside t
 3. National Center for Biotechnology Information. [*Stropharia caerulea* Taxonomy Browser](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Stropharia+caerulea). Lineage checkpoint.
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Emergency communication context, not identification.
 
-*Editorial review: November 3, 2026. No named mycologist, clinician, or toxicologist reviewed this page.*
+*Editorial review: November 21, 2026. No named mycologist, clinician, or toxicologist reviewed this page.*

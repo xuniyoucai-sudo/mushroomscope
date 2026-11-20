@@ -6,7 +6,7 @@ keywords: ["aniseed funnel", "Clitocybe odora", "aniseed funnel identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-02
-updatedDate: 2026-11-02
+updatedDate: 2026-11-21
 draft: false
 featured: false
 coverImage: "../../assets/species/aniseed-funnel-editorial.png"
@@ -160,6 +160,18 @@ Record the identifier, date, key or literature used, confidence, and any later c
 
 For a smaller buff litter funnel without dependable blue-green color, compare the [common funnel field guide](/mushrooms/common-funnel-mushroom-guide/), especially its cap-development series and decurrent-gill record. Color or odor alone does not separate the pair.
 
+## Run a blind odor persistence series
+
+Anise odor is unusually useful for this species, but expectation easily contaminates the observation. Place numbered, uncut specimens in separate ventilated paper packets. Ask two observers who have not seen the proposed name to describe each packet with their own words at collection, after a fresh cut, and again after two hours. Do not offer “anise” as a choice. Record temperature, moisture, observer, delay, and whether the odor becomes stronger in the gills, cap flesh, or stem base.
+
+Repeat the trial with a common funnel from the same woodland when available. A durable sweet, anise-like odor across multiple *C. odora* fruit bodies is more useful than one prompted sniff. Weak odor in waterlogged or old material should reduce confidence rather than be rewritten as a positive result. Preserve a dried fragment: odor retained or recovered after gentle rehydration can become another documented comparison, although storage contamination must be excluded.
+
+## Quantify the blue-green fading boundary
+
+Select three numbered caps spanning young, mature, and weathered stages. Photograph each under the same diffuse light with a neutral card, then sample color at the center, mid-radius, and margin without digitally increasing saturation. Repeat after a dry interval. Record whether blue-green remains in protected cap fibers, gill edge, or upper stem even as exposed surfaces fade toward buff.
+
+This grid separates a biological fading sequence from reflected foliage, cyan phone white balance, or isolated stains. Link the grid to cap diameter, surface moisture, and odor score. A specimen that is merely buff, has no persistent anise odor, and never shows protected blue-green tissue belongs in the broader litter-funnel comparison until microscopy and a regional key support a narrower name.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Clitocybe odora* species record](https://www.gbif.org/species/2531124). Accepted-name and occurrence context.
@@ -167,4 +179,4 @@ For a smaller buff litter funnel without dependable blue-green color, compare th
 3. First Nature. [*Clitocybe odora* field account](https://www.first-nature.com/fungi/clitocybe-odora.php). Macroscopic comparison, habitat, and season context for Britain and Ireland.
 4. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). General syndrome and response context.
 
-*Editorial status: substantive MushroomScope editorial review on November 2, 2026; no named expert review. The original AI image is licensed as MushroomScope original editorial work and is explicitly not identification evidence.*
+*Editorial status: substantive MushroomScope editorial review on November 21, 2026; no named expert review. The original AI image is licensed as MushroomScope original editorial work and is explicitly not identification evidence.*
