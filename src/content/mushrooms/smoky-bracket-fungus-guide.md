@@ -200,6 +200,8 @@ When lawful sampling is justified, label the exact bracket and the wood chip ben
 
 White-rot texture is ecological context, not a species barcode. Other fungi can occupy the same log, and a small pale pocket does not assign all decay to *Bjerkandera adusta*. The ledger lets microscopy, culture, or sequence data return to the correct colony instead of a convenient but untraceable piece of wood. For a smooth violet crust rather than a gray pore layer, follow the [silver leaf fungus guide](/mushrooms/silver-leaf-fungus-guide/) and its separate plant-disease evidence boundary.
 
+If the underside forms branching maze pores and a controlled fresh bruise becomes pink-brown, compare the [blushing bracket guide](/mushrooms/blushing-bracket-fungus-guide/) instead of stretching the smoky-pore concept to cover every gray-brown shelf.
+
 ## Audit the editorial image and its limits
 
 The cover is an original AI editorial image at 1536 by 1024 pixels with a unique source hash. It was compared side by side with the site's Scarlet Waxcap and Purple Brittlegill natural-light baselines for soft forest light, restrained color, visible substrate, plausible scale, fine texture, realistic depth of field, and absence of text, logos, or watermarks.

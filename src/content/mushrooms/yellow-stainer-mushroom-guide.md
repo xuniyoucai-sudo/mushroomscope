@@ -6,8 +6,8 @@ keywords: ["yellow stainer mushroom", "Agaricus xanthodermus", "yellow staining 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-23
-updatedDate: 2026-10-23
-revisionSummary: "Initial publication with timed bruising, odor, developmental, base-section, habitat, and lookalike documentation workflows."
+updatedDate: 2026-11-22
+revisionSummary: "Added a paired basal-stain calibration, specimen-linked odor-location map, and complete-button development series to separate Xanthodermatei evidence from edible Agaricus resemblance."
 draft: false
 featured: false
 coverImage: "../../assets/species/yellow-stainer-editorial.png"
@@ -158,6 +158,24 @@ They begin pale, become pinkish, then mature through chocolate brown as spores d
 ### Can yellow stainer mushrooms be eaten?
 
 No food use is recommended. Members of this group are associated with gastrointestinal poisoning, and a web page cannot verify a collection.
+
+## Calibrate basal staining against an untouched control
+
+Select two adjacent areas on the intact lower stem of one numbered specimen. Leave one untouched and make one standardized shallow cut with a clean blade. Photograph both immediately and at 15, 30, 60, 120, and 300 seconds under fixed neutral light. Include a color card and scale, and record temperature, moisture, and whether the mushroom was chilled before observation.
+
+Measure color only inside the marked areas. A rapid chrome-yellow change concentrated low on the stem is more informative than diffuse yellowing on a handled cap, but it still supports a section-level hypothesis rather than proving *A. xanthodermus*. Old, dry, frozen, or waterlogged material may react weakly. Report a negative response under the observed conditions instead of converting it into edible clearance.
+
+## Map odor source without heating an unknown indoors
+
+Use separate labeled observations for intact cap, gills, stem surface, freshly cut base, and sectioned flesh. Have observers record descriptors independently before discussing them, with “no odor detected” available as a valid result. Do not taste, inhale deeply, or heat an unknown specimen in an occupied kitchen to amplify a suspected phenolic odor.
+
+Odor sensitivity differs among people and changes with specimen age. An ink-like or disinfectant-like note strongest at the base supports the comparison only when the anatomy and brown-spored *Agaricus* development also agree. Link every odor note to the exact numbered mushroom rather than borrowing a strong reaction from another member of the patch.
+
+## Follow one button through gill maturation
+
+Where a lawful, low-impact revisit is possible, photograph one marked button as the cap expands, the partial veil tears, and the gills change from pale through pinkish tones to chocolate brown. Keep the complete base in each frame and record elapsed time and weather. This sequence distinguishes developmental color from a static white-gilled lookalike and prevents different specimens from being arranged as a false life history.
+
+The series cannot clear the collection for food. If the mature gills, free attachment, ring, full base, stain timing, odor, and spore deposit do not belong to the same specimen, retain a broader *Agaricus* or unknown-mushroom conclusion.
 
 ## References
 

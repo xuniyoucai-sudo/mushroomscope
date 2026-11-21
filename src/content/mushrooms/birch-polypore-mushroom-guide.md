@@ -96,6 +96,8 @@ Prove the birch host on the same wood unit. Photograph bark, attached twigs, bud
 
 Use sectioned growth structure to separate annual from perennial brackets. The [tinder fungus guide](/mushrooms/tinder-fungus-mushroom-guide/) shows the harder hoof and accumulated tube layers expected in *Fomes fomentarius*, while birch polypore should be evaluated as one annual context-and-tube system. An uncertain host, multiple old tube layers or a bruising pore surface outside this profile should redirect the regional comparison.
 
+When the fruit body has a clear slender stem and a shallowly depressed tan cap on a small fallen broadleaf branch, follow the [winter polypore guide](/mushrooms/winter-polypore-fungus-guide/) rather than treating every poroid wood fungus as a sessile birch bracket.
+
 ## Food and safety context
 
 Birch polypore is not treated here as a culinary mushroom. Do not taste it or infer safety from traditional use, tea marketing, or the absence of an obvious warning label. Individual allergy, gastrointestinal intolerance, spoilage, environmental contamination, and cross-contamination remain possible. Cooking does not make a poisonous species safe.

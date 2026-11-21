@@ -6,8 +6,8 @@ keywords: ["fly agaric", "Amanita muscaria", "fly agaric identification", "red m
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-15
-updatedDate: 2026-11-13
-revisionSummary: "Added a veil-loss reconstruction grid, tree-zone transect, and specimen-linked toxicology handoff that keep cap, base, host, and exposure evidence together."
+updatedDate: 2026-11-22
+revisionSummary: "Added a cap-to-bulb vertical section ledger, regional color-form conflict table, and fixed-camera rain-wash series while preserving specimen-linked toxicology boundaries."
 coverImage: "../../assets/species/fly-agaric-editorial.png"
 coverAlt: "Original AI editorial image of fly agarics showing red caps with pale veil warts, white gills, rings, and bulbous stem bases in birch-conifer woodland"
 imageCredit: "Original MushroomScope AI editorial image"
@@ -172,6 +172,24 @@ The analysis should report association strength, not a proved root connection. A
 If exposure occurs, keep the clinical timeline separate from the field identification hypothesis. Record who was exposed, approximate time, amount if known, symptoms, preparation, and whether the meal may contain several species. Link photographs, raw remnants, cooked leftovers, and each numbered field specimen without trying to diagnose the syndrome from the page.
 
 Contact poison control or emergency services promptly and follow their instructions. The value of the field packet is traceability: responders can see whether the red cap, white gills, ring, complete bulb, and retained material came from the same mushroom. It must never delay care or imply that *A. muscaria* excludes a more dangerous mixed collection.
+
+## Build a cap-to-bulb vertical section ledger
+
+Where collection is lawful and justified, cut one numbered specimen vertically through cap center, gill attachment, upper stem, ring zone, stem core, bulb, and the lowest intact veil remnants. Photograph the fresh section with a scale and neutral color card. Record cap flesh color, gill attachment gap, stem stuffing or hollowing, bulb profile, and the position of concentric basal zones.
+
+Keep the section beside the intact-field photographs and do not replace a damaged base with a cleaner one from the patch. The ledger tests whether the white gills are genuinely free and whether apparent basal shelves are tissue rather than adhering soil. It also exposes mixed photographic composites that show a cap and bulb from different mushrooms.
+
+## Use a regional color-form conflict table
+
+Before assigning *A. muscaria*, list the current regional muscarioid taxa recognized by the key being used. Give each a row for cap-color range, universal-veil character, bulb construction, host and habitat, spore measurements, and sequence evidence when available. Add the observed specimen as a separate row, marking missing or contradictory cells explicitly.
+
+Yellow, orange, and faded caps do not automatically represent one variable species worldwide. Conversely, a red cap does not override a conflicting base. Cite the regional treatment and date because concepts change; where the table cannot separate candidates, report a muscarioid *Amanita* group rather than forcing the iconic name.
+
+## Photograph rain-wash with a fixed camera station
+
+Mark a safe camera position and one naturally developing fruit body without touching the cap. Repeat the same view before and after rainfall, recording interval, precipitation, cap diameter, patch count, and any insect or mechanical damage. Add close views of the ring and bulb at each visit when this can be done without excavation damage.
+
+The series can demonstrate veil-patch movement or loss on that specimen. It cannot prove that every smooth red cap began heavily warted, and it should not be recreated by spraying water. Retain frames in sequence, including failed or obstructed visits, so veil loss is observed evidence rather than an explanation invented after identification.
 
 ## References
 

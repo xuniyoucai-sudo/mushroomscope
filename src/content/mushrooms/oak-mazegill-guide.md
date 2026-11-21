@@ -100,6 +100,8 @@ The fertile surface is cream to ochre and composed of elongated openings separat
 
 The [pore-surface guide](/identification/mushroom-pore-surface-guide/) distinguishes round, angular, elongated, maze-like, and tooth-form surfaces. Weathering can split walls and make old pores look toothed. Use a fresh zone and an old zone from the same bracket to avoid treating age damage as a different hymenium type.
 
+A small tan cap carried on a distinct slender stem belongs to a different comparison. The [winter polypore guide](/mushrooms/winter-polypore-fungus-guide/) documents angular pores that descend toward a stem on thin fallen hardwood, not the massive sessile oak construction described here.
+
 ## Cut a legal damaged edge to read the context
 
 Where collection is permitted, examine an already damaged margin or a minimal section. The interior is thick, pale buff, and corky to woody, without the layered tubes and soft flesh of many annual brackets. Record cap tissue and pore layer separately, with their thicknesses and any dark boundary lines.

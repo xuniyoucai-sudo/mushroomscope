@@ -102,6 +102,8 @@ Turn the camera parallel to the underside and include a millimeter scale. Mature
 
 The [pore-surface guide](/identification/mushroom-pore-surface-guide/) explains how to separate true pores from gills, folds, teeth, and cracks. Elongated maze-like openings demand comparison with mazegills. A dark smoky pore layer suggests *Bjerkandera* rather than being dismissed as dirt.
 
+For a thinner zoned shelf whose elongated pores bruise pink-brown, use the [blushing bracket guide](/mushrooms/blushing-bracket-fungus-guide/); its maze surface and hardwood-host record separate that intent from the fine round pores and coarse cap hairs documented here.
+
 ## Cut one section from cap to wood
 
 Where collection is legal, cut a radial slice through the attachment, upper surface, pale context, tube layer, and active margin. Photograph the fresh section with scale and white balance. Record total thickness, context thickness, tube depth, zoning, moisture, and any dark boundary line.

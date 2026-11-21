@@ -6,9 +6,9 @@ keywords: ["green-spored parasol", "Chlorophyllum molybdites", "green spore mush
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-18
-updatedDate: 2026-10-18
+updatedDate: 2026-11-22
 reviewStatus: editorial
-revisionSummary: "Original lawn-mushroom safety guide with developmental gill records, spore-print controls, ring and base anatomy, lookalike separation, and poisoning response."
+revisionSummary: "Added a two-surface mature-print control, lawn-stage census, and child-and-pet exposure map that separate green-spore evidence from immature white gills and management decisions."
 draft: false
 featured: false
 coverImage: "../../assets/species/green-spored-parasol-editorial.png"
@@ -155,6 +155,24 @@ Number the patch and individual specimens. Photograph habitat, growth pattern, c
 Write a comparison table for *C. molybdites*, the local *Macrolepiota*, shaggy *Chlorophyllum*, and plausible *Amanita*. Include spore color, gill development, stem ornament, ring, volva evidence, staining, and region. Any missing base or immature print should lower confidence explicitly.
 
 The safest conclusion separates identification confidence from use. Even a strong match to green-spored parasol is a warning, not an invitation to experiment. An uncertain large lawn mushroom should remain uneaten, inaccessible to children and pets, and documented well enough for a local mycologist or poison specialist to assess.
+
+## Run a two-surface mature-print control
+
+Choose a fully expanded numbered cap whose gills have begun to show a dull gray-green cast, while retaining the stem and complete base with the same identifier. Place half the cap over matte white paper and half over black paper beneath a clean cover that does not touch the gills. Record start and end time, temperature, and humidity, then photograph the undisturbed deposit in neutral light before moving it.
+
+Grass reflection, colored paper, and thin deposits can create false green impressions. The paired surfaces show the same spores against two backgrounds, while a control area without the cap reveals paper color. Report an absent or weak deposit honestly and repeat with another mature specimen rather than reading spore color from young pale gills.
+
+## Census developmental stages across the lawn patch
+
+Map every visible fruit body within a measured plot as closed button, veil-stretching, newly open, mature, or collapsing. For a representative specimen at each stage, record cap diameter, gill color, ring state, base shape, staining, and whether the green-gray deposit has actually been demonstrated. Photograph the plot again after a defined rain or irrigation interval without moving the mushrooms.
+
+This census explains why one patch can contain white-looking immature gills and greenish mature gills at the same time. It does not permit characters to be borrowed across specimens: a button with an unexamined base remains uncertain even when a nearby mature cap prints green.
+
+## Map exposure risk separately from fungal identity
+
+Draw the fruiting arc relative to play areas, paths, pet runs, gates, irrigation heads, and places where clippings accumulate. Record which fruit bodies were removed, the time, disposal route, and whether new mushrooms appeared. This produces a practical exposure record without claiming that cap removal eliminates underground mycelium.
+
+Prioritize prompt collection and inaccessible disposal where small children or animals forage. Do not use an identification experiment to delay poison-service or veterinary advice after ingestion. The management map addresses access; the specimen record addresses identity; neither substitutes for clinical assessment.
 
 ## References
 
