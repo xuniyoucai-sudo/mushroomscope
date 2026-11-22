@@ -6,6 +6,7 @@ keywords: ["bitter bolete", "Tylopilus felleus", "bitter bolete identification",
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-26
+updatedDate: 2026-11-23
 draft: false
 featured: false
 coverImage: "../../assets/species/bitter-bolete-editorial.png"
@@ -182,6 +183,12 @@ It is associated with living tree roots. Fruiting beside or through rotten wood 
 ### Is a pink spore print enough?
 
 No. It supports a *Tylopilus*-type comparison, but several species share pinkish deposits. Structure, microscopy, hosts, and geography remain relevant.
+
+## Run a bitterness-free pore and reticulation audit
+
+Do not taste a bolete to test the common name. Instead, divide the stem into upper, middle, and basal thirds and photograph each under the same raking light. Score the raised network by line width, mesh size, color contrast, and how far it descends. Then photograph fresh pores at the margin and near the stem with a scale, repeating after thirty minutes to separate true pink maturation from warm reflected light.
+
+Pair those observations with one vertical section through cap and stem. Record tube depth, the boundary between tubes and context, flesh color, insect channels, and any timed staining. Porcini comparisons are strongest when a pale-to-pink pore sequence and dark stem netting are documented together; neither bitterness folklore nor a single brown cap supplies that evidence.
 
 ## References
 

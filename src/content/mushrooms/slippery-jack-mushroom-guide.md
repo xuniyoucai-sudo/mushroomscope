@@ -6,7 +6,7 @@ keywords: ["slippery jack", "Suillus luteus", "slippery jack identification"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-09-20
-updatedDate: 2026-10-06
+updatedDate: 2026-11-23
 draft: false
 featured: false
 coverImage: "../../assets/species/slippery-jack-mushroom-editorial-v2.png"
@@ -194,6 +194,12 @@ Young pores may be small and bright yellow; older tubes deepen in color and beco
 An introduced population can be ecologically notable even when no food decision is made. Mapping planted pines, nursery movement, soil disturbance, and fruiting weather answers a biogeography question. Food suitability adds separate questions about identity, site contamination, deterioration, preparation, and personal response.
 
 Do not collapse those decisions. A documented population can be valuable without harvest, while a known species from a polluted roadside can remain unsuitable for food.
+
+## Measure the veil-to-ring transition across age
+
+Select intact buttons, a recently opened cap, and a fully expanded fruit body from the same mapped pine-associated colony. Photograph the partial veil before touching it, then record where it attaches to the cap margin and stem. On expanded specimens, measure ring height, width, persistence, and the difference between the upper and lower surfaces. Rain and handling can collapse the ring against the stem, so a missing structure on one old mushroom is weak negative evidence.
+
+At the same time, measure the cap slime under controlled conditions: note recent rainfall, touch one small marked sector with a clean probe, and photograph the filament or sheen against an untouched control. A wet cap is not automatically viscid, and several pine boletes become sticky. The useful combination is verified pine context, a yellow pore surface, glandular stem dots, and a developmentally linked veil record.
 
 ## References
 

@@ -6,7 +6,7 @@ keywords: ["Scarletina bolete", "Neoboletus luridiformis", "red pored bolete"]
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-30
-updatedDate: 2026-10-30
+updatedDate: 2026-11-23
 draft: false
 featured: false
 coverImage: "../../assets/species/scarletina-bolete-editorial.png"
@@ -154,6 +154,12 @@ Rain, slugs, and repeated handling can create dark or blue-black zones that no l
 Dry weather creates a different problem. A faded pore surface may appear ochre rather than red, while a cracked cap and dehydrated stem exaggerate texture. Record recent rainfall and compare sheltered and exposed fruit bodies from the same site without pooling their measurements. If only weathered material remains, say so and avoid reconstructing fresh colors from a guide.
 
 Insect tunnels also oxidize along their margins. A cut face with scattered blue channels is not equivalent to a clean, evenly timed section. Photograph larval galleries, reject decomposing tissue from food consideration, and use an intact fresh specimen for taxonomic comparison when collection rules permit. Condition is evidence, not an inconvenience to crop out.
+
+## Build a tissue-specific blueing clock
+
+Use one legally collected, abundant specimen and keep an untouched half as a control. Make separate standardized marks on the pore surface, cap context, upper stem, and basal stem, then photograph immediately and at 30 seconds, two minutes, ten minutes, and thirty minutes. Record temperature, moisture, cut depth, and light. Scarletina bolete can blue rapidly, but the rate and intensity vary by tissue and condition; combining all reactions into “it turned blue” discards useful evidence.
+
+Map the red stem ornamentation independently. A macro photograph should show discrete dots or granules rather than a raised net. Check the apex, middle, and base because dirt, abrasion, and dense dots can imitate reticulation. Red pores plus blueing occur in several boletes, including high-consequence comparisons, so the dot-versus-network distinction must remain visible in the final record.
 
 ## References
 

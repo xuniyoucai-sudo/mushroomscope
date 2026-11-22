@@ -150,6 +150,8 @@ Two new comparisons show why texture and development belong beside attachment: t
 
 The [deceiver mushroom guide](/mushrooms/deceiver-mushroom-guide/) is a worked example of thick, distant, pinkish gills whose attachment and color must be interpreted with cap hydration, a fibrous ringless stem, white spores, and woodland ecology.
 
+For a species-level example where attachment must be checked against cap mass, odor, spores, and litter ecology, use the [clouded agaric guide](/mushrooms/clouded-agaric-mushroom-guide/). Its gills can descend, but that single feature does not resolve gray woodland lookalikes.
+
 ## References
 
 For a specialized attachment that does not fit the ordinary direct-to-stem categories, the [collared parachute guide](/mushrooms/collared-parachute-mushroom-guide/) shows how sparse gills terminate on a collarium around a wiry stem.

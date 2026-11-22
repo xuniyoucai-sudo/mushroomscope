@@ -148,6 +148,8 @@ Keep uncertain material away from food. If collection is legal, dry one represen
 
 The best evidence set explains both why false chanterelle fits and why the consequential alternatives do not. That means true blade-like gills with repeated forking, compatible cap and stem texture, a matching litter or woody-debris habitat, appropriate geography, and explicit comparison with local *Cantharellus* and *Omphalotus*. Any serious contradiction should reopen the identification.
 
+Orange gilled mushrooms in broadleaved litter are not automatically false chanterelles. The [tawny funnel guide](/mushrooms/tawny-funnel-mushroom-guide/) separates a thin wavy litter funnel from this species' stronger conifer-debris context and repeatedly forked gills.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Hygrophoropsis aurantiaca* species record](https://www.gbif.org/species/2527554). Taxonomic and occurrence context.

@@ -166,6 +166,8 @@ The image remains illustrative. Cap surfaces, gill spacing, and proportions cann
 6. Compare aniseed, trooping, ivory, and regional funnel lookalikes explicitly.
 7. Keep host, food, and safety claims inside the evidence.
 
+The common funnel is only one member of a crowded litter-fungus comparison. A robust smoky-gray collection belongs on the [clouded agaric evidence path](/mushrooms/clouded-agaric-mushroom-guide/), while an orange-brown colony with thin wavy caps requires the separate [tawny funnel record](/mushrooms/tawny-funnel-mushroom-guide/). Use measured construction and mature spores rather than stretching this page to cover both.
+
 ## References
 
 - [NCBI Taxonomy Browser: *Infundibulicybe gibba*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Infundibulicybe+gibba) — taxonomy and sequence-linked records.
