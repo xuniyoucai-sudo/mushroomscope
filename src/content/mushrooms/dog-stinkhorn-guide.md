@@ -231,6 +231,8 @@ Bagging is preferable where preventing spread or pet access is the goal. Compost
 
 ## Trace the egg-to-column sequence without guessing
 
+For a red phalloid fungus that opens into multiple free arms instead of one slender column, use the [devil's fingers field guide](/mushrooms/devils-fingers-fungus-guide/). The decisive comparison is the mature receptacle architecture and location of gleba, not the shared pale egg stage.
+
 Dog stinkhorn observations are most informative when several developmental stages can be connected to the same patch. Place unobtrusive numbered markers beside, not through, unopened eggs and photograph from a fixed bearing with a scale. Record egg diameter, exposed or buried proportion, substrate moisture, and nearby woody debris. Revisit at short intervals during mild wet weather, noting the time at which the column ruptures the outer tissue, reaches full height, begins to lean, and collapses.
 
 Do not cut every egg open. A single lawful section can document the gelatinous layer, folded receptacle, and developing fertile head, while intact eggs provide the emergence sequence. This matters because unrelated puffballs and immature agarics can be damaged by casual “stinkhorn egg” assumptions. Link every close-up to its field marker so that a later column is not accidentally assigned to the wrong egg.

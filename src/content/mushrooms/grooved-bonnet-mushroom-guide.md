@@ -130,6 +130,8 @@ First Nature supplies a European account emphasizing the fluted stem and broadle
 
 ## Quantify grooves without turning them into a species score
 
+Faint radial lines caused by translucent cap tissue are not automatically the same as deep structural furrows. The [lilac bonnet guide](/mushrooms/lilac-bonnet-mushroom-guide/) provides a moisture-and-age comparison for a pink-lilac litter bonnet whose gills can show through the thin margin.
+
 Choose a straight, undamaged 10 mm segment at mid-stem and photograph it at fixed magnification under light from four compass directions. On each frame, count only channels that continue through most of the segment; record interrupted ribs, adhering fibers, and glare separately. Repeat on at least three mature stems from the same numbered collection. Report the range rather than selecting the specimen with the most dramatic surface.
 
 This method makes the central character reviewable, but groove count should not become a universal threshold. Hydration, age, compression, camera angle, and stem expansion change what is visible. The result belongs beside cap form, gill attachment, wood, spore data, cystidia, pileipellis, and regional alternatives. If channels disappear when the light direction changes, treat them as shadow artifacts. If they remain continuous on several faces and several stems, they are stronger morphological evidence while still not proving the species alone.

@@ -6,6 +6,7 @@ keywords: ["nameko mushroom", "Pholiota microspora", "nameko identification", "g
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-06
+updatedDate: 2026-11-24
 coverImage: "../../assets/species/nameko-mushroom-editorial-v1.png"
 coverAlt: "AI editorial image of glossy amber nameko-like mushrooms clustered on a damp hardwood log"
 imageCredit: "Original AI editorial image created for MushroomScope"
@@ -186,3 +187,16 @@ For cultivated clusters, note cap diameter, slime condition, stem length, substr
 4. [FDA — Selecting and Serving Produce Safely](https://www.fda.gov/consumers/consumer-updates/selecting-and-serving-produce-safely). General handling guidance for verified produce.
 
 Sources were assigned to specific claims rather than treated as endorsements. Editorial review completed October 6, 2026; no named clinical expert or field mycologist independently reviewed the page.
+## Run a cap-film and fresh-air comparison
+
+For a cultivation record, change one variable at a time instead of describing every glossy cluster as successful. Mark equal areas on the same colonized block and compare two fresh-air settings while holding temperature, humidity, light, strain, and misting constant. Photograph pins at the same time each day and measure cap diameter, stem length, cluster density, aborted pins, and the proportion of caps retaining a continuous gelatinous film.
+
+The cap film should be evaluated under diffuse side light, not by touch alone. Record whether gloss is evenly distributed, pooled after misting, or broken by dry patches. Separate natural mucilage from free surface water by allowing one sample to drain under controlled humidity before photographing it again. Excess condensation, bacterial damage, and the species' normal gelatinous layer are different observations and should not be collapsed into “slimy.”
+
+Track carbon-dioxide management through morphology rather than copying a universal parts-per-million target. Long stems, small caps, and crowded clusters can signal inadequate exchange, but strain, light, temperature, and pin density also influence proportions. Record the actual ventilation schedule and equipment instead of reverse-engineering a number from appearance.
+
+## Measure post-harvest quality rather than promising shelf life
+
+Harvest matched clusters at the same cap stage, cool them promptly, and weigh each ventilated sample at fixed intervals. Log storage temperature, visible condensation, cap-film integrity, odor, bruising, and mass loss. A sealed wet container can preserve apparent weight while accelerating surface deterioration; a dry exposed container can cause rapid shrinkage. The useful recommendation is therefore a documented cold chain and sensory rejection criteria, not a universal shelf-life promise.
+
+For food use, start with authenticated cultivated product. Clean according to producer guidance, cook thoroughly, prevent cross-contamination, and refrigerate promptly. The [shiitake log guide](/growing/grow-shiitake-logs/) provides a contrasting hardwood production system, while the [mushroom identification workflow](/identification/how-to-identify-mushrooms/) explains why an amber wood-growing wild cluster cannot inherit a cultivated nameko label.

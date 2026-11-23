@@ -118,6 +118,8 @@ Range labels require similar restraint. Database points can include old names, u
 
 ## Separate the closest gray-brown bonnet candidates
 
+The [lilac bonnet guide](/mushrooms/lilac-bonnet-mushroom-guide/) covers a pink-lilac litter species with translucent cap striations and an often radish-like odor. Compare substrate, measured proportions, gill attachment, and microscopy rather than transferring a name from color alone.
+
 The practical lookalike set is not every small gray mushroom. Begin with species sharing three conditions: bonnet-like form, pale spores and a wood substrate. *Mycena inclinata* can form conspicuous tufts on stumps and may have contrasting stem colors. *Mycena maculata* can develop reddish-brown spots or stains. *Mycena polygramma* is associated with a strongly lined or fibrous stem. None of these capsule summaries is a verdict; age, rain and regional variation can obscure the named feature.
 
 Build a comparison table for the actual collection. Use rows for cluster density, precise substrate, cap profile at three ages, wet and dry color, gill attachment, gill color change, stem surface, base, odor, spore deposit and measured microscopic features. Leave cells unknown rather than filling them from expectation. This makes the missing evidence visible and reduces the temptation to choose the closest photograph.

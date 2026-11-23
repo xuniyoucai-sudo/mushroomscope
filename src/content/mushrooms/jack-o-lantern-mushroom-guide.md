@@ -6,7 +6,7 @@ keywords: ["jack-o'-lantern mushroom", "Omphalotus", "jack o lantern mushroom id
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-18
-updatedDate: 2026-10-18
+updatedDate: 2026-11-24
 reviewStatus: editorial
 revisionSummary: "Original safety-focused field guide with attachment mapping, gill anatomy, regional species limits, lookalike separation, and poisoning response."
 draft: false
@@ -163,3 +163,16 @@ The strongest conclusion may be genus-level. A local mycological society, herbar
 5. University of California Integrated Pest Management. [Mushrooms and Other Nuisance Fungi in Lawns](https://ipm.ucanr.edu/PMG/PESTNOTES/pn74100.html). Buried wood and lawn-fruiting context.
 
 *Editorial review dated October 18, 2026. No named mycologist or clinician reviewed this page; taxonomy, regional lookalikes, and poison-response contacts should be rechecked at each substantive revision.*
+## Audit a cluster from buried wood to gill edge
+
+Treat the cluster as a three-dimensional attachment problem. Place numbered markers beside each stem, then expose only enough soil to determine whether stems join one buried root, several wood fragments, or compact litter. Photograph the intact cluster, the common attachment, and a cleaned cross-section. Record host evidence separately: bark and wood anatomy are stronger than the nearest standing tree.
+
+For each numbered cap, measure diameter, stem offset, gill depth, gill spacing at mid-radius, and the distance the gills descend. A chanterelle comparison should use the same views. True jack-o'-lantern gills are thin blades with sharp edges and measurable spaces; chanterelle ridges are blunt folds that fork and merge with the cap flesh. The [chanterelle comparison](/identification/chanterelle-vs-jack-o-lantern/) explains that structural test without relying on orange color.
+
+Cut one fruit body vertically from cap center through the full stem and attachment. Photograph the orange internal tissue under neutral light and record any insect tunnels or color changes. Do not combine the brightest cap, deepest gills, and most fused base from different clusters into one idealized specimen description.
+
+## Test glow claims without using darkness as clearance
+
+Bioluminescence varies with species, tissue, age, temperature, moisture, camera sensitivity, and exposure. If documenting it, place a fresh gill-side sample in a dark controlled enclosure beside a nonluminescent reference, allow eyes and camera to adapt, and record exposure settings. Take a matched lights-on frame without moving the specimen. Long exposures can reveal weak emission that a person could not see, while sensor noise can manufacture colored speckles.
+
+A failed glow test does not exclude *Omphalotus*, and a bright digital image does not confirm it. The result belongs in the observation record only after cluster architecture, wood attachment, true decurrent gills, regional range, and orange tissue have been documented. Never delay poisoning response to perform this experiment.

@@ -117,6 +117,8 @@ Garden occurrence does not establish that a purchased mulch bag carried the orga
 
 ## Compare common stinkhorn with close forms
 
+Devil's fingers takes a different developmental route: its pale egg opens into several free red arms carrying patchy olive gleba rather than one white column and conical head. The [devil's fingers guide](/mushrooms/devils-fingers-fungus-guide/) shows how to record that arm-to-volva architecture without treating the egg alone as diagnostic.
+
 Dog stinkhorns such as *Mutinus caninus* are usually slimmer and smaller. Their spore mass is carried near a pointed colored tip rather than across a distinct broad honeycombed cap. The [dog stinkhorn guide](/mushrooms/dog-stinkhorn-guide/) shows how stem color, tip structure, size, egg anatomy, and habitat should be compared together.
 
 The dune stinkhorn, *Phallus hadriani*, often has a pinkish to violet egg or volva and a stronger association with sandy habitats. Color fades, soil stains, and habitat overlap prevent a one-feature decision. Document the fresh egg, mature base, cap, spores, region, and substrate, then use a current regional treatment.

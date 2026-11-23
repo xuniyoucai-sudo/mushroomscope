@@ -6,7 +6,7 @@ keywords: ["common puffball", "Lycoperdon perlatum", "common puffball identifica
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-11-24
 revisionSummary: "Initial publication with surface, section, maturity, ecology, lookalike, and collection-record workflows."
 draft: false
 featured: false
@@ -173,3 +173,18 @@ Its saprotrophic ecology makes culture conceivable, but a credible claim needs a
 4. U.S. Food and Drug Administration. [Selecting and Serving Produce Safely](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely). General handling guidance for verified foods.
 
 *Editorial review: October 21, 2026. This page has editorial review only and no named mycologist, toxicologist, or clinician review. Taxonomy, range, lookalikes, and poison-response contacts should be rechecked at every substantive update.*
+## Quantify spine loss across one fruit body
+
+Choose a fresh intact puffball and divide its surface into apex, shoulder, mid-body, and basal zones. Photograph each zone at the same magnification under raking light, then count complete spines, broken tips, and bare reticulate scars within a measured square. Repeat on a mature body from the same group. This distinguishes a patterned loss of detachable spines from a uniformly warted or cracked surface and records how age changes the familiar pearly texture.
+
+Do not scrub or roll the specimen before the first photographs. Rain, handling, slugs, and soil abrasion can remove ornaments, so note exposure and damage. A nearly smooth old body should not be compared with an ideal young photograph without its maturity evidence.
+
+## Build an interior maturity grid
+
+Section one legally collected representative from apex through the complete sterile base. Before cutting, assign it a specimen number and record external dimensions. On the fresh section, divide the fertile upper tissue into a three-by-three grid and note color, uniformity, moisture, odor, cavities, insect feeding, and any developing structures in every cell. Photograph within minutes because oxidation and drying change the surface.
+
+The grid is designed to catch local discoloration that a single central glance can miss. Uniform white internal tissue is only one checkpoint in a larger identification; any yellow, olive, brown, purple, patterned, chambered, gilled, or cap-like interior ends a casual food decision. The [general puffball guide](/mushrooms/puffball-mushroom-guide/) covers the enclosed-structure test, and the [earthball guide](/mushrooms/common-earthball-fungus-guide/) shows why a thick rind and darkening gleba belong on a different path.
+
+## Link the pore to measured spore release
+
+For a mature, non-food specimen, photograph the apical pore before disturbance. Place it over a clean dark card outdoors and use one gentle standardized compression while wearing appropriate protection and avoiding inhalation. Record the pore diameter, mass before and after, wind, and the deposit footprint. Do not generate airborne clouds for entertainment; mature spores are an exposure, not a visual identification trick.
