@@ -162,4 +162,3 @@ The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened
 - [First Nature: *Mycena pura*](https://www.first-nature.com/fungi/mycena-pura.php) — field characters, habitat, season, and comparison context.
 - [GBIF species search: *Mycena pura*](https://www.gbif.org/species/search?q=Mycena%20pura) — occurrence data interpreted with regional identification limits.
 - [North American Mycological Association: mushroom poisoning syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/) — conservative response context for an unknown ingestion.
-

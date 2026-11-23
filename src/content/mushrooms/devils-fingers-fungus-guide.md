@@ -160,4 +160,3 @@ The 1536 × 1024 cover is an original AI-assisted editorial image. It was opened
 - [First Nature: *Clathrus archeri*](https://www.first-nature.com/fungi/clathrus-archeri.php) — development, structure, habitat, range, and field-comparison context.
 - [GBIF species search: *Clathrus archeri*](https://www.gbif.org/species/search?q=Clathrus%20archeri) — occurrence records whose dates and verification levels require interpretation.
 - [North American Mycological Association: mushroom poisoning syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/) — conservative response context for unknown ingestions.
-
