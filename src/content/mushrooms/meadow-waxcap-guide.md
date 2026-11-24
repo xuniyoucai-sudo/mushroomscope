@@ -98,6 +98,8 @@ The [scarlet waxcap guide](/mushrooms/scarlet-waxcap-mushroom-guide/) provides a
 
 White *Cuphophyllus virgineus* can be similar in structure but is normally ivory to white and often smaller. Other buff grassland agarics may have thinner, crowded gills or a different attachment. If a collection affects a conservation record, use a current regional key and retain a lawful voucher for microscopy or sequencing.
 
+The dedicated [snowy waxcap guide](/mushrooms/snowy-waxcap-mushroom-guide/) separates that ivory-white field concept through cap color controls, thick descending gills, complete-base checks, white-spore evidence, and pale grassland lookalikes.
+
 ## Record color without letting a camera invent it
 
 Photograph in open shade or diffuse daylight with a neutral reference in one frame. Automatic white balance can push apricot caps toward neon orange or dull gray. Keep an unedited original, note whether the cap was wet, and avoid using saturation to “restore” a remembered color.

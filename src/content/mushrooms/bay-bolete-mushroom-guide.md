@@ -173,6 +173,8 @@ They are mycorrhizal rather than ordinary saprotrophic crop mushrooms. Their liv
 
 For a high-consequence red-pored comparison, use the [Scarletina bolete guide](/mushrooms/scarletina-bolete-guide/) to examine discrete red stem dots, untouched pore color, and a timed blue-oxidation sequence. Those characters differ from the bay bolete's yellowish pores and less ornamented stem.
 
+For a host-specific yellow comparison, the [larch bolete guide](/mushrooms/larch-bolete-mushroom-guide/) documents a golden viscid cap, partial-veil sequence, and verified *Larix* root zone rather than extending bay-bolete characters to every yellow-pored woodland species.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Imleria badia* species record](https://www.gbif.org/species/2524505). Taxonomic backbone and occurrence context.

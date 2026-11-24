@@ -6,7 +6,7 @@ keywords: ["artist’s conk", "Ganoderma applanatum", "artist’s conk identific
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-24
-updatedDate: 2026-09-27
+updatedDate: 2026-11-25
 draft: false
 featured: false
 coverImage: "../../assets/species/artists-conk-mushroom-editorial-v2.png"
@@ -172,6 +172,18 @@ For an oak-associated bracket with coarse elongated pores that branch into a maz
 Black crust at a broadleaf root flare follows a different pathway from a perennial bracket: the [brittle cinder fungus guide](/mushrooms/brittle-cinder-fungus-guide/) documents stromatal stages, perithecia, and why fruit bodies alone cannot predict tree failure.
 
 For a dark perennial bracket with a red-brown marginal belt rather than a bruise-reactive artist's surface, use the [red-belted conk complex guide](/mushrooms/red-belted-conk-fungus-guide/) and preserve host, section, pore, and regional evidence.
+
+## Measure annual tube layers without turning them into exact ages
+
+A vertical section through a lawful, already detached bracket can reveal stacked tube layers separated by darker tissue. Photograph the entire section with scale, then measure tube depth at the attachment, middle, and margin. Map insect galleries, pale active growth, old crust, and any resupinate tissue extending along the wood. A single edge measurement cannot represent the whole conk.
+
+Layer counts are not guaranteed calendar ages. Growth can pause, resume, erode, or add more than one visually distinct zone under changing conditions. Use them as a record of repeated tube production, not as an exact birthday claim. If the bracket remains on a living tree, avoid cutting it merely to make an age estimate; repeated exterior measurements and photographs may answer the monitoring question with less damage.
+
+## Build a bruise-response map rather than writing “draws brown”
+
+The pale pore surface is famous for accepting marks, but a useful observation controls pressure and time. On a detached specimen or a minimal permitted test area, draw three equal short lines with a blunt clean tool: one near the growing margin, one at mid-radius, and one near the attachment. Photograph immediately and at one, five, and thirty minutes under unchanged light.
+
+Record whether each zone was fresh white, cream, weathered, or already stained. A rapid brown line on young pores supports the field concept, while an old dirty underside may respond weakly. The test does not identify a regional *Ganoderma* by itself, measure decay inside the tree, or establish medicinal value.
 
 ## References
 

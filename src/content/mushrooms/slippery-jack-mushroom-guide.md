@@ -203,6 +203,8 @@ At the same time, measure the cap slime under controlled conditions: note recent
 
 ## References
 
+For the yellow-orange, larch-associated comparison, use the [larch bolete guide](/mushrooms/larch-bolete-mushroom-guide/) to document *Larix* roots, golden cap development, yellow pores, and the veil-to-ring sequence instead of relying on cap slipperiness alone.
+
 1. Global Biodiversity Information Facility. [Suillus luteus species record](https://www.gbif.org/species/7777157). Name and occurrence data supporting its broad introduced distribution with pines.
 2. National Center for Biotechnology Information. [*Suillus luteus* taxonomy record](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Suillus+luteus). Lineage checkpoint for separating *Suillus* from superficially similar boletes.
 3. North American Mycological Association. [Mushroom Poisoning Syndromes](https://namyco.org/interests/toxicology/mushroom-poisoning-syndromes/). Poisoning response and syndrome context.

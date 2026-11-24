@@ -6,7 +6,7 @@ keywords: ["cauliflower fungus", "Sparassis crispa", "cauliflower fungus identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
-updatedDate: 2026-09-27
+updatedDate: 2026-11-25
 draft: false
 featured: false
 coverImage: "../../assets/species/cauliflower-fungus-editorial-v2.png"
@@ -170,6 +170,18 @@ Commercial *Sparassis* production exists, but it is not equivalent to placing an
 5. Compare the complete record with a current regional key and qualified local expertise.
 
 For a much smaller ground-fruiting comparison with cylindrical violet branches rather than broad cream ribbons, use the [violet coral fungus guide](/mushrooms/violet-coral-fungus-guide/). Its scale, substrate record, and microscopy pathway address a separate identification problem.
+
+## Quantify a rosette without flattening its branching geometry
+
+Measure maximum width, height, and distance from the nearest visible root flare before lifting anything. Photograph from four compass directions and directly above. On one representative outer branch, record ribbon width, thickness, margin waviness, and the distance between successive forks. Repeat near the center, where branches may be thicker, crowded, and darker.
+
+This zoned record distinguishes a genuinely leaf-like *Sparassis* rosette from coral fungi made of cylindrical branches. It also captures damage: browse marks, embedded needles, waterlogged folds, and dark bacterial breakdown should be mapped rather than edited out of the description. Do not compress the fruit body for a photograph, because the three-dimensional spaces between ribbons are part of the evidence.
+
+## Trace host confidence from root flare to regional species concept
+
+Mark the fruit body's position relative to every plausible conifer, stump, and buried root corridor. Photograph bark, needles, cones, and the wider stand so the tree can be identified independently. “At the base of pine” is stronger than “in conifer woods,” but roots may cross and an old stump may be hidden; report the confidence level rather than inventing certainty.
+
+Regional *Sparassis* names do not transfer automatically. Preserve the accepted name, any older label, geography, host evidence, fertile-surface characters, microscopy, and voucher location. Where *S. radicata* or another close taxon is plausible, use a regional key and stop at the genus or complex until the distinguishing evidence is present.
 
 ## References
 

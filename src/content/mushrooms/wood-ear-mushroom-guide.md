@@ -5,7 +5,7 @@ keywords: ["Auricularia heimuer","wood ear","mushroom identification","mushroom 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-15
+updatedDate: 2026-11-25
 draft: false
 featured: false
 coverImage: "../../assets/species/wood-ear-mushroom.jpg"
@@ -195,6 +195,18 @@ Foodborne risk is not theoretical for dried wood ear. FDA investigated a 2020 mu
 
 Discard dried ears with insects, moisture damage, mold, or an abnormal odor, and discard a soak that became warm for an extended period. People at higher risk from foodborne illness should follow their clinician's and local authority's advice. After severe gastrointestinal symptoms, breathing difficulty, confusion, jaundice, or illness following an unidentified wild mushroom, contact emergency services or a poison center immediately and retain the package or specimen for investigators.
 
+
+## Run a controlled rehydration record instead of judging by size
+
+Dried ears can expand dramatically, but the expansion ratio is not a species test and does not prove product quality. Weigh three intact pieces separately, photograph both surfaces with scale, then soak them under the package's safe time-and-temperature directions. Drain each piece for the same interval and weigh it again. Record tears, thickness, surface hairs, edge shape, odor, and whether the tissue returns to a flexible ear or fragments into soft flakes.
+
+Keep the lot number and label species attached to the measurements. A tenfold mass increase mostly records absorbed water; it does not demonstrate tenfold nutrition or an unusually concentrated product. Comparing lots is meaningful only when starting mass, water temperature, soak duration, draining method, and piece thickness are controlled.
+
+## Separate production identity from market identity
+
+Retail “wood ear” can refer to more than one *Auricularia* species, and labels may use older names or broad trade terms. A useful product record preserves the binomial printed on the package, country of production, lot, drying form, importer, and any authentication statement. Do not silently replace a label name with *A. heimuer* because the pieces look dark and ear-shaped.
+
+For cultivated material, substrate, strain, harvest stage, trimming, and drying temperature can change thickness and rehydration behavior. For wild material, host, attachment, hairs, fertile surface, spores, geography, and sequence-backed comparison may be needed. These evidence tracks answer different questions and should not be blended into one visual identification.
 
 ## References
 

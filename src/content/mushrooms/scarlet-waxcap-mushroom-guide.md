@@ -180,6 +180,8 @@ Pair those measurements with gill thickness, spacing, cap profile, stem texture,
 
 ## References
 
+For a pale member of the same grassland family, the [snowy waxcap guide](/mushrooms/snowy-waxcap-mushroom-guide/) documents ivory caps, thick descending white gills, complete bases, and white-spored lookalikes rather than treating loss of red color as sufficient evidence.
+
 For a robust dry buff-apricot grassland comparison, use the [meadow waxcap guide](/mushrooms/meadow-waxcap-guide/), which separates thick decurrent gills and site-history evidence from scarlet color.
 
 Record grass height and the fruit body's exposed height in the same frame. A cap hidden in tall wet turf can retain moisture and appear darker than one a few centimeters away in open grass. That microhabitat contrast is worth preserving, but it should not be promoted into a taxonomic character without broader, matched observations.
