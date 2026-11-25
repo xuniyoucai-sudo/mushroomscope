@@ -5,8 +5,8 @@ keywords: ["mushroom nutrition: calories, protein, fiber, and vitamins", "mushro
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-10-04
-revisionSummary: "Added a dry-matter and cooked-yield comparison protocol, clarified fiber-versus-protein intent with realistic meal denominators, and separated database values from package-specific claims."
+updatedDate: 2026-11-26
+revisionSummary: "Added a label-to-database reconciliation method and a meal-level fiber/protein comparison while preserving the food-versus-supplement evidence boundary."
 draft: false
 featured: false
 relatedEntries: ["health/cooked-vs-raw-mushrooms", "health/mushrooms-vitamin-d", "health/mushroom-supplements-guide", "health/mushrooms-gut-health"]
@@ -161,6 +161,14 @@ Explore related [health evidence guides](/health/) and species context in the [m
 ## Related evidence reviews
 
 Compound claims need their own evidence audit. The [mushroom-antioxidants guide](/health/mushroom-antioxidants/) explains why ergothioneine or assay values are not clinical outcomes, while the [maitake benefits review](/health/maitake-benefits-evidence/) separates an ordinary food serving from concentrated maitake extracts.
+
+## Reconcile a package label with a database entry
+
+Start with the exact product form: raw, cooked, canned and drained, dried, or powdered. Copy the label serving mass and nutrients, then convert only to a common mass basis when that comparison answers a real question. A dry powder should not be compared gram-for-gram with water-rich fresh mushrooms without also showing realistic portions. Keep rounding visible; label values are not laboratory precision.
+
+For the query “are mushrooms fiber or protein,” the practical answer is that whole mushrooms contain both, but an ordinary serving is not usually a protein substitute for legumes, eggs, dairy, fish, or meat. Build a meal comparison by recording the cooked mushroom mass and the other ingredients. Report fiber and protein as separate quantities and as contributions to the entire plate. This avoids turning one nutrient into the identity of a food.
+
+When FoodData Central offers several records, save the record identifier, description, sample basis, and retrieval date. Prefer the entry matching species and preparation; do not average incompatible records to manufacture a universal value. The [cooked-versus-raw guide](/health/cooked-vs-raw-mushrooms/) explains why water loss can raise nutrients per 100 grams without creating nutrients, and the [vitamin D guide](/health/mushrooms-vitamin-d/) covers the separate effect of UV exposure.
 
 ## References
 

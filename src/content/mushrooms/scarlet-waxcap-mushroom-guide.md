@@ -178,6 +178,8 @@ Photograph one young, one expanding, and one mature cap from the same population
 
 Pair those measurements with gill thickness, spacing, cap profile, stem texture, and the timed bruise series. This developmental matrix adds more value than another red-cap description and leaves a later reviewer enough evidence to revisit the name when regional waxcap taxonomy changes.
 
+For a smaller yellow grassland species, the [butter waxcap guide](/mushrooms/butter-waxcap-mushroom-guide/) shows how cap hydration, thick gill spacing, measured stature, and low-nutrient turf context separate evidence from a color match.
+
 ## References
 
 For a pale member of the same grassland family, the [snowy waxcap guide](/mushrooms/snowy-waxcap-mushroom-guide/) documents ivory caps, thick descending white gills, complete bases, and white-spored lookalikes rather than treating loss of red color as sufficient evidence.

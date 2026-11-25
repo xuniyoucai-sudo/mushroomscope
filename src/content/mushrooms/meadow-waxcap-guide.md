@@ -156,6 +156,8 @@ When DNA is considered, preserve voucher identity and laboratory provenance. A s
 
 For a pointed yellow-to-red waxcap that develops pervasive gray-black tissue changes, compare the timed reaction and nearly free gills in the [blackening waxcap guide](/mushrooms/blackening-waxcap-guide/) rather than treating all bright grassland waxcaps as one variable species.
 
+Compare the robust buff-apricot build here with the [butter waxcap guide](/mushrooms/butter-waxcap-mushroom-guide/), which documents a much smaller bright-yellow waxcap through measured scale, gill spacing, hydration, and grassland history.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Cuphophyllus pratensis* species record](https://www.gbif.org/species/3291564). Taxonomic backbone and mapped occurrence context.

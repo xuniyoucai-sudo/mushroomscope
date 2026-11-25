@@ -166,6 +166,8 @@ The original AI cover was compared with natural-light Chanterelle and Scarlet Wa
 
 The [common funnel guide](/mushrooms/common-funnel-mushroom-guide/) covers a generally smaller, more slender litter species; compare measured stature, any persistent central boss, colony pattern, and microscopy rather than treating every depressed cap as interchangeable.
 
+The [giant funnel guide](/mushrooms/giant-funnel-mushroom-guide/) treats the broader, heavier *Leucopaxillus giganteus* intent with cap measurements, decurrent-gill sections, and fairy-ring geometry rather than a single size cutoff.
+
 ## References
 
 Compare blue-green color and a recorded anise odor in the [aniseed funnel guide](/mushrooms/aniseed-funnel-mushroom-guide/); funnel shape alone cannot separate these woodland species concepts.

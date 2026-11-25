@@ -5,8 +5,8 @@ keywords: ["mushroom allergy symptoms", "mushroom intolerance", "mushroom allerg
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-11-01
-revisionSummary: "Added a symptom-timing decision record, ingredient and cross-contact reconstruction, and occupation-specific exposure controls without implying diagnosis."
+updatedDate: 2026-11-26
+revisionSummary: "Added a product-and-route challenge boundary, lot-linked record method, and clinician handoff that distinguishes cultivated food, supplements, workplace exposure, and unknown wild mushrooms."
 draft: false
 featured: false
 relatedEntries: ["health/mushroom-supplements-guide", "health/fruiting-body-vs-mycelium", "identification/mushroom-identification-safety-checklist"]
@@ -173,6 +173,14 @@ Source control comes first: isolate dusty steps, maintain local exhaust, avoid d
 ## Define the scope of avoidance precisely
 
 After assessment, write whether the plan concerns one verified species, all culinary mushrooms, a supplement formulation, a workplace aerosol, or a non-fungal meal ingredient. Record the evidence supporting that boundary and the conditions for reassessment. A broad indefinite ban may be unnecessarily burdensome, while an assumption that cooked and raw forms are interchangeable may be unsafe. Changes belong with the treating professional.
+
+## Keep a lot-linked product and route record
+
+“Mushroom exposure” is not one variable. Photograph the exact package or menu, ingredient list, lot code, species name if supplied, fresh or dried form, cooking method, portion, and storage history. For a supplement, add the labeled species, fruiting body or mycelium claim, extraction, dose, capsule ingredients, and third-party testing information. For workplace exposure, record the task, airborne dust or spores, gloves and respirator, ventilation, cleaning products, and whether symptoms improve away from the shift.
+
+Keep timing factual: exposure start, first symptom, symptom sequence, treatment, and recovery. Do not compress “itching during a two-hour packing shift” and “vomiting six hours after a mixed restaurant meal” into the same pattern. A clinician can then assess allergy, foodborne illness, irritant exposure, another ingredient, or a different cause without the record pre-selecting a diagnosis.
+
+Do not perform a home re-challenge to make the notes more convincing. A prior mild episode cannot guarantee that another exposure will remain mild. Unknown wild-mushroom ingestion stays on the poison-control pathway, not a routine allergy experiment. The [medicinal mushroom safety guide](/health/medicinal-mushroom-safety/) covers concentrated-product quality questions, while the [supplements guide](/health/mushroom-supplements-guide/) explains why a branded extract cannot be treated as equivalent to a cooked food.
 
 ## References
 

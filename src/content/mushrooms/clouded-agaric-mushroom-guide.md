@@ -153,6 +153,8 @@ For a repeat visit, place two unobtrusive ground markers outside the colony and 
 7. Exclude mature pink-spored entolomas and compare common funnels and blewits.
 8. Keep the food conclusion separate from the identification hypothesis.
 
+For a massive cream grassland funnel rather than a smoky litter mushroom, use the [giant funnel guide](/mushrooms/giant-funnel-mushroom-guide/) and compare measured cap profile, gill descent, stem build, substrate, and ring geometry.
+
 ## References
 
 - [NCBI Taxonomy Browser: *Clitocybe nebularis*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Clitocybe+nebularis) — taxonomy and sequence-linked records.

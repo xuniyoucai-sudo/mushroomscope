@@ -5,8 +5,8 @@ keywords: ["chanterelle identification", "Cantharellus cibarius", "chanterelle l
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-02
-updatedDate: 2026-10-07
-revisionSummary: "Added a collection-level false-gill measurement protocol, host-and-region interpretation, and a timed lookalike separation workflow."
+updatedDate: 2026-11-26
+revisionSummary: "Added a specimen-linked ridge continuity audit, mixed-patch separation map, and region-bounded naming record for high-impression chanterelle queries."
 draft: false
 featured: false
 coverImage: "../../assets/species/chanterelle-mushroom-editorial-v2.jpg"
@@ -198,6 +198,14 @@ Start with attachment and growth form. Jack-o'-lantern mushrooms (*Omphalotus*) 
 Do not make color the first gate. Yellow, orange, peach, and faded cream occur across age, moisture, camera balance, and several taxa. A safer sequence is growth substrate → underside structure → flesh/stem → tree association → regional key. If any decisive view is missing, retain the observation as unresolved. No combination of webpage traits makes an unknown wild mushroom safe to eat; seek qualified local, in-person confirmation before any food decision.
 
 For a broader process, use the [mushroom identification safety checklist](/identification/mushroom-identification-safety-checklist/). The [edible mushroom lookalikes guide](/identification/edible-mushroom-lookalikes/) explains why matching an attractive feature cannot substitute for eliminating dangerous alternatives.
+
+## Audit ridge continuity across a mixed patch
+
+Assign a code to each sampled fruit body before moving it. On the underside, trace ten structures from cap margin toward the stem and record whether each remains a blunt, wrinkled ridge integrated with the cap flesh or separates as a thin blade. Count forks and cross-veins within a fixed sector, then make one radial section. True gills form discrete plates with edges; chanterelle ridges are folds of the fertile surface. Photograph both the intact underside and cut profile with the same specimen code.
+
+Map clustered wood-based mushrooms separately from scattered soil-and-moss fruit bodies, even when their colors overlap. A jack-o'-lantern cluster arising from buried roots can appear terrestrial from above. Expose only enough attachment to distinguish soil, litter, and wood, then photograph nearby trees and restore the site. Do not let one convincing chanterelle label clear every orange mushroom in the frame.
+
+For records outside the well-supported European concept of *C. cibarius*, save locality, tree partners, macroscopic measurements, deposit, microscopy method, key used, and voucher details. A locally keyed species or “*Cantharellus* sp.” can be more accurate than exporting the familiar European name. This preserves the search intent—how to evaluate a chanterelle-like collection—without pretending one global yellow species exists.
 
 ## References
 
