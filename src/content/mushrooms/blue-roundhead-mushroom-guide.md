@@ -111,6 +111,8 @@ That distinction is a tendency, not a remote identification switch. Lighting, im
 
 Place a mature cap over white and dark nonabsorbent surfaces, cover it against drafts, and label collection number and time. A heavy deposit should be purple-brown to very dark brown. A few dark marks beneath an old cap are insufficient because soil, moisture, and decaying gills can stain paper.
 
+If the collection is dry-velvety, stout, violet through the flesh, and develops rusty rather than purple-brown spores, follow the [violet webcap comparison](/mushrooms/violet-webcap-mushroom-guide/) instead of stretching a blue-roundhead label across a different veil and spore pathway.
+
 The [spore-print method](/identification/how-to-make-spore-print/) standardizes the setup. A dark deposit supports *Stropharia* but cannot separate close species. When a precise record matters, measure mature spores, document calibration and mount medium, and examine cystidia, gill edges, cap cuticle, and veil tissues with a current regional key.
 
 ## Document the full stem and its base

@@ -6,7 +6,8 @@ keywords: ["verdigris agaric", "Stropharia aeruginosa", "verdigris roundhead", "
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-03
-updatedDate: 2026-11-19
+updatedDate: 2026-11-27
+revisionSummary: "Added cap-zone pigment tracking, litter-to-wood attachment controls, and a specimen-linked blue-roundhead decision matrix for the current unindexed record."
 draft: false
 featured: false
 coverImage: "../../assets/species/verdigris-agaric-editorial.png"
@@ -184,6 +185,24 @@ This prevents a mature dark print from being paired with an attractive young blu
 Photograph the full stem dry, then use side light to map raised fibers, adhering scales, and any membranous ring remnants. A longitudinal section through the upper stem can show whether the visible band is attached veil tissue, staining, or a change in surface fibers. Record handling before interpreting broken edges.
 
 Rain, slugs, expansion, and collection can reduce a ring to a zone. Conversely, debris can create a false band. Report the state as complete, fragmentary, zoned, or not observed, with photographs; do not silently convert “not observed” into “absent.”
+
+## Quantify pigment loss by cap zone
+
+Divide three numbered caps into center, middle, and margin sectors and photograph them under fixed white balance immediately after rain, after surface water drains, and on the following dry interval. Record hue descriptively, persistent slime, scale count, and any ochre exposure in each sector. This tests whether the blue-green surface is fading from the center, margin, or damaged patches rather than turning one attractive cap into the whole species description.
+
+Keep the cap attached during the first two observations. A detached cap changes hydration quickly, and color sampled from different individuals cannot demonstrate a sequence. The result is a specimen-level transformation record, not a universal fading timetable.
+
+## Test apparent wood attachment against buried litter
+
+Where a stem seems to rise beside a twig, expose only enough loose litter to photograph the intact base and the contact surface. Record whether the base actually joins wood, penetrates humus, or merely touches a buried branch. Then replace the litter. Verdigris agaric is a litter and debris saprotroph, but a single camera angle can incorrectly turn proximity into a wood-specific claim.
+
+Pair this check with litter depth, dominant debris, soil contact, and moisture at occupied and nearby unoccupied points. It can describe the fruiting microsite without proving the full resource used by the mycelium.
+
+## Use a fixed decision matrix for blue roundhead
+
+Score the same collection for cap viscosity, density of pale veil scales, ring state, mature gill-edge contrast, deposit color, cap fading pattern, and microscopic measurements. The [blue roundhead guide](/mushrooms/blue-roundhead-mushroom-guide/) represents a separate paler, sparsely scaled *Stropharia* intent; it should not be selected because one old verdigris cap lost its scales.
+
+Mark every unavailable character as unobserved rather than negative. If the matrix contains only cap color and habitat, retain *Stropharia* sp. A reviewable unresolved label adds more value than a species name assembled from features belonging to different mushrooms.
 
 ## References
 

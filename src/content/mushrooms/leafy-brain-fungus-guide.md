@@ -133,6 +133,8 @@ A torn wood ear can mimic one brown lobe. Confirm the whole growth pattern and a
 
 Do not build an identification from a generic “brown jelly fungus” image search. Preserve a voucher and list unresolved alternatives.
 
+Small pink-violet cushions and shallow discs on hardwood follow a different route. The [purple jellydisc guide](/mushrooms/purple-jellydisc-fungus-guide/) keeps their millimeter scale, exposed fertile surface, developmental states, and *Ascocoryne* microscopy separate from this larger folded jelly.
+
 ## Section one lobe and one attachment
 
 Cut a narrow lawful strip through margin, center, and base. Record thickness, internal inclusions, toughness, and whether lobes arise independently or from a common gelatinous core. Photograph the section fresh because drying rapidly changes geometry.

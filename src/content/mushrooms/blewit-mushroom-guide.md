@@ -131,6 +131,8 @@ Occurrence maps provide plausibility, not proof. Records vary in verification qu
 
 Purple *Cortinarius* species deserve first attention because the genus includes toxic fungi. Young fruit bodies may carry a cortina: fine cobweb-like threads between cap edge and stem. After rupture, rusty fibers or a dusty rusty band may remain on the stem. Mature gills and the spore deposit commonly turn rusty brown.
 
+The [violet webcap guide](/mushrooms/violet-webcap-mushroom-guide/) shows the dry velvety cap, swollen violet stem, developmental cortina, and rusty-spore workflow for one distinct comparison. Use it to test structure, not to choose between two purple photographs.
+
 Weather can remove an obvious web, so its absence on one adult is weak evidence. Search young specimens and clean stems. An ambiguous rusty zone, uncertain deposit, or collection composed only of battered adults should remain unresolved.
 
 ## Amethyst deceiver and close blewit relatives

@@ -126,6 +126,8 @@ Color is weak by itself. Wet tissue can look amber in transmitted light and near
 
 Brown cup fungi may offer a smooth interior and wavy rim but often have a different, more brittle flesh and an attachment arising from soil, litter, burned ground, or wood. Thin leathery brackets remain firm rather than swelling into elastic jelly. A cross-section and hydration record outperform a top-view resemblance.
 
+For tiny pink-violet gelatinous cushions and irregular cups directly on hardwood, use the [purple jellydisc guide](/mushrooms/purple-jellydisc-fungus-guide/). Its scale and microscopy pathway should not be merged with the larger ear-shaped *Auricularia* record.
+
 When the candidate remains ambiguous, use a regional key and microscopy. Spore dimensions, basidial structure, hairs, tissue organization, and modern sequence evidence may be necessary among related *Auricularia* names.
 
 ## Interpret distribution records cautiously

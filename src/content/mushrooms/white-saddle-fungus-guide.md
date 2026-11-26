@@ -6,8 +6,8 @@ keywords: ["white saddle fungus", "Helvella crispa", "white elfin saddle", "sadd
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-05
-updatedDate: 2026-11-18
-revisionSummary: "Added a four-rotation rib map, cap-attachment section series, and matched disturbance plots to distinguish architecture from habitat inference."
+updatedDate: 2026-11-27
+revisionSummary: "Added rib-continuity measurements, lobe-contact reconstruction, and a hydration-controlled pale-Helvella comparison that preserves regional taxonomic uncertainty."
 draft: false
 featured: false
 coverImage: "../../assets/species/white-saddle-fungus-editorial.png"
@@ -176,6 +176,24 @@ The result may show a local association between visible saddles and disturbed gr
 8. Preserve mature microscopic material and a traceable voucher when needed.
 
 This workflow produces useful evidence even when the final label remains genus-level. The important outcome is not a confident-sounding name; it is a record that another identifier can examine without guessing what the hidden surfaces looked like.
+
+## Measure rib continuity from base to cap
+
+Photograph one lawful representative at four 90-degree rotations with the same vertical scale. Number every major stem rib at the base and trace whether it branches, rejoins, or continues onto the lower cap surface. Record maximum flute depth at lower, middle, and upper stem rather than describing the stem only as “deeply fluted.”
+
+This map distinguishes continuous architecture from folds created by compression or soil. It also allows another reviewer to test whether the cap and stem relationship matches the proposed *Helvella* group without relying on the most dramatic angle.
+
+## Reconstruct lobe contacts before sectioning
+
+Use removable numbered markers beside, not on, each cap lobe. Photograph upper and lower surfaces, then draw which lobes touch, fuse, or remain free. Make one longitudinal section through a documented contact and one through a free margin. Irregular folds can hide the true attachment and make a damaged cup appear saddle-shaped.
+
+Keep every section tied to the complete fruit body. A loose pale lobe lacks the ribbed stem, outer-surface texture, and attachment evidence necessary for a useful comparison.
+
+## Compare pale Helvella under controlled hydration
+
+Record cap and stem color while fresh, after surface water drains, and during ordinary drying with fixed white balance. Note translucency, gray or buff undertones, surface hairs, and bruising separately. Hydration can shift a pale saddle from white to gray-buff in photographs, but it cannot substitute for spores or current regional taxonomy.
+
+Build the comparison table from locally plausible names and cite the treatment used. If mature microscopy or a regional revision does not support *H. crispa* sensu stricto, retain *Helvella* sp. or the accepted local aggregate. Geographic uncertainty is a property of the evidence, not a defect to hide with a distant field-guide photograph.
 
 ## Frequently asked field questions
 

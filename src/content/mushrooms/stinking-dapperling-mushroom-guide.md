@@ -6,8 +6,8 @@ keywords: ["stinking dapperling", "Lepiota cristata", "Lepiota identification", 
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-11-06
-updatedDate: 2026-11-18
-revisionSummary: "Added a scale-field census, specimen-linked odor protocol, and litter-depth comparison to separate morphology, sensory evidence, and microsite effects."
+updatedDate: 2026-11-27
+revisionSummary: "Added margin-to-disc scale trajectories, free-gill section controls, and a risk-first small-Lepiota decision table with specimen-level evidence thresholds."
 draft: false
 featured: false
 coverImage: "../../assets/species/stinking-dapperling-editorial.png"
@@ -199,6 +199,24 @@ This comparison can reveal where visible fruiting occurred during the survey. It
 7. Preserve uncertainty and keep food decisions outside the workflow.
 
 That sequence does not guarantee a species name. It does prevent the most consequential shortcut: treating a miniature parasol appearance as evidence of safety.
+
+## Track scales from closed cap to flat cap
+
+Choose three developmental stages from one mapped group and divide each cap into disc, middle, and margin zones. Record cap diameter, scale density, scale color, exposed ground color, and margin condition under fixed diffuse light. Expansion can spread an originally continuous brown covering into separated scales while the central disc remains dark, so different ages should not be treated as different patterns without measurements.
+
+Repeat after natural rain and identify sectors lost to abrasion or slug feeding. This creates a scale trajectory tied to cap growth. It does not prove identity, but it makes “brown-scaled pale cap” more precise than a selected close-up.
+
+## Demonstrate free gills with an intact section
+
+Before removing the cap, photograph the underside and mark the intended cut. Make a radial section through cap center and stem apex, then image the gap between gill ends and stem tissue with a scale. A shadow at the stem is not enough: camera perspective can make narrowly attached gills look free.
+
+Compare two mature fruit bodies and preserve the sections with their specimen codes. Free white gills support a dapperling pathway, while deposit and microscopy test whether the collection belongs in the small *Lepiota* complex. Neither character makes it safe to eat.
+
+## Apply a risk-first small-Lepiota table
+
+Create one row per specimen and columns for measured cap width, dark disc, scale distribution, gill attachment, ring state, complete base, odor protocol, deposit, spore measurements, and regional key result. Dangerous small *Lepiota* species can overlap in field appearance, so any missing base, mixed collection, or contradictory microscopy blocks a species-level food inference.
+
+Do not average contradictory specimens into a synthetic “typical” mushroom. Split the collection, retain uncertain rows at genus level, and keep the [poisonous-mushroom warning guide](/identification/poisonous-mushroom-warning-signs/) in its proper role: a risk screen, not a rule that clears specimens lacking a famous warning sign.
 
 ## Frequently asked field questions
 
