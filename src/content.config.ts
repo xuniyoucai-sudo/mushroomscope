@@ -146,6 +146,13 @@ const recipes = defineCollection({
       ingredients: z.array(z.string()).min(1),
       instructions: z.array(z.string()).min(1),
       calories: z.string().optional(),
+      video: z.object({
+        contentPath: z.string().startsWith('/videos/'),
+        thumbnailPath: z.string().startsWith('/videos/'),
+        uploadDate: z.string().datetime({ offset: true }),
+        duration: z.string(),
+        description: z.string().min(1),
+      }).optional(),
     }).optional(),
   }).superRefine((data, ctx) => {
     requireEditorialBasics(data, ctx);

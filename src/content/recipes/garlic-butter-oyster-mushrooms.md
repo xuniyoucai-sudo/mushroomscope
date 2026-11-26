@@ -5,8 +5,8 @@ keywords: ["garlic butter oyster mushrooms", "mushroom recipe", "oyster mushroom
 category: recipes
 author: "MushroomScope Editorial Team"
 publishDate: 2026-07-31
-updatedDate: 2026-09-28
-revisionSummary: "Added cluster anatomy, cut-size sorting, skillet recovery cues, butter-emulsion control, and separate finishing paths for crisp edges versus tender centers."
+updatedDate: 2026-11-26
+revisionSummary: "Added a short AI-generated skillet demonstration and clarified the butter, garlic, and lemon sequence in the recipe instructions."
 draft: false
 featured: false
 relatedEntries: ["mushrooms/oyster-mushroom-guide", "growing/grow-oyster-mushrooms-home", "recipes/sauteed-mushrooms-recipe"]
@@ -43,7 +43,13 @@ recipe:
   recipeYield: "4 servings"
   recipeCategory: "Main course"
   ingredients: ["450 g oyster mushrooms, torn into even pieces", "2 tablespoons unsalted butter", "2 garlic cloves, minced", "1 tablespoon fresh lemon juice", "salt and black pepper to taste"]
-  instructions: ["Buy identified cultivated mushrooms from a reputable food supplier and discard spoiled pieces.", "Clean mushrooms with a soft brush or brief rinse, dry well, and cut into even pieces.", "Sear torn oyster mushrooms in batches, then finish with garlic, butter, and lemon.", "Season to taste and serve while hot.", "Cool leftovers promptly in a shallow covered container and refrigerate."]
+  instructions: ["Buy identified cultivated mushrooms from a reputable food supplier and discard spoiled pieces.", "Clean mushrooms with a soft brush or brief rinse, dry well, and cut into even pieces.", "Sear torn oyster mushrooms in batches until browned. Lower the heat, melt the butter to coat the mushrooms, then add the garlic and toss briefly. Finish with lemon off high heat.", "Season to taste and serve while hot.", "Cool leftovers promptly in a shallow covered container and refrigerate."]
+  video:
+    contentPath: "/videos/garlic-butter-oyster-mushrooms.mp4"
+    thumbnailPath: "/videos/garlic-butter-oyster-mushrooms.jpg"
+    uploadDate: "2026-11-26T00:00:00+08:00"
+    duration: "PT29.375S"
+    description: "AI-generated illustration of the skillet steps. Sear the mushrooms, lower the heat and melt the butter, then add garlic. Cooking time is compressed."
 ---
 
 ## Why oyster mushrooms suit a fast skillet method

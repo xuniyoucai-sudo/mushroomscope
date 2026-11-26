@@ -9,7 +9,7 @@ import { entryKey, entryPath, getIndexableTaxa, getPublishedEntries, taxonPath }
 
 interface FAQItem { question: string; answer: string }
 interface SourceItem { title: string; url: string }
-interface RecipeData { prepTime: string; cookTime: string; totalTime?: string; recipeYield: string; recipeCategory: string; recipeCuisine?: string; ingredients: string[]; instructions: string[]; calories?: string }
+interface RecipeData { prepTime: string; cookTime: string; totalTime?: string; recipeYield: string; recipeCategory: string; recipeCuisine?: string; ingredients: string[]; instructions: string[]; calories?: string; video?: { contentPath: string; thumbnailPath: string; uploadDate: string; duration: string; description: string } }
 interface Taxonomy { kingdom?: string; phylum?: string; class?: string; order?: string; family?: string; genus: string }
 interface Props {
   title: string;
@@ -155,6 +155,17 @@ const articleSchema: Record<string, unknown> = {
   ...(sources.length ? { citation: sources.map((source) => ({ '@type': 'CreativeWork', name: source.title, url: source.url })) } : {}),
 };
 
+const video = recipe?.video;
+const videoSchema = video && {
+  '@type': 'VideoObject',
+  name: `${title}: Skillet Steps`,
+  description: video.description,
+  thumbnailUrl: new URL(video.thumbnailPath, Astro.site).href,
+  contentUrl: new URL(video.contentPath, Astro.site).href,
+  uploadDate: video.uploadDate,
+  duration: video.duration,
+};
+
 const schema = [
   articleSchema,
   ...(scientificName ? [{
@@ -170,7 +181,7 @@ const schema = [
     { '@type': 'ListItem', position: 2, name: categoryName, item: `https://mushroomscope.com/${category}/` },
     { '@type': 'ListItem', position: 3, name: title, item: canonical },
   ] },
-  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/authors/mushroomscope-editorial-team/' }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), ...(keywords.length ? { keywords: keywords.join(', ') } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions, ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
+  ...(recipe ? [{ '@type': 'Recipe', '@id': `${canonical}#recipe`, name: title, description, author: { '@type': 'Organization', name: author, url: 'https://mushroomscope.com/authors/mushroomscope-editorial-team/' }, datePublished: publishDate.toISOString(), prepTime: recipe.prepTime, cookTime: recipe.cookTime, ...(recipe.totalTime ? { totalTime: recipe.totalTime } : {}), recipeYield: recipe.recipeYield, recipeCategory: recipe.recipeCategory, ...(recipe.recipeCuisine ? { recipeCuisine: recipe.recipeCuisine } : {}), ...(keywords.length ? { keywords: keywords.join(', ') } : {}), recipeIngredient: recipe.ingredients, recipeInstructions: recipe.instructions, ...(videoSchema ? { video: videoSchema } : {}), ...(recipe.calories ? { nutrition: { '@type': 'NutritionInformation', calories: recipe.calories } } : {}), ...(coverImage ? { image: new URL(coverImage.src, Astro.site).href } : {}), mainEntityOfPage: { '@id': `${canonical}#webpage` } }] : []),
   { '@type': 'FAQPage', '@id': `${canonical}#faq`, mainEntity: faq.map((item) => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })) },
 ];
 ---
@@ -198,6 +209,15 @@ const schema = [
       {headings.filter(({ depth }) => depth === 2).length >= 3 && <nav class="mt-8 rounded-2xl border border-beige-300 bg-beige-50 p-5" aria-label="On this page"><p class="font-bold">On this page</p><ol class="mt-3 grid gap-x-6 gap-y-2 text-sm sm:grid-cols-2">{headings.filter(({ depth }) => depth === 2).map((heading) => <li><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ol></nav>}
 
       {recipe && <section class="card mt-10" aria-labelledby="recipe-details"><h2 id="recipe-details" class="font-serif text-3xl">Recipe details</h2><dl class="mt-5 grid gap-4 sm:grid-cols-4"><div><dt class="eyebrow">Prep time</dt><dd class="mt-1 font-semibold">{recipe.prepTime}</dd></div><div><dt class="eyebrow">Cook time</dt><dd class="mt-1 font-semibold">{recipe.cookTime}</dd></div><div><dt class="eyebrow">Yield</dt><dd class="mt-1 font-semibold">{recipe.recipeYield}</dd></div>{recipe.calories && <div><dt class="eyebrow">Calories</dt><dd class="mt-1 font-semibold">{recipe.calories} per serving</dd></div>}</dl><h3 class="mt-8 font-serif text-2xl">Ingredients</h3><ul class="mt-4 list-disc space-y-2 pl-6">{recipe.ingredients.map((ingredient) => <li>{ingredient}</li>)}</ul><h3 class="mt-8 font-serif text-2xl">Instructions</h3><ol class="mt-4 list-decimal space-y-3 pl-6">{recipe.instructions.map((instruction) => <li>{instruction}</li>)}</ol></section>}
+
+      {video && <section class="card mt-10" aria-labelledby="recipe-video">
+        <h2 id="recipe-video" class="font-serif text-3xl">Watch the skillet steps</h2>
+        <video class="mt-4 aspect-video w-full rounded-xl bg-black" controls playsinline preload="none" poster={video.thumbnailPath} width="1280" height="720" aria-labelledby="recipe-video" aria-describedby="recipe-video-description">
+          <source src={video.contentPath} type="video/mp4" />
+          <a href={video.contentPath}>Download the recipe video</a>
+        </video>
+        <p id="recipe-video-description" class="mt-3 text-sm text-slate-600">{video.description}</p>
+      </section>}
 
       <div class="prose mt-10"><slot /></div>
 
