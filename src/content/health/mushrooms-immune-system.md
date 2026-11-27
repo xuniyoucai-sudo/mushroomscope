@@ -6,7 +6,7 @@ keywords: ["mushrooms immune system", "mushroom beta glucans", "immune support m
 category: health
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-15
-updatedDate: 2026-09-22
+updatedDate: 2026-11-28
 revisionSummary: "Separated immune markers from patient outcomes and added a claim-to-evidence audit for named products."
 draft: false
 featured: false
@@ -165,6 +165,14 @@ People receiving chemotherapy, immunotherapy, transplantation care, or immunosup
 Write down: the exact product material; the human population; the dose and duration; the comparator; and the patient-relevant outcome. Next add adverse events, withdrawals, funding, registration, and whether an independent group replicated the result. If the seller changes fruiting body to mycelium, alters extraction, or uses a blend, the evidence match must be reassessed rather than inherited from the species name.
 
 For ordinary meals, no such audit is needed to enjoy identified culinary mushrooms as food. The audit becomes important when the message shifts to infection prevention, disease treatment, immune modulation, or concentrated supplements. Keep food advice modest and keep medical claims tied to the precise tested exposure.
+
+## Build an endpoint ledger before accepting an immune claim
+
+Create one row for each study rather than summarizing a whole ingredient with one adjective. Record the exact species and preparation, dose, duration, participant population, comparator, prespecified primary endpoint, effect size, uncertainty interval, withdrawals, and adverse events. A change in a laboratory marker belongs in a different column from fewer infections, shorter illness, hospitalization, or quality of life.
+
+Then mark whether the result was replicated independently and whether the trial was large enough for the endpoint it measured. Multiple cytokines tested in a small study create many opportunities for a chance-positive result; a corrected analysis or registered primary outcome carries more weight than a favorable marker selected afterward. Null results should stay visible in the ledger rather than disappearing beneath a mechanistic explanation.
+
+This method also separates the [mushroom supplements guide](/health/mushroom-supplements-guide/) from ordinary food use. A concentrated extract with proprietary processing cannot borrow the evidence profile of a cooked serving, while a food-composition table cannot establish a clinical immune effect. For readers comparing beta-glucan language, the [beta-glucans evidence guide](/health/mushroom-beta-glucans/) explains why source, linkage, extraction, dose, and assay prevent a single number from traveling unchanged across products.
 
 ## References
 

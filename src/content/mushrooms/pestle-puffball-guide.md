@@ -163,6 +163,8 @@ A repeat visit can resolve questions that one collection cannot. Mark positions 
 
 Keep weather and camera settings with the observations. Apparent surface color, granule density, and opening size can change dramatically between wet and dry days. A chronological series should therefore describe real changes rather than treating every visual difference as taxonomic. If a specimen vanishes, record removal, grazing, trampling, or uncertainty instead of reconstructing a life stage from memory.
 
+A smaller pear-shaped colony joined to decaying timber belongs on the [stump puffball evidence path](/mushrooms/stump-puffball-fungus-guide/), which tests wood continuity, granular skin, gleba change, and apical spore release separately from the tall pestle form.
+
 ## References
 
 - [GBIF species search: *Lycoperdon excipuliforme*](https://www.gbif.org/species/search?q=Lycoperdon%20excipuliforme) — occurrence and taxonomic source records.

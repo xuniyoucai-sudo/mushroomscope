@@ -6,7 +6,7 @@ keywords: ["black trumpet", "Craterellus cornucopioides", "black trumpet identif
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-22
-updatedDate: 2026-09-27
+updatedDate: 2026-11-28
 draft: false
 featured: false
 coverImage: "../../assets/species/black-trumpet-mushroom-editorial-v2.png"
@@ -170,6 +170,14 @@ Black trumpet is not a practical sterile-block crop because fruiting is tied to 
 3. Show the dark inner surface, paler outer fertile surface, wavy margin, tapered base, and a longitudinal section.
 4. Record nearby trees, soil or litter attachment, rainfall, and a pale spore deposit from a labeled mature specimen.
 5. Compare *C. cornucopioides*, the locally used *C. fallax* concept, dark chanterelloid fungi, and seasonal cup fungi with a regional source.
+
+## Map hollow-body geometry and the fertile outer surface
+
+Black trumpet evidence improves when the fruit body is treated as a three-dimensional tube rather than a dark funnel silhouette. For each numbered specimen, measure total height, mouth width, wall thickness at three levels, depth of the hollow interior, and the point where the base disappears into litter. Photograph the inner surface and the gray-to-black outer surface separately under raking light. The fertile surface is outside and may be smooth, finely wrinkled, or dusted pale by mature spores; it is not composed of blade-like gills.
+
+Make one longitudinal section from mouth to base. Record whether the cavity remains continuous, whether the wall splits into lobes, and where insects or drying have created false openings. A torn chanterelle or a collapsed cup fungus can look trumpet-shaped from above, but its section and fertile surface follow a different construction. Link the section to habitat, tree zone, and the same specimen’s spore work.
+
+Patch mapping adds ecological value. Mark each fruit body on a small grid, note canopy and drainage boundaries, and revisit after rainfall without raking the litter. The [chanterelle guide](/mushrooms/chanterelle-mushroom-guide/) provides a contrasting ridge-bearing body plan, while the [mushroom habitat guide](/identification/mushroom-habitat-identification/) helps keep nearby trees, exact substrate, and inferred mycorrhizal partners as separate evidence levels.
 
 ## References
 

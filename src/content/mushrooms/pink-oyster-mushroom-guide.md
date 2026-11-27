@@ -6,7 +6,7 @@ keywords: ["pink oyster mushroom", "Pleurotus djamor", "pink oyster mushroom ide
 category: mushrooms
 author: "MushroomScope Editorial Team"
 publishDate: 2026-08-25
-updatedDate: 2026-09-27
+updatedDate: 2026-11-28
 draft: false
 featured: false
 coverImage: "../../assets/species/pink-oyster-mushroom-editorial-v2.jpg"
@@ -162,6 +162,14 @@ For cultivated material, replace the field-location step with a batch record: su
 This page does not establish that every pink oyster sold commercially is genetically identical, that a wild pink shelf fungus is edible, or that one cultivation trial predicts a home yield. It also does not turn laboratory antioxidant or antimicrobial results into a human health benefit. Those questions require authenticated material and study designs matched to the claim.
 
 The useful conclusion is narrower: *Pleurotus djamor* is a recognized warm-adapted oyster-mushroom species complex with pink, decurrent-gilled fruit bodies and established cultivation research. Provenance, complete morphology, ecology, and regional expertise remain necessary whenever the question moves from growing a labeled culture to naming or eating a wild specimen.
+
+## Run a temperature-to-color cultivation trial
+
+Pink oyster color is not a fixed strain label. To understand a crop, fruit genetically matched blocks at documented shelf positions and record air temperature, block-surface temperature, humidity, carbon-dioxide trend, light schedule, pin date, and harvest age. Photograph the same clusters daily with fixed exposure and a neutral color card. This design separates real pigment change from camera white balance and from the ordinary fading that follows rapid cap expansion.
+
+Keep fresh-air changes independent of temperature where possible. High carbon dioxide can lengthen stems and reduce cap expansion, while heat changes development speed and water demand; altering both at once produces an attractive photograph but a weak explanation. Weigh each cluster at harvest, measure representative cap diameter and stem length, and note edge cracking, surface dryness, and bruising. Compare usable yield rather than selecting the pinkest cap.
+
+For home-growing context, the [oyster mushroom hub](/hubs/oyster-mushroom-guide/) distinguishes species selection from troubleshooting, while the [fruiting-conditions guide](/growing/mushroom-fruiting-conditions/) provides a general sensor framework. Pink oyster remains a warm-fruiting crop with strain-specific limits, so supplier instructions and a small controlled trial should outrank a universal temperature copied from another *Pleurotus* species.
 
 ## References
 

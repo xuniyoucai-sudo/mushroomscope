@@ -165,6 +165,8 @@ No. The visible cloud is a mass of microscopic spores expelled from the mature d
 
 Its saprotrophic ecology makes culture conceivable, but a credible claim needs authenticated material, a documented substrate and treatment, contamination controls, and verified fruit bodies. Wild tissue plus white growth in a bag does not prove identity.
 
+For pear-shaped puffballs arising in crowded groups directly from rotten logs, stumps, or buried roots, follow the [stump puffball wood-attachment guide](/mushrooms/stump-puffball-fungus-guide/) rather than stretching a soil-growing common-puffball record.
+
 ## References
 
 1. Global Biodiversity Information Facility. [*Lycoperdon perlatum* species record](https://www.gbif.org/species/5242880). Taxonomic backbone and occurrence context.

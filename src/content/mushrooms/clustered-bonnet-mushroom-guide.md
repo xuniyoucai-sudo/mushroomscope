@@ -201,6 +201,8 @@ The image shows a plausible documentation scene, not a verified specimen. Exact 
 
 That workflow turns a striking cluster into evidence another observer can audit. It also preserves the most important boundary: a coherent *Mycena inclinata* hypothesis is not an edibility decision.
 
+When a robust ivory cluster grows from disturbed soil and the stems are genuinely fused at their bases, use the [white domecap guide](/mushrooms/white-domecap-mushroom-guide/) instead of extending a small wood-growing bonnet identification beyond its evidence.
+
 ## References
 
 Sparse gray bonnets with sharply longitudinally lined stems may belong nearer the [grooved bonnet identification guide](/mushrooms/grooved-bonnet-mushroom-guide/) than this densely clustered species. Compare colony form, complete stem surfaces, gill attachment, substrate, and microscopy instead of choosing by cap color.

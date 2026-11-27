@@ -163,6 +163,8 @@ This reconstruction is for responders and identifiers, not a home clearance proc
 
 Not every deadly member of *Amanita* section Phalloideae is uniformly white. Pale forms of [death cap](/mushrooms/death-cap-mushroom-guide/) can overlap with destroying angels, while typical olive pigment may be weak after rain or hidden in a button. Preserve the complete volva, ring, mature gills, host context, and regional evidence; from a safety standpoint an unresolved deadly amanita requires the same emergency boundary.
 
+Dense ringless clusters with attached gills and truly conjoined bases require the separate [white domecap comparison](/mushrooms/white-domecap-mushroom-guide/), but that redirect is valid only after every white specimen has been excavated to exclude a volva or bulb.
+
 ## References
 
 1. CDC. [Amanita poisoning outbreak report](https://www.cdc.gov/mmwr/volumes/66/wr/mm6621a1.htm). Clinical course and public-health context.
